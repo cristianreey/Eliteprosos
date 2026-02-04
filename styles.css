@@ -688,6 +688,33 @@ textarea:focus {
   transform: translateY(0);
 }
 
+.footer__social,
+.socialRow {
+  display: flex;
+  gap: 14px;
+  flex-wrap: wrap;
+  margin-bottom: 10px;
+}
+
+.socialLink,
+.socialBtn {
+  font-weight: 500;
+  font-size: 0.95rem;
+  padding: 8px 14px;
+  border-radius: 999px;
+  text-decoration: none;
+  background: rgba(255, 255, 255, 0.08);
+  backdrop-filter: blur(10px);
+  border: 1px solid rgba(255, 255, 255, 0.15);
+  transition: all 0.25s ease;
+}
+
+.socialLink:hover,
+.socialBtn:hover {
+  transform: translateY(-2px);
+  background: rgba(255, 255, 255, 0.15);
+}
+
 /* Responsive */
 @media (max-width: 980px) {
   .hero__inner {
