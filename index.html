@@ -47,6 +47,7 @@
             <a class="nav__link" href="#equipo">Equipo</a>
             <a class="nav__link" href="#beneficios">Beneficios</a>
             <a class="nav__link" href="#contratacion">Contratación</a>
+            <a class="nav__link" href="#noticias">Noticias</a>
             <a class="nav__link nav__cta" href="#contacto">Contacto</a>
           </div>
         </nav>
@@ -342,6 +343,33 @@
               </div>
             </div>
           </div>
+        </div>
+      </section>
+
+      <!-- Noticias -->
+      <section class="section" id="noticias">
+        <div class="container">
+          <div class="section__head reveal">
+            <h2>Noticias de última hora</h2>
+            <p>Actualizado automáticamente con noticias recientes sobre deporte y socorrismo.</p>
+          </div>
+
+          <div class="newsTop reveal">
+            <div class="pill">
+              <span class="dot"></span>
+              <span id="newsStatus">Cargando noticias…</span>
+            </div>
+
+            <div class="newsActions">
+              <button class="btn btn--ghost" type="button" id="refreshNewsBtn">Actualizar</button>
+            </div>
+          </div>
+
+          <div class="newsGrid" id="newsGrid" aria-live="polite"></div>
+
+          <p class="small reveal" id="newsFootnote" style="margin-top: 12px; opacity: 0.85">
+            Fuentes: agregadores de noticias (RSS). Los titulares enlazan a la noticia original.
+          </p>
         </div>
       </section>
 
