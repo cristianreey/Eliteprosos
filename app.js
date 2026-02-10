@@ -153,7 +153,7 @@
   function render(items) {
     if (!items?.length) {
       grid.innerHTML = `
-        <article class="card glass newsCard reveal" style="grid-column: span 12;">
+        <article class="card glass newsCard " style="grid-column: span 12;">
           <h3 class="newsTitle">No hay noticias recientes</h3>
           <p class="small">Vuelve más tarde o pulsa “Actualizar”.</p>
         </article>`;
@@ -164,7 +164,7 @@
       .map((n) => {
         const dateStr = formatDate(n.pubDate);
         return `
-          <article class="card glass newsCard reveal">
+          <article class="card glass newsCard ">
             <div class="newsCard__top">
               <span class="newsBadge"><span class="newsBadge__dot"></span>${escapeHtml(n.category)}</span>
               <span class="chip">${escapeHtml(n.source || "Fuente")}</span>

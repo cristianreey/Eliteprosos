@@ -855,3 +855,8 @@ textarea:focus {
   margin-top: 12px;
   font-weight: 600;
 }
+/* Forzar visibilidad de las cards insertadas dinámicamente en Noticias */
+#newsGrid .newsCard {
+  opacity: 1 !important;
+  transform: none !important;
+}
