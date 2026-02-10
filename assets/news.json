@@ -1,7 +1,14 @@
 {
-  "updatedAt": "2026-02-10T12:07:10.524Z",
+  "updatedAt": "2026-02-10T12:16:46.217Z",
   "hoursWindow": 168,
   "items": [
+    {
+      "category": "Deporte",
+      "title": "Puerto Sotogrande refuerza su apuesta por la vela radio control y el deporte accesible - Al Sol de la Costa",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQVUtQVTJYOG9JOFpKR3M2aTFQTC1uVWE0dkVrQlh4RXllWndPdFdqNlgwTnU1cTlnNXBVQmVNVldtSUlKbTAtOXl3TTB2a2pTd2o2SHIwR0F5aGZHM19VbldkMUk1NDItLVBwQWExQTZxTFYwX3VkR3VEWG5SUEpvMUpwN3p0S2x6R2Y1dkp4eWlHelZjcHRkZjRWZ3FNR2xvZnhEVmpYcXZOVThHeHFEdDZodUY?oc=5",
+      "source": "Al Sol de la Costa",
+      "pubDate": "Tue, 10 Feb 2026 12:08:27 GMT"
+    },
     {
       "category": "Deporte",
       "title": "Visita del alcalde impulsa centro hípico que une formación, inclusión y deporte - Vivir Ediciones",
@@ -67,24 +74,17 @@
     },
     {
       "category": "Deporte",
+      "title": "Los Reyes de España entregan al alcalde de Tarragona el Premio Nacional del Deporte - diarimes.com",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPcWNadmJYRG9OMHhHWUJzVlBtX3FkMFJxcGVkek1pb3FIOTFHOUtSQjE2RHZ4MlQ5NHBWNk1sd01JQkN4ejZxSmNtSTEybGZqd21WZjVqWXhpWDd4d3JNajAxZFo4YmdXV09nYW9NTnI5X0VaN08xXzN3MVNYeVk2UE52b0dTd3FTT0otZVdxRjh3VzBwNy11YWY0ZWc3Q05Sb3NTd0tfOG83LVBkM3VzUC1DY1dWXzM2VG56TA?oc=5",
+      "source": "diarimes.com",
+      "pubDate": "Tue, 10 Feb 2026 11:23:56 GMT"
+    },
+    {
+      "category": "Deporte",
       "title": "Ángela Cajal logra un podio en Alemania - Aragón Noticias (CARTV)",
       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOMmp4X3duWTJhdFlpRzhVN3h4OENPbmx2TXlCQmpzUlA4dkF4dmt1aGtwd284Vl9BQXNQUGwzUWpKZ1h5T3BZNTluQ2tGZG4zXzJ1NmZGQXdjTDQ1cGs1NXdGaDNpWFJNLWdmMXFObzVOaTdFSmtxLS1TeTIwSzVJcXB1RHczZGdLUmY4ZlZtbk1DcnJh?oc=5",
       "source": "Aragón Noticias (CARTV)",
       "pubDate": "Tue, 10 Feb 2026 11:14:01 GMT"
-    },
-    {
-      "category": "Deporte",
-      "title": "Puerto Sotogrande refuerza su apuesta por la vela radio control y el deporte accesible - Al Sol de la Costa",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQVUtQVTJYOG9JOFpKR3M2aTFQTC1uVWE0dkVrQlh4RXllWndPdFdqNlgwTnU1cTlnNXBVQmVNVldtSUlKbTAtOXl3TTB2a2pTd2o2SHIwR0F5aGZHM19VbldkMUk1NDItLVBwQWExQTZxTFYwX3VkR3VEWG5SUEpvMUpwN3p0S2x6R2Y1dkp4eWlHelZjcHRkZjRWZ3FNR2xvZnhEVmpYcXZOVThHeHFEdDZodUY?oc=5",
-      "source": "Al Sol de la Costa",
-      "pubDate": "Tue, 10 Feb 2026 11:13:33 GMT"
-    },
-    {
-      "category": "Deporte",
-      "title": "‘Amor Por Los Colores’, la campaña de Liga F contra la LGTBIfobia en el deporte - IUSPORT",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOeDZPOFp4X2diN3dtTWo1SVZFR28zemJmX2I2cTBrTHdWRV9ZMzVLcmNrWlRiY2NoQ1VSMGJfc2gzSTY5UlQ4bUxHckNkanBXazFNczhKZW05RVFicXAzTWU0TEk1M0RjcnMyUzN4WlRuQUpjQWpyakl6NUY4R0JVekRyc29JSkQ3YVdreUY5bW9XTnR6bmNDTUMzY2hadWRKYlJzZDVMT3hXS0E?oc=5",
-      "source": "IUSPORT",
-      "pubDate": "Tue, 10 Feb 2026 11:09:27 GMT"
     }
   ]
 }
