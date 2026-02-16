@@ -1,7 +1,71 @@
 {
-  "updatedAt": "2026-02-16T02:13:56.966Z",
+  "updatedAt": "2026-02-16T07:04:41.243Z",
   "hoursWindow": 168,
   "items": [
+    {
+      "category": "Deporte",
+      "title": "Todo sobre el Hyrox: el deporte de moda que esculpe tu cuerpo y te ayuda a perder peso - Revista CLARA",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1vX0tSaU9LU0lnOWpybVBBRmxnejUwbnMyMjhEeUFxRVZ0LTJfMzJjbEFGa04tbUVXMHpBcmJsYXVqY29Dc2hhWDRFSE1nWU5xaE4xVg?oc=5",
+      "source": "Revista CLARA",
+      "pubDate": "Mon, 16 Feb 2026 07:00:00 GMT",
+      "imageUrl": ""
+    },
+    {
+      "category": "Deporte",
+      "title": "Deporte Adaptado: Galapagar se consolida como referente - masvive.com",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQenlRWWlSY2tXVTg0NFd2dkZ5eVdNd0QtcEt0VkliNktaNklOZ3lXRUNtYndFdzAwOFdmOU9tcHBZaC10dHZCUjh1UWlYUDBMem5JWnF0c3gtQTR3UU1NdlhSS01jNEJZWTlpckt0b2FEeVZNaGtCbEJiQWw2N2diVjljSXFIRDNvRDhUaW1fWTY4aXJXdjN0d1NSTHQ0eHNfcEI0eXdEaWNkV3RyOVgyNmNwNGRsWjRGWkg0WkgxLUI?oc=5",
+      "source": "masvive.com",
+      "pubDate": "Mon, 16 Feb 2026 06:49:32 GMT",
+      "imageUrl": ""
+    },
+    {
+      "category": "Deporte",
+      "title": "Milagros Tolón: “Vamos a luchar por erradicar la LGTBIfobia en el deporte” - Cadena SER",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQc2ktRk5pdnN4dFhtRnd6UkNjSm5KdnJEd0kxcUwtSWVkX1ozSmVYZE55amRwbXVFcHMxTElvdWxLRVdpUXhyd0Vxc3ZZWkhjUWhPYkpkTFpMRkRrampkOGVlcFRaUlVYbVRHRE0wS2NuaVlMWHJNM2Jxc3JGaVJ2M05Pb2dpQkRidW15VmVsSHhaZmdFQ19JQlI2amVscWFJQlJtWm9pcXFaczQyVGVHN1FlZUE1WlNBS3VVeVUzWDk3cnPSAdcBQVVfeXFMTTVTTEJHNXpBYXRCZVhpbTlndDlNLWNJR0JETTNJOGM1bXFOTTFwRlRPYXduejNxSDFqLVJkWloxMmNWbXFMUFJjSXh6SUJBWC1fUVdFb3g0YmZQVFJmeGdUenVPc2sycVRCd0RyajdZQ25SRzJ1VkVWTWVLQjEwTUdISURRSTFJalppd09NdkF1THY5UXJFaUMyX25nNF9BakF3NGRLN2ptcVBtRGR4OHozUTZmcHd3bmhYajBhRlVJLXk2SlMtUUFhV1RMNFNfXzhBYnpzTWc?oc=5",
+      "source": "Cadena SER",
+      "pubDate": "Mon, 16 Feb 2026 05:41:56 GMT",
+      "imageUrl": ""
+    },
+    {
+      "category": "Deporte",
+      "title": "La pilota abrió el camino del deporte urbano - Levante-EMV",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPU2pucDBmNkpJV3pjSWpqcHRTSXpuYmxiV2FXVW9zOF81bjhQdzY2Yk5mVHpXNHN0a2lUSDdRa2NqUFhrcnRFbGh5ZU9OMnRGNG9GWlBLWWdDWTEtUk83YUdHT3p0T0lqUnNkdmlweXE5Z3dXc0loRS00c3VSaVZmMm5Qel9oZ1RIc0ozTHdqVERHekZvZXhHSUM2NDfSAaIBQVVfeXFMUHkzaE5SV2c4Qmp5aXZmRDFIbEloV1JmNFRObkgwUDgwZWhDTmkwQjI3cG8zbHkxV0NFSnNKVDdNWXU4TXc1WWJlUnhMVWNybHZBUHlISU1sSUZCbDFSVzBCMnNEYVBHM2xnTE1DdTNubTltTTJibXNfNlo1M0MwV016a1p2Z2Uwc0dkcC10NWhPSE4wVHdyMm52MEd4TUlqSTlB?oc=5",
+      "source": "Levante-EMV",
+      "pubDate": "Mon, 16 Feb 2026 05:00:44 GMT",
+      "imageUrl": ""
+    },
+    {
+      "category": "Socorrismo",
+      "title": "El Campello prorroga un año el servicio de socorrismo: lo seguirá prestando la empresa Provita - Alicante Plaza",
+      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPZ3ppdG9oZk9vTnNWWjB1WkpSN05HU3J2bjNpTjhtdDhBVXlMTjZYVEl3WG9LRFNfTUJ4YlRyeUZiTC1zeWVfcVNHdlEyY3d1M1lQRVZJaFNTNHBrTGJGLUpRVElGbTJxWWFDVE5JQzlGVzZ0Y25rWlJaQlVqUllzX1YtdXZWMEhBMWVvY0pLWGpZYW5SYUp0ZUpJZERydzR6TG1vaUdaa1p4bjZxZGJxcUFvYU5scFBHSW9oMFdtbzNxTDRzV29BYlV2YnRXV0NGa3IxSmpyMFo?oc=5",
+      "source": "Alicante Plaza",
+      "pubDate": "Mon, 16 Feb 2026 05:00:00 GMT",
+      "imageUrl": ""
+    },
+    {
+      "category": "Deporte",
+      "title": "KGM refuerza su compromiso con el deporte como vehículo oficial del balonmano español - Motor16",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPQm5IRWEwX2VwMFU0clY4ZG9WU0Z2dF9XLTRKRzAxZlhFZUpJVGdiVEJwWFNSRlJVdkJWWTZQS3BreDA3eUZ6Tkg2TnhJQjNrVVlURk1jSHpJcnQwbVg2WHpjUWh6bUttTUJwb1ZhSkFPNVkycmlXcTgycWVmWUdPQVR3?oc=5",
+      "source": "Motor16",
+      "pubDate": "Mon, 16 Feb 2026 05:00:00 GMT",
+      "imageUrl": ""
+    },
+    {
+      "category": "Deporte",
+      "title": "Doctora Montserrat Romaguera: 'Para fortalecer el corazón no es necesario hacer deporte intenso; la clave está en mantenerse activo en la vida cotidiana' - heraldo.es",
+      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPdVdhQ1phOTdLcHpzU0xELUxYWjEtTi1MYmxLcy1NQnRsTVVEQmtZVkRiOHJRbll5Tmp0cjJrcGRVOXJIX2VHcXFUWURTVkUxTmhZUEc0RnVTcF9CdmQ5dTNoYjJfSWEzY3BCaDc0Z2huZ1JwcktBUkFDSk5qVUt4aGp4dG14S2NJY3dTSzFIaHZ1T3p0MWY1Z2k3Ul9UZXRNazAxeHVkdnZvT09RdUhWSlBfaGJvWl9FU3c2OFkzMjRxbFJ0MS1vNUNpWnRYSVFKbU9fOVV6ZHdyN3fSAeABQVVfeXFMTnNnVHpFcHlHWDh1UXR3dDZsVS1PT095TGg2R09lazA3amtCQTdIeXFYcHd5TWxQYjVhaHQwR3p6WkVKcnhrajZKTUVTUG9vZ2VOQkJFSjcwWUJBeE1UTFE2WXhDWWR2Uk9FYk9NVjlyVlBZbHVnY0dtMFdldDlFOTI2aHdBbzhyUm1RUGZoUnFfV3ZtbHFvQVFHR3hWNEhNZkFzTC1hbEJ0ZnkxMEdOSkZOSklkUW5sekJiek5nNkExYVBXMTNVTjVZWll5UEU4VzQ1a0FqVVFSem5GVWVYT1M?oc=5",
+      "source": "heraldo.es",
+      "pubDate": "Mon, 16 Feb 2026 04:00:00 GMT",
+      "imageUrl": ""
+    },
+    {
+      "category": "Deporte",
+      "title": "Carbohidratos y deporte: la realidad detrás del mito, qué comer y cuándo tomarlos - Vozpópuli",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOamE2bVFIWF93NE95MHU4VGRWbGx2dTN0U1ExcVU5MnVzaUI2M3FkYjIyZV9TS0pkWGdCVFl5dmFMN1dYLXpkV0xIN1IxLUh0aUpreXhlUjF2OXV2VURkdWZ1cUVicFNYUm9PaUFSRWZwUFU5UmdRV1hobTRlOFRPZE5FdlF5bjZybFFFcU1UQ2FoVktUM05vazBjM2ZWSDExWThrTTJILUtqd2cyd2h6b0tnbl8xc0tsLVNyRA?oc=5",
+      "source": "Vozpópuli",
+      "pubDate": "Mon, 16 Feb 2026 03:45:06 GMT",
+      "imageUrl": ""
+    },
     {
       "category": "Deporte",
       "title": "Javier, olímpico de Atlanta, enseña esgrima a alumnos de élite, ciegos y octogenarios: \"Es un deporte para todo el mundo\" - El Español",
@@ -32,70 +96,6 @@
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNWGRjQjJ2OXBxcnJVVW5kLVlPNm9xRmlVWFZmZmR2WFZMeERHdkc3bXhmVVV3MWl5NWVMWjhsX29WZGI4ZWk0YkZ5aG41cUpZMkNDbWcwd2J4TENBejhnY0pfc2VtWlBQYnBLT3daTnZSekNhWDZRdVBTLTdtUUxoQXZfMERYUTNfS2h5TThlZGc0S2IycExfU3hCZVRZd000Uk01M2hvcGVfMUMyZWfSAbMBQVVfeXFMUE4xYUc4eThYNnd2M2k0VWVDZEJTYkJCam41NFVSQVNZUmxmcTJLM1NBV2VZU1ZIZ25SN001YndFTFIzRVA2VWsxWG5rQy1Ub0NzdjRRdHJNNjBMVDlmcGJUU3diNklKU25SbVd4cG9MUHYzcFlhY0J2MklKaHFjV2hCQUo3TG9pYmZ4bDQ5dGNGTWRab3BMVXBtaU5zSmY5aS1qbjZnV3RwOS0wOFhuUE14QTA?oc=5",
       "source": "Las Provincias",
       "pubDate": "Sun, 15 Feb 2026 22:50:51 GMT",
-      "imageUrl": ""
-    },
-    {
-      "category": "Deporte",
-      "title": "¿Por qué no hay curling en España? Los intentos \"imposibles\", una pista en un centro comercial y los amigos que lo intentan en un pantano - El Mundo",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOMndLdVpGajBQQkFyWmJlRzcyZTdWMzdReXQ4S0loQ1M2MjVmR3VCbHhMUVpMZXBxTkFrX0NPZWRsQjhESGJrWTBVQnpTa2pZbjlieU5sOGd1aF9sWjZnbURJYnJ1WXVtVk01bGhVU3BNVVYtbU90M3hmMlBxZ0xOVHFYbUNhVVJlUWxSX9IBjAFBVV95cUxQWWhpX2hJMjdRWWQ1WHF0N255SW9mQ3k2aXc0eGZIck9BRlhqb2FnaDBhUFRUcXNNcllZMTJjNlRvOGFoMjBGaDg0VGNabmRBc2FJMklNVndzVG5MckhXd2Zwc1F4ZWFrMWU0cklYaUVuQTM2QlhVOU44NVhBR25wUFowclc0OURkeUZjWA?oc=5",
-      "source": "El Mundo",
-      "pubDate": "Sun, 15 Feb 2026 21:46:34 GMT",
-      "imageUrl": ""
-    },
-    {
-      "category": "Deporte",
-      "title": "REBI Cuenca-Caserío Ciudad Real - El Deporte Conquense",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1RX3lxbVd2UzhvR0hLc2NEczZsbDJYWFpzd3M1bVBGeUIyQUE5SkhabUZ6VktFTGk3WHRoZElTUVlOZm1wTzVPQ2VkeDFUbDZabWhlZWRLcVhtVXNMbkRJcUFNYTIxX1Zxd19mM2YyeTRCOFZscXRCeW42OGRpMDA?oc=5",
-      "source": "El Deporte Conquense",
-      "pubDate": "Sun, 15 Feb 2026 21:22:30 GMT",
-      "imageUrl": ""
-    },
-    {
-      "category": "Deporte",
-      "title": "El Melilla Ciudad del Deporte no puede frenar a un sólido Monbus Obradoiro. - Club Melilla Baloncesto",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNenZ6TzJJSE9Mb0ZtOG9YVEZhNWxSaFVoOHlRendjeUFKZnFyZzdiSmpBMDVCV2NYekhvRExoRWxIQUxkVERYVzBuN1lEeUlRVDdGbFdMbEl2YjUwR2pRM3V5OWdXOGQ2TXAzczNOMnlnLWVlY0VCWEItSnBSV2x6amN2UnZZRzl1WlBYV1FZdFhDR1p1dnp2ZkMzcWNLczF5MkJZWkJQSW04WlE3bHc?oc=5",
-      "source": "Club Melilla Baloncesto",
-      "pubDate": "Sun, 15 Feb 2026 21:11:59 GMT",
-      "imageUrl": ""
-    },
-    {
-      "category": "Deporte",
-      "title": "Lucha Canaria - RTVE.es",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQamlOUmthWGJ4YUhiZm12Zkg3UjZGbFJiNzZpZlVOT290ajAtdHlhRUxkWVNINWNnUWRXV28tVzJxR3ROVFEzQVFMejdLMkRXV0wzTlhibXB2R2FfaXgzbXZzZGxyQ094ZTBCc1BkODNoQVVtZVBfZktjbEJodVdCTDR6Y2dGNU9leE9tYngwOW8xcU0?oc=5",
-      "source": "RTVE.es",
-      "pubDate": "Sun, 15 Feb 2026 20:40:42 GMT",
-      "imageUrl": ""
-    },
-    {
-      "category": "Deporte",
-      "title": "Basauri, hacia un deporte sin racismo - Ibaizabal Digital",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5Gd3NfRTVhSUF6Yml4SjBQR1BYX2p3UnpUTjlxajBKM1poWkdqS08tRncwRTcwMjhRckxoa21BSkN1LXdCUUJNdTN3OWVuUFZZRmtuUlhzMllHQ3lVZnJvZkxWWkVqX050WFZPX2ZZaWFVN3I1?oc=5",
-      "source": "Ibaizabal Digital",
-      "pubDate": "Sun, 15 Feb 2026 19:39:25 GMT",
-      "imageUrl": ""
-    },
-    {
-      "category": "Deporte",
-      "title": "La Real Federación Española de Ciclismo refuerza su apuesta por el deporte inclusivo junto a Fundación Sanitas - TodoMountainBike",
-      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNMGtfZ2VIb2tlcjllQVU4eHQtYUlVdUZyVnNDSUtxdTNTMlF5WVZRZkpKMERpbDRtVzlPcGdmSHJid1hpTjI0UTF5TTRyXy1MWi1QbW5tMjI3Sk8zVmVhVkRKc0ZCY0Q1UmwxUjJwQ1pmdGNQSDVldXNBT3BoWXB6NUdiSnFvZUhRdnVJc3cweG1raHdqLXZzeE5KbS0tdGxEeFJlVUFZNVdySmktUGFVMDR1M3JhUkplMDFac1h3LWFvZTdnUXByX1h2ZjFITEhnbFVj?oc=5",
-      "source": "TodoMountainBike",
-      "pubDate": "Sun, 15 Feb 2026 19:29:37 GMT",
-      "imageUrl": ""
-    },
-    {
-      "category": "Deporte",
-      "title": "La Carrera del Ebro reúne a 4.000 corredores en Zaragoza en una edición histórica y solidaria - SPORTARAGON.com",
-      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxORmdaR2Z2RWk0QTRmRFcxTm4yTzhkOVVVVE0wYWNodEVXSUJWWHBLc20zLWZyZkI5ZXZSR0kxa0NkeXZuUGpkQUdRckdPX3Zwd0w4dXFNclRkOWh2SGxDWWdqOENneDJPZk9TaE9jUnR4Zl9lYlJTdklBWi1RdzdqNlhMeWpLbTVHUDRzaDhuXzNmbk1ra1otVDIyclI1RGFZRjdhVEJDbUQ1Q1RIdUk5YTdCdlNranEzaFNDU3NjdlJpcjZvcWVIUlVTR2dyLXFKbFB3NDl1YnZNVlcxYXdCRjlMWUZGdWs?oc=5",
-      "source": "SPORTARAGON.com",
-      "pubDate": "Sun, 15 Feb 2026 18:43:12 GMT",
-      "imageUrl": ""
-    },
-    {
-      "category": "Deporte",
-      "title": "Celebrados el XLI Trofeo Ciudad de El Puerto y el IX Trofeo Máster de Natación - Andalucía Información",
-      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPNFJYNVhvcDc2SC13cTF1bEZVV3JoVmQ1VU5aY0Z3RmZXRUl4RDg4MkkwaVpGU0dmbGhUdWE2dTRENVdVUERrTkhCUF9CZmFIaWNLeVNxc2FsZ1lXd3N4SjFUQm40V1FDOVpzbUl4MzRYS1d6Q28zYVBRNXY2VE1VX2c0aVdUOVNzUUdwTVNJaXpJOGpWaXc0NEtWelQxLVdMWGltZE11djBQUzhoaUhmeUwteWh5MlB3YWRCcVdic0c1bTNJS0NrXy1GVVVlU21PanZlam56enZQR1XSAeABQVVfeXFMT01nNW1id216SDlUTXVPVllieS1wNm1mTEpwWjd4UEU2YVZqM3ZnRHh4dHQwejVidHBTMlpwMi01Tzg5N3QtRWFhYUY0VFU0YkR0NlVjNXA5MDRWbnlIVUhjN1R5MkFURzZ3QUdDb1doTlR6bjFlN25LcGdjZW4yeU4yQTZmbm5iVkZSb2o1M3RTcUNidjJYVndjb3RpemhBSlVhdWduMWNadF90ZXpZOTV2S2p3VjJHX0pHbHJrT21PREV4LXJ1Wkw4N0xsR0pORkp2aU9kUVVSNHdZNUFnNVg?oc=5",
-      "source": "Andalucía Información",
-      "pubDate": "Sun, 15 Feb 2026 18:39:50 GMT",
       "imageUrl": ""
     }
   ]
