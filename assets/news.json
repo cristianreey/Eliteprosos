@@ -1,7 +1,55 @@
 {
-  "updatedAt": "2026-03-28T02:13:01.828Z",
+  "updatedAt": "2026-03-28T06:59:58.612Z",
   "hoursWindow": 168,
   "items": [
+    {
+      "category": "Deporte",
+      "title": "Fernando Belzunce, periodista de 49 años: \"El deporte limpia la mente, hoy he salido a correr a las siete de la mañana\" - Men's Health",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNODA5OEUtSDVmcV9MVzNPWDNtNUhOdUcyMEtoN0tQblNCQnhQMmxkNERKVmVRRjV0eEEwaXBra1VSenN3ckRDbVM4NTRnMF9LTDRtNkRjRmktT0dfelVJRDhQbGo1cWRkWU5NcXR0aEZDNlNrSkJHSGtDdUZicUlmT2Q0SWl1YTQ?oc=5",
+      "source": "Men's Health",
+      "pubDate": "Sat, 28 Mar 2026 06:46:34 GMT",
+      "imageUrl": ""
+    },
+    {
+      "category": "Deporte",
+      "title": "Entra en vigor: la Renta 2025 amplía deducciones en salud y deporte y 300.000 nuevos beneficiarios en la Comunitat - El Español",
+      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNSm14aHNIRVdkN0x2XzVkQm5wMjBRODcyb0xsWlBmWmU3UjZGNkF3aXphekxKSzVEeUZzeVlCLXhvNVoycXo0NUJfbmg5N3AtMi02NUJKVGRGb2RtZ2YzV2p4M19RUy1qX0h6SS1ubVF1VVFMRlRPbUpfckZuOGJMdjU4bnRoX3owVDhTb0k2ZlRqeEpYOVMySF9CVWpEaGlldmI5STJyQ1NoSFJULWtkeHZwSlZzQ2pWRmlPRTloRnhlOEpVUWc5VHVlRGRITzZqVklVQ0pZbjBDajVaeXc3LTRLYnZaODhNSXNr0gHwAUFVX3lxTE1jWUxhSXdudEZsM2ViYkNzYU5YRXlTMlpYUnFsb2hfRml4NVR0eGE0ZjNzcXNHS0hXYzE4b215bWZHSG9VYmVhWTZlRENrMGRfWWF4MkVMWVc2SURsWmd0dGJOclVIVl9rVlJwN0MxVVdaTU5kTW9adHRSV09BRV94WUc1SUc5VFNqVDVtZ3ozVXR4UDNtajVRd24tdFlET1hpckpsRzk1V0FEcUNVUTlMZks3cFFtM0VxeERhSUUtYmI1ZWp5bWs1cU5rc0ZSODFEU2c4Y0ZWdHVBRVk3ZnZKMWpZQVlvMF9KaGhRa0stcg?oc=5",
+      "source": "El Español",
+      "pubDate": "Sat, 28 Mar 2026 05:20:00 GMT",
+      "imageUrl": ""
+    },
+    {
+      "category": "Deporte",
+      "title": "Burriana celebra el Día del Deporte con una jornada intergeneracional en el Clot de la Mare de Déu - Castellón Plaza",
+      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNdkJLSlRrdS1wY1NuMTg1eHE4T1VUZjZqN0VQb1kxSTFCX3ZvaExmOEk0YmJaNlpZWGlJS3pscFdkTktkMUZZN2habWFwclFjTnk0REEyWEs1dno1ck9yYVhLa19JMVFUdEQtMzBteW50VkdTUXNNNW9Zd3lJTGN1Y3pNYzU5Nl9NbE8wY2swNm1HZ18zVmpTLTBLd05GbVNxWnZ6SGplWngyUnNlZDNqaTR4SWFFMFpuS2w3czg0RlItak5SOElicDlyY0dDTmNlZUZ1NG8wUDh4Ql9Fb2p4MnBZUQ?oc=5",
+      "source": "Castellón Plaza",
+      "pubDate": "Sat, 28 Mar 2026 05:03:35 GMT",
+      "imageUrl": ""
+    },
+    {
+      "category": "Deporte",
+      "title": "Sin Mundial, pero con mucho deporte: A Coruña disfrutará de un gran calendario deportivo en 2026 - El Español",
+      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNelFpZlU0aWdlMlNNN2RpQS1lR19YYW0zZURlRDNKWExVcmJjcXVRWFlINVZ6OWx6dlctSldWZ2E2eTdxMXhYNWpXTkFENW1mUlhMT2QyTGphblVWZFl1MGRuRUVFR3QxSHhWSU1taTNobnRIcWZjRndZdjJUZVJZa0RoTXVBSjlFbVVkZTZkQ25jOV83cWNxX1ZjdGhMeEMtS1d5U29kRWJjSkJPQkdjck5SLWxFZXh5R0VyeWdtU0JlQS1ZWnV5R1I4WFduTVRCZ1dwZ2h6QlJ2ZW5Dd0RFRGxHUWdweWPSAewBQVVfeXFMUGJGdlBKNmtwaWJNUUhpT04yZVlhLWNZWlc4TzZRcWdCNEVjN2VaQV9iWVRhSnhibGhFd3dDajVITFpUVS1aa1Z4dWplQU9ScG5HNmp6T3VWbUUyb0IyYnVKbGhadFdOU1BOQWZzQXYwWVFKTjhZVkJnSDVEdVpRaWNZbUhfTmo4M2E0Ny0xVTBJS1ItLXoxN2JBNU5aMFNxNXRHVkxIcHZ4b0xWNlhMSDUtOG40d2RwNE4yN2hXQW92QUZPV2g2MVdmYlkwcGV5a2N2RW55WTk4b2JjX2swdmpDVGQ5QkUwSjVwcDE?oc=5",
+      "source": "El Español",
+      "pubDate": "Sat, 28 Mar 2026 04:00:00 GMT",
+      "imageUrl": ""
+    },
+    {
+      "category": "Deporte",
+      "title": "En Piloña se respira tradición y deporte: la agenda de actividades culturales que culminará con el descenso del río en piragua - La Nueva España",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxORmgwU05pRXFQV2w4NjNLaGdNdmk4bWVrWUhYWWxUQ1NsZVFCenFiT0g0YlhxQnRYeE9tM2RiUlFkTTNQTFI5cUFBd3ZBelRSaW5yRFFaSWpkWjd4NGtFSGc5MnZXS1ktZjdNaUxJZHVRaGFYamFnNDkzWG1rUVZVUmwtVExJYzBINGRTRWtQM1ZxV3YxT0hjVkU1dk0?oc=5",
+      "source": "La Nueva España",
+      "pubDate": "Sat, 28 Mar 2026 03:00:17 GMT",
+      "imageUrl": ""
+    },
+    {
+      "category": "Socorrismo",
+      "title": "Policías municipales se profesionalizan en rescate acuático para Semana Santa - Plano Informativo",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPaEE2RlNZaGhrZDMxYWRkcUtNMW9Jc0NEY1k1QXA1c3ZtMWRtWFdfLXg1RDMyb3J1X09YVkt5THh5UW8zZHVuU1lNM1pnckpOZzBLMDZPTDVyMTMwOU9Vek0yUy1qbmExUTlqUFFONU1aZFBFVEdZMDBTUEs0cldyUHdmbXduS2dQUkxKUzQtQzAwVHk5ZldOVHhCMGhsSDE3b0xENWgweVltMzltb3VpOFdRSFFjUQ?oc=5",
+      "source": "Plano Informativo",
+      "pubDate": "Sat, 28 Mar 2026 01:44:00 GMT",
+      "imageUrl": ""
+    },
     {
       "category": "Socorrismo",
       "title": "En marcha el dispositivo de Salvamento y Socorrismo en las playas de Fuengirola con motivo de la Semana Santa - elnoticierodigital.com",
@@ -12,18 +60,18 @@
     },
     {
       "category": "Socorrismo",
-      "title": "El servicio de vigilancia y socorrismo de Arinaga se activa por la Semana Santa - domingomartin.blogspot.com",
+      "title": "El servicio de vigilancia y socorrismo de Arinaga se activa por la Semana Santa - Noticias de Agüimes",
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNQmxKdy1kdDNYLVhSejB0bkFUU2JhbzBKRFMxS1loYjFocFVFbHVKQnJFOGVpOTVRanp4TE9ob0lwNG5iZlRsdG1BNURkcXFBWFVfNUtzNkg0SDc3MWp5OGM0SlJSRGt6V3RMRFRuUUgza1J1SkdCczBLZ25fQjZXa0lnS1ZsUERZNHctbTBB?oc=5",
-      "source": "domingomartin.blogspot.com",
+      "source": "Noticias de Agüimes",
       "pubDate": "Sat, 28 Mar 2026 00:18:09 GMT",
       "imageUrl": ""
     },
     {
       "category": "Deporte",
-      "title": "La visibilidad del deporte femenino en España se multiplica por 2,6 en apenas cinco años | - pamplonaactual.com",
-      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPa2JLbkM2bUZpX0hEY3NQWmZ2LXBKNnViTUlkSUk0MWpOODNySW10N1h1dkZ6MlRXX1lXSDBnWmlkdGIwTVJSSXkzdG54STVLUDgwOTE5Q0QzTC1PWURuMGhhSkJGOVRPOWozRUxsTjZ3djFDaGt4aGJCZTBmXzl0bFBRWGZmNHNPUFp3VVU0TGU1c0pQbzJqLXgycUtUWndMV0hRR0FhSXYwZW1iX2p0X0FBRW1IRmRKT3FZRmozeXBDREFRVUNBdlROaHlXMHlaWHd3RHYwT3pKTkpGNEc4Q21NLS11T2Rt?oc=5",
-      "source": "pamplonaactual.com",
-      "pubDate": "Fri, 27 Mar 2026 23:52:46 GMT",
+      "title": "La visibilidad del deporte femenino en España se multiplica por 2,6 en apenas cinco años - Cantabria Económica",
+      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQcE0xWk9LbjRrTmd0dVBGVDBvcjRNbzJuT25FQVVMVlkxUUEyamRsVTFJbjg5dEJsODU2T1h5NURfLW5hanluN2xMSl9xTlRiTHRKWU1TU3pPTjVVclRLSk1wWWtydVB2OW5aQlV5THJJU09BNlhDNzBCWUFWdlctUmZoQnBqSkU1YS1GVDJVaEEtYzlnTzlJN1lNM29lRTUxRncySFhMZDNsa2J3NjI0VGlydGxLdTY5U0RTM09SOUpiWVlQN3NRLUVaNEV4QUlEZTgzLUNxSE1MbmZCaHh2VWZFWEJuajY1Y3c?oc=5",
+      "source": "Cantabria Económica",
+      "pubDate": "Fri, 27 Mar 2026 23:55:14 GMT",
       "imageUrl": ""
     },
     {
@@ -39,7 +87,7 @@
       "title": "Un día para otra gran fiesta de nuestro deporte - Federación de Atletismo de la Región de Murcia",
       "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1UbFBoYWN6M3FweXFERG5QSlBRWS12aHdXRlZRZzJrNUdwbE1LeHV1MDlfb3lKQW9VVW44dW4xdURqanZpZG11TDEzcWlrRnZscjVBX0dnbW85cUNXLWhrbFFmQ1NwN1lTTGFpcGo3WTZxNEhLUWNj?oc=5",
       "source": "Federación de Atletismo de la Región de Murcia",
-      "pubDate": "Fri, 27 Mar 2026 22:14:18 GMT",
+      "pubDate": "Fri, 27 Mar 2026 22:14:35 GMT",
       "imageUrl": ""
     },
     {
@@ -47,55 +95,7 @@
       "title": "Ilusión, deporte y convivencia triunfan en las Olimpiadas Interinstitutos de Los Monegros - Desdemonegros",
       "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPQmgwdE1TVlQ2cmhmdG5UZENhQUs3eXZmeFRRZ0lBTlFCQjF5Nm9sUk9nT3E2ZFVwcnBJdWdaNkR6MzBOTThzcGZieHoyc2VSV0lwc2ZCM3dVbXBzUjZQSXVTZ2xQVVZ5MGlZa0dfVHZGOHI3VENaMVhpTnhqZTQ5cldmYkZ6T21Hd3dhS21XUkpFb2l1clQtV096bGRiODZVMkFsamVKY2pSQ2V6NDNoMWRnUkpYRThYT2xz?oc=5",
       "source": "Desdemonegros",
-      "pubDate": "Fri, 27 Mar 2026 22:01:34 GMT",
-      "imageUrl": ""
-    },
-    {
-      "category": "Deporte",
-      "title": "Binéfar disfruta de una concurrida Gala del Deporte - El Diario de Huesca",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQSXh2dDhBbV9GNS1YdG5kdkVXUHFkVy1yakc2S2tORldqdF8ybms1dTJjbkpMd2VSYUhPVnVRUDFjY0JzRHkzTlB1WVlldW9sVmUteTdycXoxYmhKbjVxdjJzb0lieGRXTWtOajNBc0l0S0gxLVZLVml0cGVjQlVqWHVvVVFWV0NTa1RDSk5zbXZyR1Z0ejROMENJcTNEZw?oc=5",
-      "source": "El Diario de Huesca",
-      "pubDate": "Fri, 27 Mar 2026 21:59:11 GMT",
-      "imageUrl": ""
-    },
-    {
-      "category": "Deporte",
-      "title": "Omy Perdomo, jugadora de voleibol, clama contra el Comité Olímpico Internacional por su veto a las deportistas trans: «Este movimiento es transfobia disfrazada» - laprovincia.es",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPc0Z3ZTJlU3FqUHdLUEg1Vi1QUGlIR3MzVUV2VGRwc3V1Zmh6MG9ySnJNVVpVRlZYNTRJc2h2b3FkZFBtNnpoVW1PbVRGLUdLMEZkZjBoSzM5SXNGVkRrSERqWnRZNWs2S3JHbUdtQlpXUmNyQWhSdXFyZ3h3em9DYmZQSUlxS2R5VnZlMEgwbkh1aV9YbnBRbWVhTEphcTRXbi14Y0ZVZEdmQdIBrwFBVV95cUxPYW93NEQ1ZGttMW44bDhMbnp3ZFRoMzZQenBuOEJjdVZycHF5MUo2WF9nTjc4QmJGdVdacERjVFcyemxQSWdTMUY0ZmY2cU1pbE5LbU5OU2lObFZPUU9XWlNLRHplTlhrNVljbF9pNGo5Q0g2b3gtUDBhNU16dG4waFh1elpYZmZzR1NXNlB2dFlRTllHVFNJQW83NGdkRl9YLWNDeGlpelRkMVNLWm1J?oc=5",
-      "source": "laprovincia.es",
-      "pubDate": "Fri, 27 Mar 2026 21:57:20 GMT",
-      "imageUrl": ""
-    },
-    {
-      "category": "Deporte",
-      "title": "Por cien millones, una comedia muy futbolera, y el mejor deporte por 9,99 euros en Movistar Plus+ - MARCA",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQei1QM0IwY3ZIVU9QcEJ0VkJZNUppZWVWUkVQbk54d0VaRUFGYUJnM3FyUk9Lcmh4NVV5eE5wVFZqTEFpeEN4aWVCT0kyazRYRC1YUjhCYTQ0UWVLVHJBZjZBRWNmU3pPRW9jQk9pTXVSUWZIUXZCUThxOENIX1BQRF9vY2dHTjk4VEHSAYoBQVVfeXFMUGxnOHE4dWRoellCZkdiS3NQRHJwSW9pQnoyWlNvSXdqU1NYTDg4LS1VYWVFWndrNnRTQzc2MnRsVEI4Q1Rjcl91Ny1KVU9DdW8yS1QwcGJUUGxGWks4RDc1SU5RTXJja3N3aldZb2tfMDVUc1JqQTRkaDJHYVBmWUxPUUhNOHREcGtn?oc=5",
-      "source": "MARCA",
-      "pubDate": "Fri, 27 Mar 2026 21:42:05 GMT",
-      "imageUrl": ""
-    },
-    {
-      "category": "Deporte",
-      "title": "Raquel Roy, plata en el Campeonato de España - Aragón Noticias (CARTV)",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNNHhuTmp3Um95Ny1wRUpUamdiYlF2LVRSTlFQR3VDSk1zaU1IeGpQVld6X0ZHeWk0X1hjWGh3S2QybUVsS1FjS3hCM0hFMEtsOG02Znc3NC1rRmVnUGRUMUx3SXBzV1JSX1F3dy1WZEpTTHJHdURmMHBGSWR4RERnTGVickIwUVZRNXQtU1ctYVBvakhxVHBtLWNB?oc=5",
-      "source": "Aragón Noticias (CARTV)",
-      "pubDate": "Fri, 27 Mar 2026 21:23:34 GMT",
-      "imageUrl": ""
-    },
-    {
-      "category": "Deporte",
-      "title": "Cuba dejará a extranjeros entrar en la publicidad, patrocinio y financiación del deporte - efe.com",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9TRTdvYmVRYWJJTlRCSDlldzZscDRENlBqeXB5R0FzTFNod2ZCcUQ3REtlajZBbC1qaE1JR3dYWk1NelNBbUxWckh2cVptS2xfSEQ1MkZqV1ZjZGpQTmNKdjBWRFI5Um5xNkpxZFgzZw?oc=5",
-      "source": "efe.com",
-      "pubDate": "Fri, 27 Mar 2026 21:22:29 GMT",
-      "imageUrl": ""
-    },
-    {
-      "category": "Deporte",
-      "title": "Goffin anuncia su retiro al final de la temporada: «Este deporte me ha dado mucho más de lo que jamás me habría atrevido a imaginar» - MSN",
-      "link": "https://news.google.com/rss/articles/CBMiowJBVV95cUxNbFU1N3A1eDJPalBDejZCRU1OTlRtcDZzejBsRTVKM0hXbDJ4U1NNLUF6SktXdUM3Rm1ORzFtT3dSZmEwMDV1dV8wcktjUkY5TkhqMFpLVUlwd0dSRjBjbmNUOTVoeUpqV3hLQ3FBcnQydmU5QlNPTlZUeGt2YzFqS3hJNVVlYm4zTDlYNlMzaWhCUDE1eGt1Rlljb0F1UnA2YnhtSndCN1ZmSzFwNF8tZ2d3clhBTy0yYzhqSWs3WXgtUU52bmI5TjN0M1hqMWFUSW54MUJUSm9RZFJ1YmdQQnBUT3pBU2tJYnd5THF5M2Y3d2hRZDd5TWZiZkJ2MkF1NjJpVlNnUDh0aDVfc3hqbURaN3ZxODEyVGpwWWVOVm1wdk0?oc=5",
-      "source": "MSN",
-      "pubDate": "Fri, 27 Mar 2026 21:18:46 GMT",
+      "pubDate": "Fri, 27 Mar 2026 22:01:24 GMT",
       "imageUrl": ""
     }
   ]
