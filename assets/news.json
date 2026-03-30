@@ -1,101 +1,101 @@
 {
-  "updatedAt": "2026-03-30T13:22:43.428Z",
+  "updatedAt": "2026-03-30T19:01:20.018Z",
   "hoursWindow": 168,
   "items": [
     {
-      "category": "Deporte",
-      "title": "El deporte de San Sebastián de los Reyes vive uno de sus mejores momentos - vivirediciones.es",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQVHg3RXhXWTRxaUxBNUVJSXEzNFZKRHZrOWp4RFQ2Y09tdE5wT1NyRVp4QTRKYkNNMXJoZ3pTcFlubHF2UzVMc0ZQVmhnT25KbUY1WVBnUTBDdDNfTk1RR3htRUN1TVNmMF9lN2tVYThzeEMwVmhQdXk0REQwWmtNZE9RdHFVa1lnVTRCTWZrM0N4WXBBNjlYSlRsVlN0LUZCRVlvMFVycVdiQ1hqQUNCcm1ocjY3X1VDXzdlem9JSDVvYU1XZ3c?oc=5",
-      "source": "vivirediciones.es",
-      "pubDate": "Mon, 30 Mar 2026 12:49:12 GMT",
+      "category": "Socorrismo",
+      "title": "El Ayuntamiento pide a la Junta socorristas para las Lagunas - La Tribuna de Albacete",
+      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOOU8wWVNWUlFLRjRfZl9uNi1objFsZ3E0RjEzQTM0bGwyMkhfY3lSV1JyU1VHVWtGYVllWU9LQ1UwaG51VWFIWmJmN1k5cERkRkRmaTNsY1FJNU93bUlRYktpTVNuOWFubEw5MzVSdUF1YmJWWVlYZG9LMnpxWFZsdXl2TmtnTERCTWRjamJLYnY3YldWTmZ4UUVmRUZ3amxGVEtPZEQyeVlkYnZSWEsyXzEzRE5fLVZjZXAzWUhWTlJSbnVULTVVWmdXSWRTcXVpWTFsODZpU2l3TWwtclBTTg?oc=5",
+      "source": "La Tribuna de Albacete",
+      "pubDate": "Mon, 30 Mar 2026 18:40:34 GMT",
       "imageUrl": ""
     },
     {
       "category": "Deporte",
-      "title": "\"No conozco un deporte en el que los deportistas rajen tanto contra la organización como en la F1\" - COPE",
-      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNazhjTGJIcURwTVNfZzJVR1JWM0REQjZkbUZua2QwWkJaUnptNHB0WmZYbnJGMW8wR1RBSndpZXNUd2EyQnRVMHJzYTVycWExZnFqWUc5dDJ0ekplZ0t5eEJsb2lkUFoxQTNfY3F0SllmTkFGSnJIM1R4SE1JQWlaRVRMQ1FDMFBUdDZpdjhIMmdNSnZHRjRvNzNPb1E4dnc0VG11WEdqQW1zSG14SjlrNWg4OHhHcEdkRm5xanpNamNOR19IRnowenFCYkNQVURx0gHWAUFVX3lxTE1kdnNpOHB6RmpRMU1KbTZYS3lBT0paMjdjYnY2ME02YWs5eUNWUWc2VWtuV0ViUmcyeFV2bF96aWtqZ1RGVkZ4TEJDUGlFR1ZXWEJqTnQ1eTZnRTNKazM0ZHVXVTFhUjcyWmVuMkJ1cTBWX0IwUm94UU9ic3JreUlwWk95aUhWenU0YXhwUERtMlBqUVd5Tmg1UWZTUXNjYXVZLXpPcEY0T0RDRGxzWl9HMFVFdm5QTjNsVWo2NmNLWVBqTW0wZ1U3dDJwYk56OFVqRHVrRUE?oc=5",
-      "source": "COPE",
-      "pubDate": "Mon, 30 Mar 2026 12:45:53 GMT",
-      "imageUrl": ""
-    },
-    {
-      "category": "Deporte",
-      "title": "Marga Crespí, medallista olímpica en natación sincronizada, sobre el clima californiano: \"Al principio sentí - La Razón",
-      "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxPY1hERkRQU1hueThCaTQ1VDRtYlVDWF9FRnBMSVBSYV9IOFpxNmZTTmg3cWhpWGZ0R2RRaURHcTFRVFZ1dnMycG95NzZJZkY3WXU2RlFvRE02cEZaUUtBN1RsSU5mMDdEblAxV3NzMEhNak5aZGtSMFdiNDNPaXRKaHl6VGN6TlM0Z1g5NTV1eEVEUlI2dkVqa2Jhd0tuUlBNSTI0bnZ6aS1nZjQtcm1hSmVYWGFoa2NMV0txSUt3Z3ZUaENhYUNab3NGVG54RDM3OXZkR09qdG1fZzJScnViZnFqNUhQQmxPS1hTNU5PMEt5UWhkYVJfQVBBaVdqM0hzSHJUTNIBmAJBVV95cUxNSkQwSzdpaHR0OVVVdGwtbE41R1A4M3lKdWFOZzBWdWpMbVlCbXpOd3pJaEotbFZvQ0hDY0dZLWZONjRrSFpNUVdxclMxcW5WUTM2ajB6MXVjejBieGtyMkg5dkFiWGtoYmRCdjVzcXFQMDZ1Y1NDdWZBbVVIUnVqV1M2SFVSRDJLSWlXMmNIWDF2YWh2MW9PaTM2YzZpZERUTzlqQ1RuVUh5aGpVZjIxaGx2QXVPallSZ2ZOWUxuUk9td3Zzbm55Vi03VHpiWHdMRU5uOENtYWlmTm5hUFJjNjg4eWpqN0YzR05WcjZnbEdmbjJidlRHTjVmajl4enIza0pDZE5janBmLUI5Z2VKSE9MX0VTejN5?oc=5",
-      "source": "La Razón",
-      "pubDate": "Mon, 30 Mar 2026 12:40:25 GMT",
-      "imageUrl": ""
-    },
-    {
-      "category": "Deporte",
-      "title": "Donovan Carrillo y el patinaje artístico en México: \"Quiero desarrollar mi deporte\" - olympics.com",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOYzlVWUJCWTF4b3RNcENETVVLY2FDNTNhRkpDTG1iYnlhOEk4bmZGVzFXcDhCanlEb3RQWlAxNFRDaF9lMkx0Si1FeVJTd3V2TzlFYVp2SU1taGZxS1hWVHJoREdLOERsQVJmRWtkLWVzZUhJbGNsUTlLdXZ1ajN3VEFxeDBpVDZaa3UyUjlyeXBaSUJhU2pGNFk0MlhRdkdTTEsyXw?oc=5",
-      "source": "olympics.com",
-      "pubDate": "Mon, 30 Mar 2026 12:32:00 GMT",
-      "imageUrl": ""
-    },
-    {
-      "category": "Deporte",
-      "title": "Velázquez critica la oposición del PSOE tras rechazar dar datos del gasto de Toledo como Ciudad Europea del Deporte 2025 - Toledodiario",
-      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQRlFyRnNzVlRULThra1BMV3JfaUZaNnZJUUpMOXZ2bWxTUU4yY2ttZFpyM2Z2MWc1WUlpdUhiNG1kZnZSRmk4blZWWW9UMk0tVTdjZE1UV1diSjEzM3ZuYTZZZDNiLU9RTk9XYkdsZnczanRJc1dlcGphUGNzaWt0cUxWMlZid08wM0ljWVc0OUxQQkJJQXNIR0Npc1pqNUEzQkNkT0pKN2RvUUJNV0N4WXc4d2UxbS1FVm5HWnIwdHpzdDNqZkt1V0g5RFV0aHNLMmtpZzgtNWZOOTdyU0E?oc=5",
-      "source": "Toledodiario",
-      "pubDate": "Mon, 30 Mar 2026 12:24:09 GMT",
-      "imageUrl": ""
-    },
-    {
-      "category": "Deporte",
-      "title": "Gran Canaria vibra con la Carrera de la Mujer: 3.500 participantes en una jornada de deporte y conciencia - Diario de Avisos",
-      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPczMxel9tTTBBREdLWUpmZnRnSU5SaTc3XzBOb1o0Wm1tSTZSTUVLOVl2MXlwZnpYSVlQM1VjQnExTEltRl9wNXNDSFgyLTBZQW1hclJZdmRXbXMtTnpwbDVWNHhlMGVpM3RON3pzcFNMT0E4WG04a2Y1U2wxdzQyWl9ua3hSVWJKWGJuT0kxTi1wcE5JQjkyUUdkWEtHTjRrUWpQX1E2aXYzT0lpcVNBdWZlOHNOUGVwT05mN005b0ptZVloMWlWaFRKVGVYMnJCRFNReHJGRHEyS0xNam5TRVVoOXdzVmw2MEI1WldR0gHzAUFVX3lxTFBXb21vSGg2V3Z5Zmd1OUd0R0pLMUl1ZDVXWWlQWGFZbU9yLU9feXdraXpMQzFMR1ZheklLV2tKSTd4Zkh4NFMtSXpYNWw5US1fTUJlWmJmbG9FekJlbzhWclZySV8yYzBXNFBRTzV4a3ozeGlJOS1YMG9FdHVlc0tLQ1pmX3hVMi1PWUV0NlVQTGtXb1c3bGhWY05DRFJNQjZyYjVHY2U2MWN3VVBobk1MQXJET1dMc010bEpvTXFtRlhmQUZTWFdJUkF6YnNfaHVwRlh3eE1ETENQa0Q4ZlJseHRQVXR1SkJaSjN2UEkxbEFGYw?oc=5",
-      "source": "Diario de Avisos",
-      "pubDate": "Mon, 30 Mar 2026 12:20:46 GMT",
-      "imageUrl": ""
-    },
-    {
-      "category": "Deporte",
-      "title": "El IMD abre el plazo para solicitar las subvenciones destinadas al fomento del deporte adaptado - Ayuntamiento de Las Palmas de Gran Canaria.",
-      "link": "https://news.google.com/rss/articles/CBMinAJBVV95cUxOMnJvdDdCbFozdjViQ2d5em9mVnM1UWtfdzVHd0FidEFYLXRUV3BMcjlVcHlLM3pKbGRiTFVoc3lpSEtlZlpaYkd4cXFBSjhfSzAzNC1aLTZQR0lTSEpvdzhZV20zTnhUQ0JfZXNTOXBrNk1HalJETGJvNDl5amhKZ21yejhKdmNhajdsQVZubzB1QV9wSW5kRG5rYjFlZU1oa0h6eEtPbkstMHZEYlVGWmdWY3VlWUt1a2dEXzdEOFRaUlJ5LU5mMllvRkNPRG5sdHB4MV8yOE55VmRWRUZpNDBiOXFweWItRk10eGxibUZ5SjltMW0tcVFzUVowbWRGTHFjQjVMeFJVenZIMklBREdaMUF4aWNycWlDdg?oc=5",
-      "source": "Ayuntamiento de Las Palmas de Gran Canaria.",
-      "pubDate": "Mon, 30 Mar 2026 12:14:51 GMT",
-      "imageUrl": ""
-    },
-    {
-      "category": "Deporte",
-      "title": "Almassora reúne a más de un centenar de mayores en una jornada de deporte y convivencia con los Juegos Castellonenses - elperiodic.com",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQa2pONTVVbXJyc2trS3h3dUd2T1AzT1NTVm1Sa0NPUy1GQ0Z2aUVtYXpoaktRWE92blJ5Tjh5WmF3a0UzOHpoNGR5XzF3VV9sS3JJZnhfWmhQS2o3Nk5ZMXd0SlBmYlI0UFlSeTROaU5WbzVLOG5WdTVOR05SQTRMNnliZV9iQms4MHZzOW8zQUhTX1JuVGRuU3FSaGRjVWlNN25tdFhOMVBzN0FtYjg1X1A2Ni1EZ1l0aWtlVnk3Ul9LV1dXTnc?oc=5",
-      "source": "elperiodic.com",
-      "pubDate": "Mon, 30 Mar 2026 12:12:06 GMT",
-      "imageUrl": ""
-    },
-    {
-      "category": "Deporte",
-      "title": "El deporte de Alhama volvió a brillar en la Gala del Atletismo Murciano - Siete Días Alhama",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNN2MxREhITWFaX0wzVUU5YXNBcE1UTmJLclBGYnp5dHcwMTBUVUotWXFSbXliNEktRnRYQzV5VjdPUk1NRE5tanEtSlpIdHluUTFqTkoyYTdFbmNFQmlNc1htbHFiTUlHdmpTbjhORGRNQWFhVkhYM2lPSmExVlVVMngtUEJHcDZIVFI1SEZTYklscGtpMUVZR2sxNXE0NGRLVW9YOW9sRWlFRkh0Tmk5ZFA2OHpjLVdBTDh1amVEYWhVZHF3bXc?oc=5",
-      "source": "Siete Días Alhama",
-      "pubDate": "Mon, 30 Mar 2026 12:05:39 GMT",
-      "imageUrl": ""
-    },
-    {
-      "category": "Deporte",
-      "title": "La UJI se proclama campeona del Campeonato Autonómico de Deporte Universitario de atletismo 2026 - elperiodic.com",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPTmJLVTRlQzlIOXBwM09sbTExYWxzQ3VTalNnazBIX2I4bTl4bTEtcnJuamJnQlRiY0ZnOWlDVHpJaVl6cmF5TV9IQ1VfWERXbG9NaDViV2RRZTY0MjVMTFZPWFY4RGJJS3Q4aUQxVmRwdHZUYkZlQlpRZ3hJT0otbHk1Yk1DeXAwODgyVUxkcVdtNGNOdk4zd0VTeE1QTF9ZZm9MMWwtRE5TUFQyU1kwckdJaWhIem1WMGJ2Qld3?oc=5",
-      "source": "elperiodic.com",
-      "pubDate": "Mon, 30 Mar 2026 11:57:50 GMT",
-      "imageUrl": ""
-    },
-    {
-      "category": "Deporte",
-      "title": "El alcalde de Toledo defiende el legado de la Ciudad Europea del Deporte y se pregunta \"para qué sirve la oposición\" - ENCLM",
-      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPNVN6TVFWX1owYW1GdWRTeGdjb3hLQXNnbWZUcHJMYWt3Zm01SENZNHlOa0NqSjJLT21QM19WSXNCbzJleVMtNEhaUnNkbkh3NzdXdFp3YlRIdlNUZDdqRHFjVFMxM0VveW9LaWlLNHpXMHdzdGd1MW1kdUFnZkVGY29RV3M3X0pORW8zTHBURnl2MmwzOS1sdFRmaklZNm5hZ1pBaVNpb0FVendfYXdRQXktRHI1MWNPalBUWE92NW85aENVTGptNXJVSlBkaVp3Y29uMkFnbUhJdVU?oc=5",
-      "source": "ENCLM",
-      "pubDate": "Mon, 30 Mar 2026 11:53:00 GMT",
-      "imageUrl": ""
-    },
-    {
-      "category": "Deporte",
-      "title": "El fútbol base femenino se cita en Utebo - Aragón Noticias (CARTV)",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQM2RjZ3RuQk1VNVhrdFQyUGNLU0lILW95azdJd1lZc01yRFBEMkpHdHl0SXBVUzRObmVVU01WLWxNVjl3UEE0NWVaUG9CLS1pODYwbmR1bG5wQWU0c1Bqb2pTYUVpMGpvNkVEN1dYZ2ZFeVVmNktyc2JjbmFpYm9Lc01oc29qbDFXTmN0VThfazJEU3EzbXc?oc=5",
+      "title": "María Sanz gana la European Women's Futsal Champions - Aragón Noticias (CARTV)",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPUnlqZ2Y1UFp6VWptb2RsejJlSXdfWTNLSzdRZldheFlWckdEeEFsUEhWVDExVVA5MFpSN0xlbGJUcTloNVpFNjZKU3hQR25KcXk5dlByTFp5VFpmNzdtTWsxV2dabURPdGQ5dUZGcGxLdzV3am5rM0ZuamszM19jb2g0TGtUM0xwaEd4cVNkRXVrWHhPdzdFV1pZVHVMem9LTFBpMzFn?oc=5",
       "source": "Aragón Noticias (CARTV)",
-      "pubDate": "Mon, 30 Mar 2026 11:40:44 GMT",
+      "pubDate": "Mon, 30 Mar 2026 17:55:44 GMT",
+      "imageUrl": ""
+    },
+    {
+      "category": "Socorrismo",
+      "title": "El Gobierno de Zaragoza licita por 11,4 millones de euros el contrato de accesos, mantenimiento y socorrismo en las piscinas de verano - Ayuntamiento de Zaragoza",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBNX3lmNHdxbDNGYk5FdjVKdWMwNklIelBkeDRGV2JSSHRYaFAxQXRwUVZBaHY3SnFOcGN2R05TZkZnWnlEdmFmV0tQblZsTC1MMlhiVFJEOWRJTXZvTXV6RGR3?oc=5",
+      "source": "Ayuntamiento de Zaragoza",
+      "pubDate": "Mon, 30 Mar 2026 17:27:27 GMT",
+      "imageUrl": ""
+    },
+    {
+      "category": "Deporte",
+      "title": "Vídeo: Subida Villa de Moya - motoradiario.com",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNNTMwMFdQZXJVSmM5TEZPSFRkNkRnbDVpY2tLd0VidGpoNWlnUjlmNEpfM010RFVmVi1iczkyR3VSckNIMHNmd2V1VF9RTFU1dDBTWVhRRmJQbVpTWUM3ZWFjLVh3YWNOTEptVkszb1dKR19BMFRHTllFZWc2LW96aVAzOA?oc=5",
+      "source": "motoradiario.com",
+      "pubDate": "Mon, 30 Mar 2026 17:08:55 GMT",
+      "imageUrl": ""
+    },
+    {
+      "category": "Deporte",
+      "title": "Caja Rural de Extremadura convoca los Premios Espiga Impulso Actividad Física y Deporte 2026 - Revista Grada",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOV05LMC1XeVluQURWYi10bHJnUkRpQVpxRXVXY01xbjZwY3BUYmFNbkRuWGkzNFlpMURJMWVfblEtaHQ5N1RQSmZnYjl0eXByTmRDd3pvMVVsV19nT0dhOVBOYnFNbGFuaXhxTWcyckpodVRnZGVlMFBrVW12bmlYc1RqcEUtaWd4Q3dnQWdEbkVQWk9NUFUtOEt2X25fMmVLVWcwM2xQMXREMUhNUzV0Z0Vzcm5TMERHVFFnd19PMA?oc=5",
+      "source": "Revista Grada",
+      "pubDate": "Mon, 30 Mar 2026 17:06:41 GMT",
+      "imageUrl": ""
+    },
+    {
+      "category": "Deporte",
+      "title": "Vuelve a Oviedo el Trail del Prerrománico, una fusión de deporte, cultura y patrimonio - El Comercio",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQYWpNTzdGZEtvYXUtakJkR1Y2S25JNnA0bUR6eDF0ZTl6ZzNHaGxLQkVzQTBLeVR0Rm4zU29wN0VGWUhVbG5MZHJ6MHdVekh1aTdZZHJCUGdUWW1ROWk4dzlhV0tKNEdPVWlVNWtSWVBRc2VTWTZOeVltX2JJRHFZaVgza3NlN2NhdUNBaWExUk5sRzFnNUxMOE0yb9IBoAFBVV95cUxPcUFCaHNaMTJhUWljOVYyZ3ZGQkdTZC1zUnpGRERWUkRJY3J2cnc2NDlLbS1STkRXZ0FQbHZWU1BfX0ZRQ1UwYlI4MTJBdkw1eDNoUk1QeWx4aWJJT3U5ZlBkWldfV1gzREY0UFI4SFhfWmhrSlN1RHdJanJmRkZ6Y2NhdkZ1aElITnRSMW1XWkMwR294Z1F5ajRZYUFNWmhD?oc=5",
+      "source": "El Comercio",
+      "pubDate": "Mon, 30 Mar 2026 17:05:51 GMT",
+      "imageUrl": ""
+    },
+    {
+      "category": "Deporte",
+      "title": "Canarias se consolida como destino de élite para el deporte con campeones olímpicos - radioinsular.es",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQNFBfUlU0X29oank2VXRKWEpXMW9Cc2YwWFJ6MXREaEM2bkI4emxlMndoWTVpelhkbWYtdjJGSjNySXRoVkdaY29hQnNObzJrLUZCZjF3TmJXWERIVEkwbUU5cVlWU0NSX0NIQmFlU2NsNmVqUDg1NFZLdmpCQm05YnZIMWY5elo4dkxtWHU5b1l1OE1yX2RqYm9Ed2ZvbFYydG5tMzc5N0JCM28?oc=5",
+      "source": "radioinsular.es",
+      "pubDate": "Mon, 30 Mar 2026 17:05:00 GMT",
+      "imageUrl": ""
+    },
+    {
+      "category": "Deporte",
+      "title": "Irene Burillo avanza en el WTA250 de Bogotá - Aragón Noticias (CARTV)",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNTlFTT1ZCc1QxUm1nbm15Yy02bHRueU5TeVQ1MWc3eEJzU1lGMzNiUUswMXFscldzS1I5Yy1nRHAxc0M3dy1DQzB5R1J6NmtsckN4aVd5dmdLQUE4R3h4dlQ2REZnZXNiZ2duWEpUTWc0MF9qT3NDTGJmOVgxWlkyTVZqbV92N0Q4TWprSjFnclhqSk5hSkVJTEt3?oc=5",
+      "source": "Aragón Noticias (CARTV)",
+      "pubDate": "Mon, 30 Mar 2026 17:04:33 GMT",
+      "imageUrl": ""
+    },
+    {
+      "category": "Deporte",
+      "title": "Presentada la XXVII Edición del Triatlón IES Yaiza - Radio Marca Lanzarote",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNUmVjMThhdmlTWWloWkFSWHQtdTVQRm90c2E5bzg5WE9OS09CYTFkcmlmRi1TMVRKSTZ2X3k3a0ZmaTBNTXFOd08wWWlvRkVSSkJNZzVTTGpVNEhUdU9Qb01YU1BhNThqblZob2w5c0VfNXVTNEowODJQWV8ycnV2Mks0RXJvenV2X0JycmRnQWN1LUpmUlA3UF9LSUhIdDdM?oc=5",
+      "source": "Radio Marca Lanzarote",
+      "pubDate": "Mon, 30 Mar 2026 16:55:49 GMT",
+      "imageUrl": ""
+    },
+    {
+      "category": "Socorrismo",
+      "title": "Cullera activa el servicio de socorrismo en Semana Santa y el mes de mayo - Visit-Cullera",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQSmVuNGxNNDFRLTV3ZDBiWFdQNGlyQ2xySmd6VEd1S1pLTW5ERUE4WklkaVllM1dIdTF4djFnODVfY3EzVXhGNUdIUTRyQkVmbjJSU2JMRlp4Tmh6VlRDUGtMNmR2dDE3SVdMWUQyTWdGaWtNQk4wOFBqZlRJODZKeUExTTRjUHh4ZzR2Sk1DaUFCV09CRzhKdC1NZTFhRFVBNDE2S2JGdy0tOVRiLWNZ?oc=5",
+      "source": "Visit-Cullera",
+      "pubDate": "Mon, 30 Mar 2026 16:52:30 GMT",
+      "imageUrl": ""
+    },
+    {
+      "category": "Deporte",
+      "title": "\"El arte de herir sin ser herido\": el Ateneo barcelonés recupera un deporte olvidado 140 años después - Diari ARA",
+      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNV3hCbVZJLTItMnFrS3JZODljTVBud3RZWjh2SzVMZDRoRFJIOWVrV1hjVWh1X3dqT1k5RFh6TV9BTFdYdnFWR1BuNzhBTFhWd1U1bFRuVDZqZGdqOWVEQ0tWY1dUYW9lZENZakc5azVOeVFfeGNIUmNtdDFVbVQyVHlzR0dXdzh6YzRsSjFPY1htb3J3TWJfN2lkeGk5eWc5N1NaUFJqUGdEYnZyeWV4ZjBpZG9ZN3N5bGxXN2w1enplOW5Mc1VFZmxBTHcySzJpWHZoSF85b9IB3AFBVV95cUxNMFF0a044Z0NneUVURXVhdGM5cHdCNW9PNjYyNVFXdXJPQzZyckFveHNjeWlhcHpaQXUyRndoZHpGSjR4MGYtclVtVXRjUzBxR0lhTHRaS1l4Tm04UDRGUVhxVUR4aGdrZGgySzREdmtnRDNPVG15WHd4eXZJak04eENxcVhFU3pnMlFSaFZLbXhab0xUdm5uT1IxcEFFT0dESjNKMG9WcUhlLTdzdldHU1FUcy1OQkNMYXZFVW5qbnRENElheDU2a01KRklyQzJxODBjaWRicnVYS1VR?oc=5",
+      "source": "Diari ARA",
+      "pubDate": "Mon, 30 Mar 2026 16:02:12 GMT",
+      "imageUrl": ""
+    },
+    {
+      "category": "Deporte",
+      "title": "Los gallegos se cuidan más: fuman y beben menos, practican más deporte y pierden peso - Faro de Vigo",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNMEUxY29QdDJiT2JGQ2dWMGNubjlvc2xkU2pZNnA1THJMdGFGSC1BeU1rdHRHXzRpU2daTEZjOTI2cU1nV2lnVjlhak1ZMmR6YW10Rm45YzVoVFU0d2t4RlVWTlV0dkItVXFfYmh2WVZ6d1pXbHVKVFdRdnpuTWZ1SUZ4LXdpMEdTNWNoajdCMmVxaU94OGx3QU9WOWFQUdIBowFBVV95cUxOZGZNVGM0ZWViV0NKbHYyUVBNaG84cXRGZ2RZR05CR09LZ2lMTHdaX180NnRxTEd4NjRuMjFfcFZCdFJnRnFRT3MtWUZvVzBkQ05RS0tpRWtVa2lLX01oVXktNEJUcDVkZTUxUXc2dDJ2X2szYUFfQ1dpLXE3Yy1SSl95OXdGd2ZyVVczYzJsZVZ6bnpzc19jRGJtcU1BQk1QSllN?oc=5",
+      "source": "Faro de Vigo",
+      "pubDate": "Mon, 30 Mar 2026 15:58:42 GMT",
       "imageUrl": ""
     }
   ]
