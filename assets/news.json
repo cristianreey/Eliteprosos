@@ -1,13 +1,77 @@
 {
-  "updatedAt": "2026-04-01T19:03:19.349Z",
+  "updatedAt": "2026-04-02T02:27:08.665Z",
   "hoursWindow": 168,
   "items": [
+    {
+      "category": "Deporte",
+      "title": "Sonora Propaganda une la música con el deporte - Once Noticias Digital",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOZC1nZDVBNVhmS2VOcDFqTEFfeTlmWkd4NEZ5Q1hqaktKV3psLWF2anRUVHR0Ul9HX0FYSmxUOElJUTZMbzF3bEg0UWROTmFZR1hfa0tJZ0Z2S3lUU0hJVGk5SFB5Mlkzd2xqLWt5RUljc0ZkbWUtUEdFX1BSUUlTb3JEUWJrZXZ5OGZySl91MV92MzRGQnFSU2dpbV9nSDFj0gGgAUFVX3lxTE5kLWdkNUE1WGZLZU5wMWpMQV95OWZaR3g0RnlDWGpqS0pXemwtYXZqdFRUdHRSX0dfQVhKbFQ4SUlRNkxvMXdsSDRRZE5OYVlHWF9rS0lnRnZLeVRTSElUaTlIUHkyWTN3bGota3lFSWNzRmRtZS1QR0VfUFJRSVNvckRRYmtldnk4ZnJKX3UxX3YzNEZCcVJTZ2ltX2dIMWM?oc=5",
+      "source": "Once Noticias Digital",
+      "pubDate": "Thu, 02 Apr 2026 00:55:32 GMT",
+      "imageUrl": ""
+    },
+    {
+      "category": "Deporte",
+      "title": "UE Buenos Aires Run 2026: deporte, solidaridad y encuentro para celebrar el Día de Europa - EEAS",
+      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOemlFVXdGbHFxaVVoSzVYMkRybk1RcTFGR0hZbUR1MDlRSy1aWFZ0UG9MbUlIU002SkpxaVJ6TGF4TFNzcVNRb0gxbm1Zckl5RW5MdmRPQ1Z2eTVybTk1eVdFYmlYNnRJSmI4bUhRMVI3WDQ1azJ4U0tpa1l3VVZFVldGODA4ZkRibWo3aVhHQUZmVHJtNDR0Y1UyUDZfRkV3dWJacWUzNGVXY1VIaF8yUXR5eURCUXZhYjFqX1R3VHVuTTNxOVpiVjlkdzNJcW1hRFFUTWdWTVZ3SHBpYVpIRHh3?oc=5",
+      "source": "EEAS",
+      "pubDate": "Thu, 02 Apr 2026 00:06:42 GMT",
+      "imageUrl": ""
+    },
+    {
+      "category": "Deporte",
+      "title": "La increíble contradicción del deporte italiano: el fútbol se hunde en pleno éxito polideportivo - Eurosport",
+      "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNYTg0MzdNSS1MVzRQeUJSaGd2amU0Qk5rNVprRkZTZWJheTAzVUdGRVV4QV9ZTmFZRFNsMHZDRGFsdkFQak4yeEt2Njg4ek15SG9QaVZQOHFKd29fNmFjTmVocVBrazBTOTVYTlB2SGM0RldGQl9Gd1lvR1JuSDVzLVNsb2VTQW1YNGlvM1Fia09ZTm5pV3JVZnB1NVJVZ3NJUlJOUzROOUpnVFRHV3d2b1V4V3c2T0pUcENCQXdpZlhOX0NzWFpuSWRRaTBKNnpyUjI4aWZ0dDMyRlZuYXdydTlsdlJwX1lyZzRxNk1PbmxHdTFkQXdJ?oc=5",
+      "source": "Eurosport",
+      "pubDate": "Wed, 01 Apr 2026 21:33:00 GMT",
+      "imageUrl": ""
+    },
+    {
+      "category": "Deporte",
+      "title": "El mundo del deporte se suma a las mejores bromas hoy por el April Fools Day - Diario AS",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNOW9mX19kNnAzZ0VZT3MwMjZRLW1XNlVwcU5PTS1EWERKTkN5QjE4azRmaEFwNUNrc3VfUG93SzhiaGdwNWMtVXFiRjBlLVFabmQybVpuUnpPQkxvTTBGVzBQMmh3SkxtUnJJZ2Z0RGZsSWE0LUNFQkdqU0JBby1GanFYbkhrZ3drNjlsN0FrRjkyZTM4R3lSUGJDd0o2eWJTYnR1YTQ4MXVJVU9iWEcxRXdzTlhPT1HSAcsBQVVfeXFMTi1NRG84bXV3NGcza0RpOXV0T014SlVPc2JQNGRtMGdmYjgyRWlTckM2N1hHWHdKNXpEM1pKaFRiVnBWT01TVlVpdzZJV2pDR0hUd0dwMUhfaFNHOVF0RzctMnlWMXNBSGdCQ3JsbVVJUVJoQzFJZEhWeE9KNW9lUFRhNXJYVkU3YUlmbjFlcDkwQUwwWlgtd25sSDlWamZxRjlGVlhrRDdJYjJJR1FGZzhwVTR6Y09BazlFU2hTR3pVSnJ5OHZkM3RKMEE?oc=5",
+      "source": "Diario AS",
+      "pubDate": "Wed, 01 Apr 2026 20:23:59 GMT",
+      "imageUrl": ""
+    },
+    {
+      "category": "Deporte",
+      "title": "La Diputación de Castellón conmemora el Día del Deporte con una jornada llena de emoción - El Periódico Mediterráneo",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNLUM4ZGJtZHQxZi1sUndSTm5hd1pTX1JuelA4UXdUNG5qWFduU0dqbnRxUEpZTkl0dm5faE5Kb0NaRGsxcXdpajk5Slk5RFpqai1FQXRoMmRlS3hnMHB1ZGQ1Rl9PLTlzYVNmMU5uMklyOUxzOUcxOTIwaXpwSzNmXzl3SjVyUkc4VEpueEhTRW5VZEdjTzlnRjF1M25nR19LYm1KN2JjSG9IcVZmRDdrTC1ucVRKN0lt0gG-AUFVX3lxTE1mYnNyODdpN3ZkeGpfdzIycS1TT2Zsa2J0TGhoSDcwM2w4dWZsOTZFMnhVbE9QcndkQlM2N0NILUNrc3FPUGtRWm9SZXFhdnJqOE16MzRSSDdSVFBtelNEakpnNkUwa2Q0czdhd21HWVVaTDcwdFI5TkZpZXExemk3bXBLVW9nRzRmSUtOVkRzNHpsU2cwZ1RWT0F2R0ZZRzhLVVpWRlUzYXl3RkFzSDQ2QkxiWmtTM0ZIMkZZV2c?oc=5",
+      "source": "El Periódico Mediterráneo",
+      "pubDate": "Wed, 01 Apr 2026 20:12:41 GMT",
+      "imageUrl": ""
+    },
+    {
+      "category": "Socorrismo",
+      "title": "Monte Hermoso se subió al podio en el torneo argentino de Salvamento Acuático - La Nueva Provincia",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQVUhBWGloTEUtT1p5VHdoQzFYRVY3V205NGtLSEMwbzVFTV9mRTI2b2RQT0RFSHlqQWw2bkFKRkMyN3gzZWNqaWx3TnVoUnQ4U2pCWjBzb0lmcTJrdE9jdkN3SGpzR2t1T1RFeWFIazNfRHlrZi1qMC1DcnhuT29UOUFmTmd6UnlFWUJ2WHdUcFlnRnZOVk9NeFdGOFJGaFJEX2lTUUl3MXFwS3lNYm9IN085eVdicDR1VHNzaW50UzY?oc=5",
+      "source": "La Nueva Provincia",
+      "pubDate": "Wed, 01 Apr 2026 20:10:09 GMT",
+      "imageUrl": ""
+    },
+    {
+      "category": "Deporte",
+      "title": "Los nadadores David Rodríguez y Yerai Amado también triunfan en el Campeonato de Andalucía absoluto en Málaga - Deportes de la Isla",
+      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNZk02cjB1SE1PN0xLN0dPYVlranFJNzR1Rkt1dGg0WTBxS2M5TjVfVUxvejdkcURobENTRlpGc3ZOWWprcVhLZFZOd29KVnVWNXZpRFFORGg2bFdFc0pkQ1RCVGFick9TQXBITDJtaTVfRnduMEVpamFwLVU3b1BzSHJldklpQXRmS21yYndLa3pCVjJxZXVXUzBnMlIxeExyWlR5YVZMVEQyRS1NcVp1ZXBicDJYOWI4VGhpc3dZVkNWNHFIS05SODFIOUFrb0ZXby05NU5JMjdWMUZ1YWZmVw?oc=5",
+      "source": "Deportes de la Isla",
+      "pubDate": "Wed, 01 Apr 2026 20:05:00 GMT",
+      "imageUrl": ""
+    },
     {
       "category": "Deporte",
       "title": "El Ayuntamiento de Ibiza condena cualquier manifestación violenta en el deporte - Noudiari.es",
       "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQQWNNR3NkejJzaGVfLU90TVZ0WlQzMmowU3RTTm5VY21WT0Jsc0prNi1saHlJQTlOeF82ZXZQQXdibl9RSFhUZThneWxKRFkxTGh6WFg0LUUxdHlnbjFFbTVZaVZON0RFaGtUbi14WkVmY2FOaVlaVVh6VWJhcURnYVlra2Rzb2hQbk81ejZYa3plbHFUSHVWODZlMTJxM2E5VF83QlJGY0d6OXVqU3FKOFZ0eThsVVNZUVM0?oc=5",
       "source": "Noudiari.es",
-      "pubDate": "Wed, 01 Apr 2026 19:01:27 GMT",
+      "pubDate": "Wed, 01 Apr 2026 19:03:17 GMT",
+      "imageUrl": ""
+    },
+    {
+      "category": "Deporte",
+      "title": "El Villarreal CF y la UJI refuerzan su compromiso con la formación y el deporte - El Periódico Mediterráneo",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNMGxWZ0c2dHRfengteUhKOVQ2OWpsUkZva2Z4c0hyVVJVNDB5Nl80VndDNTc3eWtfbzRlUW1OOVdzU1JTb3EyRTExTVBUaUtsWmVNMnZNTmo2eGp3QVdaaTBYZ2tqcDBFSy1qTDA0NnhmLW5sazUyUENBUXFqdmFlNFdRYjBsVG5LbTlDT01TdXI2d2ZpWHRQZkczOXEyOGRFeC01MEVTclFRSnUtZEEwZlNYUzlkZkk3SGfSAb8BQVVfeXFMUDFaOExveWQwb3JNV0FCZUhOWFFmcDJpQlNtNE5uSzYyRy10eFVhOFdpaGNHZWhDM3k0QmFhNlQyb1RKUlFzcWNoUmctSFBkcnkyS2tZczl4RzJEUVVnaWZRbmxRN3M3bGJvcmtHNm9UdHdPMWFqQUJIRkVVeTc1RXI1M3FtcTh1ZHlEaUc3YXFGNVlxdUhueGJWd2RwOWhXblRDTWRrbkVBT29qMnF3bW5mc1pBamlMa3QtLXFhOUk?oc=5",
+      "source": "El Periódico Mediterráneo",
+      "pubDate": "Wed, 01 Apr 2026 19:01:25 GMT",
       "imageUrl": ""
     },
     {
@@ -28,74 +92,10 @@
     },
     {
       "category": "Deporte",
-      "title": "Vilagarcía «equipa» la Basket Cup con mensajes contra el machismo en el deporte - Faro de Vigo",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQeHhMbW5ZUUlSdnYzaGhQWjJHdW9mTHZldlhkS21CN2RzN1ZmMDZicVZHRjBpZlhSeXhRRlBhaUFPY2FSNTZ4UmpQcHA5UWJzTldjMFM3Rm5JbGRJR1ZCdUQ2ZS16TGozN24yVEZmY29ZdExUcmNBRXloMS04OGlhQjZDSG1ORzNNa0kyUGZiTkRFYlBVal9aV3g5MzJpRWJJdk5jQ3ZVckVYMXpwOTcxZHFFaUdvWjlv0gG-AUFVX3lxTE5OR3JFZjI3YmNMVXk2MDcxeUtKVXYyeTVWNHcyUTNGSEVnWW5xRDh1RWN4OXBxTzFteFNMSjUtVE5FSTJNcDZPVTZfS3hpQ3Rrc1pIaDMyeFBBZi00RlhxQTlsSG16T3ZtR3Z6VjFfWnhyaWQ1SHZiNVVIQ2c5MWx2TmZMR19GNlVNVEZvWndMNVVaMUU4b3EtaGNRWFYxdm44RjFwWUc5enExOUlLWVVraVNJV0N5YjI2TGlNVkE?oc=5",
-      "source": "Faro de Vigo",
-      "pubDate": "Wed, 01 Apr 2026 18:30:58 GMT",
-      "imageUrl": ""
-    },
-    {
-      "category": "Socorrismo",
-      "title": "Monte Hermoso se subió al podio en el torneo argentino de Salvamento Acuático - La Nueva Provincia",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQVUhBWGloTEUtT1p5VHdoQzFYRVY3V205NGtLSEMwbzVFTV9mRTI2b2RQT0RFSHlqQWw2bkFKRkMyN3gzZWNqaWx3TnVoUnQ4U2pCWjBzb0lmcTJrdE9jdkN3SGpzR2t1T1RFeWFIazNfRHlrZi1qMC1DcnhuT29UOUFmTmd6UnlFWUJ2WHdUcFlnRnZOVk9NeFdGOFJGaFJEX2lTUUl3MXFwS3lNYm9IN085eVdicDR1VHNzaW50UzY?oc=5",
-      "source": "La Nueva Provincia",
-      "pubDate": "Wed, 01 Apr 2026 18:30:01 GMT",
-      "imageUrl": ""
-    },
-    {
-      "category": "Deporte",
-      "title": "Crónica del fin de semana del CD Triatlón Lacerta - Segoviadirecto.com",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQSDFVZVAyakZkUVRKbEd1Y2ZQcXJZd1k5bEY4dHBfRGVwdlFOUU9TdU45dDd1Y3N6WVVWU1VjUDZJU3ZJNjFiN1JMdDhoQ0YycHJtSDliY2RXOWdQZ3N3dHdTbEUwRnAxbTNuSW1ZZUowMHNOemxYRkZXQnRoTXcxa2s2WlVRS3NXWlpEY2QtSQ?oc=5",
-      "source": "Segoviadirecto.com",
-      "pubDate": "Wed, 01 Apr 2026 18:19:37 GMT",
-      "imageUrl": ""
-    },
-    {
-      "category": "Deporte",
-      "title": "Jorge Crivillés tratará de cruzar a nado el Río de la Plata el próximo 3 de abril - Alicante Mag",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOZ1d6QXVaZmM0NVJCd0QwdlpCVi1JZEItSW83b1NyTFA1bF9jTl9HZUc3aEc5VVk0V0dMcjFrUFpZOW8xTlZ0cXNvT0gzS1dldno4VVo0LVVndFl5N2pIR2dEQkN5UzF3QWlXanZHdmYtZ1JGZUpjOU5qT01rbFBodWUtbzFjeUlRenE2dmFob1ptdWt0WlBOWFVEeG9vbFowSVl3N3BSSnRtYjFUcVRXdnRBMmdCSEx5SU9Kd0htc29Obm5jSDNF?oc=5",
-      "source": "Alicante Mag",
-      "pubDate": "Wed, 01 Apr 2026 17:48:13 GMT",
-      "imageUrl": ""
-    },
-    {
-      "category": "Deporte",
-      "title": "Patrocínio no es reparto: la decisión que desnuda la confusión jurídica del deporte brasileño - IUSPORT",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQQlJDMWJ6QkFEcXpfTExCa3pYbEFfMkZLUHVycXFhMFR1X3BHVFJ3MHRnLVI5dEJYS0UtNjMwVlp6akRGSHRVa1A4LWpqVi1SZVFwVGdON2VHU2hVUWVtNGlMU2FvWmZHcmZrTy1LazNObENXeWU1TlBvcXFBSmZzWXl1Q1ZTemlSTkxwcmJZaUpiZGJyd1dabEVNbGE1MWllbVVUVkFzcV92LUtMcDZYUDVLYjlkWjEzMThaZDkzZmc?oc=5",
-      "source": "IUSPORT",
-      "pubDate": "Wed, 01 Apr 2026 17:45:18 GMT",
-      "imageUrl": ""
-    },
-    {
-      "category": "Deporte",
-      "title": "La increíble contradicción del deporte italiano: el fútbol se hunde en pleno éxito polideportivo - Eurosport",
-      "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNYTg0MzdNSS1MVzRQeUJSaGd2amU0Qk5rNVprRkZTZWJheTAzVUdGRVV4QV9ZTmFZRFNsMHZDRGFsdkFQak4yeEt2Njg4ek15SG9QaVZQOHFKd29fNmFjTmVocVBrazBTOTVYTlB2SGM0RldGQl9Gd1lvR1JuSDVzLVNsb2VTQW1YNGlvM1Fia09ZTm5pV3JVZnB1NVJVZ3NJUlJOUzROOUpnVFRHV3d2b1V4V3c2T0pUcENCQXdpZlhOX0NzWFpuSWRRaTBKNnpyUjI4aWZ0dDMyRlZuYXdydTlsdlJwX1lyZzRxNk1PbmxHdTFkQXdJ?oc=5",
-      "source": "Eurosport",
-      "pubDate": "Wed, 01 Apr 2026 17:35:00 GMT",
-      "imageUrl": ""
-    },
-    {
-      "category": "Deporte",
-      "title": "Buen nivel del Club Triatlón Melilla en el Campeonato de España de Duatlón en Avilés - Melilla Hoy",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOc0JWR3JHU2RJN1lTcEV1NlNSM21uS3NXWklBSEpTYkR5N0lEODhhbkVCczUteGhOc2ppekhqaFZacWd3VURtbm1DeHJqZHQybl96Uy03TXh6Q3lPRUFRWmVkNDJZdG9TU0lBYlo4aEg1ZEw1NEVHa2JlR0JjRWo0S29JS2dTWk5ya0FwUExsMWdGVGo5MUZreERRUDBPSEZMX2hiOXFfVDZUU3hTcDBDbNIBsAFBVV95cUxOc0JWR3JHU2RJN1lTcEV1NlNSM21uS3NXWklBSEpTYkR5N0lEODhhbkVCczUteGhOc2ppekhqaFZacWd3VURtbm1DeHJqZHQybl96Uy03TXh6Q3lPRUFRWmVkNDJZdG9TU0lBYlo4aEg1ZEw1NEVHa2JlR0JjRWo0S29JS2dTWk5ya0FwUExsMWdGVGo5MUZreERRUDBPSEZMX2hiOXFfVDZUU3hTcDBDbA?oc=5",
-      "source": "Melilla Hoy",
-      "pubDate": "Wed, 01 Apr 2026 17:13:45 GMT",
-      "imageUrl": ""
-    },
-    {
-      "category": "Deporte",
-      "title": "NC Telde lamenta que el Triatlón de Salinetas traslade el tramo de ciclismo - Telde Actualidad",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxORWVKd3k3Q0NjOWJpcERtZVQ3Nk12SFlLQU52amxjUTJDT0llUjBnbG01ZlUwYzMxcm0zbEFtR1V6cW1Pc2s1MUpnN0ZrendNMGY2UFJGdDFUZC1BTkF2ZWdPX2taYXhiOXVIRnY0cjk3RkpqVHNkZ0N5REg0eE9IWjdsTmhnRXBkX2JibnE5SzBNVHNDbGlDOC1KbEQtdGEtd3EteVJieEc0NXRMWGZuQTI3aDg?oc=5",
-      "source": "Telde Actualidad",
-      "pubDate": "Wed, 01 Apr 2026 16:35:07 GMT",
-      "imageUrl": ""
-    },
-    {
-      "category": "Deporte",
-      "title": "Paneque acusa a la extrema derecha de utilizar el deporte \"como altavoz de su racismo\" - Europa Press",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPWThrY0NRVGtZalRtaDk3THZqNUNVaHFPVW9BTGNHUXdnTGZPRU9HOEJ3VUhxeVE2Vy00Y3hPbmhqUWkzaEo3b1g4OXd1TU03VkY5Rm9PSFhCXzA0d0IyNTVROFFkMkdrUjZmN0tLVkJzTDFaUEl6bFZzQzgtaUNTbHFPOFhwWnF5bUVlMEJPMDVHc0ctdmduUW1ZT2JpRmpjYWdTMmtJT185dkFMZTFnbWQxenNKSDczMm1UbUhhUkFqUEhFUnc?oc=5",
-      "source": "Europa Press",
-      "pubDate": "Wed, 01 Apr 2026 16:23:38 GMT",
+      "title": "Esto Fue Lo Más Destacado Del Deporte En América Durante Marzo - La Red 106.1 FM",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxObDUtZjRicnhiX2EwcF9GT1JweWpGVXV5bjcxdHF3dnBYR0tUYm94bE5BMVRZNXBXem1jTHkyYTZGRXNmRFpBRWNZSXo0U293a0EyUG5QUVp3R2tzbmJqQjVWOGZUTGVteTFjbEVDV1c4eHJLZnFBRWVpZEd1QzZ6U1V4ZU1WWlU4YzM5VkNPejUySDRWWXFacWln?oc=5",
+      "source": "La Red 106.1 FM",
+      "pubDate": "Wed, 01 Apr 2026 18:33:11 GMT",
       "imageUrl": ""
     }
   ]
