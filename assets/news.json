@@ -1,13 +1,53 @@
 {
-  "updatedAt": "2026-04-03T13:05:48.080Z",
+  "updatedAt": "2026-04-03T18:50:01.449Z",
   "hoursWindow": 168,
   "items": [
+    {
+      "category": "Deporte",
+      "title": "Segunda galería de Las Turbas - El Deporte Conquense",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE42WUhGbW14SXQ1bTV5VlgtMjFHcEVpeEtPUTlsT2VmUk9CQ2kweHVFb0pDdVB6clEzbGZHZm5mcVlhUmJBcVN1bWd5ZXhZTk1WcnZPU29nVVdnNm5UTVJJc2VOWjVad1pyQVFtR1N4Ni1oOFRreGZuX0VpMmM?oc=5",
+      "source": "El Deporte Conquense",
+      "pubDate": "Fri, 03 Apr 2026 17:41:38 GMT",
+      "imageUrl": ""
+    },
+    {
+      "category": "Deporte",
+      "title": "Turbas en Cuenca - El Deporte Conquense",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9wYTRYZlpUTWtUV2szZ1A5MGN4V1lvSG5wRGtndlV4QzBDNE80WWo4YmpBM05pa01ZMkJ5N1VOX2ZzWjZJanNxUEhKYnJsS2pVOG4yczlNOTlwYXlZT2dmSmZPUWwxMEt6Ry1r?oc=5",
+      "source": "El Deporte Conquense",
+      "pubDate": "Fri, 03 Apr 2026 17:29:25 GMT",
+      "imageUrl": ""
+    },
+    {
+      "category": "Deporte",
+      "title": "Lidio Jiménez: «Espero un partido muy igualado y con alternativas» - El Deporte Conquense",
+      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNWE85UEMzemlkVUREQ00xVGpKYTU2MUZBblFUYkIya0M0MlljVDFlbThkTjl4ajAzNlN3Y2NQNDctbzFlcTBrVzRCdkxCSEdNWmhPT1pMMzA5WXlFbllXOGRXYV9xd2wxSnlUOGxNaXI3aTZkSlJXWkg0MjBaUXFhNENNbjItQ21wRTJmTUhaTTROd2hDMlYyMkhKby12cGZ2U1B2MGRtenNDbUwtMnZCTHBENERDRjh4Wi1zQmplNHhFSjZlLVdvQmhCSnNNc0MybW8ySk5saUpsU1hsd2plUmtrV0dZR0o5RWc?oc=5",
+      "source": "El Deporte Conquense",
+      "pubDate": "Fri, 03 Apr 2026 15:09:00 GMT",
+      "imageUrl": ""
+    },
+    {
+      "category": "Deporte",
+      "title": "El binomio deporte-turismo atrae a Gandia a más de 12.000 personas de fuera en Semana Santa y Pascua - levante-emv.com",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPR0dmSnJWWFJHSXFOM2F5X1pSczAzUE5MRmgxWFUzZWJ4ZGI1QWNzQzZ6ZkNPeDk4RFIyYUZCRUdheW5lZk9BZ0duYU9TVi03eE5Hc3FwZVJjelNORzl1QWFnN0xzclk1a1hYR01rVGVYaW5uSG9Bb3RYd0ktZTZMU0NMUHdOdUJLbzRsUlMtM1BYa1dHMWhxSEczbHfSAaIBQVVfeXFMTVJBeHlfSVpoRTFJb0JuYXlvd0pTcGhkZzJPWVlzelIxc1lSWmhYRjNYQjF3Wlc0cXYtcU85RW12Q093ZlJVRTRRNkg3SV9tUDRFbE9QZHlPQ3VQOVBaT3VnOG5BYjdCaGtHOEVsbFctWmppeVJaemF5c3dVTzZIZHBCM0lBOFVLd2ZDWHdUYW5Ic056UG9uTTh2dm11NXRFeVNR?oc=5",
+      "source": "levante-emv.com",
+      "pubDate": "Fri, 03 Apr 2026 14:28:48 GMT",
+      "imageUrl": ""
+    },
     {
       "category": "Deporte",
       "title": "Entrenamiento REBI BM Cuenca – Pab. San Fernando - El Deporte Conquense",
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNZm5DNVN0THNlQ1dBSmxjZmFOVUlGU1FtSXYzZGF2VGhpUkFsTGh6eU9rOU02Q1llSU9LSzEzLXNYUWhnQnJLUE5GbkpMamRkaHpfTjhNS2NiS0JFejdubEIwekhEeEVCSFRuTDdzZkJwYlcyY0FLZU1pRXlqeXlZZEE4VnNwQ1VvVGt5bnhDX0Z0QQ?oc=5",
       "source": "El Deporte Conquense",
       "pubDate": "Fri, 03 Apr 2026 11:40:34 GMT",
+      "imageUrl": ""
+    },
+    {
+      "category": "Deporte",
+      "title": "Un total de 480 deportistas de 60 equipos participarán en la Fase Final de la Liga LED - Muchodeporte",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPRXgxeEptallaWDg4bllGbVVmTHFwNHNKWFFDSC1UNGFYLWJqQ3gzZndDeWl0SDMyb00xUU1DRkxLZ2s4UURYaWstUDc1VXhEWDNKX1k5WGo3dWgtaGhZa1ViWE53TVFjZUNabGx2XzM1SmxNOEo0bERSRW0zWkFLWUdBM1NNSnJTOHdRT0ZmMkp0VE4yQ0NXYjVtS3ZpcV8tY0hOcHlqU21qdVJaYnN6OEVWTGRGY1JiZ2ZYRFY2aHVRUVYwX3hIbnhSbU14RUdTNy10OQ?oc=5",
+      "source": "Muchodeporte",
+      "pubDate": "Fri, 03 Apr 2026 11:33:31 GMT",
       "imageUrl": ""
     },
     {
@@ -36,50 +76,10 @@
     },
     {
       "category": "Deporte",
-      "title": "El nuevo Infobarómetro, dedicado a la salud y el deporte, refleja que el 66 % de los vecinos y vecinas de València practica alguna actividad saludable de manera regular - Ayuntamiento de Valencia",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPY3R1anA3M1IzWHhLNFAyR0kxWHg5czNIZWZuY2NZVzR2U2NJdUluMG5qZkpULTgxS3NwRXkwandUNldtbXJjMGZ3dEhRNFlHRTY4WEFDTWNQR3FUcjc0LXBSOW5BWUFyU1BLNF9oRXdpLWxQMmwwMzVYVC1YRDljWEVVRTE2Tng4SVVwLU9wOXZSOVo4aEh4TFl5Y0lObDNWVFk4Ukh3?oc=5",
-      "source": "Ayuntamiento de Valencia",
-      "pubDate": "Fri, 03 Apr 2026 09:44:30 GMT",
-      "imageUrl": ""
-    },
-    {
-      "category": "Deporte",
-      "title": "El Melilla Ciudad del Deporte necesita a la afición en el Javier Imbroda ante Iveready Gipuzkoa el domingo 5 de abril a las 18:00 horas. - Club Melilla Baloncesto",
-      "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPQzRIbEpCNWFDTW5QckFMVTdnXzVIeXEwejd0WHY0WGZONTJQUHo3WHhFNXZCSlFxNjk1cUVJT1VsSUtuR2JoV3V2ZzczZFpKRkQydF9HS1dDeWV2UFhoVlZfekg4R3lnYnBlUHFjRmhuaktjOXh6V1I5X1Z3emV6X2tlZGNqVmJHbEFMTUJlZlVBdThQd1l4SzRkWlk1UThaM0tMNS1GN1R4eFk2ZjhXTWIzbUZqeGZlRmlkMkRNRlYzZFNCNXczZXNSZWtTN19CVEtCc3pBVFBVWXhhLWNvTWN2QUQ5LW93UzRJV0h5ekx4ZFhTaUFTcTdINGVNQQ?oc=5",
-      "source": "Club Melilla Baloncesto",
-      "pubDate": "Fri, 03 Apr 2026 09:20:53 GMT",
-      "imageUrl": ""
-    },
-    {
-      "category": "Deporte",
-      "title": "El ascenso a Tercera RFEF Femenina es cosa de Cuenca - El Deporte Conquense",
-      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNY2t3b202N2t6TURwSEpnLThWY0FKN1czSERWd0ZQNmtkc1hUOUdGTjZaajZsN28xZ3JKYmxyMUxmZEJOdmNNUGlYT2ZwM2hLZ1ktMkIzMFVxSV83UFRRdW80SkNwWWFEeTNOWWpnVTE5RWdYMzhpY2ZKWHk5YWdCNkh6OVlpdlNscnJvWjlrVElSeWJTSUZTZmdTbXQ0YWtZT3RvNE1CMWJPMnB0VkFpZWJlRFVVUEFqQWhhcWhvUTVsVmVLUnBLUmJKVnU2a0k?oc=5",
-      "source": "El Deporte Conquense",
-      "pubDate": "Fri, 03 Apr 2026 09:20:50 GMT",
-      "imageUrl": ""
-    },
-    {
-      "category": "Deporte",
-      "title": "Abierto el plazo de subvenciones para deporte adaptado a clubes y entidades - Vivir Ediciones",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPVHJsZThHdmRMem9KRDVjMklLZ001WmhfV2lQNUF6Um5ReFhzWnNUcDNXN09UNUk0SHdndlZGV3pBd0RGX0tsdGVvazhjSS15Z1BLS05xVGFLeEZVYmdjQlU0Q2lFdVBSZ01qc0xMLWh0N3hiWmZOU0l3by1udEFRa1RNMF9Jb2NVOWtwNHduWnAwU3NzMl9VRHlycEtiLVZpMTdyeXByVi1kdmJIX2ZwY2dB?oc=5",
-      "source": "Vivir Ediciones",
-      "pubDate": "Fri, 03 Apr 2026 09:10:18 GMT",
-      "imageUrl": ""
-    },
-    {
-      "category": "Deporte",
-      "title": "Susana Rodríguez: \"El deporte es donde nunca se me ha juzgado por lo que no puedo hacer\" - IUSPORT",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOUzlRUVZ4dUlGVGhOQUwzNlh1a0pycGMzRlZWZ1p2eXJVM044OGhMdWpoZkY3M0tBeVQwYzBiemM3Rk9rVW1pcEZUcll6T2VkbFV6SWhKRk55SmhzSVFfcW1WbGJmbk5QZHAySndzYVZCaVBSS21LQlExTEZkWTBuM1JoWklLQVNtb1JSVGc5RV80VmtBVFVDbDR2MWlxeWdnbjVnMU9ha3FBYnI1dzVKamRQRWtVblk?oc=5",
-      "source": "IUSPORT",
-      "pubDate": "Fri, 03 Apr 2026 08:49:10 GMT",
-      "imageUrl": ""
-    },
-    {
-      "category": "Deporte",
-      "title": "El Imdeco aprueba en Córdoba un presupuesto de 833.000 euros para fomentar el deporte en 2026 - Europa Press",
-      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQSXNBRGEwX1JlcERnUXhmWHVpSXVyZHljeThjbWV2QkdFNDhfS3ZDOWN5NEhmTnBycXh1bkgtU2RYTWhDU0JJUGRjb2FudWNzcDc5VGRUMm1LRVRydVp6RTBEZ1hqNkU0aGlsSlNHS1NkRkFkLXFhREd1SFpLTnAyeThkSlNLYVpVb2RVNUhUM0ZSZDVSSUlCaklYVFNZOFJEWWNFUmIyU0dELWJKQVljRWU3c1pQQ3hHT2FhVm9LLXhUZkVzRmhrM0FZYmxheTA?oc=5",
-      "source": "Europa Press",
-      "pubDate": "Fri, 03 Apr 2026 08:25:18 GMT",
+      "title": "Esta es la agenda de los equipos de A Coruña este fin de semana - El Español",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPUlNfdGJfckgyc29NT0owd005R3RkNGVTTlpDRmRjaHItNWtlckJNRm84ZVhuRHhhRnpVN3p3cmFzOVMwRlhwVEtwOHNDUWNoQjAwcC1xZTczNzlGa3o5S19EZ19OdHI0a1pxM01fNUNLTzlwR0ZYNlQzdktrVGhUemVraHBWdDREdHAyb1Q4MV81SDF6Tk5qS1l0aEgycHpQVFgza0F5SUc2Z9IBrwFBVV95cUxQY25qd1c2WmZUME5hZEZDc3VLU2xDTXdQVmU5QWtqeEc0N3Z3RXZ3ZEVVY2t5MmRobVlBM2sxOUpfdEZqTDZaSjlpaXY3b21rMnVuYk1PeEMwNGVPOG9pYWlzTWgwaUVRVm9XNl81TlVFRXZ4ZGszbklWU1VaMW5VdlhRRWxVRE9hNldZNTNOVUpnYnlHdlYwTE1paVR2a0hvdThCcE9UcmZDZFRZeHNj?oc=5",
+      "source": "El Español",
+      "pubDate": "Fri, 03 Apr 2026 10:28:04 GMT",
       "imageUrl": ""
     },
     {
@@ -87,15 +87,15 @@
       "title": "Diputación colaborará en el proyecto CLMAguaYRoca para la exploración y documentación de 27 barrancos en la provincia - El Deporte Conquense",
       "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxON19sV25jbmxjME9JZE80Q1c0alFmUmJzT2lNV09ZZmFzcDhobndUY21ib1dlNk1nN29Mbl8zLUI5SUQwNS1HVFZRaksxOE45VHB4c3FRWDNLVlZoTi1oaFZBTHBfMkVEak9NS1BKSWpmVmlPZnJXRjBJTG9fZzd6OER5YXNHN0I0WVNVaTB6Y1o1VEozVUdMZzJ2ZVNkbmR0ZDhPWENRSEptMEZ6ZklPOXZwbXZNVFdJeTVHNnZQeFNZOTYyZEJDekU3QkFIQ3hLSzRTUC1sdG1FLUl3Q2k1NHNkQlU3LUlhMDBudjgwWnotZkZhdVBYU0NBb0lXdV9DNU1QS09Zc1F5NlE?oc=5",
       "source": "El Deporte Conquense",
-      "pubDate": "Fri, 03 Apr 2026 08:12:39 GMT",
+      "pubDate": "Fri, 03 Apr 2026 10:12:00 GMT",
       "imageUrl": ""
     },
     {
       "category": "Deporte",
-      "title": "Portal de la Marina une deporte y solidaridad en su tercera carrera a beneficio de la asociación Marina TEA - COPE",
-      "link": "https://news.google.com/rss/articles/CBMimwJBVV95cUxNMGI2bmI5SWNJYl9WUHFNcktjWDNrdnBFV1h6cEU5Zl9VZ1oydG5rT3h6bUxKVmkxdG1TS29Ud0RtWDJoUDdMMWlaYXp1QXdxR0lFYVlSczBtaWp5dXFEXy1UYTJ4aHJGRGxYeHMzV3hWcFM4NkkyQUNnX0lrR0dZMEZiWWJwcUoyUTZ3MERJNmNWU0c4VzVxb2pLbHFpMmFLeU1jV0FzcGtsTXBHeklWN0ZLYXl3V0MxQzVGc29RY3JkQ3p3SGtRTWdnalZLS2NhTUtJMWdtbjNLRWlIXzVzTGdwQWxwbnYwN1RWbENuNTJsQXZ0Tl83cEVvUkN0THJrMG1wQldmc2xKTFZvVTlZSjU1akFGMXExZzhF0gGgAkFVX3lxTFBGMEtMOTJlMnI2Ql9Tc3ByUkpIenNfcVNhZGkzQXktU0J5UVVQZUROaDBVVEw0aTJNYnh4bG1WNWZqRE5BZlRIUG5zcGt1Q0ZJb25ISTRtc2xCUWhFSklNdG4zaXhoTXZSeVF5RVlJSHRCN1p0WUtDMlFSNmYxdjkxdTAxb1NtYjl3ZUVXY2k1LUx6R3M5MHVTQTRtclZGdldSOWR4UXhXekc1SmZqbXI0c21xV0lCXzctWUUtNC1PNnBPRUNuLTBBc2p0Wl92SnV3MlYwdGFYT2JpcjE2Umg0QXdadVVJalpBU0JLMlpackVjMl9vWGduUDBISk96N2NNZGp3OW45T1B6ZjNsQmlKTG55OXJtSXJkX2ptMGlVSQ?oc=5",
-      "source": "COPE",
-      "pubDate": "Fri, 03 Apr 2026 08:00:00 GMT",
+      "title": "El nuevo Infobarómetro, dedicado a la salud y el deporte, refleja que el 66 % de los vecinos y vecinas de València practica alguna actividad saludable de manera regular - Ayuntamiento de Valencia",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPY3R1anA3M1IzWHhLNFAyR0kxWHg5czNIZWZuY2NZVzR2U2NJdUluMG5qZkpULTgxS3NwRXkwandUNldtbXJjMGZ3dEhRNFlHRTY4WEFDTWNQR3FUcjc0LXBSOW5BWUFyU1BLNF9oRXdpLWxQMmwwMzVYVC1YRDljWEVVRTE2Tng4SVVwLU9wOXZSOVo4aEh4TFl5Y0lObDNWVFk4Ukh3?oc=5",
+      "source": "Ayuntamiento de Valencia",
+      "pubDate": "Fri, 03 Apr 2026 09:44:30 GMT",
       "imageUrl": ""
     }
   ]
