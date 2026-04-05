@@ -1,13 +1,77 @@
 {
-  "updatedAt": "2026-04-05T07:08:40.651Z",
+  "updatedAt": "2026-04-05T12:59:48.116Z",
   "hoursWindow": 168,
   "items": [
     {
       "category": "Deporte",
-      "title": "Crónica del fin de semana del CD Triatlón Lacerta - Segoviadirecto.com",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQSDFVZVAyakZkUVRKbEd1Y2ZQcXJZd1k5bEY4dHBfRGVwdlFOUU9TdU45dDd1Y3N6WVVWU1VjUDZJU3ZJNjFiN1JMdDhoQ0YycHJtSDliY2RXOWdQZ3N3dHdTbEUwRnAxbTNuSW1ZZUowMHNOemxYRkZXQnRoTXcxa2s2WlVRS3NXWlpEY2QtSQ?oc=5",
-      "source": "Segoviadirecto.com",
-      "pubDate": "Sun, 05 Apr 2026 06:26:00 GMT",
+      "title": "El deporte de salón que está de moda entre mayores de 65: mejora equilibrio, flexibilidad y coordinación - SPORT",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOb0pZbnhqX0NtRVdOZ2lFNklPVlpIb0RvdlBaTGphTG1MRUZ1d1BjWFBSN2hfZno4eDhZOXhwMGlKZDljUFpveVZGY1JEUnBfbUkzTFJkN0dRS24tbDVpdGlqbUFOR2NZYXFMUS1TanBITDZ6YlBkNExhTWVMNGkxQW9iZ2puMTJzZTRzM0NmLXNBekZBMXB2TGV1Rnl4Y24xV1BvcDRrbERraF94ZTlRYnk3T1FIVHRtdlBrMkJwOGdDQdIBwgFBVV95cUxOc3JvTnp0dnBtQ1VBME5VdHZDTDZsWGd3UW1SRXA2WjVuZENPZ1pPMDBMek1XekJLdlBWOWJ0eWJpSTZBcUdMdjJYNnBLeXVxWGN6eVNteS1PNDdRVFJ0cU1taFFhQk9fVEhGTEZFWVhQWDBkenhhWFlWd0RoYWJLZTU2SUdPaTNpSUJNM3pHbDdIT0hCeU80aGVQWEZBVmdldkhXMGNmbzBoLW5vbHJuWWpnb3lpT04yN0I3elRHUkNnUQ?oc=5",
+      "source": "SPORT",
+      "pubDate": "Sun, 05 Apr 2026 11:37:11 GMT",
+      "imageUrl": ""
+    },
+    {
+      "category": "Deporte",
+      "title": "La élite femenina internacional del triatlón abre temporada en el Anfi Challenge Mogán Gran Canaria - Radio Televisión Canaria",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPOWRoUHdsS1JoRTZWQzVQbHpsOVhBRmxHVFlSQ0QtSkNRRHIzWDZ5eXdjV0ttaGxvSzVtcWFKekFtOXZXRHh0Rjk3V1VqWnU4anl2UjZkdXhGWWxONnhlSXA2cXFvc21IRU1UOVo0eWdobDB3dmJmTHF4Vkc2cEFFY2NGVHIzSzdQQlZYVGJKcHhJMFlLT0VmdnIyRHJRSFJJX2Yyb1RlWHNFT2ktTWpWbms4OUtRWFk?oc=5",
+      "source": "Radio Televisión Canaria",
+      "pubDate": "Sun, 05 Apr 2026 11:36:34 GMT",
+      "imageUrl": ""
+    },
+    {
+      "category": "Deporte",
+      "title": "Nueva política del COI: solo las mujeres (biológicas) competirán en categorías femeninas - Contra el Borrado de las Mujeres",
+      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPbENZNnV2QlpNZHdaVmRPd2ZzVTBERUM1VVNWVkhQTGFZa0tzcFBDTDQzMVoxTG9JYnNMTWIwQlp3YVg1aVczamQ4Y1NwNDNuU1FhZVlvMVRyVkpEQ3RmQXMtTTBWYTgwdF9KR09PckJhVFdlQkhRbi1scE9CWmNxbWduNHBFT2dnVHpGd2hCM0JWbU42ZG1VVHlZX2xCY2FxcWQ0clo1UTZZalZ2cVBvX0ZNYVozajFpMnFjazlLUXhKckt1d2I5bjlPWWtLaWxuSDFMdlpvOA?oc=5",
+      "source": "Contra el Borrado de las Mujeres",
+      "pubDate": "Sun, 05 Apr 2026 11:23:43 GMT",
+      "imageUrl": ""
+    },
+    {
+      "category": "Deporte",
+      "title": "Dolor en el Jerez Natación Máster por la muerte de Boris Pallarés - Cadena SER",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOQUwzVDZzcjhsdWdkYm41dU14eVpCQXhGS2ZRYjVjY0FnNXF3aWMwOU41SHExNHlxXzVTbmpiRWE4akluRXdjN25pSTFjV3l0Y0ZUNTJ6eVNXY2lGSVNZZFFNVEgyNGJERFBtaEk5OU5oOVF3anV3WnFRVEdoM0xlZ0FpUXVFQlpsOEF2VWJEVTF6ZVcwdVpKZU5aRndrd1hFdHRGMVptMGIwbGNLYUswNjZ2YkRJWkpnTm9zcHVB0gHSAUFVX3lxTE9iaHdoQzE3X0lMR1lSa25SNnozbWxxMzUyMFJPVmZDTDZKS1Y4b3hhVEFXYXJqYzIzYzh4NjNQMWZyZGhGMk53d0p6c09GVmFzTDZBVjhfOWt4a1BaUVdVQmhtNnJ4bl9nSVNEcWhYM0QxZ0t1czQ5TFVxX1kxbmNlbmxFSHozclBTZ3ZQTURwZ3ExVmJzMW5CQW9pUlpENDBGVkNHSklMN2hpdXByLTk1YXlzekN1bV9NVEpGNUNvZ2hpX1ZlVWIyZ0xPQ0ZoaS1Hdw?oc=5",
+      "source": "Cadena SER",
+      "pubDate": "Sun, 05 Apr 2026 11:15:50 GMT",
+      "imageUrl": ""
+    },
+    {
+      "category": "Deporte",
+      "title": "Copa del Mundo de Tiro con arco 2026 en Puebla: Previa y cómo ver a Maya Becerra, Alejandra Valencia y todas las estrellas del deporte - olympics.com",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNSjhVcmVSN0MtYkR5YjVNVXItWjJkZEtvWFlTUVQxb0VxcFkyOHU5REpWVTZpeGs5OTFHbGFyY18wWGlYVGRMcFh1OWpRM2VZaURsV1h5WDNWZ1ZneEdhYXJ1MVg3NUVYSjBQSnFYM3VVd1BTODRzT0F2LUxzWVA5Y05TZ29hd0dyejJhQ1RUU1hJN3BCdF9uNm52WnZqVE9qYzZMS2ZqbFI?oc=5",
+      "source": "olympics.com",
+      "pubDate": "Sun, 05 Apr 2026 11:00:00 GMT",
+      "imageUrl": ""
+    },
+    {
+      "category": "Deporte",
+      "title": "La Gala de los Premios 'Cultura del Deporte' se celebrará el próximo jueves 9 en La Atalaya - Cadena SER",
+      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNZlV2TjN1TVdNZXpQd3o4Szd3SU9xTFJXbGpUdVBUZ0FhS3hLWXQ5emptdVZGZTFSSFpJRGVoc3czajFONTRJREhCZUpCTFktekNHbE1oWFFoaEdRamNTQV9RUzhtbFAwN3JnRzhYbUlZTUw3UXY2akxHaFh4RFZBTXZxYVg0dkV3RU1xQ1IxZ01ZLVNiM2FmNzcwWWtsNTI1bUEyRV9HaGVVOExhVGtsZEdaVEhZWENueVVYTGJERWlIQ19xX3psTkJvNE5hUHFsNl95TWU2RDZsc25QUlHSAfIBQVVfeXFMUGprSlBhV0xUTTB2MnZrcHRwYjN6cWQ2WDFHdzg1eGo2cy1qVWlhVDlVVHp2QUpxUHoxWXJvV1RQT0JPbzF0OHJ4c0JfazdzUW5IblhTaDZ4RG9ONnJkdXJFdzVpR0ZhV2NSZzRNMjRNdzlsNi01UF9jNERqUFZpZXJHUHc2U1BsRS1pY2YtcUZDYmUtV2xiUHlZaTFBUGs2Qi1ON3ZXNEItRS1SZ3hSLUladzVIWG82MEpyellkb1FOZk16cW1pOWVUWUVteG1nMkxPWEtJcGFSVkZ1M2RBRDA4OXgxbzJ4NUw2SGtKRzgxaVE?oc=5",
+      "source": "Cadena SER",
+      "pubDate": "Sun, 05 Apr 2026 10:53:40 GMT",
+      "imageUrl": ""
+    },
+    {
+      "category": "Deporte",
+      "title": "Organizaciones de discapacidad reivindican más programas europeos de movilidad a través del deporte - La Vanguardia",
+      "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOZ0pmOUNDeTRqcnA5eTRvckNnNWYwR1l0b1NBVUttelUxV1dqWm1jeHNlLWg1ci1ZMG1EdGpwbW8wdk1uYjd2NDRnSjBaQmNFR09NcXVzdGxiZmptVlhfNUU5dEdDQVVxREtXYi1fbWNGY3d4bUdXNl8xWFNzelFDZThybmhZRkFYdTUxQkd2QjdicTNsNW1GTkJnbGRvalFWa2pJN1prSnZSa09MbERoblhNbE1wRUM5VE82aEFmYVlXNVZ5ZlBGeTNhcW9KTnBoX0F3OGN5WEhpT09VTXpsUVBjanlKUGdBVjdUazRpZ2h0VHNBUWdoLXgwZ9IBgAJBVV95cUxQWWdfSTF0UG52ekltWFRnU1dBRlYyMzc3TC1BNDdzSTFJTGdvYkxGT1huVExaT1NWYmFuWmJuSF9pQWhQNVN4UWg2UnlxckV3emg2NXNaU1dpZjBjREpPOHdGUms3aFpoMGR3bVN1QTA5OWY2U3IwVlc4N3dabXBQOV9CbUk1azBpMHVqUWt2blFiaHRqQlpNaXlUM1VhXzJhN182Z1N0M19Mb19ibmZILXBLV3M0RzB1TlptWC1HT3JWMGdHNS14ZnpldEJrWGZNYll6b0pxcDhJWVdOWTR4aldwM2FGM1hSV042Z2ZmM2d0eUJTVU1OQnFTSVRMNW1G?oc=5",
+      "source": "La Vanguardia",
+      "pubDate": "Sun, 05 Apr 2026 10:20:00 GMT",
+      "imageUrl": ""
+    },
+    {
+      "category": "Deporte",
+      "title": "Jornades Esportives Joves en Abrera: Deporte y Diversión para Jóvenes de 12 a 25 Años - El Llobregat",
+      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOTXFPUkdRbHNlajh4NERMcFZHVHZnSEc1RmlfWU9SajBocm1RRFJfODlMWmYwcDI4ZTE4MXcyeFE5TkdWcl9rdTE0M01rTWlqYWM5VmtqRFhKZ3JTNVNOb3I5SkhrRnFHN3J6M1dfRnA2bTV3M0dkaDRZWkZUMGVjZU4taUhDaXprTndCamJYdVBlMUJQMjZVZU1uV2NrT1p5Y0cwMU85ZG9DaXNPNzF4OFlEMTBJMTBTTWM1cjFTZkZjeDF2Uzh2elFEM3VpcmE0WmFzdzNPaGdDRkNCanRmUGJWMHVfSlk1NWVkSHln?oc=5",
+      "source": "El Llobregat",
+      "pubDate": "Sun, 05 Apr 2026 10:17:05 GMT",
+      "imageUrl": ""
+    },
+    {
+      "category": "Deporte",
+      "title": "Barcelona transforma los Jardines Bacardí: más deporte, seis pistas de petanca y nuevos huertos urbanos - Metrópoli Abierta",
+      "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNVUhmMVMtSW5LWWNzTjNKNWVqdTBRMzIyUlk1OVc2QTByQnNiUFZZVTZYNWp3RkJtR3llbXpQV05oX1lxVGdNY3BaNFJ5RHdnU1NaTjgyQk1ORnljOTFFdE9IV3A2VmhfVGNrSWtoQ3JScEQwa3NBVVI3N1dQSXk3cllQcDZ5YXhvUzlNN0ZtZnllaTZlMmotbzNaYlF0ejdKdEFxUVptQ2lPMklCeDlqekRIV1hpV1hNeGxtZWxiV2dLeDBNU0EzaHBIRmpMZ3JzNHZsTXhtTFI0N1lkVmhlRk5YN0c3R0k0WDJjNldjRGZjdHBESmxmVDNvQ0RPX1pL0gGGAkFVX3lxTFBQZ1diYVl2RkJEZ3FUVHRnckFlN2pHVmM3aU91UW4wQ2hSOTBRUkJNQUI5Wm9Nb2tIdk5lMVBaZGd1MXpTTlFJVzdCanBQWDczODNVRElxY053NjFaSkRwVk5qWHhRc21SN0ZjSVBRVE1yT3VobU9KLU03dER2dDRDOFUxalRVQ0pRZHhmclFZU0I4ZnJ6aERScnE5bE1yUlVTU1liQUpzUEJZNXUzbGMybzdmRzRGd2dodlpwcjd6ODYtd21YcmJtdU1wNy1Yb3NIdW1YZGhmdE9Wd2hYam5oT1BYbkp6Z1RYTTF4N3c5VUZGdVF5SjNrejYtNzBUT1dwSGdKTlE?oc=5",
+      "source": "Metrópoli Abierta",
+      "pubDate": "Sun, 05 Apr 2026 10:15:35 GMT",
       "imageUrl": ""
     },
     {
@@ -15,87 +79,23 @@
       "title": "Recogida Solidaria de Libros - Calatayud Noticias",
       "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPdjZLSjFPQmdGQnJLSUpFVVl0Q3g2VE5fWW9aZ1lTa2dib1B1anI2VE9wSlZvLXR1THRFVVhaenRnRXRreXRxMmxUVmhNektfaGxQUWpseFRRRHVOWmpjemxtcl91UFJxTDI1U0JZdUV2RlpjOUFndmJWLXJLa1J6dEE4VU5vZXBWT0UxQmFPZDE?oc=5",
       "source": "Calatayud Noticias",
-      "pubDate": "Sun, 05 Apr 2026 04:01:56 GMT",
+      "pubDate": "Sun, 05 Apr 2026 10:01:57 GMT",
       "imageUrl": ""
     },
     {
       "category": "Deporte",
-      "title": "EL RODEO NO ES «DEPORTE», ES TORTURA - Insurgencia Magisterial",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFA1cmZGcWRYUUhiVG5WdWcxZ0xYU2Z6VFZISDlQbUdrZ1l3UGg1Qmg0dUNrdHJwNzRRYlkxS0dkcDFzenFCd0lRQnZXY3NSbEc2TWswcjZkNGpXZjM5RlZWakFhTi1EZzlWNnQzMzNQSFhDMURKNWxfRw?oc=5",
-      "source": "Insurgencia Magisterial",
-      "pubDate": "Sun, 05 Apr 2026 03:40:44 GMT",
+      "title": "Barcelona aprueba la remodelación de los Jardines Bacardí junto al Camp Nou - El Periódico",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPOUN5Q3gtQTRESnlsZHN6aHlvaWprYkJhM3FoNXMweWQ2Vlc3T3V1Ym80OUlVRm45ZklXUTJNRkpFQUdwUldFOFlWZzk1VGtSLUhUcVdaaWtKb1VDaVU3NXlCblllNGJMczNKRzFKTVNQZmROSkRSaXNHcFVBVHpmLW9HQUN1dWtLY2tVVzlDN25tNnQ1RUdOVU9uM2R2UFFMbWpwZ1NuSl9aNzF5V2J6T01VcXM3Zk0ySGfSAboBQVVfeXFMTklGSUFZaktBemxEQTZVN19IWjdxZjAxbEtlTDZMR2l1VktnTW1kZC04eTJjS2NsQlZCQTRQUDFZMUFQdm9jZVNMLVRST1dmU1VOMG81M1djTGs4Z2ZHVmZ1VDFCS3pfRE1jbVNkU0dCUjlIbWtKSFB1ek11STZzaGNTamxwano3V2gxX0J6RG5JaEg5em1zbHdrVkpHeTg4el9HTHA2UHQ0RGxvOE5EeWlOdGlHY3htcXp3?oc=5",
+      "source": "El Periódico",
+      "pubDate": "Sun, 05 Apr 2026 09:49:45 GMT",
       "imageUrl": ""
     },
     {
       "category": "Deporte",
-      "title": "Sofía Toro, la campeona olímpica que ahora quiere enganchar a Galicia al deporte: \"Mi vida cambió mucho tras la medalla de oro\" - El Español",
-      "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxNZl9IdHRCVXZzTHJ4b0hiSFlaQTVVcGRCejNYQnpnMC1iWlgzYWtpRlBhWEF1RklqRmM4dmF0ZG51UkxLaG03MHdpMk5ZQWhUTHpqVnI2S21SeGlONXVIWFhvSlJJcklET1U0VjlWaGloQVpsTjlDY0dYdzFZMGZCWGJPbWZHVFpaZnB5QmxSLUFhQjlyMl9QaEZGOE1rR0RYNXJ1di13aVVwQ21ldW95dEVXYkpWZm54ZEFaN2psMnZfU0UxX0trdHowM3VVMzBvejNsbkNpaUpDdU4yZ2lmZ0tVem85SnM0Sng5aXh2NVprNXE2UGczeTB2VElzRXVZbVQ1Sy1HRXhNNmtoQ28yZG1GQdIBmAJBVV95cUxOV21ZcDNUX1d6bDB2NDJBcVhYQzNXYWlUQUE5YURsUkVUOTh5eHJEM2E1ZkJLZFZySkQzX1lWLWMyU2thV3laR2dGSDZNMnBnQXRJNGtTSS03QVF2UmRUcVh1NDAybG9lRXlvZDJsY3lKVUJvSVFhVng3bU5zUUtxN1RBVEcwdHdHR3JmcndFNnEwRWlOcnZhVkk1ek5RckpoTHp2WndzV2lQVms0RmlKLWVMMkptc2RQXzBwcHcyZkhfRWprS2ZzbVpuMXRxX19KdUZTeHJ4SFVsRFZQaTI3ZG90cUhwX3lJZmlYam1qaktuSVlwM3dmWjZlSUppd3ZkNjF0OG1LX094bFB4Q2lqYVVNM042TWlW?oc=5",
-      "source": "El Español",
-      "pubDate": "Sun, 05 Apr 2026 03:00:00 GMT",
-      "imageUrl": ""
-    },
-    {
-      "category": "Socorrismo",
-      "title": "Alerta por oleaje elevado y ‘quemadores’ en playas de Mazatlán - www.noroeste.com.mx",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPZVU5VmxKZlpiQXAwOFlwSVFhSFFpVFJnQXpONFZRRzd6dV9SaUp5WXFFWTdfTFFlZEFnbFFORjg4VFNMLXdoT2FnVTNSSlp5c3ZsNVdVLWZwUjVBWEdBVDctbzFrTEVJSGg4bFplUkM4RDF4MG5PNGpveVBSN0lsZjBuZXE5Q2thbDdESk1faF82alNKUXpfbXNEeloxX3FkM3BtYXZMM0dnTXpX0gGyAUFVX3lxTE5FZnlBQnhubUh4S29Gd3NjVTlmUmdjVFl1UFdnOUF3S2lyZUhmdmNwVXQ3UnF4MzNQYnQxSjNoaEhSamgzOUlKUExNRWV1NHdxWDROZEhkaHQ5V2FmaHZkTUduRWdkZENnRmNRcFF0OWk4YjVETzcwTk1fbk1MdmlEOGxnUVNIN0tENXo2V3hQd0h0cTFaamVaNXFOUTMtZXBib2RNTW9JM0l3Zkl2bEtMZnc?oc=5",
-      "source": "www.noroeste.com.mx",
-      "pubDate": "Sat, 04 Apr 2026 23:21:48 GMT",
-      "imageUrl": ""
-    },
-    {
-      "category": "Deporte",
-      "title": "El Triatlón IES Yaiza arranca el 10 de abril con la vitola de su Viera y Clavijo - La Provincia",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPTWhXYmZxWFE2MEszWVZEYzhXb2FCVkxCamVtMWRNZ0ZNUURHaTlXcXhQQ0pnMjl2RWtpVWlGWmRsVGM2eU5OdFVRdXRkcVFqOFB6c3lhQk1icEd3aHVST0pDMVJ5a3Z6N1AyMXV5Y2Ywb05qTVFfYnNWVWxJNHFiYmdSeUs5ZHd5Z1RPM1lsWXEyaWhPRkdV0gGcAUFVX3lxTE9aRFFRbEVJbWR5S0tWTHB3ZmlqQ05pRm92TTVqS1U4S0haYmg3MzQteXdlellUWHB3aHE4RURGWTdtMV80bF9qbm04SnRtTU9hU3NPOGNZdWwxNlNrb3VBSFQwWFMxcWUyZzU1UWQ4MVp3dVZXWG9fcEw0M0NSc0Q0V2ljbGJLeGVsZTB1OW9xWG1QOE1BMTBxbURFXw?oc=5",
-      "source": "La Provincia",
-      "pubDate": "Sat, 04 Apr 2026 23:00:40 GMT",
-      "imageUrl": ""
-    },
-    {
-      "category": "Socorrismo",
-      "title": "Torremolinos adjudica por un millón de euros el plan de socorrismo y salvamento de playas - diariosur.es",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNU2RGSDhKbmhFbGxFaTV4bUhRcDFuUTdRWXViLWw1VTBQWlc5amJMZGFpTTVvUVN2TjBfbDJqTWpOQVNxZTZwTEdPU1E2RGxhLWYtdFg3MmN5QVJOZTVwdWhDM3pvRGVuNElQTk05Wkg2em1kQk91dGNzcjNNNHFPdlNRUjRUNU0ySDh6b1E1dFBkcnkwNm9pZHJmcVBrYlEtc3ZyLW9LWk4tcFpqbWpvaHI3S0Eycm_SAbwBQVVfeXFMUFhUVWVHTU9pSThidDN3R3ZiMjhIN0xJUXMxUFRmMTNSaWxXaC04VHg0ckxYdi1kdWNkM19iREVQLWs4NzNQWTR1YU9xbWdfUUdaWDlOd3RXVG81RHo2bUs1a01pbnNkODhISFRlWWk0TGdpdkROVFlNcUV1V1VIRnBhekQ3TWRQcjRxVFZHZ09KdjNWMkh0eGxicHFCOG5INkpIWEFrSDE0Z2dIcVVYeWJFc201NlpqZjh2Unk?oc=5",
-      "source": "diariosur.es",
-      "pubDate": "Sat, 04 Apr 2026 22:04:33 GMT",
-      "imageUrl": ""
-    },
-    {
-      "category": "Deporte",
-      "title": "Ferrecal, la firma que impulsa Ferrexpo y empuja el deporte en Santiago - Radio Líder Santiago",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQZXN1WHhjT3dDcFVNNEplcVc1a25BUkdrMFEtbm94dnYtNVVpREhRS25Ed0lCaG5CdjFIY0dEZEE2UVhDT2dONUNRaW1uYWJEMEVHUk0zcGhyVk4xR2VYZWgyOFF5bUNNSDVoN1pxQUUweWMzZTlmR0FKS2pWNDk5dWppM3ZPamZOZ1B1YjRZbjZKSUVEb3BQSWJQVmVDbVR1eXctcg?oc=5",
-      "source": "Radio Líder Santiago",
-      "pubDate": "Sat, 04 Apr 2026 20:39:37 GMT",
-      "imageUrl": ""
-    },
-    {
-      "category": "Deporte",
-      "title": "María Martín-Granizo, diploma paralímpico en esquí: “El deporte me ha dado mucha confianza en mí misma” - ileon.eldiario.es",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOR2pFczRFdks1dWN6ZlpkRlR6Q25mTkFZTHlsZEtHZTlRN0NqNWpQRGE1TENEeDlaTldXR3pqLVRSX19IbTY1M21sTkxXRDVEM3hnbEFPN3hvT2hKZUFvOGhJRzdybjF4QkZELW15anFJaGN4amtDQVV0eDkzcndSNGl0MTh6d1pZcDlpSjJTN3Q3R1dBMHZIc3lwLTFjV3hudlNwSlNwQ1lvVGwtUkVBdVQ2UXgzRGhaR2Zj0gHAAUFVX3lxTE42d2tKbEtFNW1CdGdnc3U0VUg2NFIxa0ZTd1NPei1JYTMwc081enNMdlRGV0RpZnVYNWV1XzdDNlgxU3NsRlFRRnlIT2J4UXFBMVFGWTBmZzVzc0xIYWVjNDV6d2pVS3kzVmdDRW1tWDQtSEhVU19xQms4b2p2Y3RkMlJWbTd5eDF3RTNwSDR6Zy04SWRDb0pWd19QWnZKaE5CRXgwWTlMSjByY01ON1UyNmh1WVJQM3BPU1hFQTVkUQ?oc=5",
-      "source": "ileon.eldiario.es",
-      "pubDate": "Sat, 04 Apr 2026 20:23:26 GMT",
-      "imageUrl": ""
-    },
-    {
-      "category": "Socorrismo",
-      "title": "Alertan sobre incremento de oleaje en playas de Mazatlán - Revista Espejo",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNREZzcnJWRktqeTNMWFF1VGNFQjN2MENWcTQ1OGJiVnRnMldCNG43YkJRamhEWkNUWF9udkFjaVhFX3NoS2F2NHozb25maTJlb3VXMW5oZ0RoVFpGMy14T0hEelNwYWctZHc3S1pXMFVlS2lVa2tDLXBuaWRnUlJ2Vi1FWWlzRk5sVlEtZmg4Nm5pMzgxcTlwZVpn?oc=5",
-      "source": "Revista Espejo",
-      "pubDate": "Sat, 04 Apr 2026 20:05:02 GMT",
-      "imageUrl": ""
-    },
-    {
-      "category": "Deporte",
-      "title": "Ni menos fuertes ni más frágiles: la realidad del rendimiento femenino en el deporte - Onda Cero",
-      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOdzJ3alZuZDRTRHFzMU9IcEdhdEFIeTRXUDkwblZNcG9PUkY1aDBYNVVQRFBJaWlHRzJqNEx1ZkMyOG1WbUdzRnNCY0dhc0FiaUw1UlA5NE83YmQzREVwcy1MZExwZVZ3WktqLUVEV3BnbDVTQlR1TFJpRFFMMklfak5scXdqY1d1TGd2NzFmalJPRldQdWhINldDb3paRVVJTm5ReVZyNXVtcWhTLW52cEVJclJsbXI0OXNlSEkxZTdvc25KNmdSZlNIbFg0Nmhk0gHQAUFVX3lxTE1wdENLVGNidWplYWIzbVdCbEFmWW1PbWFMRmtDS1pFNENFeEVqWWFxQ3FUOGtqaElGcW5rbmFncTZmME5qbjFsVEY1U1QwSTB4TDZZRHdyS0I0b0JkSWczd1BfTnp4OURrOHlxeGEwbU90ckdsRFJCYXBfSUJyVzVCcXVGaWpRelk3dXlGamlyVEZhSXd4MmdkZXA2LXYtdmZ0S096Tk5ValNTbVF0YTZ0TGFqRTFoMURMSFZnNXpndENQcWZ0b3RHeTJKalZKc0Q?oc=5",
-      "source": "Onda Cero",
-      "pubDate": "Sat, 04 Apr 2026 19:00:35 GMT",
-      "imageUrl": ""
-    },
-    {
-      "category": "Deporte",
-      "title": "Pesar en el Jerez Natación Máster por la muerte de Boris Pallarés - Diario de Jerez",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNZTI0UU1UNTM5YzY2ZnJpLTNEZHRmVDg0Vk5iU2Z0bk5FcjM5OE5FbnotNGIxZlJxaGRtai04OXlWdkFGVFFtcHlwMHd3NDlLRVV5ZmJPSG1NbHNIMzgweVRkMWdGZnh2cWx2Y0Z6Y0Z6X0tOVUtvQXNnYmlmOVJialNHWkFpZ1RMY3pVdEg4MUtaZ2JY0gGaAUFVX3lxTE12Q0J1dnVQZGU5Q0xiSEtlUXpMMFJxTFRVM0xyel9tZFRjdzJVb29vcGFxTHRpTGswV29oRmlrTUZHdHdsSWxWR21EU3owS3JIdkRYdUVJelRnMWc5eHBaLWZOb1VfVmlFajVKR19aZldPQ0s3NmdHS1pUak9jZjdZXzU5NDJ1cllsWFBfSG0zOXppZGlVWXA3VGc?oc=5",
-      "source": "Diario de Jerez",
-      "pubDate": "Sat, 04 Apr 2026 18:52:42 GMT",
+      "title": "El rodeo no es un deporte sino un delito - Pressenza - International Press Agency",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNWWtsajRFYVpHb1JnZjdhUFlzckJVdWsyeW00M2w3WU1rZEt5UXg2WVBZcE9WUW5QbWk2WHNYNFNqM0dUcEJaU1ZwTTZBU2pSZEpIUlVqeE5WNUVOVi1pMFk4Mm9ua0NyYUZacE5jN3kzTkk2ekZSUHUwOVlSMFhCVUphUmM?oc=5",
+      "source": "Pressenza - International Press Agency",
+      "pubDate": "Sun, 05 Apr 2026 09:44:11 GMT",
       "imageUrl": ""
     }
   ]
