@@ -1,7 +1,79 @@
 {
-  "updatedAt": "2026-04-17T19:02:15.256Z",
+  "updatedAt": "2026-04-18T02:30:40.012Z",
   "hoursWindow": 168,
   "items": [
+    {
+      "category": "Deporte",
+      "title": "Igualdad en el deporte - Industria del Tenis",
+      "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOY1Z6dGFUeTZXR1lad29PMUdtTXdHOHQxUl82WjQ3MFZoTEV4eEJTQjlZdnljUjhSUGpodGlucmRrWGpfN0Y1MVRVNlBPb05TMzlXei1TdE9HajJOTnJGUk9PYmxTQXk0RnFjZTBfaU9mT0xEQ3F6cFcwa0VkeFdmd3ZDOXVMYjExZVd1dWdudjY5RTFNOUh4S0N0dXdYT05POXFqd1BoRjFlc2ZEZW5TeUtBZDF2akE3RlE5SEdzZnY2cW9WQU5NWVlVblNQVUhheTc2NDlQdlhUZXg3Qnphdkkwd3VES3dvVE1PWGM0akJidmQzTVZLZU1kYXQ?oc=5",
+      "source": "Industria del Tenis",
+      "pubDate": "Sat, 18 Apr 2026 02:21:00 GMT",
+      "imageUrl": ""
+    },
+    {
+      "category": "Deporte",
+      "title": "Navia se vuelca con el rugby inclusivo en una jornada de deporte sin barreras - MSN",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOT0w1Z1Q5bEVYRHFuWGY5blVEa3QxTzFzLV91NTJWN1lEQkdZMHZaeDBUeDhmOVZFcWtmNUNrNHdEZDB2UUlsaXpqWjg4MWx0anBpVS1oRG45aXJ3MGpDN3V6b2c2LXJUVExObWlBUXpRNWVfM1FUVDdNWVRDdHVXVGZ1ZlhKcTJBaFc2eG5QZTZnMDRldVI2VkJmTFhjWWNNMklGV29mb2ZOb1FfZUhGMURyaVFkWGVDd1MtNG9XYjZzYUZudTBOeElJQQ?oc=5",
+      "source": "MSN",
+      "pubDate": "Sat, 18 Apr 2026 02:13:29 GMT",
+      "imageUrl": ""
+    },
+    {
+      "category": "Socorrismo",
+      "title": "Juan Luis de Castellví publica un manual pionero para el salvamento acuático con perros, en español - GIRONANOTICIES.COM",
+      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNRnN5aEZSakxzYWhyeWctcHhsNGRFYVcyZDBnZ2pNaEN3T29kLXI3RG10UEE3dU9hYmJKaWVIeExyRXM4eFc3VGh2cEhESUhrMTZtNHdHWVJsdWRhQjNzWEZqYVczSUh4VFFoa1ZHOTFiQTQ2SVZhamJ5djB4bVh5aUlMMlM2dnJRekNkTm1DZTZhYXBrSmtlaXBZT1BHaEhQUDdlZzVKMko1QloxblgxTjRDQVMtZUptYW82c0xhLTN3elJsRVNwbEYxNklxTHd5RUQ2QTRvNW9pNTlVZXZWRkhB?oc=5",
+      "source": "GIRONANOTICIES.COM",
+      "pubDate": "Fri, 17 Apr 2026 22:02:57 GMT",
+      "imageUrl": ""
+    },
+    {
+      "category": "Deporte",
+      "title": "La 'Peñoncillos Run' regresa a Pinos Puente con deporte y ambiente festivo - Ahora Granada",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxONlFVWmdJb0dnR0Z2NEtKQ3ExV0dZZU9udXBCY2ZnN1ZlbUVDdzVxbFdoT09NaWhXYnJRZWgwQ1RQaFJqSVc2YWwyOWNaZF84azlkNnVrd0xSNVNURWpJYW5RV0NsTjgyaU1UanFkRE8yM1d1cjVaelc3dGpybFQwWW5jNUZtNGM2cHNNMkdHeDZvemtOZHIweHBUb3JUSm5KOVNBak5YTXMwSGQ2ZzJxTA?oc=5",
+      "source": "Ahora Granada",
+      "pubDate": "Fri, 17 Apr 2026 21:30:00 GMT",
+      "imageUrl": ""
+    },
+    {
+      "category": "Deporte",
+      "title": "El deporte, una escuela - La Vanguardia",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQMXhSOWoxcFItcTFEYW9DZHY4eVZRQkpMbVdaMVFiSjRDa0YxcC1ZVDZsamY2aEtRME1LX0dORmRMUXY2SWt1b0pJal9IU0RnQXZBQkRQd0Z0QmJ6U3RjUnhrTlEyS0Q5TzY2V0NZSjhmbm1TWm5lQmwwa0gwTkFXd0NtSDRpbGJJMThaWWh2LU1CZw?oc=5",
+      "source": "La Vanguardia",
+      "pubDate": "Fri, 17 Apr 2026 21:14:26 GMT",
+      "imageUrl": ""
+    },
+    {
+      "category": "Deporte",
+      "title": "Tomares abre la I jornada del V Circuito Provincial de Deporte Adaptado en la que han participado un centenar de deportistas - Aljarafe y más",
+      "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPREFvUkdaV0JkNjgwQ3djaXFkWkZyNHRNbm1hSUVhTU1kWFdxRElNQ20yS2o4aF9vckNqbDZwMUFwR3dSb3NiUk9zT1JCOERDeXJDay1SblNHdG5pNnJpX1dYaHZRa1diNmVhaU1OQXBzMjc3SXFSRkp4MzVQcVU0R0pMbHhTMG1ZaXQ0V2ZHbFB4S0p0VlFUeFJMUF9ZcWdGVng4SFRNekluVGlIOWFzLTFGRDlnTVVNQ2JQREdVR0l5QjN0U0pJcXgxUFRaNTdyTjE1bmFtYmJEZzlvV01OWTNpcTVMOE9fMmI4dW1faUJNa0htak04?oc=5",
+      "source": "Aljarafe y más",
+      "pubDate": "Fri, 17 Apr 2026 20:28:25 GMT",
+      "imageUrl": ""
+    },
+    {
+      "category": "Deporte",
+      "title": "Broche dorado a las Jornadas Deportivas 'Salud, mujer y deporte' - RFEF",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPNHNvaThSTXZJTEQ4aFVvUF9lQ1ljYkE5bnJmdHY1WjhnaWpWUmppNzItZ2MtUHRJbEJoS3hOVzFZeVhjWUVDUXVNZkNNRWtwQVZJeE8tcTVLeHdWUXR4N1ZNbWU0dU9fblplbGtpSDAyMmp0V0xTZXA0ek10Y21vRUxNejhCYUlKLW9mOGdfdF8?oc=5",
+      "source": "RFEF",
+      "pubDate": "Fri, 17 Apr 2026 20:16:00 GMT",
+      "imageUrl": ""
+    },
+    {
+      "category": "Deporte",
+      "title": "La delegación venezolana de natación obtuvo una medalla de plata y otra de bronce durante la primera jornada de los IV Juegos Suramericanos de la Juventud Panamá 2026, realizada en el Centro de Deportes Acuáticos del Centro de Alto Rendimiento Lui - instagram.com",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9zUFIxNjM1YVJPdmVjbzI3ZVFTR1ZsMEhtZ1dHaFRRTHh3aGxzbUctTmhVU3NSeUZCYjctVUtvakJuak9udHlDMnN5UDlnRTdMZ1E?oc=5",
+      "source": "instagram.com",
+      "pubDate": "Fri, 17 Apr 2026 19:42:49 GMT",
+      "imageUrl": ""
+    },
+    {
+      "category": "Deporte",
+      "title": "Jornada turismo: El deporte como motor del cambio de Magaluf - Diario de Mallorca",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOUzNlRDdlOGkyNEw1Z00yaW5Mejg0TWhYN2MyV0VYM3hQRXVvVFliZmRIc2w3VFFvX19lb3J0UGxpSW9FVmFUaGhpaWJLMHBaRkpaOFVBYVJXYndSQUlPQ25tU0U3ZkRLb0hnUHNmRFdNMVRoNUNmeEVQaUFhV2ZmNmQxcjBSZ2stZXhaZXNFZlJFeVh5LTNlVUoyalBvVzlnOVE?oc=5",
+      "source": "Diario de Mallorca",
+      "pubDate": "Fri, 17 Apr 2026 19:00:42 GMT",
+      "imageUrl": ""
+    },
     {
       "category": "Deporte",
       "title": "Vithas Tenerife realiza la I Jornada de Salud y Deporte de la Binter Night Run - Telde Actualidad",
@@ -20,82 +92,10 @@
     },
     {
       "category": "Deporte",
-      "title": "Melilla celebra este sábado la gran fiesta del deporte con 3.500 participantes en la Carrera Africana de La Legión - Melilla Hoy",
-      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPSUM5RmpYMXQ3YlBRS3dqbEhnYVFuQktxWnF0MzVvRDNtWGdWRlRYZlJla2lmU0YtRGxZSk1FRzVCM0lTVE5ZbThrLU4wQXZMVThyVmt5VXhGOTdMY2RIemtjLUJUek5SaElWWXQwMWtUdzZGSTJudjA0UmlMdVQ3MzZENzhkc0ttODlpZ3JYTFdqcVg2Z25hVjVHVGJrc1ZlXy00THRTdkZLZ2FWSVoySElsZWQwNFVrOWhiWWZQQ1dueUFvdmxRckRUSHF0NE5haFVOcTRFMlXSAdgBQVVfeXFMT0lDOUZqWDF0N2JQUUt3amxIZ2FRbkJLcVpxdDM1b0QzbVhnVkZUWGZSZWtpZlNGLURsWUpNRUc1QjNJU1ROWW04ay1OMEF2TFU4clZreVV4Rjk3TGNkSHprYy1CVHpOUmhJVll0MDFrVHc2RkkybnYwNFJpTHVUNzM2RDc4ZHNLbTg5aWdyWExXanFYNmduYVY1R1Ria3NWZV8tNEx0U3ZGS2dhVklaMkhJbGVkMDRVazloYllmUENXbnlBb3ZsUXJEVEhxdDROYWhVTnE0RTJV?oc=5",
-      "source": "Melilla Hoy",
-      "pubDate": "Fri, 17 Apr 2026 17:58:35 GMT",
-      "imageUrl": ""
-    },
-    {
-      "category": "Deporte",
-      "title": "La Universidad de Málaga estrena clases de deporte en el campus de El Ejido, abierto también a los vecinos del barrio - aulamagna.com.es",
-      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOUm5CU0kwaTEyWHp2MHJCX3NhNjJmMDN4VWdPRVdrYmVQOHhKcTRZeS14bnFGS1VsdWd4bVFaS1NZb1RpZjB2SWhjQjc0clRMMlZpZUd2ZDl3eUxUdHpkdVlVYmlUNFZFbEtyVjRwM1RWLWN5aFJxVkRSM21VV2F6Q3RfY3JPaUtJNjc5QjlOVDlTa1BkS0FfVmZzOFJ5LUxRRUFKVDNYdVRYVUpiNDVRWEtFdmZBWVd1SlRWU0lneUxfQjN0SmI0OVgtbEtSUFBPUGw1YlVwc2VGQTh1aFJZ?oc=5",
-      "source": "aulamagna.com.es",
-      "pubDate": "Fri, 17 Apr 2026 17:28:15 GMT",
-      "imageUrl": ""
-    },
-    {
-      "category": "Deporte",
-      "title": "La Diputación celebra nuevas finales del Deporte Escolar en Segovia - El Adelantado",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOVUZSS3k2Snp4M1ZJelZ0djR2VWlvU3BlWW1YbGpxOFlKRVA0OGtpNGJjZUpMOU9WeXN4ZFdCMjVqT2FabUtkcmZIZjhha2hLMW5iUk5WQk5qc1d4Q2thMDdYdkRDV2Q4bGdDZlJRZlNFaDRPN25uakdXYW5nTU1uS1Q3M2NaZ0Z1S3FXTnY1RmJkSFZTUExVWWNEaVZEQ3RZN2RBZ3N6MGYyZW9vRl9pcU5wYw?oc=5",
-      "source": "El Adelantado",
-      "pubDate": "Fri, 17 Apr 2026 17:26:03 GMT",
-      "imageUrl": ""
-    },
-    {
-      "category": "Deporte",
-      "title": "La Colección Cicloturista del Norte llega a Tudela de Duero con marchas que mezclan deporte y turismo - Noticias Valladolid - Tribuna",
-      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPWGE3eFB1N0EwTEhUYTlBaV9EeWdXNlhxTm5ST01FYnQ1V3RqZVd0REdaLWhObUFndXFnOUtxdnI4WVBzZDZCTTgtdVRPM040YjdMLWZUWFN0Uzg3ZXNxU1FBNXdBSDY2U2QtTFphWmFxUnNQbkhVVlgtYTl4TndVajZPVE1OekQ5NDJoVU5LM3B4ZndfdjBFYUFWYVpvM2RFWWRzU0NaYjcybHprRHdGMUN1VHZrVmNqN2RiUlV3WUlZNHkwV1Azb1NPNTcwM2ZLZjVOWkMwbGhIbW9RVEJoNWoySzhJQQ?oc=5",
+      "title": "Los grandes clubes de Valladolid se unen en 'Asociación Conexión Deporte' para ganar fuerza dentro y fuera de la pista - Noticias Valladolid - Tribuna",
+      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNV3lyWmdGZGxWQ2VEckdJOWhBY1ZQR0J3SFFQSU5DSlR6SlYybi1XTmgwNFAwYTQzYXhOYy1tempMOXE4WDhkU2xmMlRWQ1o1NXN5Z3hySVA1VFYtdWtHbi1ldUNmdU9POXBlZjVSbnk5ejluTzBuRkdIOFZKOW9lZGhyZXNRZ1M1am1fa3hFaVA3TGM3SGxuclEzc1hwTUlEMlF4ZUVRQmQ2S3VtSWJXVWFrRGJrbDdCOTA0NEtGc2ZKanZ3ZDNySnkzZmxDZXFuYXdUZkR1ZTE4MkNqREppQm1Xa1psSm9WZmtF?oc=5",
       "source": "Noticias Valladolid - Tribuna",
-      "pubDate": "Fri, 17 Apr 2026 17:22:57 GMT",
-      "imageUrl": ""
-    },
-    {
-      "category": "Deporte",
-      "title": "La Diputación abre el plazo de los Premios Provinciales del Deporte - Alicante Press",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNaHJnQkJDZVYyblhlN1lDdVVnaGd0SkRpZENhMlo4TDBaTDdlLUR6Uk9oMC1LU3BfR1lfU1kzWE85R1QtTzdrU1hLVVFfXzBsYXZaUnVjS3VKaW14TU5RVUJOeFlvZEQxVWZwRVlaVEJ0R1o5MVBLNGxYaVBIam9SRXJFNkYtTHA2UTAycndXREN1ZVRfeTJvTnk2NEtkZm10SVBpRHN3?oc=5",
-      "source": "Alicante Press",
-      "pubDate": "Fri, 17 Apr 2026 17:21:34 GMT",
-      "imageUrl": ""
-    },
-    {
-      "category": "Deporte",
-      "title": "Altibajos sin filtro en el deporte de la capital - El Tiempo Latino",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOcWp4MDZTM25MeF90ZGpub2tmWnd0VkFKN3NVa1Z3RFgyT19VSFh1UkhNQTVMQ3dCRld6YWZaTk4wWk9meWNrQkJkME12bWl4TWt1SjBYT1ZacTMxYlRDZWZuUlA3OHd6Z2xqdEV2dVpGMjVlQ0VnVGN2ZlRldWhsRUgxemlGWXF4RXBlNEJ6aThLOHY4STJ0a29PQk4?oc=5",
-      "source": "El Tiempo Latino",
-      "pubDate": "Fri, 17 Apr 2026 17:17:06 GMT",
-      "imageUrl": ""
-    },
-    {
-      "category": "Deporte",
-      "title": "Tomares abre la I jornada del V Circuito Provincial de Deporte Adaptado en la que han participado un centenar de deportistas - Aljarafe y más",
-      "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPREFvUkdaV0JkNjgwQ3djaXFkWkZyNHRNbm1hSUVhTU1kWFdxRElNQ20yS2o4aF9vckNqbDZwMUFwR3dSb3NiUk9zT1JCOERDeXJDay1SblNHdG5pNnJpX1dYaHZRa1diNmVhaU1OQXBzMjc3SXFSRkp4MzVQcVU0R0pMbHhTMG1ZaXQ0V2ZHbFB4S0p0VlFUeFJMUF9ZcWdGVng4SFRNekluVGlIOWFzLTFGRDlnTVVNQ2JQREdVR0l5QjN0U0pJcXgxUFRaNTdyTjE1bmFtYmJEZzlvV01OWTNpcTVMOE9fMmI4dW1faUJNa0htak04?oc=5",
-      "source": "Aljarafe y más",
-      "pubDate": "Fri, 17 Apr 2026 17:03:58 GMT",
-      "imageUrl": ""
-    },
-    {
-      "category": "Deporte",
-      "title": "Los alcañizanos Guillermo Meseguer y Pablo Alejos se suben al podio en el triatlón del Delta del Ebro - La Comarca",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNQW5kTWNrSy1Cb1FDRVk5MmZCOEs5Qmc5ZTVGbGIwU19QLTIySFJkdUpTajd5OE5tYk5PWkk3c2JmZkxOQ0lEYmkyNjgzclZIdTNzZ3BsU3JZQzlCUGRob0FTVTlFUTNqMlRrVnpJUlYtd2hhaUhib2lFWFF1Z1dVU05vWjZDWURocl9VLVAwVFZZbVVadkhydVg5cXFYbjI4MnZqRNIBqgFBVV95cUxPdUxZV1djaENUNzAzM3dJaXMySmFEVnNPLV9JUVdWeE1NclRMNGw3aGU1NHh5czZxWFdLZy1RT21FcTlhWUtEakdqZFNrQ000SXljYjdwQ2cwZml6NnI1YngwWGFURlVEdlRCdWw0Wk5WSkRXOTVmZ1pKMUhMR0E1WjhkY2Rqb05wMFRKQVQ5aFlwX2dpS0g5bjFVaFBmWG0tVmxDRFc5d29HQQ?oc=5",
-      "source": "La Comarca",
-      "pubDate": "Fri, 17 Apr 2026 16:57:34 GMT",
-      "imageUrl": ""
-    },
-    {
-      "category": "Socorrismo",
-      "title": "Cinco socorristas abulenses se lanzan al asalto del XIV Spanish Open de Salvamento y Socorrismo - Deportes Ávila",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOYkhxbDdxX1BKMWxzdXFVUXp1WnJNY2RRN3ptbXRlZ2hXSU00eEwwYlI5T0RfUldzMVVuUkJjNVBxS2RXa0Q1dVZnX0hBLVZzQW9EcVZJUjRYUE9QMWlPVzg0VDhocDBfRXB4T1kydTBSRVMybDZnNVZWekVnSjk5LU9HSW03RDJVTVBmSE9nVy1udkhaZnQyU2dRcGgzYUVVeE5qNFZpQlpFMlBZS1lac2hoRFpZeVFJRmRWVA?oc=5",
-      "source": "Deportes Ávila",
-      "pubDate": "Fri, 17 Apr 2026 16:42:12 GMT",
-      "imageUrl": ""
-    },
-    {
-      "category": "Deporte",
-      "title": "El Cabildo de Gran Canaria aumenta las subvenciones al deporte base en los municipios menos poblados - elDiario.es",
-      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPQ3ZZUmJNOVpUNU5STE5mYTAzUmQ4bC1pNTZzcEdhc0wzalRBSUJEWmpDaDY4QUhteTVjSzlzS1VYcU1QUGM0OEp2cHRvMDdqNVl3UHQyNGxUVXdQV0djTXo1eUV5WDEyYktETE9sZEdLVy00OW9WUUZUY01YSFpXd1FyXy1RV2ZqTTQ4WFY2Z3R6SFhHU0NpNzRxdG9sNDRENTREY3A4dVlocmVQekpVUThSMXp2ZnRSdUhFeHJ5QU91ZWFhSHJrVk5GYjFzT0NOY29j?oc=5",
-      "source": "elDiario.es",
-      "pubDate": "Fri, 17 Apr 2026 16:28:18 GMT",
+      "pubDate": "Fri, 17 Apr 2026 18:18:00 GMT",
       "imageUrl": ""
     }
   ]
