@@ -1,93 +1,13 @@
 {
-  "updatedAt": "2026-06-10T15:36:03.021Z",
+  "updatedAt": "2026-06-10T20:30:49.450Z",
   "hoursWindow": 168,
   "items": [
     {
-      "category": "Socorrismo",
-      "title": "Los servicios de socorrismo en la playa de Palmones en Los Barrios (Cádiz) se activarán el sábado 13 de junio - Europa Press",
-      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQdjRhRTRvVllKLUdCTm00dDlKNmRaUnVpTmRobDR4cjFlTWFBbXBjRE5lSWtQSlR4QjE1ZDg3SzZydm93b01vUzJZTjZEdk1vMWxqZmxySF9MNFByb0JLdmszTFpuRFFkNWJpeEFFeWhNWFhwLWVBcHA2M1NOdlhVYm1PV2hTODBYZ1FpdzB3XzdmLTlfVHhNTHRBdVdLZkcyUTFBVUFzTmZMU0plM2o0THJNQWdoMjBfZUNoN2tud3ZqeE5YZkNBXy1VUUw0anFfUWkxb3ZEMFFtU25EUzJWMlF4RnlIQ0E?oc=5",
-      "source": "Europa Press",
-      "pubDate": "Wed, 10 Jun 2026 15:24:23 GMT",
-      "imageUrl": ""
-    },
-    {
       "category": "Deporte",
-      "title": "Un deporte australiano se abre paso en Canet gracias a un nuevo club - Levante-EMV",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOVXNtUE4xMkRwNDY2SU9PUG5zOHh3OXBjakhVeXpFTUxpcVRsZGdzTkFKU1p6YlpVWUtZMmpUZnVxbXIwcV9ldEUtZnJUQ0lKN1hOM1JxbGQ2WlNMUjU1S2ZRWWhTbkZMWm9Yc2tFVmt3THI0SXRCTEJKTkNpZi1yTGw5emxDTjBuRGpVeEtidXg5TDDSAZgBQVVfeXFMT0hOdHZWQzYtb1hXQXU0aEZ2NnN3VzNwQzN6Q3VzeWxJOTdHTm1EV0c5bXlpWWdJcWhBSGswUkN2bEJQT3Z0dFlmOWhxMU5LRlB6Nm42ejhSYWRQWUtKM0hQZW5GWkg0UlhMUmZpa290TGV6Z0M0S0NZb09EWDdvaFNURXhrSnJJd21iRmxQMmE1bjZtSlpkLUE?oc=5",
-      "source": "Levante-EMV",
-      "pubDate": "Wed, 10 Jun 2026 15:24:17 GMT",
-      "imageUrl": ""
-    },
-    {
-      "category": "Deporte",
-      "title": "LaLiga y el CGPJ impulsan una formación en Madrid para reforzar la lucha contra los delitos de odio en el deporte - Infobae",
-      "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNUmZXdHhlWWpqalFNYWIxTWk3T04tQzRCZWpaTXZQdHNwaEpuLVhkOUxnRUlEd0dJSW1DNXhpWDBtWEZvMm8yUGdSeTZBU1RrbmpURzF4UkhPLUNoUDk0dWNabnl0SzhYdVA2dlhJWFVRb3lSNEV6NG5xVV9YbnVBY0szLS1ScDliRzRabF9mX3QtY0ZrQlZ5eTlHRk40UEt5RE5STHdvY0VUbUJoampuZ3RYS05IZnU3SjhPWWlrUHZLcjBRM0hoQk1uTDhsek1ILXd5ZzUwSzI1ZUZ4TEJYOWM4V29falF2S1dVTWJvRFMxcW1UUEJlSdIBkwJBVV95cUxPNV9veVpzbVpFdHJhbnA5X3RHeFNvUl9JQzBLRFFoVzV0dUZlQ2JmaW05VXVVLWlrMHppVnZtbUxEWEhjUFV3TUFWOTdGSWRWM0pnaUtwUm8ycjBUMzZtT1d1MVFVaFotNVFZeFFaOWU1LVNvX2RwT0lhdU1yUnpEeTR4Q3lRWlF6YTY2T25oUzFNdnpDY1UtcUdOaG00MFM4eDB0VHA1NWQ4dHJuSnljbk8wY204WXVsd1lnSzhyRW40TVp3NmRGMkhQb21jYkVZbXlvZVVLdEREZ3V5czFieXFHbU5tSmtraTJzVzYwejA3c29rcklHMTBHNjFYSV8xLThUaDFoUXplRnFReDhmTXVTSQ?oc=5",
-      "source": "Infobae",
-      "pubDate": "Wed, 10 Jun 2026 15:20:04 GMT",
-      "imageUrl": ""
-    },
-    {
-      "category": "Deporte",
-      "title": "Triatlón Nocturno en Alcalá del Júcar: Primer Evento en España - Albaceteabierto",
-      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOLTduVzV2SnlKMHF3WHB1MUZfUkk5VTJ5eExkLWNVTzAzcHk0MzJrb2pxdElQajZmb1U1NFZNVzdqQUFtRGxBSktGeEdoQXlicEt6bHMyX3ZyUkJUNnQ4R201clVMQW1NQTI0U0JiRzZLeDNTN00xam1KMFV5RV9YTzBSUGpqX09DcV9xTXVHLVliSkJMRTNsSUtIaE8tRUk3ejE5b0FtTmtnWXBoS2JRZEtmS3oyRVNZTzl1SUNaZlVfMkVBZzRXNmRYRlNjZw?oc=5",
-      "source": "Albaceteabierto",
-      "pubDate": "Wed, 10 Jun 2026 15:14:00 GMT",
-      "imageUrl": ""
-    },
-    {
-      "category": "Deporte",
-      "title": "‘Imparables. Con el deporte para la vida’, la conferencia que recorrerá Córdoba de la mano de Paco Salinas - El Debate",
-      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQYjNwYXF4U1A2b2NLTjRKQVZCSVAxWU1rdnBmMFpnekpFSHBXcUVIcGUwc2VTSE93M09ZMmFuVG44WUR1Vy1rMkoxSDMzM0I1Z2hIRThDeUt6OTNhNF9pYVh0UHVuS2lhOWkxX2J3N0VNRVhPaFdWX1B6OXRMcm1xSzlOa2l5OFgxdnFJWVFLT0RncDBXenhKODNfR2xYblJiNFlISzhIY21tNXVzdG1oVm9SWWRhMTZUbHg5SDFiSmoyZjhOY29HRXNqR0F6REFnRXE2Z0lkbTk3SHpnRG9JbU12OTVuUdIB6wFBVV95cUxPLXA0YS14WDYwV3RDakQ3UVNFNENaLWNYMGtFeV9kNU94NFMxTk5BMVJkU2FwcXRUOEMtbW1zQUVGYnRaNGVfZm85My1ISkxoSV8wc0xPQXc3QXFGS0YwdGNiRDlDajAyXzNfTHZnYzFFYk5PdTYwdW1OdWRBa1JtR3Y3dlR0eFg1YmlVRS1LRW5uQmhBdHRxMTN6OGxJNUxqSHQxXzkzS2RjXzlTNE1vTWVpNUVfVHoxVjdIdzRKWHB6enFIZk8wN1BGcGlNbWhocTF5ZlV6TGJnd2VYQm9qd0J3S1FtclpwaHpJ?oc=5",
-      "source": "El Debate",
-      "pubDate": "Wed, 10 Jun 2026 15:06:17 GMT",
-      "imageUrl": ""
-    },
-    {
-      "category": "Deporte",
-      "title": "Más de 100 niños y niñas participan en el III Festival Deporte &amp; Valores: Cañada Real - GNDiario",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1rMGRuT05oTGRnTFFWeTZva05GS2JUN1hrY0xaYy0xRkxkUkgwVlpWVUtFM2h6cU5WdHlUWkxRQkN0aTI5RmtGblRtMTBjY3BfanlISDZIZmRsZnFadm1IYmNKYWhTcDd0R3c?oc=5",
-      "source": "GNDiario",
-      "pubDate": "Wed, 10 Jun 2026 15:00:00 GMT",
-      "imageUrl": ""
-    },
-    {
-      "category": "Deporte",
-      "title": "LaLiga y CGPJ organizan en Madrid una formación para reforzar la lucha contra los delitos de odio en el deporte - Demócrata",
-      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPcGlQUUh2akxIY3ltMVpGYlJ0OVBUeXQ5SFNFUmFySEo3SFV1ZnpjVEJpU0owWGtLNkUxSHZrWWQtRnpSU3p1LVhoOHhZNlp4NFBIanJEVWdOTHlzeVRlRER3TDJyZ3F0VkxvNkNCcTlpS2dSTE1TVUlWYjlJMDNUTDJPa1BFbnZWalROX0k3aElYTVVUdzMxRU1UVTljanlEOWV5SlRUUi0xVERzb1dFYzQzNE93a0tZMnBiSXNISnctMjB5dGZwSzg0QTd3SS1GamwxNWIweTkxY0YwZGdIZG1R0gHnAUFVX3lxTE4ySXJwRFhSWTVWaV9uN09NOG1PbXptaVh4VXNIdkk3b1I3Yk9rSDQ0aExPOHpmbHN0Yk5tbHNrSUxuZkpMMTRETmdQMHIwZ05pdUZ5blE5UnNPeGUyNEZWTkY0V3BZWXVmVUJhUDJjeXdJRVdmRmJjTnByZF9kd2NHUzhXV2poSGZqQm1UVkpMeUhPNHlhbjExSlhkZ0ZzSWg0ZjMxUllBZGU1bEtvUlF2c0EwLU9ISVBLMXp6SVpyd3BKZGZzWnBzVG4wT2dPYTN1ZmluRldreE1uZjZ6SGR3UlhUVS1lcw?oc=5",
-      "source": "Demócrata",
-      "pubDate": "Wed, 10 Jun 2026 14:58:47 GMT",
-      "imageUrl": ""
-    },
-    {
-      "category": "Deporte",
-      "title": "El Triatlón Marqués de Águilas genera un retorno de tres millones de euros y refuerza el posicionamiento de la ciudad como referente deportivo nacional - infoaguilas.es",
-      "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxNSlcyZTRPeGRNSFNZVE1paWozMDE3M2dCZ0I2VzMyWlRSVnN6QnRhTVFDQkRkZndvLW9rZWJzUDVaODNZSEtxMmgyZmlvUEQ2d0c4WnhKRmpsc2RTbXAwTTVMSXhWc1NvazFqa3FibG10blFfUjVqLWpxRUt3VDRFYXZsenI3dGswbl9UakRaQ0EzYVlBWjVWQ09CQjA4ZXN4anNKY1VFbXFXNWdBdC1wUlI1cTh4dnJJQkRsZnd1RkRYcDVZem5oSDNoWDFDb2t4SlF1aGlHU3ZwT1F4bk5ESHFPeE9ad3BhdlREaUJ6S0xMTC1qWk8ybktpMExfXzBQNmxKbHB1cnlxUTI3NEI2Sw?oc=5",
-      "source": "infoaguilas.es",
-      "pubDate": "Wed, 10 Jun 2026 14:52:06 GMT",
-      "imageUrl": ""
-    },
-    {
-      "category": "Deporte",
-      "title": "Alcalá del Júcar hace historia con el primer triatlón nocturno de España este sábado - Objetivo CLM Noticias",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQdWNMRzlJSU9WRzJZaVl5NWVtT0RPdml0cFd4NEN4SW4xZU1KRmFYQi1SY1RRYjN2dlFYakUweXBWZlNiZDltSnpUNW5SaGFveEYwUUVZYlB2TXFwTFk1anFzMzV3WHVoN0hMZjFQN0VOZERkWjBIY2tRSndpdHdycEFDaVRkQzRUcF9mYkVUX2tfRGxFUVlFSldsT1RIWWk3ZmlKNnV0WExsbXlHRllRMnd2dV9CaHh0?oc=5",
-      "source": "Objetivo CLM Noticias",
-      "pubDate": "Wed, 10 Jun 2026 14:46:42 GMT",
-      "imageUrl": ""
-    },
-    {
-      "category": "Deporte",
-      "title": "Le Coq Sportif llega a la península ibérica: cuando el deporte se viste de cultura - MARCA",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPUzJtQjFBZW5haF9Ick9YOGRFZjJwcm9WNjBVcTBvZEdILURVazhjeXpSQmpjSGs0b1hENXZjalpxOEx4SzNYZ3BwVzY1YzdWX1lLOFdHZWpXX2tEQWlBQUV1cjJ1Sm1KRGJpLWZlVzN0MlVFbjRxRTE3aUZmYjM0WHlUZUx2NFpwa3kwSHdKLUU5N0xwLXRwdHBHS19HS2FkOTFLdm0wOWtUZWRxa2FOU3FPdFY?oc=5",
-      "source": "MARCA",
-      "pubDate": "Wed, 10 Jun 2026 14:32:06 GMT",
-      "imageUrl": ""
-    },
-    {
-      "category": "Deporte",
-      "title": "Kayak, buceo y natación en aguas abiertas para impulsar el turismo en la Costa Cálida | - cmonmurcia.com",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPX1c1R2RsVFNSMll1ckRuZmRfVlJTMGw4LWh4eUEwcFlwTTNfZ2xYclZrWF9jNEIwSzJoeDU0TUtIQ29xeFRHank4TGVUWE90RWVxN21faG11bDh0bWRpNXVyZDBvQjhiMFpVeEtNbFFTNm1JSjRjLWRHT2hyWE5NQ1VFREFSMUN4RUdrSFVXUFliRHdXSGZMUTNqc1ZVTzdzNUJVekVGWVJxVHQ2?oc=5",
-      "source": "cmonmurcia.com",
-      "pubDate": "Wed, 10 Jun 2026 14:25:56 GMT",
+      "title": "La industria del deporte ya mueve más de dos billones de euros en el mundo y supera al PIB de España - elDiario.es",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQY3pNU0dsN094bWR1VmMxajJyN1FyQUhJNTZodUxDZF9hbks4US1nY2t6WGczbEc3dmZudU9vaHpubHpibHJqUk8wZnVDbGhJNjgyV0FBZ3RmbE9SVFNjWnhVazBTTzR5WldxU0huM1FTT3pRakxsUEx3R2t3Z2o3XzgyZUJSSWI0NGJZZ2lud1AwZHpETzh6ZmlDSzdGTE5KR0VIQmlySVM4U1pZdWExZw?oc=5",
+      "source": "elDiario.es",
+      "pubDate": "Wed, 10 Jun 2026 20:15:34 GMT",
       "imageUrl": ""
     },
     {
@@ -95,7 +15,87 @@
       "title": "CAMPEONATO DE VERANO NATACIÓN ARTÍSTICA 2026 - Ciudadano | Benidorm",
       "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPV2ZpNTJKSmo0UEFQd2VhUEN6bVZNdU12ZUpHUng0YVRCWGlTVnZiUHRuemw1bTQxRElNRF8tYkZVOGdqY2tBcEN0OVM4bm5MODlrRVI1aVVRTTV0WnBUYmt6U0N1OFIzVFM1SUk3ZkdQLVFNRGNJclVaQzBzTjZSSQ?oc=5",
       "source": "Ciudadano | Benidorm",
-      "pubDate": "Wed, 10 Jun 2026 14:05:33 GMT",
+      "pubDate": "Wed, 10 Jun 2026 20:05:54 GMT",
+      "imageUrl": ""
+    },
+    {
+      "category": "Socorrismo",
+      "title": "«Vigilamos todo lo que pasa para reducir los posibles peligros» - La Rioja",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNVmFSbjZ5UEg2ZUE4RTdNM1lRcTlyZzZsc0xocUJ0UG1hZy1ia1ZhNEhCX0tFTE44dERILXVwVE85RlJwT3plaWkzMFNDQjRrai1FQkFuRTBLc2Z6NU5MSjBubUVVaTIyYUE4YkhYMDFfeXpLUnJxclFRNGtBeWNyQjdzTEZxNVk0a21wUHE2cWY0cTV5U1FFTVdHTWzSAaIBQVVfeXFMT3FxX3VFUk1xUFNycGNjNlNxQVZEY0Q2S1ItNmVENXV2V1EzWFVrd0ExT2R3Sk1EVTZtZWxKNFZvdTB6dG50b3RzMUJkQVdoanRNRW1YRkh5cnlHNGFnYUhQT2wxazh4TUJGa0szZVN6a2ZOZ3Vya29xNDhNYlRuaFc4ZGh4d09DbUROOXkyZzhJWVVObERHMHhPdDdqZk5IaTRn?oc=5",
+      "source": "La Rioja",
+      "pubDate": "Wed, 10 Jun 2026 19:50:28 GMT",
+      "imageUrl": ""
+    },
+    {
+      "category": "Socorrismo",
+      "title": "Socorristas dentro y fuera de las piscinas - La Rioja",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOMzhWWW5SMmxfUnRSM0V2UGE0dE9pQ1M0NU1Db1d3bFF5UEZOdUVveTJ2NWxMdlRHVGExOUZrQUlKbWEtWlJWX184SThKeHM2aE9NQ1NYSHBHY3VMRTBSZFJVbjZNVnVSSGRNejExTUoyZnFDa01zdV9VWkU0cmtJMEFGZEJBemlZOFA40gGQAUFVX3lxTE9nVHhVTXdQTkxRN1dLVjZuV09jbFl2TjRXb0NwX3duYmJwNlBWZXROV3ptR2RrWVhUbjRlREwyYzZfZ0VObzd0d1RNbThyZS1ja2QzaEtyTlZFdTRhaW05YVFOMHB4d1RkamtNd2J2bEtLcUVHSDRRNk5TSGpFMmxiUzNBdm5nT05LWGZ6cXp3Sg?oc=5",
+      "source": "La Rioja",
+      "pubDate": "Wed, 10 Jun 2026 19:45:56 GMT",
+      "imageUrl": ""
+    },
+    {
+      "category": "Deporte",
+      "title": "Nace la I Copa de Aguas Abiertas - El Faro de Ceuta",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE4xYmFIRWprcjd5c3lfdTNCc1A4UWR1SUlWLVV0OGJ3Y2lGLWV1Uk9PRGNxNW80RXBqc1YtZmJGanZXSnJKZm5yeURGQmtMMmdoeXZ6WEI5R0dBX3N0NFJjUER30gGoAkFVX3lxTE1jX21zZGdmSVBGQ3pzVi1GM1JXYTY3am1MOGhEaDZlSDF6aElmTmVGTDVEVUVQM2laWFUtSFkzak1aLXdOenlJUnBrbnlTczVXY2w4bF93bTlhWXc3d3R5TTdWQVc5dV84c3pzRGVGM1VkV0RLSmE2N2c2clFSbjFJaEVNRUg2M0pBNEtKazFRREdhQXNTdHA4bnJQdi1xcW5GYXlnalNWVGZrMGpKbDhkR3k3LTFQODBUZHh1OG5wMG1VNFQ4cTFMZzRlT19SY1JwZDl5aW5sd2tXUWstTHhSaWtSNlhZNV9FZlM0Sk5aeHhDbjBqM0JpeE1EUjR4NEFFQTRxVEoxaVR3eERUc3hPNXNJY0VSQ0dYSEpPRWVTRElVX0VqZGYx?oc=5",
+      "source": "El Faro de Ceuta",
+      "pubDate": "Wed, 10 Jun 2026 19:35:15 GMT",
+      "imageUrl": ""
+    },
+    {
+      "category": "Deporte",
+      "title": "La primera edición de la Gala de Honores del Deporte de Granada se celebra este jueves - Granada Hoy",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOcDM0R2Vmc2NYakxrUFpKTm51eHRpWnlMYnFPSGZvS2hDZjloZFFhNS1Kd0VyQVVEaEtLM3VxUVBMWGVQWk9xbDR1YjhBUXF5NTFQZ1RxZTNPdWNKZHFiekJmNDU5QlBNMFRaZndITnl3NEg2YTlaRHN4Y1JMZXBCLWQtRE1aVHRCTkHSAY8BQVVfeXFMTXc5Vm81T2pDVmtoUFlzdmlvemwzTTA5SXVJM2hFYm1OdlpWWmhuSUJuRF9xdDhQWl9pYk9VQ1Q4TEZFOXdndUhyVTBCemp4N1h4Wmh0bW1abGpHWkZsb2ZzU3BBNGU5RXJud0tfVk8zSGRLRFQ0R1NINVJiSGRRWWlTX3Z2WXA4WlpRS2c3blU?oc=5",
+      "source": "Granada Hoy",
+      "pubDate": "Wed, 10 Jun 2026 18:32:15 GMT",
+      "imageUrl": ""
+    },
+    {
+      "category": "Deporte",
+      "title": "LaLiga y el CGPJ forman a 30 jueces en delitos de odio en el deporte - Confilegal",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPTVpSNXFIZ1ZDZmRvRXA2Q21tNHJvdkcyVEhtNWN4VldOX2ZkdzkzS202N2FfVUtQeF9yR1JvbVZNZWsyamxzM2tUNUZfRVZjRzNZbDlJdFk4OHRfS09FQjJIaE9nUVBRZTZmWjBrVDYzaHhETUxZVzZnWHpHV2JpaTdrR2lyR0VERF9sZGpURmxlZkU?oc=5",
+      "source": "Confilegal",
+      "pubDate": "Wed, 10 Jun 2026 18:24:55 GMT",
+      "imageUrl": ""
+    },
+    {
+      "category": "Deporte",
+      "title": "Clinic ‘Mujer y Deporte RFET 2026 – Referentes’ - Ayuntamiento de Mérida",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBmMGVlN1BNbkFmLWEyWHNFZTdWMkw0cWh4cXEwX2tlakNHLUswVTRvT2ZJNUUtWXBpbFZIdTczeFVLYThhQmdMNVRDOHoxWHROVGpUcWNDSmlQQXV6b0tYR2hOZHluZjJxMGtaQkQ5cGlXdEo3b3QtLQ?oc=5",
+      "source": "Ayuntamiento de Mérida",
+      "pubDate": "Wed, 10 Jun 2026 18:18:20 GMT",
+      "imageUrl": ""
+    },
+    {
+      "category": "Deporte",
+      "title": "Gómez Noya: «Al principio, pensé que tendría que dejar el deporte» - Faro de Vigo",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNLUZBU2FtVE9aMlpVWmNQN0o3NFVPSWg2a1pUQm5sZ2drUFZlUU5tSURKMTZQVWprTUlTWklBUHJqYWNpckhqQTd4ZS1vODJTZWxmZVd4N2R2LUxJMjlSZ2w4Z19FNXdxVGRFaXhIanIzZ0Y3U2dBejRZNHllVHRXdVNSOXpDUDMwTWJFU0xlajdqQzJGbEtwZWN6di0?oc=5",
+      "source": "Faro de Vigo",
+      "pubDate": "Wed, 10 Jun 2026 18:17:24 GMT",
+      "imageUrl": ""
+    },
+    {
+      "category": "Deporte",
+      "title": "Guadalajara afianza su modelo de ciudad activa y saludable con el éxito del III Día del Deporte y la II Feria de la Salud - CLMPress",
+      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNN013dHJIUF9VQzBGQnA1ZmFUZXNGeGhoNXFNRHNZSDZtZmIyemtNZ3BXRGdBUHBYY18tV21CZV9DT1VXX25VY2s1c3o4eWYwR2VNbGdDT1otVnpvRUd3c1NCTmtmbENjeTl6aVJIeGIzRUxXNXJyVVNZZV9yUFlPaVduYnBILVFyb21DbHRvRVJDaGZqU1Y5a0pqTEpMS2ZXWWhzZVJfRjRvMklNdjZoOGwzVkhvdHBxVE5UNGxNenE2b2FrZDhyUUg2QnljWjZzTHoyaVIxeXZyQ0RtcmZJSnBzUVo4ekl6?oc=5",
+      "source": "CLMPress",
+      "pubDate": "Wed, 10 Jun 2026 18:10:28 GMT",
+      "imageUrl": ""
+    },
+    {
+      "category": "Deporte",
+      "title": "Barcelona cierra las inscripciones del voluntariado del Grand Départ con más de 4.000 solicitudes - Ajuntament de Barcelona",
+      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNWVZpaUhYbHpjYUJHVHRDQzVBWVRRQm5tQ3dETnJvaXJpb3dlbmVXd29IWC1iMjdzYldZTGFvLUVHV1c1d0puTzVZVFlFRW1hVGJRa1FrMVJCNmtmZ2s3MHE3c1Bza3o2QjRPTDV3bDdsNUt6Zmpra2RXZ3RfRzVjTjZ1TDhWb21ZVjZYT0YwNUZlNTU5eGNXZWk1OXBTc2pOWnc5OTliWlQ3UERfbXpRZVplbEVaS19YVElqOE16d0VuSWx4T3VhcnJSRUx1VnpjalNBOURGWWZ3dHFfdmhJalhLazNyeFdraURmWlhn?oc=5",
+      "source": "Ajuntament de Barcelona",
+      "pubDate": "Wed, 10 Jun 2026 17:51:37 GMT",
+      "imageUrl": ""
+    },
+    {
+      "category": "Deporte",
+      "title": "La Piscina Municipal de Miguel Esteban oferta cursos de natación para todas las edades - ManchaInformación",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOQ2R2c2VDNlhnU3dhc0xMc3pGTUY2UVlRUG8tZG5sMHQwZWE5WnA0dF9ybU1jdXA0ZE14TXhJeWhBb1BDdHFBX2M0S3lKOXkzNzBELU14MVRPOFFuT0FVQktNa3o0RmI0VjdNLWtwMzNDWXc1YVdtZWh5M0pSa1JVWVlVTzdHYnZ5b0Q2Mm5vMDFVUUU1MkFaZF9rX3Q5LWsyLWpyTktwVnFQazNJN01pSm5XdU1tSGNX?oc=5",
+      "source": "ManchaInformación",
+      "pubDate": "Wed, 10 Jun 2026 17:44:28 GMT",
       "imageUrl": ""
     }
   ]
