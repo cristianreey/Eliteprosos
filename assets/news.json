@@ -1,101 +1,101 @@
 {
-  "updatedAt": "2026-06-15T04:21:28.107Z",
+  "updatedAt": "2026-06-15T12:15:33.782Z",
   "hoursWindow": 168,
   "items": [
     {
-      "category": "Deporte",
-      "title": "Aquagym, campamentos, natación y escalada, alicientes del verano deportivo de Úbeda - Jaén Hoy",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNS1JrRkxoU3dtdUNiQms1UWFQS3NjS2Z4Zm0zVmNleVhaV0Z5Y20wQ2pRUlJEekJvRWJONDRNdVRMZlVMMm9QZkVGbk9lY3ExWklvMDN1UHpnd0tUY3NhYktTVHE3cnE4MkZhZVI1eV9HMmFPUTUyOG1ta1ZzbkYtSF9vQzhXLUJ6dDVDbmhKQnFmdWRzTmtkQ1U1Vk5oQXJNQTJWVk5GczBJTlZsckNTNzBBeERybVN3alUwNlBac0HSAcYBQVVfeXFMTVFmYjJyM0FhamJ2blkxeDk5WDFBRzRpSFYwM3hfQUpyR2d1YTlucU1TanpmVWIwU0hFdG1GS3ZyRUVvZ2tpR0xxSjVHVVFHYzlBT0FMRmV0RlFZdUx6VVIzNnl3N3NxWU10bWpfMVZ5YU5zeElFSHA2RjNGc3UxUXRDM3Fwak5HUXVqSGJVaXExZGVIcU5WRHQyaXp6cGpETkdzdFFFUVR4UVpZU1ZvWGNPVzNYcm9tLWlKTzF3azlIbU5YWGN3?oc=5",
-      "source": "Jaén Hoy",
-      "pubDate": "Mon, 15 Jun 2026 04:01:07 GMT",
-      "imageUrl": ""
-    },
-    {
       "category": "Socorrismo",
-      "title": "La provincia de Alicante blinda sus playas... un mes después de arrancar la temporada de baño - Información",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNMzloSHQwbndBRWhlUm1JVnJhVXVvWUlKeGktWmFfWU85LUVVOTJJMWVrLUdNeWNTam9QQlYxbWRmd0lUSnFkRzlOdDIxUzlvTVlDcTlaaUp2YWJUY25wVUVENDJlaHJKMzRRYm1pc2VRay1JaHMxNEVCQ2tlOHBKZjhjcDRKN0FGYkRQZXU4bkpkbHZGeDA2OHQ4OElJQ1FTNDNycGVRcXBxWGQxS3pXd3FBRFVPaTlfOGfSAb8BQVVfeXFMUDFSTk5XVUhaZmxXd1dxN00tM1RkZl80S0RnUlhNNFpYUkxNOEJTdWRzaFVQUjd3aVRiNzlRTzFMNkVUSVMyM0wwd2Z0MVAyNXMwMEJ0TWlseFJQOE5DbnZnanRQZ1VxVGlKcEFuOGduSm9vdHhYeXBxZmRRSnFfYTlHWEFnSHBreVk1MUVlZl9FTVlKX19sZmE3bUtrMHJvZWI4WVpzaXNtaGgwQURnUllQUVV2YVBKcmtCei1JNEU?oc=5",
-      "source": "Información",
-      "pubDate": "Mon, 15 Jun 2026 04:00:37 GMT",
-      "imageUrl": ""
-    },
-    {
-      "category": "Socorrismo",
-      "title": "Servicio de socorrismo a medio gas en Alicante - Información",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxONk9QT0xfbDR2X3MzRHhiVVFvenB4b0hOU2VSVF9MbHdqM1JmQ1lDVDBVMmZ0cktWY0hQVFR4VWpBQ1VKeDNuYkg3TkstZnk3eERXWHRnNGFLSUc4blVTT1NlcVE1NDFxU3Y0clFKaXF0YTRHak9hUVUzeFZRWkVPWWM4NTZ4RWpuakpUNl9sdnhjVl9VS3drMzEyNzNfTVlLYXFqN1Q5VExfNHPSAbABQVVfeXFMTndpSFZlV21zWmhFcWRraE81SVZBd2RNYnJTc3MtT1BtM2RzanlIQk80LUdZS19FQUV1VkhLeThDUlEwOThSSHFmRWp5Z3UtOHBjZ2xNSS1tVU9hMGhYX2pfWV9YWjl4Y1ZGWU9aTFRSRVBtcmNJQ2tsNndTanBBSFJiVUpCcVlHelp1d19pR0kzN1RSTW0yNjlzYkN0clRzMlNnemFyXy1CQ00xdFI0OEo?oc=5",
-      "source": "Información",
-      "pubDate": "Mon, 15 Jun 2026 04:00:35 GMT",
-      "imageUrl": ""
-    },
-    {
-      "category": "Deporte",
-      "title": "Adiós al deporte - EL PAÍS",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5HS1FMX3ZZQ0VRVGowSXdtMHV5bGgyOXJtM1lCQlBEX05QTkdRWngtMEQwakFxRlI1LW9TcnJZeU54ME1kZUlKQmxPc3I1TWtCNWV6WWN0QkNZMWprZlNSekl4UEF6eHRMTHhDaNIBgAFBVV95cUxPaGVpMENpOWhVYjhyNU9yS3VET2thZ3ZHM1JFQ0ZrbmtZS2hIMHRKTmJYeXhVMGdXblZRbHFhYmtuZW12eDJFb1pJY3NCMHhYWmhCNk1SQ2pZWEhVQ0U3aWtPSDNhM2JIVzVBY3Y4VXpYNWNRT1BRdHdCUTV3aHNjSQ?oc=5",
-      "source": "EL PAÍS",
-      "pubDate": "Mon, 15 Jun 2026 03:30:01 GMT",
-      "imageUrl": ""
-    },
-    {
-      "category": "Deporte",
-      "title": "El talento gijonés que conquista Estados Unidos: Álvaro Zornoza, número uno de la natación universitaria - La Voz de Asturias",
-      "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPS3ZoWnB4aHB5RHVUc3lzeHVJa1ZpQ0dzbE5iNldxUXNPMjVFWERQRkZzM2VSRVl5UFJWSE9RVGJiSVJzZnZ6REpSLTBjZllJVmcyVGpfQ3ZVX1c2UUY2NVItZ25lNF9SNlZ6LVF5a3RnSXlmVTFKeU1Vd0NnM1ZKQUlwVzkxcnVXUVY0YUFSbHREUl9EZkhYSzU5eERZcUZpdnNTZnY3aFB6MXJmUElZRWg0Q2tydVB3emtDZElUSHJWM3dZamUtMS1nRC0tbXBzbVFHT2E0QWZTMTVKTVVvaEtGekszWnl5Zk9hcTBtdGVjMEpTTDRLTUt4bjdjdmd1S0HSAZ4CQVVfeXFMT3NPcEVUR0ZZNFFXN0RqQ2R2MlNFTTFQbEpiZ0xaeU0tb1cyZmtXVllST042UGNZVGY2emVtYUFtNUZRUDBFRUF5dmpDaVc0cGd0bERyX2pnc2k3X0prSlhaSHl6VkxyM0VJMnVrMk5RU2ZkQXRmZzhwbXVLQ2UydVVLZXVoRmNHRmpLWGVhelMyT1NEWXJlaGhENGJkOUlERnhSZ1JKeUNGejlMc3VrMklUdTlmQVcycVhnd3JNRGVub2hiSldlbXBoUDI1aDFIdDNzeV94d1h1QV9kNGxiSlhMa2MybUxLLXJGR1czSTJRODhWeG1NdzF6UUd3cXlJZDFrdzRKb0haTS00TmhiVnJpNkVyWkRYWVptZkxLQQ?oc=5",
-      "source": "La Voz de Asturias",
-      "pubDate": "Mon, 15 Jun 2026 03:11:00 GMT",
-      "imageUrl": ""
-    },
-    {
-      "category": "Deporte",
-      "title": "El deporte local se coge las vacaciones: las notas de una temporada de contrastes - La Voz de Galicia",
-      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOcUwzeWpBNnhGR0dpYTdWamlwNEFZVFdXQ0RGWURjUkMxaFlJMTh2R1A0NkQ2Rm50TkZCdHZpaFBTS3ZMeDdaY2dOaHFENFJycDRtRzM5aWVENUl0bklCMFlXV0VtNkpPMkRGYUxnaXRHT0lXLXpSOU9GVU9MMzZpeU5RZ3BGRUZKTjBXUVkzOHJlR1F4ZlFtNzM5RUI1Ynh1UW1NVUctSmJhdFpiVF9uRVF1bzNYZ2gtcGs3a3JjWGhOblRpR0l1NzJYbndTU1B2cXZvemEzMNIB8wFBVV95cUxQRUZ1aFUyRVRlZFlMajNXY3NfZEFqbGJzN0dPWjl5WE1iRnBQa1gxc3MzMDlNUjg1WFdqMmF2a3czcUFQaXhBLXlkY2lQR2tpN2c4TkU4YWdUTnBsbW03M0RXTVk4aWl1SDhYcDYzTE9LU1d6b1pWVkhXQUNEVXMyaVVKRVZVMWV4YV80UERfbGZzSmVDTE9VNV9nWWF2VHctcXBUZGdfeXdVQXg5Q3MxeU9mTkJiNWFmV3hxQVUzeGNSZUp5YnBocjloaG1ocmFYQnBuTkVWT09jeWVzVmpSR3RrT1c1UlFBVHl4VVF3TFRUWkE?oc=5",
+      "title": "El dispositivo de socorrismo arranca en A Coruña con 42 profesionales y se extiende a O Parrote - La Voz de Galicia",
+      "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNbTlBY3YzQURDbG5ySjc2RERBZEF4amRTR1J6LWdWY1gyUVN3TElZZXhJX0hlWXUzcDFobjhrUTBBMWVKLXRvNExVZTU5NFg5ejByWHM0X2JtcF9fWFVoWmVyS09wc3hBNjJiclc2UXpEbjJxenI4Y0hpVmRkOGstWHh3YzdzenJVWVFTdjRPQlg2TnZ4MzQzbjY0Nm9PSURnSUxTT2gySEh4QUpjSHJISHlhODg4RWM4anRPUW5aNVd1OG5udHpNZ19QWWZqYXZtdU5kLVpxSDh5dHNZbGZWZ1pXWlc3N1NqZWppcExZdUFsRVlR0gGQAkFVX3lxTFBGR3IyazVEMFlmVEYxOWh6N09uNjczX1pVd0M1UTRBREoxTDdCcGZadWNIX1ZlYm9BY1VGNDZ0dllNSWp6WlR6aUFMWW0wd0xablVLeEtyaWFHd21uSWxUanQxRjUxSllaQ081WnBzMG9zd2poQUVfbkhfQ3RUUUNNNWVlSFhVcHo1UVdpTmpvSEFTVzlTVlJJMUZub0t1TmREQ3dvcVJMeU5PT0hCdHVXcDVHU25Qb29SVFVETjU4Y2I5QUhxaDlyMU9CTDF2eWN2bFVSbldpaXpMYUw4RkFET25wZk1DUmN5emlzeDhKYU9aRGZPNnctbUZvbldaVmVMcVRkbU5KUUZZdzNWV1VX?oc=5",
       "source": "La Voz de Galicia",
-      "pubDate": "Mon, 15 Jun 2026 03:05:31 GMT",
+      "pubDate": "Mon, 15 Jun 2026 12:06:18 GMT",
       "imageUrl": ""
     },
     {
       "category": "Deporte",
-      "title": "Una puesta en escena inaudita: Donald Trump y Dana White abren un evento único en el deporte - Eurosport",
-      "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxPOXBHYmIwZGQxTlJjd09Ccm1lVnVncnc4RXFRZkQtcTFFN2dyWmVQcmZLQnl1c3M2djNCVS1tM1hJUEtXRkluVTNvaVlVR0Ztd0U5N09ncXN2Q2FSV1dwQjBXMmI5RUVoRkdNd2NYV3lWWTBmc2ltZ195OTdBS1lDZ0JlYXhhWU1hVEl0TjlrdEY3T3o2V3I4NW5MckNWSU9mRExMSl8zdUNFeHA2WUo1VUZQNDBvd2hFU1VtNTlrdnEySkhORV96bWNGZ1NicEhVQ3REOHh4bE9yaUZiRU1tdXRqSmxaeWJnTEVGaWRiZng0Vnhua3FJTF9MSFIwRV9maGhYdkxTaXY3Vld3Q1JvaXVJQQ?oc=5",
-      "source": "Eurosport",
-      "pubDate": "Mon, 15 Jun 2026 00:52:00 GMT",
-      "imageUrl": ""
-    },
-    {
-      "category": "Deporte",
-      "title": "Éxito del Club Natación Lugones con dos medallas logradas por Marco Antón y Paola Castañón en un torneo en Pontevedra - La Nueva España",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxONXFIdFN5dlBzYVN5OThTa2lYYUtua3E2QXdZaDUwdkRzSWk1YXJMYkxkTmlRd2ZocE5aX2ZQWE15Um9STzNrRF9PZWM2cnBPOE9uemVHRDlvMGxGS25uM2RLaG5lbHBzWVJaQXVlRE9pVGswWlpJNGQ3ZGpqWmZGX3doeXlyQkxXSElDeWYtR0_SAZYBQVVfeXFMTzhnc0Y2SVdFWWlhNk1IbEItYkR2dzhxdzVGakZzRWVVYjN6d2p4WVZ2dDl3VnkxZGF5TUZzZnZxZTJpMVNjNU1jN0plMGxCS3NBSVJqcWhhRlhyRnlEZE53Sndaanp3dmdaQnk1UGJYOWV4MWZNc2lEd0lYS3ZxaVExdlFUQXNPaGtjeGdIUldTN0NtZmxR?oc=5",
-      "source": "La Nueva España",
-      "pubDate": "Sun, 14 Jun 2026 23:00:49 GMT",
-      "imageUrl": ""
-    },
-    {
-      "category": "Deporte",
-      "title": "El Club Natación Sincro Sevilla se corona en el Campeonato de Andalucía alevín - Muchodeporte",
-      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOTlItc2pNd2tqU3l3MXZ3Q1piNDJFWWRXU3Nnc2VlQ0psUDNaeHYyTmNGdklIUFl1dnJWMnlaenFndTExeGIyZDBpYVg3RlJsbTRrNGVhZDJSb3BXcFU3dFFNT1ZmZ25SOFQwamNYWGcxOGtVWERWWUEyV2dCMkFsUFNSejJPOHI3TWEyZ18xdGtycnM0YkcwaDVIcUVlTk5OXzB0clNLUmlvM2JMNG54ZnY4UWVlaGFISWgzdUpWbmV2dncwMEwwUFpHLW5sTXN1ZGJ5ODJEcUFlRnNVOER4TnhTelF5WjFIaWc?oc=5",
-      "source": "Muchodeporte",
-      "pubDate": "Sun, 14 Jun 2026 22:54:02 GMT",
-      "imageUrl": ""
-    },
-    {
-      "category": "Deporte",
-      "title": "Miles de personas participaron en el Día del Deporte en la Calle en el entorno de Riazor - ACoruñaXa",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNd2I0M2EzOXhxVlJEa2J2S3E4V2pNRmpiMlgzc1Vnd3BySXF6M3RzeXhLTk1aeV9ZSXROa0hlVXJoUGZUWDc3YVl5bm16ckxaOTM5LVhYOXh3d2VJTDIyN3RackhSTlI1V3VuNVRsOGpNWXBMcXFIRkdiYjdPdVlaMzZiYUJBYUY5Y3JtSi00QjZHaUp5YmFSUWxtMmk0NkFpRDNmdlVidmhMcEVId2pPQ0daSDBrazQ4Wmd5QXFwbUZyT2Rw?oc=5",
-      "source": "ACoruñaXa",
-      "pubDate": "Sun, 14 Jun 2026 22:44:23 GMT",
-      "imageUrl": ""
-    },
-    {
-      "category": "Deporte",
-      "title": "El auge del deporte universitario andaluz - Muchodeporte",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPTlRsSHJCNkFpd0Y1VjN2QkRtZ0RLU3BRQTkxdlg2QlJmR2xYMm5uT0hHd29faGlRcUlobGstN3FaenBQejBsMWgxcTBMaVR6YVExckltVnRvY3NWUWtyZ1cyZGdxb2ZSN2I2QWN1Q1JjbjNrTVFtVlFDdkQ1YzN0NXhDWHZZel9YMEN5N0Z4U0o?oc=5",
-      "source": "Muchodeporte",
-      "pubDate": "Sun, 14 Jun 2026 22:31:57 GMT",
+      "title": "La Laguna presenta el I Foro Internacional del Deporte con un cartel de lujo para su estreno en Tenerife - La Gaceta de Canarias",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOcG1aNW01cXd0VDZ3cm11YmxrcmV2a3dCbmJNdEVoS2ZncWx1NlRRVFVnZE85RmlQUnZqN2t5eDAxbU5UenM5TllZMG1laGU3QlJWSHBxYU8wb1B4UDhFdk9yUUIwdmhqbW5jWk9jc2pZbTdNOVlhbWEtUEhaT1Nsd0FYb0VVSUN2d290UVh5Rkt0QXhiOVA4bjV1MUV2Sk1vOE1fbXJzU3dDSTBweEdvZ2o5VjQ2b1VuNXNLQ2FKWUp6Z3V0MWh6RkNjZHlrd1pQUHc?oc=5",
+      "source": "La Gaceta de Canarias",
+      "pubDate": "Mon, 15 Jun 2026 11:59:18 GMT",
       "imageUrl": ""
     },
     {
       "category": "Socorrismo",
-      "title": "Almería activa el servicio diario de socorrismo en sus playas con 34 profesionales - La Crónica del Parque",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPdWZHT19FSkRSa3hYMFZoOF9KSGR6cWk3XzRCWGI4bFY2VkZLVXNSbGhhaE5sYXFBSjJ6WF82cHhRUVI3dlZtSTJ4QTRtaWl3YmhmUS1LV1MxTkFfU3JpY3R5aUpTV3U3TVRZZG9MQzZocGN5ZkZpeFN6U0lUaHBqbi1VSXhoeTJCUVh1ZmYwY3FrMF9NbWVsVGl4ejRVNlotTk5wTkZiQzZwYmNfeEYxeG9vUHR1ZlUzbW1IWHFtNkVtell2UGc?oc=5",
-      "source": "La Crónica del Parque",
-      "pubDate": "Sun, 14 Jun 2026 22:20:51 GMT",
+      "title": "Vigo blinda sus playas: arranca el plan de socorrismo - Cadena SER",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOZkoxY1k3ekUwYVIweTB2TFh2ZUU1aFZXd1MtY0xFWDNSNy12bVRQZ0VrWmlsVTVGNHBBcTlOaW9kRVlKeDZFLTdQRzVIZW43VXBaY3FSUERXQ2tfN3BEd0VtWXAwaW1yUXZjcWVRb0NvcXE4NVpuZGJRZUlVYTJHZS1STWM0ZTk3SEpZSXZrN2JvLU9yWXkwb00tdnNLcDVpMWRCS1NFYkvSAbwBQVVfeXFMT1lHVTBfV3VxN1lTcUc1d1dlbXRqNHhVRzREakdHTUFtQXlTcUw2R01vMHcxbmNMM2lxMS1FZmhGa1VVemRpRGNBS0J0ZFRUZXBYRkM1U1NycFlMMHVZTVFBQ05RekptTGh2T3pISFBkVEVrazRmdWtLMHJwMFNtQmFRRXJKNG40OERLSjFpZmNzOFkwd0VYOHpvSXk1QUM2T2xKa2hLbS1TRXQ0ZExsdlpmX2Y5TWFBWUVaekM?oc=5",
+      "source": "Cadena SER",
+      "pubDate": "Mon, 15 Jun 2026 11:57:39 GMT",
+      "imageUrl": ""
+    },
+    {
+      "category": "Socorrismo",
+      "title": "El servicio de socorrismo de las playas de Vigo comienza a operar este lunes con 70 profesionales - Cadena SER",
+      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNNGM2dFFIV0I5YTZEeHpGTnJIUzhXa1dWMWxIU0FBa2VTSGJDU0QyRkE2dHBwOV9nYjZURFFnUXplcm15RF9CRmRmd01qb0luWlFKOVNxRERlQVlhdThMc3dIUVhVNmNFdUF1V095LVNOMldBQU1tbHVRMF9vUmhHeTZ6T1dtajBfaG1wWml1Um9iRFVXcDZOX3ZHM3EyV2Q2VXNKOUlsci1CZ3dGQjE5YVB1WjB0eTA3cHBYbWE3Wk9zOXpkc24zVWtIR0luSkNZR21kUVdvc094dWtlYWpFNnIwVnLSAfgBQVVfeXFMUGpaMkRKWEYybEQ1ME03VFNiZTktcUU4UFk2OUl0TjBjSzk3YXo0a05ackV2cl9mQnBxZk5wcFJENnVYN3JNdFl4VWJ2VUJCdmNzZllKSU83aE84NVR0cDJwZVZYVTduSXpONXA4aGVRVTRiMDJvazBIVTlyX2ttay13eGVLYTUzcm5fYTdrWkVIa2w4cWtnb0ZlV1hQUFpNQkV1a3VVS21vT0d6a0htamZGQmIwNjcxNlprN1d4WUQ1MWZuVWRZYzBwYzlEUHA5OEp5NEo2SWxPNGVQaEhQYXV4dTJhNGJacWg5M0UwVU5sdWJiVHY0T2M?oc=5",
+      "source": "Cadena SER",
+      "pubDate": "Mon, 15 Jun 2026 11:54:40 GMT",
+      "imageUrl": ""
+    },
+    {
+      "category": "Deporte",
+      "title": "Deporte, emoción y compromiso: así fue la gran cita solidaria a favor de CRIS contra el Cáncer en Madrid - HOLA",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQbERhdHAzTlRFR1dOMnJaYi00WVFJellXWlRFN3JQYWM3MEhhOEFySTJ4ZGZMb01uYWNrQ2U5YXNDYW5PQTlPNUd3UlZZVGtMUzZPVWVRSnNQV3hpNXlDZ28za2FubFlkbG01N1ZBUjJ6OGNSYWtRN0xvNlQ5MjFKbk8wdV9sTjFsMU5hMkFhSzFWdl9qaTY3NVB6SHJRYkhEaWdkYXVZS0NxU1pmdHY0V1BOY1NDeFduOEZHc044cXA?oc=5",
+      "source": "HOLA",
+      "pubDate": "Mon, 15 Jun 2026 11:54:14 GMT",
+      "imageUrl": ""
+    },
+    {
+      "category": "Socorrismo",
+      "title": "La \"indignación\" del padre de Álvaro tras morir aplastado por una caseta de socorrista: multa de 1.080€ para los responsables - El Español",
+      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQaEJGcl9NQWswbWVnaDJ5YzRjQW0tVFdaWU4tZTVZZDUzRFVJd0pTQ1FLYV8xcjB6WXdJbm05VExjSkw1NmgxQXpBSndtTUFaRGF0ZlQxZ1dzTmtybXZOb0pMMDU1MlVIeWJlbnFic2w1OVlDM1dpV1VlZXRvcHZKV1k0VXpHMXJpMVVnWXA0a3g4Q2h5QjdXeU5MYTNoSWt1cWpJaUpfWkhkNGNpVG16LU1wUGZ4M0d2Y0FJWlNscHpfMks2b1VGemNMbV9yZXhYRmRqYVlCc3NfQWRw0gHiAUFVX3lxTE1xcWRrZHNXV0ZwZWdPallLUXlSbU82SnlqUThVcGFNdmVITEI2UDVuS3FQTjZPR1hTMDRhYnpZU2Z0UDJpME9ja1VSUldpWGNkcDZDQ0NGcTNjcmw1cEFISUhKOHlfcmg0UzRuSkNiOXBiekFGM2NOQk50OTFNclNnSXpzTWdTZ0QzLWN0OVRicW5iczcxNUlEODUzVGdac1VoZ2ZGb3hGSFk5R3BtYllUVGJXdWFDaHdXWERZRGtGS21jUHhqVmJQVl83c0dZRTFRS29KYm9GcXZHWldCTE1SbWc?oc=5",
+      "source": "El Español",
+      "pubDate": "Mon, 15 Jun 2026 11:53:57 GMT",
+      "imageUrl": ""
+    },
+    {
+      "category": "Socorrismo",
+      "title": "Motril estrena temporada de socorrismo con 25 profesionales, tres motos de agua y más de 90 días de servicio - Ideal",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNcjRlN1Z1SjNMQU9ZVHZjTjVuTWJoemZKN2tlX1hucVBPb1pfTTZNeUlsVi01WEJBVVlEZU1MTVpJVmp2V1g0MXFuRlhfNGEzMUZNQlB0VGQ2ZEgzMlJPcXh0UjJialF2OVdMQ2FpUU4zVXhYN2c4NFRUaGc1bUFob0R2VUlId2lkSWhMV2RnMmtzU0pwUU5wc2lfOHFhdjN6YUZaZ1AxcEw5MDl4azN1X1lZQlJRSTlIU0HSAb8BQVVfeXFMUFhmX1piZUpLOHZrWkZDMGNBZlU2TWQ5ZEJ6R2VFMFdMaFEwaS14S2RrT2NCNmh3WXdGNk50WEVKTFpVZTQxSkJEOWppdjA3c2xycExvR01BVUIwVzd3ektUWHlZY2NQbEYwUnpzRjYwNEVEb2VxUGdPaXo3U2RWaHlKeHNGSUJsOE1LbmttSmVjeW9kWWJzZFpZb210b2hCMHFsMm9TdWVIN1c3Qmtld3F4LVRoamU5MHJ5bDAzbGc?oc=5",
+      "source": "Ideal",
+      "pubDate": "Mon, 15 Jun 2026 11:53:47 GMT",
+      "imageUrl": ""
+    },
+    {
+      "category": "Deporte",
+      "title": "XXIII Fiesta del Deporte de Sants-Montjuïc - Ajuntament de Barcelona",
+      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPUHgxRk1WeDNFZS12VUhsNzMzX3Zjb0ZBQXp2U0d0VWJkbm9TcGZzTXNGM0RKd25CWHVWRzZqaGxZZnZwdWtTcGNTYlBjMFJNOGhZcDU5UElRMkZCeklPZ1JhcURqU2dXT0ZrXzN0cWQ5MGlTc0VuWFFkTWJKb2lUUkQyak96Zm55dkNEcEllcXhvcmR3blFCTTRLdWhPREVnaE5Sa2duaHlBLWZXdzJYQnBQUzY0elNkdGoyTDJRcVdxbGJhNWJ6YWtWM01KN2EwVlJ4cWZ6YS1IamxodHVzTQ?oc=5",
+      "source": "Ajuntament de Barcelona",
+      "pubDate": "Mon, 15 Jun 2026 11:50:29 GMT",
+      "imageUrl": ""
+    },
+    {
+      "category": "Socorrismo",
+      "title": "Motril inicia una nueva temporada alta en sus playas con un servicio de socorrismo reforzado que consolidad su apuesta por la seguridad y la calidad - Ayuntamiento de Motril",
+      "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQMklNb2V6N19ib0ZiNFFkUzdzTkJhSzdsTV9keVdBSWQ1YmtEdEQ0aWhFRFRMTkV6Q1RWWFJuQThTaFBCeHRLMzdUUnhNcFZNSHRtclp3TmE1ZkZCajZ6RXBLRzZFZ0p1eFc3dG1uX2FyWnZMUV9QN2d1X3ZoSWhzaGllMUVXNzN3d1V6UDBnbUtMS1NuNGZxTnRCdTJBT0ZCeG92dU5wZHNfN011S3VsX2pzWVU4SUxFVUNXTzRxZHhsZnk2UnFrTzkyNHlfU0l6NDJZU00yM25Zc3BZZlpSV0Z3MXp1dDB5OEV4aUdZTDUzXy1vRmpLWjhKNA?oc=5",
+      "source": "Ayuntamiento de Motril",
+      "pubDate": "Mon, 15 Jun 2026 11:49:00 GMT",
+      "imageUrl": ""
+    },
+    {
+      "category": "Deporte",
+      "title": "Dénia da a conocer los galardonados de la Gala del Deporte 2026 - - TV Denia",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNTnRXS3llWXZYSXlIQTMwbFJsaXpBUTlZc2FkblU0STB6MzRVUUFOZl9PS0dRSXBTUmRPa2ZlVGhTdTFKVGx2U2c5VUwyV0loM2UzNFMzWUItTmp2eVI0bzN1emR0UERzR0FfcEtOSlFkaW5tc0hvang4OTVESjU4VTRveTUwTDcwYndlNA?oc=5",
+      "source": "- TV Denia",
+      "pubDate": "Mon, 15 Jun 2026 11:42:34 GMT",
+      "imageUrl": ""
+    },
+    {
+      "category": "Deporte",
+      "title": "Nara Seguros afirma que el 79% de los españoles recurre al deporte para reducir el estrés - SegurosNews",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOSnBxdzgzZUpzZWF2MGc1a1NrNG1CRTZ2aUFUMmFNekt4d0dJanBZYXdlejNjQm94Y2ZoOGRWM2JLZ0xzTzRtTXI0SkRJMFlreEw3Z1c1Vkl1UDVNYUZwdEU0TjJWV1dhQWhRN2g2YmIzYm1LNmNHeXlwTUpUbjFqM1lGNFNoMjlFYTF5Z250alYxVV90YnhQbVEtYUVVZ1NvVDBHd0pXcG52U0NjdWptY0NNQ2tESTZn?oc=5",
+      "source": "SegurosNews",
+      "pubDate": "Mon, 15 Jun 2026 11:42:02 GMT",
+      "imageUrl": ""
+    },
+    {
+      "category": "Socorrismo",
+      "title": "Telde refuerza el servicio de salvamento y socorrismo en sus playas con un dispositivo especial - Telde Actualidad",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQNHh5LTVpT2Z1Y2FBMVRNSXpmd01ja1hwT2V4SEZJeVptMlhwWXE3ZjJDaDktNUZlMkdPTXhtR1Bla2RVcHdpaGZXalBuaWswUjF2U1NISkpYQzY3OVRVR2Y0LTRJUlBXMW1Cdk1zRjBLajM0TGItN090STFOVFlVVks4bnBTbkJ6MDZ6eVdTVERlak9VaGx4OE1FUW5rdnlBTjZOa3FINVhHQQ?oc=5",
+      "source": "Telde Actualidad",
+      "pubDate": "Mon, 15 Jun 2026 11:41:12 GMT",
       "imageUrl": ""
     }
   ]
