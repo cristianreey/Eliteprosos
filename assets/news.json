@@ -1,13 +1,61 @@
 {
-  "updatedAt": "2026-07-13T19:23:27.659Z",
+  "updatedAt": "2026-07-14T02:31:33.088Z",
   "hoursWindow": 168,
   "items": [
+    {
+      "category": "Deporte",
+      "title": "EL FÚTBOL COMO NEGOCIO Y CORTINA DE HUMO: LO QUE EL DEPORTE PROFESIONAL ESCONDE - Canarias-semanal.org",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPS19PX3VTblg4MHE0V2VvdlV4X2RJRURDVzNRWlgwWFprejYzN3N5WUoyUFpCYktYQmJ3YzJGOGU3WG14ZXAycl9fRGVkZGx5Y1hjenBJNUtkMWI5M2tFMENoQ1RBVGpTQWxHdHV6UVlWNlVCSWticjRKWDZiZjRGam8yMHZJd2JmT3Vrbzg4X1JpN18zWVpqN2QwQ3FMMWJMSXNBYUNfb0pVZllwWkVuVldDcEZjQ190?oc=5",
+      "source": "Canarias-semanal.org",
+      "pubDate": "Tue, 14 Jul 2026 01:39:33 GMT",
+      "imageUrl": ""
+    },
+    {
+      "category": "Deporte",
+      "title": "Inscripción abierta para los cursos de natación en agosto de 2026 - El Diario de Salamanca",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNTkljZ1Z6Y3AtWk9jWHJWTVNhci1ZOGFuZWoxRGNONjFSYzJEZl8yam1OYk9oQ205ejFwRmlYZDlpVC01QXlBazRHU2h5dlE2ZXJWVE15UG13cURBNWRIazdwZkp1VVZnYXE0am5zVzVFZVlJMm03YzJZZkhDcWtxSVRxbXV3eUxxVnZnbkpWUW5IM1Y1cGJFRVVLS3IwREFEVU55dUxLa0djOFJSUXd0dHFMeDUyWVBtVHBfWjVNZnVHcEl5RVc1eWZB?oc=5",
+      "source": "El Diario de Salamanca",
+      "pubDate": "Tue, 14 Jul 2026 00:37:52 GMT",
+      "imageUrl": ""
+    },
+    {
+      "category": "Deporte",
+      "title": "Sophie Cunningham cautiva a sus fans con unos outfits sorprendentes - MARCA Usa",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBzMy1PLTB2SVkyOXdBWXB0LU5DLW5pZk9OQkJhTWc2T2RmdWU3WUc3VDFWNkNwS0pKQ2tKZDJvVkZYYzQ2dEV5UFBXQVdscUtVOWNzMXB4TDVmYlMwMF9vWEVBR3ZKazlHNTRraHBMZXZZRTNUaHg5bUhCeWh1Z9IBgwFBVV95cUxPNVNLOGZkSTJYSUpwUW9aQkVkLTdZRU9CMjBFMWF4N1BudTJTeTBILVFKdzU4b1ZsSUp0cDNnSGI4cVBCYkRYZnJSOVdNZGRSc1Izcnd3dlJhOVRmYlMtTm1sT3dQZGdMQnNObDVQQ0pTdzZTQWkzX3JfVFB6ZmliZDQ1aw?oc=5",
+      "source": "MARCA Usa",
+      "pubDate": "Tue, 14 Jul 2026 00:13:00 GMT",
+      "imageUrl": ""
+    },
+    {
+      "category": "Deporte",
+      "title": "Una treintena de deportistas inicia en Cervo el II Campus de Verano de Natación Artística de la Federación Gallega de Natación - AMariñaXa",
+      "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQRndqclJBcUVRak5jUFRmUzVmMXdsSzRxMUF1Vno3QUM2dGdRNmNmYUNfWWp5VkVsdWVmY2lodThDSkZ2RUpYR01feGIzcnBCejBHd09WbHNkNHJLRU5jbkpOZmUyOG1vRF9zYVBqZnJVby1JSTRoamVmNHdVRkt5SUZzVjhNTWhqTjQ1ZHdHUkwyWTBsa3N6NzFXNVRTT0VJcXNYeVFkaUcxQ1RZNUxEYk5KMDdEQkFHLW80RnBkdS1mZEJjQlpxUURveHFwdlRKYWp4MTNwS2V2OVE3RW1YUFRDM0p4aDU2QzVmWWQ2QXdYek1IcGJB?oc=5",
+      "source": "AMariñaXa",
+      "pubDate": "Mon, 13 Jul 2026 23:02:09 GMT",
+      "imageUrl": ""
+    },
+    {
+      "category": "Deporte",
+      "title": "El río Miño acogerá una jornada para combinar deporte, educación ambiental y recogida de residuos - LugoXa",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNOElZTlFHVlJhSWdtTy1OVWY5WVMxUkljd0dNUkp0ZzJPTkZQbkVWMXFkeHR5NFp5a2JrY1hBSEZ0Ykd6M0czbWU2Q0pCcjZEVmlPUTJYeGJQS2JNRGtKYVhmS0pOeXJHeXhOdmEwSUlaZ1JURW91Y3BjbV9tR251bVZuTnN2ZXdFcnZRTXJnQWhxdHhjbm5UeTlPd05tQ3NKMEJUVGFPWVVIal90c3BRb19iR3hlVlkxZHM4OFIzTUsxSzVjbXpiY0tldw?oc=5",
+      "source": "LugoXa",
+      "pubDate": "Mon, 13 Jul 2026 22:46:08 GMT",
+      "imageUrl": ""
+    },
     {
       "category": "Deporte",
       "title": "El Club Natación Fabio Nelli se proclama campeón de España júnior en rutina acrobática - Tribuna de Valladolid.",
       "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPeGs0WVlPSVFUMkR1UE1yNVE4MUphOWw2MzJqQ3NfUzNpUW95cnJlRW4xYUVkY2JWMElMaVhMeUtMdkZDQ1Q5bTEtcC1DN2owa09MbGRqZE9aOFphTEo4N2oyNmlLaklsZldNbDBuS1gtdGVqLWFEbkZvWF9kcW5SYXlxZkc3MERkeTYyMEhsUi1aZjA0ZEJpU093eGVadm96aHJIc0RfUGIzU1NCdnJzLWxNTXJmUG1oSFlzd0pqMjdidDZnYzRDRzAzTVA4S0tEVkE?oc=5",
       "source": "Tribuna de Valladolid.",
-      "pubDate": "Mon, 13 Jul 2026 19:21:10 GMT",
+      "pubDate": "Mon, 13 Jul 2026 22:22:15 GMT",
+      "imageUrl": ""
+    },
+    {
+      "category": "Deporte",
+      "title": "Jan Abascal, medallista olímpico: \"Si los políticos actuales hubiesen hecho deporte, actuarían de manera distinta\" - elDiario.es",
+      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNQ0hfYmFYUGREZ3NGcUNpWFdkV0h3V0M0OUdQT2s0VFNmWDl6ejk2MlZXYm1SU2dxYUxRbUFLalRUUFlFUkQxVnFIZ20wN1pjWm1CT3h5SFBmRGpZY3lrZWwtMmFLWTNYZC1QdFJJNE9SbDJuM3JBUW8zNjZzVVNJYzZ5WWM3dEhMazAwZFNBTGJsb2Q1LTAxdkdiVlB5WlFLUWlqMVBZZGhiUWJTYU56MFAyUWVDeVEzQjdlUUFqN2QyZ2ROV2M4elJKb1REV1VDcXVfYUdVYTRMTkl0YUpwOXk4MDJ4cWPSAewBQVVfeXFMTm1fOG5ITDc1ZkE4cVdnS3RTRE5WMVExYURNbTRsRmdMN3I1MV9NM2xaWktkbGRpZW9MbENsTDBudXBGcXBNRzZ3QVNBVUEyT2ZwUzN5ZFNCeUdVVUxiajhiRU4wQTRndW90R0x1eXRGV2RLOFV0TjR2VXhpSHpVb2JoV21LV0ZGQXpyM3hmelAyQjY5b3djRUdjT2p3eDBzTk5VZ3J2ckVqQ21JbXUwTWVlVWtjaWRRaU1PU2J1TEpCVWNEU2FzQ0JTX25xT1g2SlgzYjEyVEdFSE1zRGtDYXJMYmFwTE5DODRFME8?oc=5",
+      "source": "elDiario.es",
+      "pubDate": "Mon, 13 Jul 2026 21:09:44 GMT",
       "imageUrl": ""
     },
     {
@@ -48,54 +96,6 @@
       "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPOGxVb2lkeVN4YkU4UU1tRzBtYW5WNVlpa3piejRBZzZ5dlFub0FLdXBHYS1YRTBEYlY0YVdiQkNaZWpITUxxd1FCamhpWDBET21xckx4TmtIVk1MbXRJd1BGSVg0aVU3Tl96Ykh1VFlCV29OeFhPRVV4VU5WWlR1NUJqRWlhVDRzYlJoekZjSDBheDJGemwwazJlU0k1ODdLUW9ZVHl3c29oX3RvMFUxSUwzTGQtZnhKUnNBODJybzJBbjBUQVlsQnJjaHM1U0xzZzlUTXFta19CbkFtbHJteldB0gHnAUFVX3lxTFBXd1NVWVV6d1o1NzRBU1B1STNqZTlySWstVjR3MWhlS0k1eUt4U0tMYzg1U1JER0J0Ulo5bTVRNVBveHA0Qzk0d254TWFUWEdqYTl4anhVTVloaXJtallkalBUQXZEVndpYkxJdDB6dUNoZV9NY1BFVzlyOTZQdnVqd2tEeTNnRXRMTUk0S1NSMkExM2o3U0pFdzFmc3RvOFdBN2o0VHBrUFBCNmRhTUxlM1NLSHVLeWNMNTk3aUNFN0g4Q1E3eHFtWTFNVUFPSHFpY3JITnBSWVBKb2RGZ09JMjFvQWd5VQ?oc=5",
       "source": "Digital de León",
       "pubDate": "Mon, 13 Jul 2026 18:00:00 GMT",
-      "imageUrl": ""
-    },
-    {
-      "category": "Deporte",
-      "title": "La SD Huesca quiere crecer desde la medular - Aragón Noticias (CARTV)",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNZUMxcXE5VUx1djQzMkFwdktCc0paaG9IQzhEY0FOVXF1RmFWMDUzaV9SM3BUQTdGS3dQUzRCajZMRUkweFpFcG9wejhXUFVvcDB2QzhZMlRDeTljUEtkazBxX0l3NmgyclpLX1dsUmZUVjRPYmdiTU9kNDF4NUFLUTAtYmFWQzc5VXY4b1RMYXpuT0tzRUd0NGNR?oc=5",
-      "source": "Aragón Noticias (CARTV)",
-      "pubDate": "Mon, 13 Jul 2026 17:29:31 GMT",
-      "imageUrl": ""
-    },
-    {
-      "category": "Deporte",
-      "title": "Marina Muñoz busca las medallas en el Europeo de triatlón cross - Heraldo-Diario de Soria",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPekpqQmV3cHlFYmxac0MteGc4ck1oV01pMGpQUnM3S0J1UVU3cHZUVFdSNjRrQm1lRU1NR29kV1FtTnl1S2E3Y1B2d3ROMmNNOUhvemxqQ3E0cVIycTNUY0xmQzVqR3NXeDEwWE5aaTFTUEdtX29nRVlDRDNNVWxSaWw1VFdZTU1Ecl84c3V3YWFWRTJhWTdiRDZwc2RvSlZFNkNqY1VOUzN4U0h4aWUzSmVISjfSAboBQVVfeXFMTnZHc2Qwem9LNVMtVTNiYTZ6OS0zZUo1am9tUTM1aEhoQUNVSkdKQW9oNVFZaHl6b0VINFNNaDFpbkFWVEZQTVRXZkctRkZtRVZ4TEZZY1k4QjdJOWg2cWhzN2ZweHlXRmtNSTNkMGhlSjUtY1FaTERQX05mY25kdVFRUGE2azFKQUNESVVLemtnYUlHWDJpRGZHWU5DaWNuNWR1NHlsNlVIdnF1SEt3d3lFYnJIYlNMdG13?oc=5",
-      "source": "Heraldo-Diario de Soria",
-      "pubDate": "Mon, 13 Jul 2026 17:13:16 GMT",
-      "imageUrl": ""
-    },
-    {
-      "category": "Deporte",
-      "title": "Once años de brazadas por el Club Natación Ciudad de Oviedo: la historia de una junta directiva que salvó al equipo del naufragio económico - La Nueva España",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOZzM4MElWeXJNcmx0YVVFYVo2SGRJM1k3bDZPR2x1ZjRwZVJnNjRYSXBYY0REYndCMFpuN3N4NWVFNXdDbl9VTlJTU2VqaEdiWFJlbUc1dGhVOEhVOGhtVDlLMG1Jc3JFaEo4a3J4S0Fsc1JvNEJkNzAyMU4wLWlBaGZQNTVadUF0Sm9YaNIBkgFBVV95cUxPTVA5S0p2Z3lzLWxtUUFmQVVtX3d1SUhiZ2xGaWh3alh5WDFqZzVJMVQzMURaajhrOW0xLVVGa2JYRzRKYWpmV3VBNHFpZEhYUTc5cEFLcC1TQUFreEJZT0RrVmotd0I3RFNMa3lWaTdHcTQtbXBwek1FMjRyR3QyemF1RFhyTmFDU0MzN1N2TXJqZw?oc=5",
-      "source": "La Nueva España",
-      "pubDate": "Mon, 13 Jul 2026 16:52:27 GMT",
-      "imageUrl": ""
-    },
-    {
-      "category": "Deporte",
-      "title": "El deporte universitario en la UPV: un pilar para la formación integral y el bienestar - Levante-EMV",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPMWJGUUpNY3dFVm02RkUybkprT21mQk1ueWxlNnJCVkpLWi1JbjhvMFRQZmoxM3RJMG5YU1NlUDd1RkFXdnU0T0tXMDRJWW5WWGdaTVlVeERVMms3eGtwS3JpeTZKbXdMYzV3alNiX21SRnVFa2hkNEpPUWtzU3VhaTY5SDV2WVQ3a2JBY3F3eXFrOGcxZzNnOWZHa3lUQjZzQVVaQkJuU014Z3ZDa3JZTmNEa2hmdHM?oc=5",
-      "source": "Levante-EMV",
-      "pubDate": "Mon, 13 Jul 2026 16:30:26 GMT",
-      "imageUrl": ""
-    },
-    {
-      "category": "Deporte",
-      "title": "Apartan a un monitor de una escuela de natación de Sant Cugat, Barcelona, por abusos sexuales a dos menores - telecinco.es",
-      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPU0hWV0J0VGNYZkkwTjA3NkpVT1JFTEktNm9OcXFoWXpTYTNjbTZqdVlCcVk2bDRvb256d0sxaEhJd3pHQVpWMFU4SXZUeWQ5bGszbHJ1U3lDTWNyTjl3X21MaC1BTlViRnZLTFd6dkFVSWZuVGNYRDZKU3NRNWJCMkYtbWZRRmtwZE5jZVkwNkdOSFJDam5hNlAtb3JqWVhrVnBvOFZxbE5YUld4eXlZR1lSdmEzcHlYNmRqME85REhmNk1QNVUtbEZvTmx6YWN4WXc?oc=5",
-      "source": "telecinco.es",
-      "pubDate": "Mon, 13 Jul 2026 16:29:31 GMT",
-      "imageUrl": ""
-    },
-    {
-      "category": "Deporte",
-      "title": "Aquamadsincro sitúa a Boadilla entre la élite de la natación artística y logra el ascenso a Primera División nacional - Pozuelo IN",
-      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPYjFaekVVcHdJN1Zob2dGTDdiVWNWVUN6RjRMQnNTNDZZOTd3cUgyZm43TlhlUHFyYVM5bVVzcjd5YmFIa1dFVS1SQVhnNjJNa2tNUlhuSFJ6YXNrQk5ScnZKQ3BRVVdYdjV0dElwV2lTVDNKNXJuVjktQml0SEs1b0wzRzJNLV94OVI0SVdXQnZEd1VuVGt6clUtbGl5dGZKU04yMGJjd0pSYUI2dnNfNDhyaEtxZk9DZE0xeEFsSGtqQ3dhemNDMzdrWXdoMm1oMDN3TXR5QVQ5bkxlc2NKLWFrN1dPWEpUMmRDOA?oc=5",
-      "source": "Pozuelo IN",
-      "pubDate": "Mon, 13 Jul 2026 16:18:00 GMT",
       "imageUrl": ""
     }
   ]
