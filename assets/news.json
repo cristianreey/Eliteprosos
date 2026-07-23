@@ -1,101 +1,101 @@
 {
-  "updatedAt": "2026-07-23T14:00:29.790Z",
+  "updatedAt": "2026-07-23T19:18:08.288Z",
   "hoursWindow": 168,
   "items": [
     {
+      "category": "Deporte",
+      "title": "El deporte de orientación regresa a Cerezales - Diario de León",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOWEd5NGtaaDhmeklsQWhrSEFMSEJ2dk5CeTlyTE1mbWpsY3Yxbk45b0k2NzdzbG4wc2NMVkRaamliZkRURVlCOXNObEd3S1U1RWpwSV82eXp6RnZIOUVWdFU0Uno1TVluMGp0OG9qN09sbWR4eHlkdGVGaDZzLWY5N1ExdmExamxJOFE5NHJwdGhRR2V4bldfTlVfNExPSFFycHfSAacBQVVfeXFMUGZyc3ZOU0dLZEFvUERJcG44SU5qUjF0SDhweUlPcXZvcVJSWVV2OEdlMTh1bzF1eUFGenQwVUFzZTJWeFc3U1lDV2JzZUNRS25sRjZLcXplZ0N2VV9FVEJHM2E2NWJlMWc0aU9IaUpOdzRBT0UtWTNrUnZ0VG4wNmFrejl2TmVQalVsZTBHRmRHZzJZQVZ4VjhTR05kWHhHM3JmdW5RbTQ?oc=5",
+      "source": "Diario de León",
+      "pubDate": "Thu, 23 Jul 2026 18:23:27 GMT",
+      "imageUrl": ""
+    },
+    {
+      "category": "Deporte",
+      "title": "El Club Natación Sincro Sevilla exporta su talento técnico a la selección de Turquía - ABC",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPNk5uZVZvVlRZWHYtMHFVdHdPVmMteVRlYl9WYllDdG5kY082RGZsVXZRZXVTLVEzY0g3US1kNTJiUGhTd3gwNTVpU1FOa1A5T2gtRUE3OFY2UUw3bWRnbjdTczNFZDd1eklESExpSXlNR0VpVW9KejBRNkR3dXhmczBDUUJjV1dOUXMxWnZ4cDMzdVpiaDJ0MDkyRm1KN0tXM1JraXFIbkUzT1BCSFNqamhn0gG3AUFVX3lxTE5nWFVicDllSldHTW5UYkxpZHJiaU90R1ZsUnFCdUtfdkNmSjY5OXNVNFBic3RWbjc1dWtJQXV3OHp5Z21zaGl4cmt2bFo5QlZsUWEtWUhUNG9qMnVRNnBUOXBlbEF3dV9VRXNSM1F5ZFIzNkN0d21mQzFtUTl5NGtxdXZCbU5FSEV4dGRGeWNjb1ExNHZ3RVZLRzJGcWlyNlRWU2RUMXVIV3l1WUpablU0ay0zXzg5cw?oc=5",
+      "source": "ABC",
+      "pubDate": "Thu, 23 Jul 2026 18:22:18 GMT",
+      "imageUrl": ""
+    },
+    {
+      "category": "Deporte",
+      "title": "Una mesa redonda de la UC en Colindres reflexiona sobre el bienestar de las deportistas - unican.es",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPeFR3Wkw4LUtYM2NEZlg2UUZwdFJHMG9TMHZSWHBxTHp1cDl6Wkh3Vm96ODU2Ymd2UzctU1FqRGttODZnVEdoLVlsaDRFSlV4OGxWdS1mZkdPUlVJaTVyQ0JlaEdCcVRJdVA5cXpnV2llcm5UWnhyczBYX2x1ZlFoSFdoOEE?oc=5",
+      "source": "unican.es",
+      "pubDate": "Thu, 23 Jul 2026 18:15:58 GMT",
+      "imageUrl": ""
+    },
+    {
       "category": "Socorrismo",
-      "title": "El Campello confirma que la adecuada coordinación de efectivos de socorrismo salva vidas - Alacantí TV",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNWGNpSHU3eElHY3NVeG9xLUl1d1l5LWVhRVhSdzBKN2FTbnpTQTk2bVFfTkZqSWhxbDZXSHhsM1ZEdzRRZ18zZ2szQU5kX24zYjRESzdPeUFaZnBXcEw0b3RZNEI3UndNSmxhTHBfbkg1T2xSZmRWeWkzcjFKZlpsYTZpN0p4SnVlS2xuV29XRE5TQzg5amNfQ1ZZT0ZoaEFVZzZDWk9MLUgxbUZVT2dIUE9B?oc=5",
-      "source": "Alacantí TV",
-      "pubDate": "Thu, 23 Jul 2026 13:43:51 GMT",
+      "title": "Piscinas comunitarias, sin socorristas pero con seguridad - La Rioja",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNbVVFbWI1dnNFY1pHNC05RnB4YXppZFhkVFJKS1BuMDBiNk5EWTU3cjV1YWtqSDRtLUlTWFRDemV4YXMxVngyS3lhVy05dTJScS1PR25MSkNYU283MUpBMnhWYjY1TkVUUi1ia3R0OXZubGNKSTVodXBUYWJHM0cxZEFZVEtoTHpkUTUwblJYRGlFR3I4aHd3Q09qazdiMUNF0gGmAUFVX3lxTE1QX2ZUMHRmWmhwcEZxYWQ4ekl3Vjk4WDI5T25HbFFYUngyV0lKRTMtUVZwdUhIWnd5WTZ0YTZuWDBFbG1FVkN4TEF2QjZtZU9lREdib005N0plbTRwSXdVa3d5LWVpSXE0Z2dVVno4ZzhJNVpJZzdQUWxQRjRhZXVSMXFSQ3dNUlRWb1JWTi1DYXdMTmE3TGF0NzU3NWNwYTJiZk1IaVE?oc=5",
+      "source": "La Rioja",
+      "pubDate": "Thu, 23 Jul 2026 18:03:57 GMT",
       "imageUrl": ""
     },
     {
       "category": "Deporte",
-      "title": "La XII Copa de Natación en Aguas Abiertas de Lanzarote reunirá siete travesías entre agosto y noviembre - La Provincia",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNYVd1NW5nY1k2Q01DenhGbHRzX3NnZEpPWTIxQlhpaEVQLWl5elNjOVdNT09XbFl4ZEZJVTlGN29jOTB2S0E5VmJCUndaTHVZcXlpWWdQUjBoV0xIREllSnJWb1VnU0lnYUtSZE1BeE0wRWt0VmxWWktsLTdJUk5zUVd6WTg2SWZqVEZMWGdhWmZycU1JalFYenRnT21TZ1hCZVlZQ2VR0gGrAUFVX3lxTE5OYUxGbnRHbU9GNUNudmVlOG5pZTE4R3NjcW9BVkxmZlJ0TVRKYWRhbC1GT251SEhMaWpnUVNhbTdsQTVENnI5OU5icnBBQVlhOHJINHdmX3VIbXgyUUVBOFJ0QVlCcEtZTUFYLWZwaGluNU8tUkJaLUZCcVVKbkZzcjZFU0JCMUw1UExOemtfVW1IX29FbngwY0NHMGNWdF9NMHR1VDRBMGRuZw?oc=5",
-      "source": "La Provincia",
-      "pubDate": "Thu, 23 Jul 2026 13:36:15 GMT",
+      "title": "El programa Especializate vuelve a convertir el triatlón en actividad estival en Segovia - Triatlon Castilla y León",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQREt4aEdLN3NmcFByQ3BtWG1ydDA5ZnBqc1BnMTZWYlhteHMtdFdkVTVxQVpucTZMeTRMdWpaajBna3NPVUdoY01zZjBQSkxlVnJpWUpZZkNsdkt4UV8yaXJaRmE2VXVzNF9FUlJlNmpabkx1aWhNSTJNTFdVV2Q5ZWl3ZXYzWkdLQWVQRXlDV2F2ZkFWS1cwT2xyeVEtOU9rVGpiRGRlYVFDcHFYMDJVLVBnb0FmdzU2RTlaZzRqbUVweldndnc?oc=5",
+      "source": "Triatlon Castilla y León",
+      "pubDate": "Thu, 23 Jul 2026 18:00:00 GMT",
       "imageUrl": ""
     },
     {
       "category": "Deporte",
-      "title": "El próximo 1 de agosto comienza la XII Copa de Natación en Aguas Abiertas - Lancelot Digital",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPMTZUbGRSOWdjb1EtX1VKd2ZtcW0ydGxFQ3JpamNNcjY5dE1oMkhRUGFzVFBEam43cFFza3JqNDZWeHJuc2FuWThiemo0RS1xLU5Gd0k5UGlQb21TRi12cmVJc2pFUGFqV1R4Z0ZMRWpLZmJCT3lVdHVPaVY2dUZlRzlka3ZDaUZtbmpRMEtYSHNFSl91NlZ0am9Yc0E0Z0x1cDVDaHBaU0twR2NNd3pwMGN1ZGxpZw?oc=5",
-      "source": "Lancelot Digital",
-      "pubDate": "Thu, 23 Jul 2026 13:17:06 GMT",
+      "title": "Cambre propone elevar a casi 160.000 euros las ayudas al deporte local - La Opinión A Coruña",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQd0phUzJMMUtCeDV1UjUta2p2X0ZNWFhtbzlBWVJEOHlXODhCSDNCTXpsdmh2VDJNVmNtaFVUYXZ0YTRza3NqSnM1ZDdacUwzVG95MkV3M0d5NHNLTGZkMDl6NVVJSjFWWURnQkIxVUw4UTVYVWRjai15NUxaWlhhQjYxbjZlNFRtUWFweEJVUlB6eThyQmw4SzhURlotcnhtcWxxVlpCQXhzQQ?oc=5",
+      "source": "La Opinión A Coruña",
+      "pubDate": "Thu, 23 Jul 2026 17:41:19 GMT",
       "imageUrl": ""
     },
     {
       "category": "Deporte",
-      "title": "Calahorra se pone a prueba - NueveCuatroUno",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE96LUtDcUhJWDMxYVY5MldZNmZmbHFpVFc0UlZsU01WY1ctTmtJNkhWQUg1M1g0bWJMdDd3bF9ob0Z2TjM5VXRkVm02Z2thVF9tLTFRZFVSMVI0ZW1uWTlCZVdHRlBLVWR4dVhQSHVwNHhIb2c?oc=5",
-      "source": "NueveCuatroUno",
-      "pubDate": "Thu, 23 Jul 2026 13:16:50 GMT",
+      "title": "Bronce para Rafa Sánchez en el Campeonato de Andalucía de Triatlón celebrado en Pozo Alcón - Jaén Deportiva",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQQ3MyUTAyN3JMNU5xTUtuTnRfS3NPc3d6ODg5QWRoNTdUbHNIV2dyYXNOQVgyRVVfQnlsNFpkRmROZkp5UkVRUHMwYkRzbU0ySG9MWU1mSU14YW9aekVsd3gxN3hqa0c4RHZiQWNOdFpsZ3hrUEVQc2taT0F4YTZLcG9mQ1lFdy1qZzVSd2tselQyU29vM0dCaVFhWlVpb2NabnBxSVlDY2R1cTZMOG5oempmZHVZUVc2MlllZzQxeXBtT0NSMlp4RVAtVQ?oc=5",
+      "source": "Jaén Deportiva",
+      "pubDate": "Thu, 23 Jul 2026 16:34:58 GMT",
       "imageUrl": ""
     },
     {
       "category": "Deporte",
-      "title": "Dra. Ana Gaitero, ginecóloga: \"Practicar de 1 a 5 horas semanales de ejercicio moderado aumenta la probabilidad de embarazo\" - HOLA",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNSkh6bFhVTTJWeEsweXlJN3NVYTN0NncxaE5xYld5SGROUFV1d2Y5dkNlaU1OU3ZhZ3JuSFViSlo5cjg0T3pGcllobFVzQWJBazBnSzZvd0JfWk1NS05XOWdickp4UUNwakdId25KUnZwVGxGTlR1RndXeHlNVGtJemVsMUEyTlZGTkZzUE5GckoxX2tfTlRCcTZhT1kzMEU4WnMzbVhqYXZGbi1LWmRGQ3pHV1BGSGluVE5kaHBvUHdoZw?oc=5",
-      "source": "HOLA",
-      "pubDate": "Thu, 23 Jul 2026 13:01:00 GMT",
+      "title": "Tributo a la Oreja de Van Gogh, deporte o tapas en las fiestas de Medinaceli - desdeSoria",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQUjFmSWpMbTNuVjA1WW5seVJEWEZXNGlCZTNSVDJ1RVVlbk0xdER4ZGhFUkQzMWxiZU40YVVyem1rSjhaLXFzZUt5eTRQa2o1YmVqbDVhb0dHZGw0TU1DdUNxenBaMExVTG5hWFBZejBqV29NR1RKbGUwamtNeE1qcWllblN1aFhSb2J5RHFrX0ZsdXp1Y0dtTTZfVl9oSFVZTnZMaU1fOTQwSi14aW5raXMxNllNMGVPcmRDSnNrbUFsQS1wN1I0ajFR0gHPAUFVX3lxTE5IZlMydEdZNHZoVWVsMy12MEVRb3ZPRnJtZ05haEFCWU1ydnVzQmVfUzZxbk1GclcxeHZhejBYZENmQXVQcUFOaEI4X2hIYml1N0EtaGFuZGQ4QUtzWkFLZW5mYTJ6S2Nlcm5Nb2xOcUtEY2tiSXFKTE9MZU9pQ3laRzZDcnU2ZXFRZDFxak5zNTZvdHFCbmdtMWVVOWxoMUx3V2J1d1otLW9Md01kX1NNSFNraVVndWlFYXIxMEtDT2loY2ZOZ3daRGk2OWJRdw?oc=5",
+      "source": "desdeSoria",
+      "pubDate": "Thu, 23 Jul 2026 16:32:29 GMT",
       "imageUrl": ""
     },
     {
       "category": "Deporte",
-      "title": "PP y Vox tumban las propuestas del PSPV para reforzar la sanidad, la educación y el deporte en Elda - Información",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPTmk2OTgzUVBJV0JmQk1seXg1MGtieGs0ZWx1TVkwM3hVOGFCYUlqbjg2UHRNUzU1RkR5MEdCaWtRUkpOanBQbmJtSjg4a0JvYnhlc0VSM3lOZGItMzZJNnNCWGw0QlNncVdFdDVNTE95bmhSc29uRlFWZWszMmdpZ0pVeUZfQlNvc1RWNVBxVGnSAZYBQVVfeXFMTVRkVWxRZHpzRW9KaThNSmRibWZlVE1yMl9LN1V1Z3ppNzNXaWtlWHNSNHAwUm5PNVFuZklfelNHSkFFR0JSdzN3dEZ6NTFmX3ZSRHRfWWIwdExXb3hQbkozTkdZT095RndOU0hibE9WUGt5TmlOSzhhRC0xdGRpM0U2QkJRRVp5QlpBOHo1S1BnRFlRMTd3?oc=5",
-      "source": "Información",
-      "pubDate": "Thu, 23 Jul 2026 12:49:25 GMT",
+      "title": "Las Moreras, punto neurálgico de la 28ª edición del Triatlón Ciudad de Valladolid - El Norte de Castilla",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQbWloUVRoWTJvWjR6Zll4QlRJM3pGeWROMmRGUENPRGNwUU1xcm8tRzFVTWh1SkJnTVV0UWd2MVVxNzUtekxoY2RJMy0xQy1ybS1xdENoV3NBdFJsSUQ3QWl3YkxKcDhlTkFBbVNLLThOTnlHQWZ3VzZfRjQzSVpsU3U4SW5ibUoyY25CVHpFMmdLWTR6YUJjbVFHNm84dTE3MEgzM084enp2aDRIMWRHWWhIZmJmN3dmcHJNQnVmN1hGcFBTNk9ZY3l30gHPAUFVX3lxTFBXN0VVZW1xZk05MXNVempBOVVXOU9SNHR2UXZqa3BRb3JIYXlvZ1pCZFQtMkJLcy1WZ2ZsUU8zNlctN3VwaVl3OHExNTFXbFBBVl9nR3pJc1pLNEI0TUZLTHB2Ty0tUkYycDdzNjVldEoyU1lvVk5XdzJDSUVtbDMwMHFmZS1Yc1hQT1dvTlFVNHREZVpvc1FURF9HbFY2OTY5Q0IxWFIwbFRxSS1TUlp6MUFIWUk0T2ptVEVDVjZ4Sk51X1hoYkhWdUhOWTFQTQ?oc=5",
+      "source": "El Norte de Castilla",
+      "pubDate": "Thu, 23 Jul 2026 16:32:28 GMT",
       "imageUrl": ""
     },
     {
       "category": "Deporte",
-      "title": "La Feria de Almagro 2026 apuesta por el deporte con cinco campeonatos abiertos a todas las edades - Almagro Noticias",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNekVtcTAycWdHSzZ2Y3lHUC00NVlNaUwwUk1WMnVEYXl2NzFockZwanh6eWxJU3NaNFpWMkFua0l0OXI2Tkd6MkM1T2Zla0FRZ0JQYTQ3cHNyR2RjTVZ6dHdXcFo5NHJjb01jN3g0SVh0MDIwVWZUajFkZGlNN1VhelZZdThDZ1NENkNBV0dVY2txaXBieEltZkFGc2ltamVldllfUnB0SnA3aGRfQWFJaGcwOG9jN21QaTBGR0oyQk5yMHg0?oc=5",
-      "source": "Almagro Noticias",
-      "pubDate": "Thu, 23 Jul 2026 12:41:07 GMT",
+      "title": "Ólvega se vuelca con el deporte - SoriaNoticias",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQMnh5VUsxZnNCc0dZMXFRMTFmMmR0Vk81LWwtMkRaQXJJcXIxdFJnVjk1Q0lsOGJNdzF4RGFGcXZuQzlNYllvVGl2YkRtc3dteWUwOU9rRU5wS3JJMk1lWVZRcHZBUmFCalZyTWYxYnFRT0lCZ2NnZFpUVVd3c084Qm5ac2MzLTQ1dmI4?oc=5",
+      "source": "SoriaNoticias",
+      "pubDate": "Thu, 23 Jul 2026 16:23:00 GMT",
       "imageUrl": ""
     },
     {
       "category": "Deporte",
-      "title": "El deporte vuelve a demostrar que puede cambiar vidas - Onda Cádiz",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNRFJuWkFsTVlkWm1nQ2VDTHZtWnBMdXRKRHZqcTZXUnJWdGU2dS11YTZWdjVHVTZUZkFZN1lZczl1dzVGeEtyTXdJNXZ1TVlkdlR1X1hSeEpuRUg5RE1IUTJoSkM2V3hNNWtVOVFhUTVHaXItX0pwRHJqZmZsVzdSaFRHUWVyRlRSQ1dPeWNPSEpfTDQ?oc=5",
-      "source": "Onda Cádiz",
-      "pubDate": "Thu, 23 Jul 2026 12:40:43 GMT",
+      "title": "El triatlón nacional vuelve a Calahorra - La Rioja",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOVlQ5TUhETERZRnN4M3hRSmFtSTcyRnJtcTBxX2h1cGNpUi1MbWNWSGt5TFc5QkZEd2J5OW9ITHlmUEN2YUctXzBIcklpMFA0MTQwNXNHMTdmLWF5SmlITUNILU9nalR2RGx3SHZfa25iamgxR1JhMi1KbUptd2p1UVFWUXpyZm00VWNhS3JBSXhGTE9z0gGaAUFVX3lxTE1pRkdHNHRTNlhHVWZMdTBocjRoSl9HMzV1c0hJQ3JHMTdZTXJNUzMxZDFIOUtNSnVaYTJqeUNhVE1MTUVldlMyU1prWkhHZ0Zpb0dlajV5RTFQZnItaVFyalhpX3VOQUdFb0FtRE9pN0J4S0V2Yk9xdi0zRkp3ODV2QldJSzl2ODF6OExLQXFFb3FwTFVaZUc0T2c?oc=5",
+      "source": "La Rioja",
+      "pubDate": "Thu, 23 Jul 2026 16:01:09 GMT",
       "imageUrl": ""
     },
     {
       "category": "Deporte",
-      "title": "'Almerízate', ocio, cultura y deporte para un verano inolvidable en Almería - Ideal",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNM3dIbkNScDFqYlIxNnJpaHg5R2YwLXAtQk1HNmRPSDVzOTZSTnh6c1FkdmFva2Z4TVpscFNQcnJkUEY3bWFVQUN4d18tQkZCendtUXBVX3RkV2tyRGEtQ0VyUG9HVFgyQWk2cFI1eEdjVms3dDBPRHNUTlgwWmNIMXpRWGZibUF4aURzS196SS00Q1ZyQ0ZETnVHa0ViY0ZsS0hjcXJTS09nSkdlM0FxM193bXhMOG1KSHfSAb8BQVVfeXFMTXlJWHZwRVJKTGZMd3JaNTVsOWNEcHhteXVGc2tnSXFjS0JKanFDWEJITGFsOGdRYXpJeFRHX00zUkZKS2I5bmtwSV9NV1hKNEloYjZRYTZsUU9VQWw0OUR2djl4eklxMmdaSTdKQzlETllCZzR4U1EwZHZNSVlGb0YyQVpRSlVyTV83N2NmVGYwUnhNQVNsMGRUdXNjT3dtbDUyMU1SWTk2Y0FUeTR4YUZuUFl0UW1PWVhiQVFsclk?oc=5",
-      "source": "Ideal",
-      "pubDate": "Thu, 23 Jul 2026 12:38:16 GMT",
-      "imageUrl": ""
-    },
-    {
-      "category": "Deporte",
-      "title": "Montxo Iriarte, un hombre del deporte \"cariñoso, entrañable y apasionado de la pelota\" - Noticias de Navarra",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOclEza1hTUnp0MU9SdE9MSG93VG54WEJjZVVnTlJ6MDl3bUVRZWRoaTl3eFhTMlhaUWEzOFdNQm1wMVlmazh2T2JCNTk1dGM4UGE2TjNTbW1zam1Kc2preUdmRWxDU0p3aUJCM0JlN1NOcVRYV1BJQ0V6UWZETXJISzM0aElpSmNiSTRBVWxEc29KNTF5RUNmTnpCTnFLV2s2THRiRTVOZGNBQdIBrwFBVV95cUxQbWV6ekVTR1RyWWhfOVV2bmd3dDJNWi1JcXVfZUN5Rnp3NncwZlBINkpOS2d1ZnpSSFQtdF9MVW1vOW55R2Z5bTFZQWNOT2ZnR0xnMHlJcXY1bVFOck1QdUNiNUEzVElnMUhPSVl1QS1SZFRDNktYMzF6d0RWM2N6aFJZSnJqa19PTDFqLWFTem5LNUdJRFpfejMzVzQwR3VtX0JyQklDbDl1NUtrR2Iw?oc=5",
-      "source": "Noticias de Navarra",
-      "pubDate": "Thu, 23 Jul 2026 12:36:57 GMT",
-      "imageUrl": ""
-    },
-    {
-      "category": "Deporte",
-      "title": "Natación artística de Perú: Crecer con los Juegos Panamericanos Lima 2027 como objetivo - olympics.com",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPQVJBWEE2RGw2WkZjeFg5T1NURHpJRlJ5cmJHZ25nWTRzaEF4c0tuV1pSRk9oampBaWhkVFNHelVBemZIQ0txRG5hR0dXSFhFV1NIT0JKc3lDMEF2YlAwcHBwUGgyRl9KcUZ0VjJqWGgwLTQ5b2dfTVQ2YUxxcVRPWHRUT015Mlk1SVVFWTA5ZlR5MjZCekJWZGRmM25CT2xmVE9Jc09hZ3ljMVlLN3pJc0RseDc2MFQ4NE9zUHVuang?oc=5",
-      "source": "olympics.com",
-      "pubDate": "Thu, 23 Jul 2026 12:30:00 GMT",
-      "imageUrl": ""
-    },
-    {
-      "category": "Deporte",
-      "title": "O Porriño transformará el Velódromo en un gran complejo de deporte urbano - ValmiñorTV",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOSDNVVm0zY1dBbktqX0NnQWExSXFjQ2tiYy1FVUxYRnJPRVE0SDZxcFZZMzZDTDliZENiRnRQWXhTMVpVU2VkaEJ5N3B2ZWhMd2xwQVh5RUZQOXB3NVI5djNQdTRpRFBRQjIzb0JWNWZVS19zTG96UlNqcFhzbjNoQzgtWFZvLUFsV20yclMwZVlCOHk2SFhXcUd6RXRvLXlvNGNCUkxRLWsxYU9y?oc=5",
-      "source": "ValmiñorTV",
-      "pubDate": "Thu, 23 Jul 2026 12:25:29 GMT",
+      "title": "La Generalitat financia el deporte escolar en València: Torrent lidera con un total de 22.647 euros - Valencia Plaza",
+      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxONWRQSy1FSndtZzZoVjlSU0p0dmRRdnYyUmwyVnl6cWJwZk9oZHVuelZFRi00eTlPYXNTSlh4V3g0cGs5ZnpsNTRqZ24zQTJzTEUxV1dnTHZTaDRPcDdha3NaeFNTdGx4S2I3emNtZFFvczFqcHRBTHAzVTJkRmp6QncySDJYTFJFV0dFSjdlLTI0Y251THoyMUR6LVNQVExyVEF4WS1RUU43anBnUkdlTVktVnpndENLWWZncTloeVJzY2R2QWFORVRWRjFCM2xTSXB3QWt4Nm1FeU95MFhWY1ZFTjJPUzV3QkdZ?oc=5",
+      "source": "Valencia Plaza",
+      "pubDate": "Thu, 23 Jul 2026 15:46:12 GMT",
       "imageUrl": ""
     }
   ]
