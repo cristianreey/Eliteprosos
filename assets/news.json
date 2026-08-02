@@ -1,13 +1,69 @@
 {
-  "updatedAt": "2026-08-01T19:07:39.774Z",
+  "updatedAt": "2026-08-02T02:48:29.987Z",
   "hoursWindow": 168,
   "items": [
     {
       "category": "Deporte",
-      "title": "Campeonatos de Europa de Natación, en imágenes. - El Periódico",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQbDl5YjhHZGlDMGt6eWJyZTFLUjQtUGk3TjM0Sy15Nkl1S1JudXR1V09XSnRnZWJGUExXVGdDV0gwMHhnRGFjVWVKNnlSWXVacVdydWttZmxGZ3MySnd2eW9PNm4ySjdVLUE5VjNlUVJtcUtBcENfN1RDTXFGcklrcmpSUGpNQ29HQU1v?oc=5",
-      "source": "El Periódico",
-      "pubDate": "Sat, 01 Aug 2026 18:33:19 GMT",
+      "title": "Ramón Jesurún seguirá hasta 2030 y el Ministerio del Deporte despeja la polémica | La Polémica - AS Colombia",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNSmVmdTNIS205dFQ1dUt4VDlPRVJNN19xVVRfRHBkSVY2RDNRanIza19yYXhRaTM0OXdndDdiODRFcHZVTjEwTy1uUmlKYm9pSFhoaHc1RmJiS1g5UmVVWlpkM21oQXVLSk04SHdQZUxULVdrbmp1bi02VlZkQmVrT050Q29rNmJmMmN0TTd2TGxkT0xpSTVnTV9fbkhWck9FbUJmdmpOQk9DTXhJVmhhS2pfei1XRjdKaWZRQ2VsMDRVd2RWMVNodmJmaFRiTWPSAeMBQVVfeXFMTVlxQXl4M0ZzOEtvLVZfR0tuaUhYSW5DNFh6a3JPWUJLWkRGOXZwakVaQUNJX1pSdWw3QW9NLTZiblN4aWtzenlJelNGbTJZc3MzTm1KM1dGNF9QTGhocW16YTVyNjl2RFM4XzBDVS05S2h1azhLM0k0TkRocTB2cDduSzNRTXN0M0VERkszdUpBLXJSU0N5cW0yaVI4UHpuTUtLbkdHdVNNRG5SUGJ5UnYzWnVQYWlrd08yWldUeWVPeFlHQjBacmR3UE5hNDhacTFjTHB0amZfdkpscmhmYjFRX3M?oc=5",
+      "source": "AS Colombia",
+      "pubDate": "Sun, 02 Aug 2026 00:30:34 GMT",
+      "imageUrl": ""
+    },
+    {
+      "category": "Deporte",
+      "title": "El Club Natación Puertollano brilla en la 9ª Travesía del Tranco y sube al podio final del Circuito de la Diputación de Jaén - La Comarca de Puertollano",
+      "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxNcUJOalNoaFVfTUw1REYyZmFTbXhYa25rODVMNUlxUWRwdkYtYjBsT1duWVhBUUMwaERIR3RWU3NzdEJGdkx2LVlJbDVBQ3c2YzBlMFplRlpNR0ptYVlkalZTR0dSWFZCRlhFeFFKNUZySWhQN3NHRDMxNEQ4WmVFWFlZOTBZOU1yaTBZNkJ3YUZ0STJKUjNvWEQxcEFBR2tFaVBod3RUY1lSUjU2WWwzdWpKSHotdmhObGtnWEViUTBLU21SMF80TktnSkRDaDNDZGtjbzBLR0ZMQThaZHlCRWRLNk5kMmRka0IzS3ZCZXM1TVZNeDVNQmFxRkpHRmRucWhQdVpBclRYX1nSAZACQVVfeXFMTWRXNS1jZ0tJc010VkJjVDloZzF4OWt2eVZfM3dlbnpCZU5xVWx6VDhqanZvNTN2VUdJMS13dUp0aTBzbE5mbElEYjVhRVVkVEFLeGl0Z2pTS216Qi1jQnJPRXFCZEZ6R0FrQU1xNnZpVVRiT212RXFaVkRRNWpPV0FLQ2habnlOcWZfLW9EWjYwamJkRTB4ZjVBMVprRkpRWnllNUhaWVFfS1EtOFRTZ1BDVjllWFpvVTJpQlZOQXRHc2RUVF9JMUpaS2tuZjBrdHhKZTdXRzJESkJOaHFqemJHdWRaNTdqaG9uVFhMRTFVRFYxcWxyR0xvUDRPOGVDQnZQVzF4bm5NR1RuUDZSMTE?oc=5",
+      "source": "La Comarca de Puertollano",
+      "pubDate": "Sat, 01 Aug 2026 23:48:19 GMT",
+      "imageUrl": ""
+    },
+    {
+      "category": "Deporte",
+      "title": "JCC: Juan Manuel Morales toca el oro y luce por natación colombiana - Prensa Latina",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPdFNLZTZwbUxuVjhiRnRZVEZhbE5LZjEzRFpqcjRZWGZCTVZqaTlIX0dBVU9MQ2RiYjRDUnUwNTA4bVFhUzdpYU1LVk5ITERqcE9ybjFhNkUzZmYxeTBSdkc1UnM2UzJteTAxZHZpaEVjNk9xbk5ZLS1ISmdMUkd1SDV5aFl2WjhuYlpUVEl1eDB6OEw2WEFJeU41QmxWZFJaMjBkRVhiTTQxR2s?oc=5",
+      "source": "Prensa Latina",
+      "pubDate": "Sat, 01 Aug 2026 23:30:00 GMT",
+      "imageUrl": ""
+    },
+    {
+      "category": "Deporte",
+      "title": "El Real Club Mediterráneo corona su primera Gran Fiesta del Deporte con la entrega de los Trofeos Sociales - Real Club Mediterráneo",
+      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQMFI2LTgzYXVwWUNJTWNkZXRnVkJVLXgtZFpaLTdZYnAxZ3VKZ1NZWGg5MFM5bUtqakgzdW5tLS1yVFoxa0N0d2hlNzl5OC01ZS0ybzEwQ3JMdlN1d2RyaUo4RkRoTi1wNzVjejNMaG9DLWQyeW13ZGNrZ1NOeTVUMUlDZjcteC1Zb3Yyd09ITlFVUzVCb0g2QzRGSmRVMF82Y3AzMlNISjhIdkJPcWN0Yl93QmJqc0NMVkJaVFhYTUlLYzg0Z2doSVpJbjVWYnFJdnhBaUNrcw?oc=5",
+      "source": "Real Club Mediterráneo",
+      "pubDate": "Sat, 01 Aug 2026 22:08:36 GMT",
+      "imageUrl": ""
+    },
+    {
+      "category": "Deporte",
+      "title": "Iris Tió se cuelga dos platas en natación artística - La Región",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNZTV1Y3BjcFdpY1VfZUNPeUVxZXZreTNPWnJEeGxvRFA5eFpVSEc5MTRjQXpOUWh0c3pfS3V5RnNfbmJCRUlOVTBVTWdKaG5Gd0F6VTVFeTdKWEgwbUU3NWlfaktETDloc2RubmJNc3pYTmlIMWlPeEhMcVpvLWlDMndtVzh5OFZQZHliczYxeVZISG5EWXV1YUZxTHpqdnM?oc=5",
+      "source": "La Región",
+      "pubDate": "Sat, 01 Aug 2026 21:30:00 GMT",
+      "imageUrl": ""
+    },
+    {
+      "category": "Deporte",
+      "title": "UB Conquense – Rayo Majadahonda – Pretemporada - El Deporte Conquense",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPQWRDSTdyMEpWR1V5WlNyeWdIbGV2Y0lMSW0xalNQcGVUS3UxVVZ1dlZoa0w4bC11RUc0Q2xSOWFHaW9MUzhWUHdRdWxOSWFhY3ZZWW9ISVJ0U2V5dnlrZXlYZVB0NGJ4eWF0SkdraTBQanFLSXB4NmRpNEJvMmxRbDMwejJ2UlNUaGtpdHFn?oc=5",
+      "source": "El Deporte Conquense",
+      "pubDate": "Sat, 01 Aug 2026 20:42:43 GMT",
+      "imageUrl": ""
+    },
+    {
+      "category": "Deporte",
+      "title": "Dos platas para España que no rompen el 'maleficio' en París - El Mundo",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQOWJVVGd4Qmt2bXpfbDA4TzlkQ0prck1yVFN2QV96UnduUWpxbTZvN0N3cUE3dG5tdDFuMTNPQmtUNGlvRjdYU0Fqc254UFA2WklmVmxVdGxJbnI4aGg2QzZPaHVodnF1S2lhTGNDaUJINXFoVFdGNkZ2M0xORnpRYU1XVXlwSnQ5ZXptbdIBjAFBVV95cUxQNUxYcnZITUhmN29zXzBKc19ZaW9hZy1zbUtUQXk2eWk3X0dvWDF6c01XMnJTMTFTLW1vYlNwRkxGMDQyc3dZbzZqOWdQZnA3NnBoVnl1UVlQN2FFd3JsZVMzaFNJUEhzRTBkTWVldExDaWNQTFllYnZLcTVyd2dVTGZzRDUwUGZBWmJaYg?oc=5",
+      "source": "El Mundo",
+      "pubDate": "Sat, 01 Aug 2026 19:18:25 GMT",
+      "imageUrl": ""
+    },
+    {
+      "category": "Deporte",
+      "title": "GALERÍA: III Triatlón Cross en Boadilla del Camino - Palencia en la Red",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNbTIwS3VVUWlHODlDMVNiZ1BhZ0hkN192MkJ1ZWt1TlJ1eHNlLUxLQ18yMUlLNkV5ZVRSZ01jUURuNUU3Z2RuTUlfa3ZDWldBTlRLNTlnN2VMLXhiNnBpZGIyLVZ3NkdLZDU1UXN3OVBHbENONmlaa0VFNWZzNmUxZkNQdWdGak45?oc=5",
+      "source": "Palencia en la Red",
+      "pubDate": "Sat, 01 Aug 2026 19:13:27 GMT",
       "imageUrl": ""
     },
     {
@@ -16,14 +72,6 @@
       "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNeFJORHlGdnhlbW5XZUtESzhleGNNckMwVGFUSncxVGRPejFIMzd5b2ZyUFhOVTM2V2N2TW9qc3ppclRFWDRaWUtCM0poS21xelFoc2VDR1N6WGR0VWp4RUNSVmJ6UXlYdDBFb01waXZXS1VZX3RxazVOUWx6c1pDamFvMkhhbWVDU0UyQ3FvMnh0RlZTQkpweGtyLVlodG5Jd0R2MmV2cjF4WmM5c2Uybzk4SGpZY2U3MldCc3NQUVZBWHhWVFpr0gHbAUFVX3lxTE1QZjFlU3N4TzRPRUQyNVZLVVVQb096NUFxWmNGcmU3TUYzSm5NdWV5V0VfUjJfYmR4dDhTdklnVjU5R3RPa1dub2g5cFZ3alhYMjEwMlhVZE9ObFJydE9QeEFvcjBTdUNVRHlNOXNMWGhNYlpMZzhfbTdzQW9Ra1pMZUw4U0RhRUZHUjJhUUg4UHpHWXRoeU5jX2xvZjdfZEtWSm1ETW5HQmh0Qjh3VkxNREdOUkt0azA4dGlfT2dCbnplUXk2M0lNdGtYa2pfS0xBM0pwNWxTY1lHUQ?oc=5",
       "source": "La Razón",
       "pubDate": "Sat, 01 Aug 2026 18:09:07 GMT",
-      "imageUrl": ""
-    },
-    {
-      "category": "Deporte",
-      "title": "El Club Natación Puertollano brilla en la IX Travesía del Tranco y sube al podio final del Circuito de la Diputación de Jaén - Ayuntamiento de Puertollano",
-      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPQWtseHF5QlpaVDZyYXFMYjN0Q2dHWWRVOUllY3Azc19hT1M3U3dtVVZ5YUdXb2ZsZFdxdXh0YTB1MU5LcnI0Sk5QOVBqVFNubUV6Umk2WDR6WjAwMk9vY3JvQjVfVnY2dV9kWUhUZUFSVGVzYWk4LW9KNEYtS2llWU1WVUVkQW9mamdKTllwUkNZbWlaLXN4M1huZDE5WEtxeS1nbXJXRklMdDFVVzAwWDdTOTg5RFIyakJDOWpnLUo1Sm41cjVnNExXT3o4RTY1VDB4cXhFWUVOYlBSLUNfTjRxNVVldXM?oc=5",
-      "source": "Ayuntamiento de Puertollano",
-      "pubDate": "Sat, 01 Aug 2026 17:14:21 GMT",
       "imageUrl": ""
     },
     {
@@ -39,63 +87,15 @@
       "title": "Monleras convierte su Legua Castellana en una gran fiesta del deporte popular - Tribuna de Salamanca.",
       "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNbVZiT2NfSkFYdUhvV2xoOUx6U24zc2dDOHUtcmNCYmx3VDc1VkNYQUxvRXFqN3k1ZDhWU0ZVZFAtMjRDV0gyQ204MmJxdFFJUl9RYWV0TDlXZ2JlMFVZZGpjV01wekxHLW53a2trb19oRDl6djMyZmNmaHFjRzBJaUhtdm1qUjRsTDdPNTlWUTR4RnpNX3VTUjBqblV3aUxVSU5pMDYtX2ZwN0dkUDlqNTdiRURnUzg2ZmxCT2lHdXpUUzIt?oc=5",
       "source": "Tribuna de Salamanca.",
-      "pubDate": "Sat, 01 Aug 2026 17:01:46 GMT",
+      "pubDate": "Sat, 01 Aug 2026 17:02:16 GMT",
       "imageUrl": ""
     },
     {
       "category": "Deporte",
-      "title": "Madrid actualiza el reglamento de profesiones del deporte - Madrid Actual",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPdElfQ1RVWlRDUlUtVk0xX1hEY3p5bDhXang1OXFPLVVjY2JNcDVXTW1iRlI2b081YmxCUnFnc09fSVQzelNUVGF1bHAwOUFRUmNtVlFkNVZXMGtacUxqWGFHbEJmYXlpWlpDV3ZUd01PTDhJUHBuMm1FR2NPOG9jM2xnTmlVMmdCV0dFak1ZbGNJYU1VZDZYdWNiUnUxcXBxd3IxOWNUOUVmczRNdlFVV3VhTHc5OHdRS0hrdGFHTk1NUWRhSXRzLUxYNWw?oc=5",
-      "source": "Madrid Actual",
-      "pubDate": "Sat, 01 Aug 2026 16:45:11 GMT",
-      "imageUrl": ""
-    },
-    {
-      "category": "Deporte",
-      "title": "Aspe homenajea a sus mejores deportistas y presenta su candidatura a Villa Europea del Deporte 2028 - Información",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNcjhPbE5USFVBenN6dGR5OW1vSkR2RS04MTdHX0NTVlo4WDNnYldBVlFuc0ZqbnpSaTg2SHFmLTdPb0VMNncySDhfeEc5UkpwVi1XX1dKREh3M05tRjBvdDB6dWtJenRfX3JBOTlTWTVTeWZDWlhLNXZjYkw3U2piUGpUeWpsbndvU0NXZlA2WTkyVXJIeFdRQ3pQZ1hEeEx0N3pZ0gGoAUFVX3lxTE0xUU9wLXJPWkVZNGQ2dmRKYjRVc213VDdHNk43Mk45OS1wVktUMEstU2NNZjZpREZfYmNYTzBFZlBYTVJlWUNodFRZcUQ2X0xSUEwyLVJYODhoalB4aHFkZkhGY1pwRGZmY2pLM19QNXlsMXY0NFdmUzJUZExjVlNHRGtoeWZkTDNCMmg2YUlVeXV2ZTZjY0R5czc4aS1ENXctSlhmZGo4TA?oc=5",
-      "source": "Información",
-      "pubDate": "Sat, 01 Aug 2026 16:30:52 GMT",
-      "imageUrl": ""
-    },
-    {
-      "category": "Deporte",
-      "title": "XXXIX Gala del Deporte de Aspe, en imágenes - Información",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQQXpmSnlfVGpxZEJnZEtUWFJNcGMzV3VKcXZkQ1RaZElzMjl3VTJWQ0pHUjFWWWtobGptVWMyWmJQZFdvZ0N5dDFDM3pQR1lTbWlWVDZmU0FuZ3pBY3lFNWlyQmpYZHNaZUkzdF9mSzRlemFsMWhzc2t3a19GZTBCYi11bjdkbC1oalVESFpoUHBJdVkyVXNRaTZlT20?oc=5",
-      "source": "Información",
-      "pubDate": "Sat, 01 Aug 2026 16:26:57 GMT",
-      "imageUrl": ""
-    },
-    {
-      "category": "Deporte",
-      "title": "Jorge Iván del Valle logró una histórica triple corona en natación de aguas abiertas - El Espectador",
-      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQWnMwSTNfeFMxaHhPU2cwOVk4WWgxQzBINDJvOV9WamdBTkNSY0xETVlkY0Nyd0t1ajJOVW1vTU9MSzFodkVVcXgzUGNrcGxEUXFGZ1VSaENGbjNRb1dwR0VpTWNLd0JOVGE4SERlTGU0czVkR0Y3TXg1NjF3YWxaaFdQNHlzR2ZKV2NpTFFNa0NIdERZV25zbUxEUEdVSnBYUTdFQ3JoY2I2QlExazJfa0FkQi1FZl9sZk53QjFHMmF5UExGR285OFFwck96TGNsaFE?oc=5",
-      "source": "El Espectador",
-      "pubDate": "Sat, 01 Aug 2026 16:24:00 GMT",
-      "imageUrl": ""
-    },
-    {
-      "category": "Deporte",
-      "title": "Natación artística · España, plata en el Europeo 2026: Medallas y resultados del dúo libre femenino - olympics.com",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPS3J3ZXNvWVFMZjE1SXBpeU5TZXFrSkFkNWI3al9FRlE5Q2tPd0hsWGItb3BvWFZFMVMybm1IWXB4aWtETHhhbkxXYjY3SmtUamphR1RXUjM0LXpDbkhnSzMxc1dYVFFDeTRfVVBwcmZUc3l0VmxHTzBFQ09pX2RwUExVOFdzdUhPRXp4UUI0YmtoRE1rX3dNRGlNLUpmY2ctUy1vSFRIRnA3WHlfaGxURkVPRXQ4NXFPQkZJ?oc=5",
-      "source": "olympics.com",
-      "pubDate": "Sat, 01 Aug 2026 16:20:00 GMT",
-      "imageUrl": ""
-    },
-    {
-      "category": "Deporte",
-      "title": "Primera medalla para España en el Europeo de Natación: Iris Tió y Dennis González ganan la plata en el dúo libre mixto - La Razón",
-      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPTE0tNWxUM1Z2VE9yengzT2k1Yk4xN1ZVVkdJaXVGbXREVnBBeHA2NXRVUlRFdlY5UVRkZkkyTUNWQjBBREdZX2VCNWZHLU0zZ1Y3RzNQdkhiMk9TSUlndWVpS2M5eUxHZkg4ako4SF9ZMDZGeVNhc2RBX0U2dEhRaWVGc25POTRJME5PZnV0TUU3OHhhMDBGZVdkdlhmOFJQNHlGN19objNMMUJvUHJtY080N3JfcGpTTWpJbHZLVGotMl84Y3pGS1hUY1B3cWpzU0N5LVFhNlhuUWdjSEJ1bWpqMFZ2WFdFTXhSatIBgAJBVV95cUxNNXlkNC1zY2xpc3hmdWJXR3lFWU5GY2hOYlI3ZW01dEdoZVMyTk96WTFSTWNPamliVXVkYTN1V3ZUNUpWVElUVnhyaEcyYU93aXJjMElBZTZ6aVdjamVienlxX3lUb1FfTnZiZXJlVmFxV1FDQ09Jc0JodjVFYk5GOWd6M2tqTEVEOHpYaUVuYkRMSWJCT1hpbUJZM29aUFQ3ZTU5N2sxalVUS0ZHWTQyc1VlcDdsbFNnT1oweE9JcU9qNHdkWWE1OWJ4dHdLNkRxZHpMYXNQM3VNdGUwdnItdkN2Yk5SVlZkNk10MGlsN3ZqTW1DT1k5LVlEOUlFYmN1?oc=5",
-      "source": "La Razón",
-      "pubDate": "Sat, 01 Aug 2026 15:47:01 GMT",
-      "imageUrl": ""
-    },
-    {
-      "category": "Deporte",
-      "title": "González y Tió abren el medallero para España con una plata en el dúo mixto libre - EFE - Agencia de noticias",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE0yTG85QlJ0ZG81UTVyaUlhNl9XMG1nbjllX1ZJT2FFRUs0TDVhcGpNUXp2MmNaTHhFdFVmQWp6YVNBX1c5ZkFGZ0tnYkpYY1lySm1pRllYZkppR2RuMmxBeFpjYVdsMm8wZTFjUURMUnA0TUpvWmwzVVVB?oc=5",
-      "source": "EFE - Agencia de noticias",
-      "pubDate": "Sat, 01 Aug 2026 15:31:49 GMT",
+      "title": "El Ayuntamiento de Calahorra agradece a Toni Martínez sus 39 años de dedicación al fomento del deporte como monitor de tenis en el C.D.M. ‘La Planilla’ - yoleoescaparate.com",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5JWG5mczZMeF9oVUVqeHQ4Y09nemNjY09iN2VtSi1JdXB0bmw1QlU3TVF6eWU4dVdNUHI3TGtBd3ZqWmlEY05CMjJDVWhkNWNuQjQ4?oc=5",
+      "source": "yoleoescaparate.com",
+      "pubDate": "Sat, 01 Aug 2026 16:42:00 GMT",
       "imageUrl": ""
     }
   ]
