@@ -1,21 +1,53 @@
 {
-  "updatedAt": "2026-08-02T19:09:52.283Z",
+  "updatedAt": "2026-08-03T02:49:34.417Z",
   "hoursWindow": 168,
   "items": [
     {
       "category": "Deporte",
-      "title": "Enrique Alfaro completa el capítulo de renovaciones del Minglanilla CF - El Deporte Conquense",
-      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPWE5kRWZRaUdBWmdSS3pwdE9WSVpaeFRFME51SHVnZmY3NXZpYW1lSy1TcGN5Qm4yS25FeENfQVZLWHA2RVFDWG82RVdnclJXQzFjZzRLVHJqRm9BU0tYb25yY0dXSE8wRWlSaEJ3cnJxeUNMRnJHaFpSbFktT2tzLU1uRGFYcEpqQ3hoZUl3TFlNRUNsc3A0Znk0OUQ2SnhRTjhtdnhpTWNiU081MjE0d2RCZkdjNDBPUWF3UXJMZ2dvY3JUX0F0ekd1MjRyTVVzSkViTHc1QnFldlB3VHV3NHhuNFpnN3RBNFE?oc=5",
-      "source": "El Deporte Conquense",
-      "pubDate": "Sun, 02 Aug 2026 18:56:16 GMT",
+      "title": "El sumo se globaliza: el deporte tradicional de Japón en la era internacional - nippon.com",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1ISzdVYWtzeDhIRlNhczByZTdRY3ZnX1JOWmQ4aVo2WUo5MjVWaDhPOWNYTDR3eFNKRUxiQ2lsVUY3U3h1OVBPamNBS0pWUzFNdGFuZg?oc=5",
+      "source": "nippon.com",
+      "pubDate": "Mon, 03 Aug 2026 00:00:17 GMT",
       "imageUrl": ""
     },
     {
       "category": "Deporte",
-      "title": "Ripotenis cierra su Escuela de Verano con cerca de 400 participantes - Todo Benicàssim",
+      "title": "Golf Empordà, pistoletazo de salida del torneo Expansión WCGC España 2026 - Expansión",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOSUVtNVdiUEJHTHZxbU8yRmFqbEtaZmtXWGhLcy1BX1UwS2dtOGJkT0NPdFEzX2pyRFR3ZVI3b19vRlI2RVFxNTZINjVMQXBuUGRWaGVYTWxRTVl2UDlSYW55eW00U0hCS2tBREtfWndiQUYzSHd5dlEyWm8waVMweVJlR2ZvU3M0ZmtpVTllYUhLN2h2NmVCU9IBmAFBVV95cUxOSTlVM1ducjVQakR6em5oLXdmcXo1S2pQdE9DY09ZRDE0MVN0SUpDVDRoMDB5bDdheWVyeXgwX01hckRZOVFHNDV2eTFzcmRYb0Y0T2FCeEx0ekhlei1jNHRPQzNRanQ2S01jSDdHMlBvRjF3OFJ6U1E5RktSc25ORGx4TTZRMnczZHhSRER4Y2ZpN1VNcExjRw?oc=5",
+      "source": "Expansión",
+      "pubDate": "Sun, 02 Aug 2026 22:01:00 GMT",
+      "imageUrl": ""
+    },
+    {
+      "category": "Deporte",
+      "title": "El triatlón asturiano nació en Avilés - El Comercio",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNQkV3NjdNYmZhZFNINTFOTnRtdWNxb3czT3oxZDc5b3FRTWFPbDJrcG1UY3FmcDNfaVVoM2R4LWxkSUlRVUNYOWdnTi0wODUzQ3JOd09VYnBESHZCQlhNV0xIazEzNmdPdzIyUHdGdUxCclJVLWxBdGlXQ0pfTGJfVGh5a1hNTzBEa2gxMU9yQzHSAZYBQVVfeXFMTlo3bTlfLWZVb3MxdkxUdHR0SzZjTmFINWNhTEF3Unh2Q3M0RXU2b2VmbGswOHFlZEZsSVkyeTRfRnc0LW1ickxpaFRIUmZfaW1DOXo2R21FTlZjbmZiSkNWSDIwbEU5VW5jM3BKWjJsRUVyM1lGeVJGcXhpNnhKUUtHOXdHTHMtb0pMV0xxSVhNYWRQa2RR?oc=5",
+      "source": "El Comercio",
+      "pubDate": "Sun, 02 Aug 2026 21:17:14 GMT",
+      "imageUrl": ""
+    },
+    {
+      "category": "Deporte",
+      "title": "Fallece un hombre de 59 años mientras hacía deporte por la montaña en El Genovés - Cadena SER",
+      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNb09kbktVOWx5UUpLUWcxOXlSRi00aG16T1ZxY2FodDdvTjBpeEp5TWU5Q1laUFdiNG41Z3MwcHk4enJscEZHLWE2T2lneE43YnREZU5CcUJmdXhYc2dQZWFtelljOUlNZVJfZlg1Y3l3bHpIaG0zQUdDck1sTWFOTnpfNGFueDR4MDgtc29tenVrTjM0X05ieElKalpReXkwNDlFaEdXbnZJTUxUUTJyRWFrV1RhbV9PZzBrbE1GZFZhby0tY09DaVBJbDdrUDgzSklyZlgxam12QjlqOWNpRGt30gH2AUFVX3lxTE1ZX0xfYUpqWm5DRzBBT1BYbThCLTd4MGVsVnU0U1ZKZ1lHc2hzaUEtS0dnSkF3VTMzVlF6aDJCLXg0aS1zaG1uU2FvLXBQR014NjJ4TC1UclNEMGQ4VE5USTg1eFc5bkRldUVXMjhJZTlSY01TUG92dVVfTTYwRnBTMUY4ekZ5M05wNDdnNnAzT3BGajR1elp1WllDLUJxT0ZIcU1XcEROWXZxeUlvZWtVVS1EZENIWG9YOHRYdVNrbUtCVEhQMERzOTdpdzEwN2xlYW1ELUkwY3dfUTA3S0hMaVdlbG43X3dpcThvZGFEOWRmOEVRdw?oc=5",
+      "source": "Cadena SER",
+      "pubDate": "Sun, 02 Aug 2026 19:36:35 GMT",
+      "imageUrl": ""
+    },
+    {
+      "category": "Deporte",
+      "title": "Ripotenis cierra su Escuela de Verano con cerca de 400 participantes - todobenicassim.com",
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPSU82Y2dvRl9TT254OWRKa1RndWJDR3JlREdJZFZXUkNZNGs5M1FIU1Y2elV4S19SRHNGaXRVY0JvYUJ2Njd1dF90VHltUmw4Zjk5RXgxX2liRW9FRFcwWktCa1Mtd2NyYzdmbFZCOVRSWEVxSm9nNlg0ZWttdmxpcXV3N1V0Mnd1REZ1T0ZNaGp1bTBuNW5VaVhXVjdtcHlaUGpyQVQ2Vl84QzRXTHBBVg?oc=5",
-      "source": "Todo Benicàssim",
+      "source": "todobenicassim.com",
       "pubDate": "Sun, 02 Aug 2026 18:55:58 GMT",
+      "imageUrl": ""
+    },
+    {
+      "category": "Socorrismo",
+      "title": "Bomberos de Guaymas fortalece su División de Rescate Acuático con nuevo equipamiento - Meganoticias.mx",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQTWJmQW9zYi1RMzI0dmdoXzdXR3l4WUtOcUEyS2lTMFM2ZjFqdlpmUGt2eUZpOFlBMjhhbm11WXVCMmNTamQxTE9xcTJpUXFMemdlZzZoUzRIeW9qcVp5bjR6MUFlODRlYUctM2QzcU1JQ0R6bnozeEhfTTBiOXVZbE53eWowSG5UX2hCUzE3YVVEc1VkTU5XQTZkV2RmTjRqRGFTY3VtNUdDa0tWa0J3Q0lzMFZ5dmJ1Z1ZzT01mdlh0QnpFSjhJSWNhSVI?oc=5",
+      "source": "Meganoticias.mx",
+      "pubDate": "Sun, 02 Aug 2026 18:25:35 GMT",
       "imageUrl": ""
     },
     {
@@ -44,26 +76,10 @@
     },
     {
       "category": "Deporte",
-      "title": "Javier Cardona y Mar Ibán Baker se imponen en la fiesta deportiva de la Travesía de Natación Ciudad de Ibiza - Diario de Ibiza",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQdXAwSDRkOWllN0xiclk1ak12SzNCaWR4NGl1bWVzWDVjTWs2NmJOSjQ5V1N5Sm9WUVlmcUFZUm5hZVU0Y3RXRTNxck0tUHhNaGF3Ym5GWEYxakktMGtMS0VZLXFSa0xQcVE0NTJJbG1mSjJDNlZOSUE3RUs4RXNvcjl2RlAwWlFHbWdHV2J1Q3hLdFRHQ0Q5UXFkSzNsZDDSAaQBQVVfeXFMT1l6RlQ0TGFEQm1GWktXUXVyLWRZdXhnTGJUWkpCeDFJd0dRZ3RFX25mOTBZQTAtWmtITG1HdW5jcmx4Uk1uTGVWWVk3RVhQTlNuUWpjLTdtUEFucDVNSXVuS0ZnbjJjb1FzLVpvdkFodk40eEw4ZEN2Z0gzMjBhSE82RE1kTlFHUmFSM0R3cWVsUEZnUlBETTZBYWRFWFlkXzNkMTc?oc=5",
-      "source": "Diario de Ibiza",
-      "pubDate": "Sun, 02 Aug 2026 16:13:05 GMT",
-      "imageUrl": ""
-    },
-    {
-      "category": "Deporte",
-      "title": "Pickleball, un deporte que arrasa - Mujerhoy",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPVlFfZWRyeDlUM0VLUmdpVUtUdVkySFJmd2h3STVXQU5DeTZyNEd2bjdXdkI1UTUzZDRFeGF6RVJUUHFJcFQyekxDRHBNQzNTbklCMVdLN1RIRnNjQVlRUmdyQ1hyVzAyLWhBNnNsSk5XUmVjOU5iamFpUFFMOFhZTWZ5QzJSS3JDVlZwcdIBkgFBVV95cUxOR3AtNkhHLWROTGQtN1VLUjlXNkd4R2NwWEdtT3BSMDdIbmFHMmVUU3o2Z0ZwYzVTLTZXZ1l3VUhBOG9fN2hrZ2VVSFlWbFZkT0VzOE5Ta0NPSlZZeHVldkhqZGxfaXdFOE10elJDLWhwQ3JFQ29kT2toOWx5VTVUMXdfbmhGR2c4UXdJd0llTi1pZw?oc=5",
-      "source": "Mujerhoy",
-      "pubDate": "Sun, 02 Aug 2026 16:01:25 GMT",
-      "imageUrl": ""
-    },
-    {
-      "category": "Deporte",
-      "title": "Inician los Juegos Deportivos «Venezuela Renace 2026» con ocho disciplinas Este 1 de agosto se dio inicio oficialmente a los Juegos Deportivos «Venezuela Renace 2026», una iniciativa pensada con el corazón para llevar distracción, sonrisas y bienestar - instagram.com",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1rY1RiR3E0OHhkV3JMTnkzSHo1QmN1aS00dEg3SkgxMzNRd0QwMjdmSVgzMW9aNWh3Ri1iczhVeTQ1UmJiT3pEbmFuOHM4Ul9YVmc?oc=5",
-      "source": "instagram.com",
-      "pubDate": "Sun, 02 Aug 2026 15:37:46 GMT",
+      "title": "Cto Europa absoluto natación y aguas abiertas 2026. Previa - dbSportpress",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNdHhZRVp4Q2xDNkVlcnFOeEZfMm1xUUdHdWlvY3VwbTMzYTE4dDVxYkNaMXRqbTAxRU95YTNWNE9uNVRPMDhublQ1STdGWEc1SDVLTVFEVkN0c2psRExqQmJZLUNjV3d4TTZlN0NrblZoZ1J3X1g5czhXMV9vVFdIY0ZYSFlZWkk?oc=5",
+      "source": "dbSportpress",
+      "pubDate": "Sun, 02 Aug 2026 16:44:11 GMT",
       "imageUrl": ""
     },
     {
@@ -71,31 +87,15 @@
       "title": "European Youth Lifesaving Championship Pool 2026 - dbSportpress",
       "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE52Zlk2VWZOZ21MR3NaeXd0VkhoUHpuY2xTNEN3ZDY5M0x2b0JpeVF2R2Z0NktpZl9BaUthSEUxYmkxdDhiTFhvbDZzQ0o4Zll3MUg3UTQyRkVDUkZ1UWZnSmd6ZzhqRDFwbDhVenczVWdUaGZlMVpuOGNaYw?oc=5",
       "source": "dbSportpress",
-      "pubDate": "Sun, 02 Aug 2026 15:34:14 GMT",
+      "pubDate": "Sun, 02 Aug 2026 16:14:14 GMT",
       "imageUrl": ""
     },
     {
       "category": "Deporte",
-      "title": "Los árbitros de Tenerife aprenderán RCP y primeros auxilios para responder a emergencias en el deporte - Eldía",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPb1ZkT2VWTGVVX1lYMll2SmpOdUNnbzRUYkpBZ21qYUNEbEtnSVNSaXdwRm1GZUhSMXA0SlhoWlJfcmY4VF9RVG5hS1QyOFUxNzY2c3lram11ZXhrREtjdzZuaEpnOF9lZzVfcFd6VUFQZWYwQV9rYk1aN2p3Y1p0dU5tNWhGNkhheFRadnFNbVFUYTlPNm1GQVFXdHpOUdIBowFBVV95cUxOS1hySFZVVTVzWWR5TjREOWVlMHh1Q2dndHlkdEUxcWUwTzVQSHFWbHQtTF9xRm9UZXlRMkN4VVRNWjZUZ19SZlZOVU9Pc1dJVTlfODNUTU9adkpFU252MDNlS2lZaXJqcU1OZzlZQVFxbklaYUNtOEsyT2pONGJEZWRYVWx3R1pOcXB6NHRjUGtCU3AxaFg4UUZ2VGdiREExbnpB?oc=5",
-      "source": "Eldía",
-      "pubDate": "Sun, 02 Aug 2026 14:56:52 GMT",
-      "imageUrl": ""
-    },
-    {
-      "category": "Deporte",
-      "title": "Flotador De Natación Para Bebés Con Forma De Pato – PVC Inflable De 70x58x33 Cm, Diámetro Interior 27 Cm – Ideal Para Piscina Y Baño, Para Niños De 1 A 3 Años - Туапсинские вести",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPVU9FZFdEX3N5TjVrTHRsWlhkOGhlbU5lclBraWg5NW9tN3VXblVHT055RlRheTJIMHIxQVRYZk9oMFA1OF9PMEk3eTJFd1JUbGZlMkgweUpnVFIzYVhrRFl4VFNMSUdPU1J3RWFpZzl1V3ZELXF0dkxmNk5Bd0ZTeHJvaUI0dGctNVp3Z0cxUHA?oc=5",
-      "source": "Туапсинские вести",
-      "pubDate": "Sun, 02 Aug 2026 14:54:47 GMT",
-      "imageUrl": ""
-    },
-    {
-      "category": "Deporte",
-      "title": "Deporte para personas con discapacidad en Canarias: balance de la histórica temporada 2025-2026 - Titularísimos",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQelRCakFHMXRhOUhOenAwVUo2REF2WHdURTl5Y1pjR1MyenFnMno4UFd3VTFjdHBaUERJa05wbzNpQzZySHRSX0xSMHRKZkhQSC1RUzluS1ZIZkM1MDZORHJpQjd3MXR4LThsOGtKRUF1S2t5VTlnaU9PbXhDV3hXNGVnbFEwTEpPT1NldQ?oc=5",
-      "source": "Titularísimos",
-      "pubDate": "Sun, 02 Aug 2026 14:25:21 GMT",
+      "title": "Javier Cardona y Mar Ibán Baker se imponen en la fiesta deportiva de la Travesía de Natación Ciudad de Ibiza - Diario de Ibiza",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQdXAwSDRkOWllN0xiclk1ak12SzNCaWR4NGl1bWVzWDVjTWs2NmJOSjQ5V1N5Sm9WUVlmcUFZUm5hZVU0Y3RXRTNxck0tUHhNaGF3Ym5GWEYxakktMGtMS0VZLXFSa0xQcVE0NTJJbG1mSjJDNlZOSUE3RUs4RXNvcjl2RlAwWlFHbWdHV2J1Q3hLdFRHQ0Q5UXFkSzNsZDDSAaQBQVVfeXFMT1l6RlQ0TGFEQm1GWktXUXVyLWRZdXhnTGJUWkpCeDFJd0dRZ3RFX25mOTBZQTAtWmtITG1HdW5jcmx4Uk1uTGVWWVk3RVhQTlNuUWpjLTdtUEFucDVNSXVuS0ZnbjJjb1FzLVpvdkFodk40eEw4ZEN2Z0gzMjBhSE82RE1kTlFHUmFSM0R3cWVsUEZnUlBETTZBYWRFWFlkXzNkMTc?oc=5",
+      "source": "Diario de Ibiza",
+      "pubDate": "Sun, 02 Aug 2026 16:13:05 GMT",
       "imageUrl": ""
     }
   ]
