@@ -1,101 +1,101 @@
 {
-  "updatedAt": "2026-08-04T14:11:39.042Z",
+  "updatedAt": "2026-08-04T19:37:01.994Z",
   "hoursWindow": 168,
   "items": [
+    {
+      "category": "Deporte",
+      "title": "Polémica en el Europeo de sincronizada: una nadadora española acusa a Rusia de plagio - El Mundo",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQZEZoNnZwc1p0ZUl6YmVpZm5EYTUzM2pSMWNQSjJpTGpJRjBlWmdDWFhTbmVOOWUxeVBGaUNpNEp3eTJ2c2FSYTRlRXFRWEJGTmdKdEVJQTZ5cXU1eVBrX3oweG5Tc1RzRVZQOG4yeDZndlJwNWZEMHZpUFAyR3VCREJxN294WnNiUk83dNIBjAFBVV95cUxNWFlEMVRpMV9hUXVMa3VJN0pJWEZaUTBLOW1WaTNtRjZpOWpFMHJvVWlkVG5lSXhYUFV6amhpT1lYS21EWkFEa2ZQV3puNjJZLVU0YWI3b0xKMzJMY1FqWEFvYkVsdThZV1l3THlLck5GczJfaDJzOGM3eW9LdUhfNjAzZ3YtMHF4aVVPNg?oc=5",
+      "source": "El Mundo",
+      "pubDate": "Tue, 04 Aug 2026 18:53:38 GMT",
+      "imageUrl": ""
+    },
+    {
+      "category": "Deporte",
+      "title": "El deporte alza la voz por la prevención del suicidio con la llegada a Almería del reto ‘Romper el silencio’ - Almería 24h",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE52U2JFRFhKemsySTFDb1hqTkJ1LXNpSUZBc1EwcVN4ZmVmUWVtV1dFdnBkYlcwWmZ0MU9oWmZlX21xNFFneGtGUFl2MkFHZm5yRmRlZFJOWHNrcUQ5?oc=5",
+      "source": "Almería 24h",
+      "pubDate": "Tue, 04 Aug 2026 18:21:41 GMT",
+      "imageUrl": ""
+    },
+    {
+      "category": "Deporte",
+      "title": "Movistar Plus no solo tiene fútbol: este es todo el deporte que puedes ver esta semana por 4,99 euros - ADSLZone",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPUGZPazlzdVlINThlTFQzU1JNejB0cFdQWjlvMGZEQ2lJOGcxMERmNGlvZExPWVp2d24zV0lDSi1KR1EwUUlxMWoySnhQNDdqVWhBanJPaWtGcEt0Y2VrdFRFeXg4a1F1T0duU1FxenJyendnQmNaUTVLWGlWNkZBSGxzbUItYU1YZGdWQV8yRnluTEprZ1U3V001Mm8?oc=5",
+      "source": "ADSLZone",
+      "pubDate": "Tue, 04 Aug 2026 18:04:18 GMT",
+      "imageUrl": ""
+    },
+    {
+      "category": "Deporte",
+      "title": "¡CRUCE DE AGUAS ABIERTAS ISLA DE SACRIFICIOS! - NOTIVER",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPZ0xrZ1h5YWphazY0T0ctcEM3aTZlNFJLaDlGTzUzX2xDSE5EMHlDemJibXhnRzVWTUlhZ3laVjVCU2ZJMjNOSW1nX3pKWTVpRGIyYi1xdzB3MUFaZEFBLUxjcEpFS2ZZMXVSSDFmSWlDclFyWFBHMjY1Z3I4OHgwNlNNQVpiVC13NlFibzhuTE1DM1k?oc=5",
+      "source": "NOTIVER",
+      "pubDate": "Tue, 04 Aug 2026 18:01:23 GMT",
+      "imageUrl": ""
+    },
+    {
+      "category": "Deporte",
+      "title": "Fallece un ciclista de 71 años en Librilla mientras hacía deporte - Siete Días Alhama",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQR2I5UDA4VzdTWm9qd1FLOUpsRGRzRm0wVmdoWGNpTVltSURwVTJHSUZyd0pHZjl6eHZjekFsdUkwcmVEQmhTbDNpMEI0NHcwSGVyVU1PRmNtTGJXeDdsX3ZlYk9Gajk4QnJQcm1YUUpialhzdHpOb29ENXdYbFZQUGFKNXUzeXAwb3NfNHVzdENOcjV3VmlUQXFBVF8tdlRFaDhydW1xdXdFeUk1VHNudDMtdmpSZVV1Tm1HemF3?oc=5",
+      "source": "Siete Días Alhama",
+      "pubDate": "Tue, 04 Aug 2026 18:00:00 GMT",
+      "imageUrl": ""
+    },
     {
       "category": "Deporte",
       "title": "Sheila Pulido conquista La Gomera y refuerza su liderato en la Copa de Canarias de Aguas Abiertas - Telde Actualidad",
       "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQdy1rVzFIWVA0U1MxVXJoZGtoOU13U1NFRlUydEZ5MnRlTURFQkpsMXB4X18yNlVSN0RIMDR2clBnMUFfcUViTC1XeTJxQWlZMFR2aHo2M2hJNXJrNXhMYU5NOUlQMVB5NF82MHRqcTJhQlNDdkwtNXdsQ2M4R2o0eHJDNjB0WjRWTGV1Z3VOOEdSeE16eV9IZXhOUjhSTGtyTF90X1o2YVZNcDZvT1JMMnpvcEJtbXlNejdXVE9B?oc=5",
       "source": "Telde Actualidad",
-      "pubDate": "Tue, 04 Aug 2026 13:57:39 GMT",
+      "pubDate": "Tue, 04 Aug 2026 17:49:07 GMT",
       "imageUrl": ""
     },
     {
       "category": "Deporte",
-      "title": "El nuevo centro deportivo de Leganés que quiere convertir la pasión por el deporte en una profesión - Europa Press",
-      "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOVTFnWGh0eVBZQjdGclhuOWg5cmJzQ3E1UUhEWnNpMTZ5WU1QaTY4ZmstQlBldUF6ak9Gb3hlSThocUpGWkVtYmhHUmhydVVyTjMwa0dJZDF3bjgybm5OVG5lMExCal9DMG5sVVM5R2NyMVgxaHNpZDI4cU1UUC0xSGMwZzhlMk1lWXFsN0pCWDZra2xSaklRXzVwVjFLdjB3cG5yMkJGN3E5dWtpdE4tQ1V2SlNYeHpDcjA3ZnhnRU1CamU3V3FnUEhjbjQ0dW5rSjY4N1JTUjNaQ0lUMUNxbzBsZWRUMHcxUk56czFveTA5VDNwZHg2Vg?oc=5",
-      "source": "Europa Press",
-      "pubDate": "Tue, 04 Aug 2026 13:56:10 GMT",
+      "title": "Darryy Anillo De Natación Inflable Con Diseño De Rueda De Coche – Flotador De 70 Cm Para Niños Y Adultos, Azul - Туапсинские вести",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNQmduc1JxR2g3TFVjV2lDMjJJcnliZ1NxZFdJcGhrS0ZNalFRV0lLSFZLMUlSWXdVcEVaa0hXWEpVOVNUajlrT29wU09hQzV3YURDb1N0Zjh5UkhIQUw4dmpUWE5vbVNHRFk2ejhBc2g3dElDeWNZRzNmZ0diLXZGcTAwVFMwUW54VFV6bUthM2NSdw?oc=5",
+      "source": "Туапсинские вести",
+      "pubDate": "Tue, 04 Aug 2026 17:08:09 GMT",
       "imageUrl": ""
     },
     {
       "category": "Deporte",
-      "title": "Flotador Hinchable Gigante De 100 Cm Para Adultos | Anillo De Natación De PVC Resistente Con Capacidad De 200 Kg | Ideal Para Piscina Y Playa - tuapsevesti.ru",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQcmVxZzJxR2Z3SG81c2JTdm5vTllsek13cjlHRUNxM3l2WmhaYVVDajk2a3lSVWV5YWx4LXk2MFhmcHhnSHNycllpZS1LUnVsTERiTnFLeDEtaElFa0ZvelZscllzRWJxZVRaNHJ5NUVmWWhjX19sOHREZ21SZFA0LWpzSU1Pd1hFTjNINzUyZGJTa3JPdVE?oc=5",
-      "source": "tuapsevesti.ru",
-      "pubDate": "Tue, 04 Aug 2026 13:01:22 GMT",
-      "imageUrl": ""
-    },
-    {
-      "category": "Socorrismo",
-      "title": "Primer rescate acuático conjunto de bomberos en Valencia - Valencia News",
-      "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNU3JYdmtMSUEtNFR6MEpvbHN4UW1EcVctQTJtcUllbjdwam0tT0hXQlptcWdlYnJCTjA0LWwyYWs1b003STk5ZGt6Z3NFbG40TFNFdnVaOW94SlpfMzhSY0VlZGJmUlp2Z1dCUlJ6aXd2SzNiTTRmLTN5UldOX0ZxY0Q4ZE1UdkVsMmhLeVNYa2Y1UjlkWU9YbmVWV1NqeGVIXzZIcnNOOUlqWmRuaVNya1IzR1lhd2tKX3p5ODQ1ZnJzUzJ2NnpkVW9PNGstRVVGX2RDdHhUSTllN08wWWY4R2dVVzFKZk9ETFNPNWFRdlVkdw?oc=5",
-      "source": "Valencia News",
-      "pubDate": "Tue, 04 Aug 2026 12:51:11 GMT",
+      "title": "CrossFit, ballet y natación artística: Las claves detrás del éxito de 'Berghain', la rutina acrobática de España - olympics.com",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPTXduZ3NXOUhEOWRiWFEwSU92Y29ybXhabUF3bHJxZ3YxZzdjNER6cU9UTjlpUzdiMkluZlI2eVdpSEpQN0xoZnVoZDRCV01Kd09oWlVQekFzMy1FX1hnOTRUS0lRbUpPd05QWkFqa2RlNERDbFMxYUhWYVFMNVhPcVNvbVFFejRoQzcyczVHcFdZTmZ2WUhwQ0l4Y2tpeHVhRzNKUkJ1TWlvdFNGbVdlVmJBU2p1OWExaWlqenVxaU4?oc=5",
+      "source": "olympics.com",
+      "pubDate": "Tue, 04 Aug 2026 17:00:00 GMT",
       "imageUrl": ""
     },
     {
       "category": "Deporte",
-      "title": "Benalmádena acoge este viernes una nueva edición del Campeonato Local de Natación - La Noción",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNLUVrNGVKRUY3RnVDOWlXd2hNMXpCOFd0YXBJRjdHTVQwQjgwbXZkVkZkdVRVdVQ5U0FJbE56LTVqS3RmTVUwV2ZYNUx6NmwxbVZ5UWhjZXd4bjAzcnBxNEJqeVdSZUF1aTBtZ2p2UlN6REN0MHFMX0laVHJJdjZMNm55NnBUWjZFbHBqS0FoTXBfNWRkVHpKYmEtQkVaV0QtblFfaE5RT0ZlUQ?oc=5",
-      "source": "La Noción",
-      "pubDate": "Tue, 04 Aug 2026 12:48:20 GMT",
+      "title": "España logra una nueva plata con el equipo técnico de natación artística y suma la séptima medalla en París - 20Minutos",
+      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQVUxTazdpM2tvSFVKM1poRlRMMlpCX0FGQnBoa211V3I1X3VkSlAzdkhWT0h5VVFodnYxTWRXYmRZNS1oTFVJM05EWDgxek1NQno5cW5XWFJyOGNwVG5xcTVud1gwb1NYdHR6S1ZmN0JJV25Jam90NFJpc0tYY2JSWUd1ZlJNNDIybkVhdXota0E0eXlXV1U2N2xKMUdZU0Q3QXRlYW9zblJzZWZGbndxcGlqT0NyUDdxRkpIQ0ROM3VfTHhFWXJTbjlRSDctTlRGQmJLU0lfenpmdw?oc=5",
+      "source": "20Minutos",
+      "pubDate": "Tue, 04 Aug 2026 16:48:29 GMT",
       "imageUrl": ""
     },
     {
       "category": "Deporte",
-      "title": "Elche, Capital Mediterránea del Deporte protagoniza el cupón de la ONCE - Ayuntamiento de Elche",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPaXhKMWZjU2FIS2RtZkFKZS16em1jNC1GU3lDTDE5UzdRVmc4UkdzT3NmZFdVNWlMcWg0aFo0d3VobHRIeThQd2REWVpuLXhya1J2NktrQ1RVZlQ3bUZQc3dWLUdLT2p2UDd1b0xxcEc0WGZyajRrRFpYbHRfY2RrTmNxU2hfREc4c1gwcTFENVVyTGl0WGQxU2hFdVRrc0ttSUE?oc=5",
-      "source": "Ayuntamiento de Elche",
-      "pubDate": "Tue, 04 Aug 2026 12:36:39 GMT",
+      "title": "Un doctor de Quirónsalud alerta del aumento de lesiones por deporte, inmersiones imprudentes y calzado inadecuado en verano - noticiasdejaen.es",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNb0ItNUNXUnhfOHFITWRiQjc4ZDZHNkV0Qjh5TmNxWEZHLVJKQUVUdjI1ZHFWSkJnS0d4QVhhQjVUb3dtMlo5LWw2VHNKY2xQV1JDeDl4UUZFZ0pNWmsxblVRVXRjSjJoZ3BVQmI3dHR0VGFaLURoU2c1SzVNVlVkYnhnNElobXNvX3BVdmw0VUNjTFdud2tyR09lTENQSHczLURhaGg5TlRZdFB6WldyNlFtVjFRNlpyYWZEQg?oc=5",
+      "source": "noticiasdejaen.es",
+      "pubDate": "Tue, 04 Aug 2026 16:24:56 GMT",
       "imageUrl": ""
     },
     {
       "category": "Deporte",
-      "title": "El deporte alza la voz por la prevención del suicidio con la llegada a Almería del reto ‘Romper el silencio’ - almerianoticias.es",
-      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNMHlaZE92WC10NnVaRmppN3l5QmZxVWlCaDBRcGROM1FKbHloZFM5VUloT2oteVcwUlRLeFdaT2pDd1ZNcHZ2T2tWWDlLeXVVN1BYVk5kVDNVeVM4Z3FfdDlGU2thYU54eUc2Qk9Ld1hVYThHbldHeE9tbC10QUwtOEZna2k1UTdrT0VlUlBrMklvdVVUTWFLZmsxZE1Oc0dEdnMxRWJYVkU4U21abWxKWlFCWmNRMUxDRU5hdFVkWUJGclAxbTN2OS1SMjRlZ1NWeEpUeA?oc=5",
-      "source": "almerianoticias.es",
-      "pubDate": "Tue, 04 Aug 2026 12:35:53 GMT",
-      "imageUrl": ""
-    },
-    {
-      "category": "Deporte",
-      "title": "Elche protagoniza el cupón de la ONCE del 18 de agosto como Capital Mediterránea del Deporte 2026 - TeleElx",
+      "title": "Elche protagoniza el cupón de la ONCE del 18 de agosto como Capital Mediterránea del Deporte 2026 - teleelx.es",
       "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPMVVWZDdiUDBKQ1E5NE1nZFYxWlZqbGhaOGZCckdsTHotQThKV2F5UlBFMFpFWFc3SWlYZ1NDY1YzVC1fMXNxVy1hMG40UzN1VU5JblBkV2NIYWkxeXZJbTF2ZzVuY01CYlRrRnlYUlZrWmJwLVFBNFowUnA0elRDOHVnamlXQWdmb0NMdkYxc0EzcWlzWUJjZExpU09JSG1hRVF0dWgwY0JReHlOTGQ5aGpQLVFacl9QbFBjUC1wM3c4eEoxOWpv?oc=5",
-      "source": "TeleElx",
-      "pubDate": "Tue, 04 Aug 2026 12:29:23 GMT",
+      "source": "teleelx.es",
+      "pubDate": "Tue, 04 Aug 2026 16:09:57 GMT",
       "imageUrl": ""
     },
     {
       "category": "Deporte",
-      "title": "El Club Vóley Playa Santa María presenta la I Edición del Torneo Ciudad de El Puerto, una nueva cita para impulsar este deporte en la ciudad - elpuertodesantamaria.es",
-      "link": "https://news.google.com/rss/articles/CBMivgJBVV95cUxPU2NPRVZLakx0VHZyZVAxTWxjbUhrZkRBcm1zUExoNFplZ2d0bFJkdFg4RmJNSXJTUUhKSHNSN2piNHFBMU02aVJmVlYzamk1YmUwWEl6NDBPWGVXY2JDd3hWNTUtWlJaRlBsaWpwZ3RGRk5uenpQT00yYWN2cVBGM3pWMHYtT0NzdENtODdEUkRMZC05YlRsaVo2b1NldFlYNXI1aDd4aDZjR0Y1X2JBM0Z1bkZMUTk3dUo4V2syXzdCOG1PNTdpOFlwZFVENkdOdWkyc3JLOFpVWnFxNU44S3lDNENIMFVwdG9DZ2U5MUFtc3pJbUhmbnVqM0tISUFuaEFJTERYTkVIcHdVS3dHaUpWNHQ2Sjd0UzczTW5IV1hrV1NUVldMNFhtc3hmd2VnMzdQNGtXYWxWTW9jcmc?oc=5",
-      "source": "elpuertodesantamaria.es",
-      "pubDate": "Tue, 04 Aug 2026 12:20:30 GMT",
-      "imageUrl": ""
-    },
-    {
-      "category": "Deporte",
-      "title": "Deporte y solidaridad, de la mano una vez más en Arahal - Medial TV",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOY3A4eDhkOENlNXRjYVZaOVNzTGczWFZOSnF3bVFLOU1RRmNOU0hyVDlVS29Ra0lKeS1YQWUxcXlWdEdFcjBGZW1QNS1PeXdkcGlWaHE4OXVSVUItSnQ5VUY1NV9DSEYzSzU4WjNnMWZLQlQyNlVHVDV5Z3Q0RTZ1NG1R?oc=5",
-      "source": "Medial TV",
-      "pubDate": "Tue, 04 Aug 2026 11:54:58 GMT",
-      "imageUrl": ""
-    },
-    {
-      "category": "Socorrismo",
-      "title": "Ramsés Martí, experto en socorrismo: “Estamos trabajando con medidas de hace 25-30 años; el disfrute del agua ha cambiado muchísimo” - La Vanguardia",
-      "link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxQMzI1NlhwRVRYYVVXelpTanFNSC1ZRmNBLUwwZWxuYTJxVzZsaUJNbi1tQ1VIOEdtZ1o0VHJlTlRQUl9fMnNZV0JTbE9zUXJqZFF1M1dnbEVwbmxZVV9ocUxMVWlJaFRnekxWQU50QXhFUWZzMWZ6NGZ0djYzNHRSbVhNRUg4UmpPUzBpTmhKQS1wXzhrd1VRVjE3d1FBRkZ4U185ZDRTaVgyVTNES1BYZkVyM3NIc29KZWdRQ0I3bEp5T2o2bFEwd0V0eEN5WnFkNGp6c0x6d0hXb05iZ19odXZ4Y2o2ZjhGV19FbW5LMkJVaVh4TllOTWdyWVAzdU1CZ0pwOHo2ZC1qRUVjMkpxcnFR0gGSAkFVX3lxTFAzMjU2WHBFVFhhVVd6WlNqcU1ILVlGY0EtTDBlbG5hMnFXNmxpQk1uLW1DVUg4R21nWjRUcmVOVFBSX18yc1lXQlNsT3NRcmpkUXUzV2dsRXBubFlVX2hxTExVaUloVGd6TFZBTnRBeEVRZnMxZno0ZnR2NjM0dFJtWE1FSDhSak9TMGlOaEpBLXBfOGt3VVFWMTd3UUFGRnhTXzlkNFNpWDJVM0RLUFhmRXIzc0hzb0plZ1FDQjdsSnlPajZsUTB3RXR4Q3lacWQ0anpzTHp3SFdvTmJnX2h1dnhjajZmOEZXX0VtbksyQlVpWHhOWU5NZ3JZUDN1TUJnSnA4ejZkLWpFRWMySnFycVE?oc=5",
-      "source": "La Vanguardia",
-      "pubDate": "Tue, 04 Aug 2026 11:52:21 GMT",
-      "imageUrl": ""
-    },
-    {
-      "category": "Deporte",
-      "title": "Elche, Capital Mediterránea del Deporte 2026, protagoniza un cupón de la ONCE - Alicante Plaza",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNcXdDM2VrZ0ZXZjlqVzRVWGw4emlUUmZpazUxWHFna1hTaXdjZ25YN0tsVmI4NFI5ZFIxUkhJTV9DcnNsSHlNNmZmS3RzLUlIVzBzU3l4TWU2RXFZVE1xT0ZwbndwenVWc2lId3VfQlpBN205dG4tU3FtTmU1c1hoRlkxQmN3RU5ON0lzTUVfNUt2bGhubENGb3lFSnppa1dXTjlWclFMZERwN3o4U2x5TlQzQWRfQ2kya1hJamlFSG5UZ1U?oc=5",
-      "source": "Alicante Plaza",
-      "pubDate": "Tue, 04 Aug 2026 11:45:00 GMT",
+      "title": "La natación llega a 119 municipios de Toledo con cerca de 400 cursos - La Voz del Tajo",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNMFRjZ2ZkbmtQNkkzZlM5WHoyVGV5YjF2WV9ReXBVVmVpNUV4ek5HZ3dQdERSQ0tSVlhaamNOMkpJd2dZWXBCZUdFS3Q3cWRoWVpUcjRZdE5qOGZHZldGWERvaFU0aTUwS3RzSGdJZUlMOTdGc014OUZQWVlRVm5TNWMtWlB0S2xpeXA0c1lzcnZHNEVlSi1QbkhxME9ESnJsWFFTZUpadnNoczdKaTRtWlB0Y1ZNc3NNdFpDVEFjaVZCTldvNFE?oc=5",
+      "source": "La Voz del Tajo",
+      "pubDate": "Tue, 04 Aug 2026 16:07:20 GMT",
       "imageUrl": ""
     }
   ]
