@@ -1,7 +1,39 @@
 {
-  "updatedAt": "2026-08-09T01:45:20.936Z",
+  "updatedAt": "2026-08-09T06:56:13.915Z",
   "hoursWindow": 168,
   "items": [
+    {
+      "category": "Deporte",
+      "title": "Parar para volver a ganar: el deporte aprende a decir basta cuando el calendario ya no sabe hacerlo - Elplural.com",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOTU1MUTdBQlhGVE01RklqUjVyMHRESkNaa1B6SlhMdTFMc0Z6T2RORlM0RUZmZkYta2Z5am9NSXpzSWZBMW1tOFgzVEVwaS1YcU5GTHI1QWpzcV9kMlFydHVaZ2lGR2hHRE5aSjdUX09XbjJiQUhHUlVLcnJTSXhsTEdXWGxhdlBITk5hOVU5TlpLbDlZRDBIR3dadElfUmx6RDRiTkp4bnRoYTFtU3RlYkttWm1VRVZfT1ZxNGQtdGlMUnPSAcgBQVVfeXFMTXZHbUN4RVliOEZKQzdZVEZlX1pkeUotZWpzOXFFdGZfT0JncFZKa2J2bnpDUFl5ckNJZ2lOWmlIOEotZ0EyNnFod0ZFRWdhdTFzbWFkVVR3WThCMzdtQWF2N0JJblZlZmNvN3Y4UlBjQ29NSmVkVHZfRkxndkxYMW1sV0VBRGt4QVh3WFlDWmNSelY2LTZzempsNldxRzRuQXhpdVZ6M3Qxd3JRdVU5c1U1M1U1dzRVVTg1WTJlOFhkMU8temxqOUs?oc=5",
+      "source": "Elplural.com",
+      "pubDate": "Sun, 09 Aug 2026 05:10:09 GMT",
+      "imageUrl": ""
+    },
+    {
+      "category": "Deporte",
+      "title": "El deporte como punto de encuentro - Diario de Cádiz",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQUUFyTzRWaGJsNnNfTThZVXhaMWJyZjZFbElXdl9YM1lOODBRb1FCUzBzVWRwQW9DWmJ1TVJveE1wamNzS1VCRFRJT0EzbV94dFlLNFd0aW1UaG5CRXRvY3JrVEpBdzBIZFpsQ1BVemhuT0h5c3NYV2FKOWNzQTRoLVFjQnRfZ9IBiwFBVV95cUxOR2NweTBHQmJjc3Q2MlZiTnpabjlMRTE5ZjctVE1WWEoyZ0lxVmRKSDlndy1uMVpHX1hCelZ6QTlid3Jpb1JJdk5KNE1KWVAzaDdqdzE5N0pRTmE0X2I1Nk8wZnpFT3F0b0RsRGc1b0Yxa2h0ZS1nakJtUVNfanNHRTNGaUE4S0lfTjNB?oc=5",
+      "source": "Diario de Cádiz",
+      "pubDate": "Sun, 09 Aug 2026 05:00:26 GMT",
+      "imageUrl": ""
+    },
+    {
+      "category": "Socorrismo",
+      "title": "Los socorristas, una figura vital - Segre.com",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQTVpkdVlCMXNBZlhoUEt1UTZkcndEUGV4T2NLZDVuRDBjaG93bzhTSWNjdWR4dDVtTHUxUW1zNGtpX0FKaEhqckJwaUNqYzNiTGJUcnhZT3hSTVN6OVVkYlQwZWhwSlp0cEtpYXp6MUpiTXM3Y0c1a1J2QkdRLTFfTzdDMHc?oc=5",
+      "source": "Segre.com",
+      "pubDate": "Sun, 09 Aug 2026 03:36:02 GMT",
+      "imageUrl": ""
+    },
+    {
+      "category": "Deporte",
+      "title": "\"Huesca está por encima de todo\": el trabajo desde casa que mantiene vivo el deporte de una ciudad - heraldo.es",
+      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNZFpES095ZEs1Z2N2VVFtSlNpZ0V5b0ZDNnFjWl9EdWhKYnduSFRQeS1XUTRqOFVXb3ZRNU5fLUhEeUJCWFNTbjhnbXBBWnlpTHBfMHdJd1VvUG9XUnl1Si00WFhmWGF6bWNlZWhuZzFJS05HUHk3ZzRtcjFtTl9VbUlTNGtuMW4xR3RBUGt1QzhsMnVQMGtmWVh1U2xfeDlWUUxLUTBkcHgtTUI2cUZHZUw0TnY5eFBzNkRLQTk3OXZxQklYdHFqanZqMm1OSk1JenEyZnl3bFMtNnplbXJxbGg2VE9WbkR1?oc=5",
+      "source": "heraldo.es",
+      "pubDate": "Sun, 09 Aug 2026 03:00:00 GMT",
+      "imageUrl": ""
+    },
     {
       "category": "Deporte",
       "title": "Una tarde con la bala naranja Blanca Hervás: «Este es un deporte muy puñetero» - ABC",
@@ -52,50 +84,18 @@
     },
     {
       "category": "Deporte",
-      "title": "México domina en la piscina y conquista el último oro de natación artística en los JCC 2026 - marca.com",
+      "title": "México domina en la piscina y conquista el último oro de natación artística en los JCC 2026 - MARCA",
       "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPbHczWU93Qy1rZWZ1amlOdFNEVWNrZEFIa2tVZEp0Y0Y1Q0NPUUROOWRHbU9rYUtvbXNSQjVlaUxUSWJ0aUR4cU9GcFN4aGpLWFVlbFl2el9rTU1oRnN1Q0pqTVVhWWdBaEhoZEMwUjVLYTJoQ2tXY0J5cmJrS1RQLUJlOEJzaHJXNkJ0c1lwenNQMnpDakRoSmNGT2puRWRhcHYwOEdEeWR3YkZkaGlXOWprVzd1WHBWYlBzM1BUcW40SDgyNU9xbWR4VDjSAcwBQVVfeXFMUFBiR3F4NDhXQ3M3RnBTM3g1TE5DUnN0S2ZfbE40TU05Ul9SVnU2UEpodG5VcUJheGdsTl9CVjJfM1Jla0JuUWZoM29CemIxeDFvV0daTUxvZDhXdy1KX1dpNlp3OGtpdG9pZlFLa1p5bE9SdjJyN3VINHo3aG0wY3BLZnJZTGJNTDRSR2EwNU5mVjMyNUNKR0RfeV9jVUYzVHlManVQN3ZXQWVSWncwQ0hYWlpLMVprS2NqLW45dDZxTFpIdFhJd2FOODg2?oc=5",
-      "source": "marca.com",
+      "source": "MARCA",
       "pubDate": "Sat, 08 Aug 2026 19:11:54 GMT",
       "imageUrl": ""
     },
     {
       "category": "Deporte",
-      "title": "¿Qué opciones tiene España en el Europeo de natación? Hugo González, Luca Hoek y una ausencia por culpa de un visado - El Mundo",
+      "title": "¿Qué opciones tiene España en el Europeo de natación? Hugo González, Luca Hoek y una ausencia por culpa de un visado - elmundo.es",
       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNTVU5N24tLWx5WjJZcy00TnpBdkp2c2U2b3lzMF80ZURSZEVxdFRYRkw4R3VCY0QxT0lMVWtWdFd4bVoxclNkaFg4VFl2NDVYMjdRTm15LXp3ZU4zOG9yQUt3cVRVXzZKSUZPcXBIYWIzcXE1WE1pZEZVRjNPcDRvN0FCM1FvdldzVGlfbNIBjAFBVV95cUxQOUczNzNleVN3Ny1hMEt4ZTU5MlBXS0J6ZzNNd3VQTG56SzNoUWs0eHQxZUdtVTJja0RhX1RHWmwyUGVxdURDRFdSREhEWm53WW9HR1RMTUk0VjRmUkZ0WTAzeF8xOVBkMlFsMDVzSldZNDlJTm9RZzBORWdqTU90T2JJbkEybGMwaFNxVw?oc=5",
-      "source": "El Mundo",
+      "source": "elmundo.es",
       "pubDate": "Sat, 08 Aug 2026 18:56:37 GMT",
-      "imageUrl": ""
-    },
-    {
-      "category": "Deporte",
-      "title": "Amoeiro celebra este domingo una andaina solidaria en la lucha contra el cáncer y unas \"Xornadas de Deporte\" - La Región",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOTVpfdjUzemhVb21Xc2R0QVJkMXc5WWVVSnM5MEtJNkM3ZXU0WHJBR3VMcDZKcm9MTXByNG1xNXJzVlA5MWY3N0FncGk4bWtqOWYtNzFfR3NaaG9iOFAyWmx3ZkRVb3Y5S0Y1emFNR3NaZ09tOGNMUTdEaVdDaUw5Mk1tR3hkdFVyd1BVOUpoVTVyX0xKSHA4bDVsYjhvbGUxNmdERlowdFlHQUt2VUt0dHUxQjVhSUlyTnVlYWRwT3o4MEQ5WDZr?oc=5",
-      "source": "La Región",
-      "pubDate": "Sat, 08 Aug 2026 18:45:00 GMT",
-      "imageUrl": ""
-    },
-    {
-      "category": "Deporte",
-      "title": "🔵⚪ Óscar Fernández sería una de las opciones para volver a dirigir el Instituto Peruano del Deporte (IPD), tras la salida de Sergio Ludeña, quien dejó el cargo luego de la polémica relacionada con los Juegos Panamericanos Lima 2027. 📸 Foto: Difusión 📲 L - instagram.com",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1wRzR0djJWSnA2eE5KUURJT0c5TzljMGVJOENjb2NVRnhYN29qMzdWUVZqZjF3c2xZME4wWHdQNW1LTWJMOWpwQW9QZnB1TUJFdVE?oc=5",
-      "source": "instagram.com",
-      "pubDate": "Sat, 08 Aug 2026 18:34:13 GMT",
-      "imageUrl": ""
-    },
-    {
-      "category": "Socorrismo",
-      "title": "Un nuevo tiburón aparece en Siboney: ¿cerrarán la playa? - Periódico Cubano",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPdlFLNzl2ZjJUWVd5RE0tb0hYbjFONlQzZWloX3ZZSlJWQlNVdW42RmE2SWxsblB0ZmFWekV1a3lFbmRfczlyZFNNTFZHSGN5bXFvOFIxMGMzR1VaM0RLWHNCX1pnUjlabnpyTlgwaTVOaUR1ZTlJMU5iYVlSVFAwaVJVU2I1VGNfQXBNTGh2UdIBlwFBVV95cUxOVk0yV0FNN1ptQ1FoMmVreEhTVlQ4SEptZFptZ2RXeWVjM3ZMWXM3aEJsMlhpQ2oyZU5IUHpsbkprZ2RLT29wTGNKMTJDem9sbENQVXNWaEo0aUpLTlZRQUxjT3JBdnRfNmpHREFzaDN0ak9oZE05enoxaVRMX3U5YWhCSTltNlJFSE9lNVA2VC1IRzZvMXhF?oc=5",
-      "source": "Periódico Cubano",
-      "pubDate": "Sat, 08 Aug 2026 18:13:31 GMT",
-      "imageUrl": ""
-    },
-    {
-      "category": "Deporte",
-      "title": "Gorro De Natación De Silicona Unisex 2 Piezas – Elástico, Resistente Al Desgarro Y Con Protección Auditiva Para Cabello Largo O Grueso - casag.org.br",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQc2FLOGhoS1Q1QU1CRlE1YVhHa3ZuUC1uRjJ6RjFzTjJUelRUU1hBTzg5UUpvTTBhaEtNU3YtcDRmdXAySW9UR3dMeUllbmttLWRIUGR4UXh5RDVZZWp5RVYwMG44M2dHNmh3Qk1RX01NYmNiMXJpLTBRVUJhRUtvOGhGNVhIeXVkLUJ0Ullfdw?oc=5",
-      "source": "casag.org.br",
-      "pubDate": "Sat, 08 Aug 2026 17:49:40 GMT",
       "imageUrl": ""
     }
   ]
