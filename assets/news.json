@@ -1,101 +1,101 @@
 {
-  "updatedAt": "2026-08-18T06:42:07.887Z",
+  "updatedAt": "2026-08-18T12:45:03.988Z",
   "hoursWindow": 168,
   "items": [
     {
       "category": "Deporte",
-      "title": "El triatlón nacional e ibérico, en Mérida - Hoy",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQUlNOYWU5anA2V29COGVFc2txUEU2a3lQNFNidzN6SzRnb2JibF9ZWFRKSlppZmdfVWU2LU9MZjZ5X0FXX3RvaElFU2o4X0JpN0xpY0phUlRaNlJpbV9SQ0ZlVXBiczJXZDM0SzA2aXQ3UFo5ZFBuSG1JRlNMTHVWd1Y0RVB5ZVJj0gGOAUFVX3lxTE5ta1MyT3M1R3ZaUk41dWlsZXFlUWxsRDcya0Q3Sm56b3JFdTNVYlRMMndQY3RDeC11aXpRcnRWOHZNd3pLdGhSWWJDQmNoa0N5NEQ4TWN0Z3JoZGxvSzZpXzJJejQyZ0xfSXJGQmxBTl82UzVYa3BzQXB3Sm9tQk9uUEpCMGpETkt2ajdQbFE?oc=5",
+      "title": "La Generalitat refuerza la proyección internacional del ‘Valencia Judo Training’ en su quinta edición - Comunica GVA",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE8xUU9yMThMRzdfYTJLZUh1UlJ0eXM2LUU0WGxQa1VnUTA0Z2NXWV92MkJBUlltV0FoX0JBTVUyby1OTXBIdzc2S3JRdHMzaElJYkczOHA0V0lLbmN0UDQwbjJsUHZhYWJxT0F2Q25mQQ?oc=5",
+      "source": "Comunica GVA",
+      "pubDate": "Tue, 18 Aug 2026 12:37:41 GMT",
+      "imageUrl": ""
+    },
+    {
+      "category": "Socorrismo",
+      "title": "Pájara cuenta ya con un dispositivo pionero de rescate acuático en sus playas - Noticias Fuerteventura",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQRjA1OTNWcUlvM25HRGRJX3N4dUdMRXFFeWxtbWFIV2x6RE1oc290NTkyRkw3eEpuQlFmYnZoUFNHdDNJN2dWODdIaGRjV0k1ZmV6QjExRjRwa1BXOVBNRG0zZmwyWG5Gd0x3SGI4Yy1KcFRGWmZ4THM1YWRaWnVkS2NrZ3hMMHJYX0xTd09iLTVCUzR4U2NqVFltSUw2SGFiUnVSb3RZT0Z5cndhWnpzV0tpV3NsMXlxRlpJVTBmU0QtdWx0?oc=5",
+      "source": "Noticias Fuerteventura",
+      "pubDate": "Tue, 18 Aug 2026 12:26:22 GMT",
+      "imageUrl": ""
+    },
+    {
+      "category": "Deporte",
+      "title": "El Deporte Municipal supera los 500 inscritos en las primeras escuelas de la temporada 2026-2027 - Ayuntamiento Daimiel",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPVU05dDQ3MjJBVmw3R2JBSVpNUE5iTGlnLUtDWWE2dENSWk5LdDJ6dGZ3cHZxRXpOdDQyamJmSDZ5YVZoUHZzS3p6cGwxbHdTblFIdk1ZeTlWSUZmV3M3NDd0WUtGR1NwclNvb1NLQ2VDak9UNTVvNmZ4ekV5ZWpmbVEtNndOeGNYNzZya25qWW9VeFBob1I1ek5qZk9RUThsNkQ0SmE1T2ZhLWJmdTZONDY4aGhITDQzVFJ5eg?oc=5",
+      "source": "Ayuntamiento Daimiel",
+      "pubDate": "Tue, 18 Aug 2026 12:08:07 GMT",
+      "imageUrl": ""
+    },
+    {
+      "category": "Deporte",
+      "title": "II Torneo Cáceres Ciudad Europea Deporte 2026 - Vivir Ediciones",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOaWJBODc4WUVHbWRLRGhmR2xlWXJoa1FKNF9vR1NxQV8xejJsSkMtSnRTN181YVA2VEtoMndoWkhmYnE2NDhzUXNHRlNyODJVdXpuaS1QemhEUGttYmFSeHp0dS1oYVAySEczVXFaeWNVSjR5OC1KLVVBWDA4NmNCb240WHhFNkhuUnJGYWF0WHVrOWZxX1dTag?oc=5",
+      "source": "Vivir Ediciones",
+      "pubDate": "Tue, 18 Aug 2026 11:47:04 GMT",
+      "imageUrl": ""
+    },
+    {
+      "category": "Deporte",
+      "title": "IRONMAN Vitoria-Gasteiz o IRONMAN Lanzarote? ¿Cuál será tu próximo gran reto? - triatlon.org",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQUTlQOS1CN0NSLTBZbVhJNURKOEUyandRQjFGUHFpbXVOenViZXVqSV9aWUxlY0tVTV9IT0t4UHRXM2NiT0FyclhXSm1OZC0zaXhXSjVBUmNxRWhWaEFDTHp6d0hPWld0X1BWZEpSRUg5UmsxOG9hOUx4cHhxSUpjV1FkUHlSU0pXQU5jSWtHeW8yTXRRbFl0SHBLcTdEbldlMzIyLUJicnI?oc=5",
+      "source": "triatlon.org",
+      "pubDate": "Tue, 18 Aug 2026 11:42:33 GMT",
+      "imageUrl": ""
+    },
+    {
+      "category": "Deporte",
+      "title": "\"Piragüismo Com-partido\", la propuesta que une deporte y trabajo en equipo en Plasencia - El Periódico Extremadura",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNOGExT3FPVFlFNjk0MTlXeDVtcE5QQmVrTUdTZWFxdmZDM09Rd184SG1tNVVGRWhJZFhqZ1NPMTBHaW5zbTZjUEw0ZUhNT09qU0ZWdUhuZkNqNzVTSHNRak45VUFyOHAya2gtS1Azb09US0RndzhaSERQSnotYnJWQVRyUWx2cWdpS0xpUnZ0ZGluSVh2ZzJrYjMya1UwUFpFamFlWTlKaXZEeGhJYjltTS1FaHLSAboBQVVfeXFMUHphaXh4YzVDTEtucTNkQkVZMFZRUXAtV3ZJekRNSzlVUmJGR2lPemhXT3NFR0pkZ1NOU0lDVGJ2OFlKMGZXTS1ZbEZodDNmSi1McXBUak55XzJKdWVNeHp3NFlidHlaSzM2enJDY08taUpMMHBMZlVHcXN1LUU0QzNOWC1nRWxldHFDNGhVQUR5bUdYV1JjUXFvNHZsdjhyOVE2aGYyb0lpMEJGTVB2alZUUllOWlpRZktB?oc=5",
+      "source": "El Periódico Extremadura",
+      "pubDate": "Tue, 18 Aug 2026 11:38:53 GMT",
+      "imageUrl": ""
+    },
+    {
+      "category": "Deporte",
+      "title": "El Cacereño recibirá al Sporting de Huelva en el Torneo Ciudad Europea del Deporte - Hoy",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNNTB1THpPdERMUDhiMUdGaXQ0X3RQblM5RllvYmVWcGRYanBqQjBvcmtZMWp2NXp6bGR5UEtVaEthRng3TTdtSEpQV1JvZGx4ZGZDRTB2dUVna1pMNHpYRWNNTVFRTkkzaTY2R1BFVFU3VFh6ZTVLTFZLa2tzdElxWm40V0VoLWphajhWdFdnQ282TVRkNGk3cTVpYk9sV2JSWUI3YnJVQzFTZEhrYmZ4N1lpQktUTjhsZW95OE56NNIBxAFBVV95cUxORjV0UklzSmNFclhIZVNxZmlJMHlwVlljTURTRkkzNFlKUVdzQ1pzdEpxQUJYY2VfTjNRN3pRSUFYMXJnWUl3NE5RMWE0NWxPNkh4ZVBnLUx0cHowdnlzVEIwZi1YeWZIWU1FSEstYWxoel9NNk5NMG9vdjNDXzJjcC1QY1ZfeDV3TzNha0N2ZF9UN2t0YmQzeUtrdmFMcExFNHE4bm5MMnFITXBHUWhWTklXLUtXV1ZvUGxhQzM0WVlaQlpn?oc=5",
       "source": "Hoy",
-      "pubDate": "Tue, 18 Aug 2026 06:24:21 GMT",
+      "pubDate": "Tue, 18 Aug 2026 11:29:54 GMT",
       "imageUrl": ""
     },
     {
       "category": "Deporte",
-      "title": "Ferrol acelera su Cidade do Deporte con 435.000 euros para renovar Santa Mariña y Caranza - Ferrol 360",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQREk3TWFpelVaZnUySklITjdZd2tTazkzNzljcm85TjdHMFRWb3cyTUVOMUVrS21sV01KZEdXTEdKeDYzajZMRWlwb1pnSzNkYlRKc210dVNSaHQ2MVItd21mLWhDdWZ1OFhSbUFya3pfSnVmZ1YzZzFRX2dJeDVzby1oWDdvenk1RUk1emdzd2t4dWNGTmtUTG9pSzQzVDZEcUhOcE9tWTh4WTUwd2paRg?oc=5",
-      "source": "Ferrol 360",
-      "pubDate": "Tue, 18 Aug 2026 06:11:36 GMT",
+      "title": "Huélamo convierte el deporte en una gran fiesta rural: 1.500 participaciones y récord en su histórica carrera popular - eldigitaldecuenca.com",
+      "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOYnFCaHc4dmlHdnFYdGZnSFgxSzNaenNHMl9rZUZfYWNxRi1FS0lvT0RDR3RweTRSWng4eUxqVHg5Nmp3dHFYRmpmQTFfOElfWFEzcURLZUcwZE0wM0VzSEo0dzU1bzFYak5ZSGVaeUlnNHl4MExxWHdRMndpZHdBMnRyZGhZeWc0Q2tEX0pjZW1HQVpmRkJYaGVucGhpdjdQQjhoM1hLT3FnQUhmX09Oc09ab2VFak5Ga18zYmhkMm5JMDN4YzNleUNrd3c2VURRNFFqVjhHTjdWeHh5OFZXMTNoREY3aF81dFpUWF9udw?oc=5",
+      "source": "eldigitaldecuenca.com",
+      "pubDate": "Tue, 18 Aug 2026 11:26:55 GMT",
       "imageUrl": ""
     },
     {
       "category": "Deporte",
-      "title": "El deporte que madruga (18/08/26) - Onda Cero Radio",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOeHltNi14SWxZOGFRdFI3ZnFxcTZLRy13b3ZUa3IxdDRSVVJZWXZ5R2ZCWGwxaHU5OE13TFpjODhxQWZ1VEpLTmlkU294Mms2dnpUMlQwN0hfVE1aVzc4RFlsak51X0l4WDZVTUlGTmJHREEyRDFlQ1lQZzJVRE1pbDJxV045RUdoci03aDBXZTZKbmpXOTBQQXJORk84eDR3LWpJUHN4U1pHMjdjUldhLUg4azBERnJsejFTakk0cURZUQ?oc=5",
-      "source": "Onda Cero Radio",
-      "pubDate": "Tue, 18 Aug 2026 06:10:23 GMT",
+      "title": "Cómo un doctor convirtió a los Lakers en un imperio y ahora su linaje amenaza la mayor compra de la historia del deporte - El Economista",
+      "link": "https://news.google.com/rss/articles/CBMilAJBVV95cUxQc3NSTGxDRS1WX0wtb0NwT21paUJQV2lRWnQzZkdlNjhOMW5DSUJjY2w2ZUc5VjVwTjFlTHF4WmZUOF81Qm83dG5qdUdvTXZPcHJYSHRSclBfc3BkeGdmVzhYdHo2VWZvX0ttSVp2anNEN2lDMUNLOXNfdVI4WXBrUS1mTnhOUWp0YV9XZDNZZFpUcW0xY09iVTNUamFUTEFUT3A4emlmYnBXdWtkbDBrXzVSRjFfU2ZreXJ5c2tESl8tY1lPY0lIMVI0dFNvQlFwWWZuRFJpM3dmRllQbmIxakVkZ0hPSGN4SHZSWE9rNG83V2tzWVl2THFVY3doZ2N5cEhMQVlmbzdsd1VSNlUtUHhlX1o?oc=5",
+      "source": "El Economista",
+      "pubDate": "Tue, 18 Aug 2026 11:21:08 GMT",
       "imageUrl": ""
     },
     {
       "category": "Deporte",
-      "title": "Hugo González y su 'no medalla' - SPORT",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1wcjZFemJoMElGNWZaNmZBWjZFWDBvZUNaUWhrS1RtTGdXeThpRkdCN1FlRGRnYVB2TjdQRHNFbWduckNlQmt6MnJPTmZpenJBakN3TXJTR1FFdE9YYnIxeWtRcThFdzA2QlFrdWFHb1ZlRDk4SjNGNUVZSzBGQdIBfkFVX3lxTE5mZV96OG9obzJwRkpKc2FEdngweWtnQ290WkF5SUpyNGQyOFozeUJtdGxNN3RBeUhPVzB6TkhBMXpJQWxLTHJHV215cWlIZk01d0FaNTljS0NtSUNhdm9IVjFTTzFBa0dpdk1CQk14ODAwSlZxUGhVdFVJejdmQQ?oc=5",
-      "source": "SPORT",
-      "pubDate": "Tue, 18 Aug 2026 06:00:25 GMT",
+      "title": "Cáceres reúne este sábado al Cacereño Femenino y al Sporting Club de Huelva en el II Torneo Cáceres Ciudad Europea del Deporte 2026 - Ayuntamiento de Cáceres",
+      "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPRUk4ZW5yeHJxYnd4b0JsbnB5NHFkWGx1WVUxWWtUSW5lY3V3OU1uYjRMdHI4QUVkRjlWUXRWUlBWeWowTDBmN1ZjaXFHZk1yRG5KTkUtSG50ci0xV3ZYdDI4LTd0TEpEQVRqajMxd0JWSHZEdTV0MlhvQXZaUjVacUNhTFJxRkZLaXZWQmZYY1RiQU41UzZsSnAySklwdmd3S0lJSTc4VVV5aUhUUHhNU0hNNjk1YTdYZ0RORHlRZUtOaFl6YUZWNEpvRHhNa3JkY3EtX0FlajgwLTdMbFI2OFBsZ3RXWWkyMmpHQzJucGExQ0NJdUVLUXVRc3U3QQ?oc=5",
+      "source": "Ayuntamiento de Cáceres",
+      "pubDate": "Tue, 18 Aug 2026 11:14:30 GMT",
       "imageUrl": ""
     },
     {
       "category": "Deporte",
-      "title": "Roberto García: “Graviteo demostrará que deporte y cultura son una combinación perfecta” - Faro de Vigo",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNbVFBd3Bvek9wRG43cGxCamZQdTk2ZkJUU25odkhQWGZPb3MtSTQ4TWZXNXVTS1VnZ09ncFpiMVlCWWN2VzVkeTFEVVZYSWtzSDhPQlNfZW1SWlpqYU9VNzd6Uk43TnpXZ0ZXS1JqdkJqTHZ1WTB6MFEwQVRmSWtMcHdkbnB1WU52VGtvSUNLbWJtSDZoMEF5Q2gyZmFOYzRHV3ByaVR3S2t4d9IBrwFBVV95cUxQbkZORHFmRXhtcUU5RXpfQlRCMDhObUd4bjgtelV6djMzSzBJNUtkQU5DbVhnNTdrVHl6Q19qN2dPR1lpcGttRTVGM1RGSHhuVWFQQkJEcnA0SE14czRhYVpPSkpnM3RFN1ZtUXE0TGltNGl6MlBHTWZsajhtTGYtOG5wU282Mm83MVc2VHVmUVFxakJubjFaaFlTQ3pNbHQ5azNRZ1FyaExWVHFlQ2hr?oc=5",
-      "source": "Faro de Vigo",
-      "pubDate": "Tue, 18 Aug 2026 05:44:25 GMT",
+      "title": "Astorga llena las fiestas de Santa Marta de mucha música, tradición, deporte y cultura - La Nueva Crónica",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQUHRWWmJ3YXFfVnplN29NUGNRUTN0SWh6ejdIOFlOdzYyZHVPcFFoTEx2TWtfYWh0dnJYMWFWSFR2OGU5QTdUYnlOampVQ2RLSTFCd2hqX3hfdTFOb2oxRnZpVWRqS1RWcnh2bHEyam5XeVB6eVNXdzVVV0hiWGxKRzJsWEVmUGtrX2pSdElraE8wU3NGZlFXVFc2dG1uTlRkWUFGNHcwdzhuWkh3OGdNYnAwc29OaHIxU2RCQml3Zk9HLVNFWUFWdDNB?oc=5",
+      "source": "La Nueva Crónica",
+      "pubDate": "Tue, 18 Aug 2026 11:14:00 GMT",
       "imageUrl": ""
     },
     {
       "category": "Deporte",
-      "title": "El calor cambia el ritmo, pero no frena el deporte en Córdoba - Diario Córdoba",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNdVZadDVTTGRCMkhETElJeVREWU43TWxOWDBTd25idE5TbVM5TDZhbTJTUWppSko2bDZiWXlhZGY1T2x2WVdhbmFlZWUta1VfdFFib201aUtVOU0zd0s1bEkxRmFydU9mVUhQUjJEVW1iNC1xWmdHX2tGUFByalE2UWVfc2VlR3dDU1FHZm5vLXdqMWo3eUJXSGp6anRaRDhKelIyTERn0gGrAUFVX3lxTE8wRVl1SmlQRGJsanlNQzVXS3BNYTFQaFFvcGdOeS1VcS1UeTAxcnJhbTh2SWFEZk9sd0wyM1FmSFY2dktMLUlWYlFEd3BldnZpNktlMHpVdUpDWUdfOEJmRDFXcWdIVWwwZUlZdmdQd1d4S2Vqa2V3czFuR3FDTWRCNHJOdGgtMUNQY3BUSXFURVYzRGNPZm1fLXJENjFwODZQSGNGemh3MmE1RQ?oc=5",
-      "source": "Diario Córdoba",
-      "pubDate": "Tue, 18 Aug 2026 04:01:29 GMT",
-      "imageUrl": ""
-    },
-    {
-      "category": "Deporte",
-      "title": "Tienen 16 y 18 años y el futuro de la natación es suyo: “En España, solo ha habido dos o tres como tú” - La Vanguardia",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOa2dWNTlHeHF0cUVncER4Wk4zNlFnYkNSWjM1R3ZGMlBTVXlySXBFSGNOYmpxNHBOUkVrdmlIRFJGVWRnMzhiWmZwRXBkallWTmFSVTlaaUx2VFo3Sm9HZjJ2NU1Zd29JN0Mydms4Z01yaWczdkdIRHRzeEk4b0pXSzZZcGhYUU1FR0JhQVZ5aUtjSzkwSWpnTl85dUxQRXFBMUZMTVFZOXUyM2hQUUFVMlE2a0ExRGJlUUQ2NU83V3JOUdIBxwFBVV95cUxNdldWUTNDNzA2Wk1HamxjZnFvMkhVWm5YWVBTb2pESkZqSWozNWpOaTBjZlYzanZpWW1McGJkdDJTYU9ESjA3UXRWYkx5ZDI2emJ5Y18zZGhBTTE1ZmZhdUtLenZLYlBkcXpvMnBtLS0xSzN0cllsWEI0MlJaVS1qQW5vZmpVSjJYeTl6Z1FIalVQWUpUODlvWGVZOHhnaXppNXBFYW9aQXpvN3A5TFFDS3BXcVdtUXFXeEJ5X3N0UUpqSGZmMXlv?oc=5",
-      "source": "La Vanguardia",
-      "pubDate": "Tue, 18 Aug 2026 04:00:00 GMT",
-      "imageUrl": ""
-    },
-    {
-      "category": "Deporte",
-      "title": "Miguel Añó, el estudiante de Medicina que 'receta' deporte: \"Es la pastilla que puedes tomar tanto como quieras\" - Redacción médica",
-      "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxOcjBFRlJMQ3Y4RU14VU5SWjZkeDZmb1AzRHh6bEZOWlN6eVVtQ0wxOWxfZjBRZXZDY3VJNWJlSUg3NnB0S2V4cThzU2t1RlVHZXRUR1E5dFQxM1J3Uy1lR084MVplTC05QnVCSEFIcDJiN1ZrSTRVUHI1bERRUGppbllGQ1R3QW5zaFBRRmRjb2hoVnJTdUVuS21adFg4akRSWkdUQjhMeHhiV0FDdDY0a2J3SXJQWXFtWUtfWWR1aVdHOFJPSmstaGhaUEkxTzJ5VWtTcU16T0xCT3BXeTdkVmpXNTBMbUhsVTYtZk5BZXVFRkdGZVBaZFlkclJ3dXZSMlVVaC1QZHZFT0nSAZACQVVfeXFMT3hFODh1VW1MVlUzUUtCdkhVWDkwUy1fcmZKRlN6cW9lTWFYeEVCNzVyQmlqaDFFUWJTLTRTVkwzM3gxbEt4LU83TVp4ZUM3YnBsMmxPYXRPZTdGcEwwajZJTFA4V0xfSG5MZExPdWR5ZUY3ZjBxNE91NDl2dHBuZ2oyQkdVWGxMZGNYSzZWdUZEUmJ2czUxaFJiZThkTnVFUlBxZC1MYjZBSlEySDMxUTV0eGFyeERFOFBveUZIZmJ2U0RYSy1URDNTV2tsQ1I3enMyNkJoTm04VEhUSXQwTFRMR2s3UmNxX3JLQ1BvR0JoYU9OZ3JWSUN5NDFvLWRMWGxYVGdIWkM2NlN4TGFfZlc?oc=5",
-      "source": "Redacción médica",
-      "pubDate": "Tue, 18 Aug 2026 03:40:00 GMT",
-      "imageUrl": ""
-    },
-    {
-      "category": "Deporte",
-      "title": "Otros tres ourensanos más de alto nivel - laregion.es",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOY2ctN1p0TGFaMnFJT0tqak1fZ3l6NDhuWEVsaTJrclh5UkhpRC1Ob2VXLUUyUHo5Qy1LZXJyLXdEUW5HVVZTNEhseF9rSlZxZzJ6bjZ3NkJFTjlVNm85ME1vSkNHWTR6MmdPU0VZSWk2dVpibHBScUJzMXJSaG43YXVaLWlKemVRTEZ6SGhrdw?oc=5",
-      "source": "laregion.es",
-      "pubDate": "Tue, 18 Aug 2026 03:35:00 GMT",
-      "imageUrl": ""
-    },
-    {
-      "category": "Deporte",
-      "title": "Beatriz Crespo, experta en medicina y deporte, sobre tu diálogo interno: \"No te hables mal\" - 20Minutos",
-      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNQWRFaDFiRUk3cEprRjdhbkswSkc5NFpyeU44SWROMVA0ZW5wMGFZdmZFcnljLXE1RkJrdjR3cUxCZHprN05fU2FkUFh2ellaRTUtN0kxLWZCTVoxeWlpOFZHSWhpOWtqR0ZzVEJZZ2VLRV9Pd1ZUSUJGbnU1TnhuSEhLQkZkTVFtcUxJVUVPLWxESEJNb2doY1I2MlBSa3V4U3FxN1ZxQ1BmYTJNcWphVGhaZmVKVnpDeFhReDM3eUQ0SUkyWFBKRF95WHQ4VnFySEJ5WQ?oc=5",
-      "source": "20Minutos",
-      "pubDate": "Tue, 18 Aug 2026 03:00:00 GMT",
-      "imageUrl": ""
-    },
-    {
-      "category": "Deporte",
-      "title": "Los más completos tuvieron premio en el Club Hípico Coles - laregion.es",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPN1Q2dzdIS3lRVmRFSkFZZHhYMW9EZ3RJaUJ0eHdkVmwzdklOMUNfUklBcnE2LTNoTGlBYUFKNjBFT0tweDV6a1VFMzkzWEFjVkVMdUJsMlBnZlRsdkJvTTBta2QzSmZqS2dQb3hrRG40TUJUYmptemtFTHhRSE9PREpOc2ROeVJqNXB0QjRyLXVEY21aUTVHLVJHLUJYZw?oc=5",
-      "source": "laregion.es",
-      "pubDate": "Tue, 18 Aug 2026 02:35:00 GMT",
-      "imageUrl": ""
-    },
-    {
-      "category": "Deporte",
-      "title": "Hera, la diosa que llevó a las mujeres a competir en Olimpia hace más de 2.000 años - Artículo 14",
-      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPb2M5OXZJY2hNUWl0R1VsTmVpdTNJMU5uVThtR3FNUFdZWE5uaUY0NE1HSkEtMkdDcGM1Z0p5d2pMeHBfUGlOTUZzbk9MLUZmV2YyN2pySkRoaUxMeVh0Q01fcU5iMFVIaVZJVzlSbENQbzhjS0p4WWhzMERnYmlNTDlxM3FOSWdjb3VrUm1hX1NCcW9HclZGMDVfSW81OXlrU0FHX3pvekU4Wk9wVkdUOWNWbmxfdzdYY0ZGVDV6SHR0UHQ5MThyMlRUQXROWjdOS1dTUFpmTVRkdXZ5SGY3cmpn?oc=5",
-      "source": "Artículo 14",
-      "pubDate": "Tue, 18 Aug 2026 01:30:00 GMT",
+      "title": "Sigue LALIGA y el mejor deporte en Movistar Plus+ sin permanencia - El Economista",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNdVhreWlmckVOejktdk42Tl85elVhQmpoLTh1MmhlVTlkc01NQkI1SnNqV3BPOU5XUUVMVWNDRFZoT1JhMnZNOUZ2R0tENVlYbU41YmNaUzhONWtHWHpQTC1FMzhhQWhaU3BGeHpLLUpFN0FvakQ2N0Q4dGU1cWNnTHJJNzZpeE5xVk9ZMjVJMG9TVTRmQjI0QTZGaW1RbDZDTGJXdm1tbmJUTDgzUnludEdrdllWSkZaWjlkNFpOZWxIc1BwRFpSc9IBswFBVV95cUxQZExWZ0FOOEp0cGtQNGtoWnduLWRfUDR2SzhFeVI0T3ZJNlMwVDJHaDdtWVV2eWxtMUhLem9FZjlBUUljekxSUkdVUVNjc2V6MVpoMENBOXE3TXRWMjBmcU9QSHNpNjVmajh6TEZrYXFMWnBoTFVJN0tybWtzUThOVktwbnJaTjAtRGpOMUE4b29UdlFQa3VvNGNxYS1vQjMtb2xIbTFKc3Z5THhUTTFaM3Rfbw?oc=5",
+      "source": "El Economista",
+      "pubDate": "Tue, 18 Aug 2026 11:02:41 GMT",
       "imageUrl": ""
     }
   ]
