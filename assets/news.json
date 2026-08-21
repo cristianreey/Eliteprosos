@@ -1,101 +1,101 @@
 {
-  "updatedAt": "2026-08-21T12:47:05.825Z",
+  "updatedAt": "2026-08-21T18:35:51.123Z",
   "hoursWindow": 168,
   "items": [
     {
+      "category": "Deporte",
+      "title": "El deporte andorrano exhibe su \"buen momento\" en los Juegos del Mediterráneo - Europa Press",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPV3cySmdocW5vZVJwbGFBc1dneGtaNmRiZlh4V3J4WDc1REs3Sk5TUXZWTW5LdzRvN29VenZPcl9YeHBkSlpGTGxWLUF0WmNGVGd2TTlDQllJZUc4bkUtWHRuZC01Uzg1a3RtOGF1bGtTY1E0aE1paWVVQzZJYnQ2X2JUN2VVZVQ3Q0lXa1ZVaERsanhvbWZmTkRkdTcxQnNpdkQ2cmVwOXdXaUJucGJXOXFYbjE3S1RQRk9IWEFWQ2FBWTlKX0ZMNnBjdlloUFBhblE?oc=5",
+      "source": "Europa Press",
+      "pubDate": "Fri, 21 Aug 2026 18:30:36 GMT",
+      "imageUrl": ""
+    },
+    {
+      "category": "Deporte",
+      "title": "Soria no para: fiestas, tradición, teatro, música y deporte para un intenso fin de semana - SoriaNoticias",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPUC1HdWxnV2h6c09aYUZBbnBMQ3FlTVJUUFBKVXB6R2d1Tnd0S3ptYmFha2NualRuNkRyTFd0TTVfUm8wVXRHQVRjbFpWUmtZVVNoS3k2LWZiNnNLcUp3RDgyMmE3QzdyNDEyMG9lUFZhZ3JwUGNsaWdzeTZBdjZXbU9QUXljRHdCU25nTjlDQ0JtWWxOTGg0bFJZV1Z0LWJNN1V3bkpNWU1udEFITmlrR0tmeEg3YmZLaTZselpTcFRBRWtfY2FxazBwelN5X0xDVGFB?oc=5",
+      "source": "SoriaNoticias",
+      "pubDate": "Fri, 21 Aug 2026 17:54:00 GMT",
+      "imageUrl": ""
+    },
+    {
+      "category": "Deporte",
+      "title": "Estos son los cortes de tráfico en Valladolid este sábado por la celebración del Triatlón EMEDÉ - Tribuna de Valladolid.",
+      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPa3hseVRKbEVqallNS29OTzJEVGt0WXJldndfZkF5M3J0VXZTaUNRYXE5ZFpKbkRqYzN6Y0cxNlZGSDFnVmNjdU94TVpBT0ktTUtKNHMwdWpXczlaMllSUDhZaDh0S1RYd1hwLW44anhvUVVTT1Y2MXJwYTdhcVo1em92ZVB0bEcyMGEtbUNGRmxTWXNSanI2a2twSnlOSGJ4U3NUNmt5aWU5TE1YTkxYSXFtZVdZYmdPbU9IUmJxbmFsQWRXaU80R01wZkNUckJ4SHhWck9SajZaRkZsQmc?oc=5",
+      "source": "Tribuna de Valladolid.",
+      "pubDate": "Fri, 21 Aug 2026 17:43:20 GMT",
+      "imageUrl": ""
+    },
+    {
+      "category": "Deporte",
+      "title": "Los expertos coinciden: Hacer deporte a partir de los 60 está muy bien, pero recomiendan realizar estos ejercicios para mejorar la artrosis de rodilla - El Economista",
+      "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxNaEctVUdidUw3akdfbVRSeml5QlhiM2xNemhuMHFobml2MGNaeEM2WmcwdzlBQWg4U0d1T2owYzFocDlzQko3OUNkVnRWckZ0dEszcDNxV0JVdmthd1U4eDBzRDEzQjFKeUdjdjZfVy11dlhQV0tfNUp6c0dZVjA4WS0xdXppV1c1NEhVMGRkWHNNcnNDZFpHVHZyVExpcDdSNlBBRjM1N3pvb2dsRnZXS1N4RDVwNURFUXdiUTRFejgzWXBONnhGODJEd3pVQXlYQi1VbXZyajRtaTJHNllEbjhxb3daTlo0Uzl6RG1mSnNURVp3WGhqNlFVeVBwQmtIVFRQc0wzd1d0NmFDdWc?oc=5",
+      "source": "El Economista",
+      "pubDate": "Fri, 21 Aug 2026 17:41:30 GMT",
+      "imageUrl": ""
+    },
+    {
+      "category": "Deporte",
+      "title": "La Fundación María José Jove mantiene hasta el 18 de septiembre su programa inclusivo de deporte y ocio adaptado - Servimedia",
+      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOOC1TTnB5QVZHMVdlMFpJSHpaMm1od3BiWEpqRmE3QVRzbWlVeEh4ZVE3YTVJaGpyZ1E0RkVWVkRNblJmcXpEU0dkSW9oR1M5ckZUaGtXUlRPdHluSU5Ma01ZSkg1SEJDdGNWM0RNZnBMcVBBRkFrVHpwa3F3Z09QSjhIWDNLTU16X245akhFdEdCUkMtVnhkdWJobUNaalZWYUdIdXp4VlZ4azMwM2hrQktyLXJ5SWZZenMzeU4wMk1FYkpyUUw5TUNXQWJRLUxpQ0dHbEc5ajc?oc=5",
+      "source": "Servimedia",
+      "pubDate": "Fri, 21 Aug 2026 17:08:00 GMT",
+      "imageUrl": ""
+    },
+    {
+      "category": "Deporte",
+      "title": "De accidente de tráfico a tráfico de drogas: detenido por huir con medio kilo de cocaína y heroína en Coia - Faro de Vigo",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNeGZHb2p3TjBZdFVSVU9OMG16d0ZlUW9WcTF2YndYYm9nVk5PZkdOVnlTLVU2Q3ZLdk5IbXEyTTlCR3FKeVJ2c3B5MTVaLTVvWjFGMFJCUmg2NzVDc2Jlb1loSllUMEw3RkxkMkF1ODVwTW9QNTBUNk9yUWlyWkNBWDVJMUIzZW5BNU5tZ1JNTXhEaHVXWjBCYlpoSG5oalZtMnd6VEJicnZBUDE2R0xaYQ?oc=5",
+      "source": "Faro de Vigo",
+      "pubDate": "Fri, 21 Aug 2026 17:03:37 GMT",
+      "imageUrl": ""
+    },
+    {
+      "category": "Deporte",
+      "title": "Ceferin defiende que los ingresos del fútbol de élite apoyen el desarrollo del deporte - ABC",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPQjlaa0FwSzRvaFhKcVI3eTZBbjJJMEJxREhyX25ZVGZ2VVVoZHE5RmRaU1BKNUZXa3Nibll5cjBZM2lwa3laZll5VWVmNjUtMC10MFZwUEk4cFpPd2FjVUF6NFZ6M2hoVFBKYmdtSG1scnBLVWgwYWdkVTc0amcwcnhBbVlqRTVqVTlQSy14RlY1ZmZpRFhtMG1WV3FrSFV6VGo4bGVhaEJQblVKbjQ1ajR2NnU?oc=5",
+      "source": "ABC",
+      "pubDate": "Fri, 21 Aug 2026 16:57:46 GMT",
+      "imageUrl": ""
+    },
+    {
+      "category": "Deporte",
+      "title": "Cortes de tráfico este sábado por un triatlón en Valladolid: recorrido y calles afectadas - Diario de Valladolid",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOWW4wR2U3alRKekYzME5sd0ptQ29rRzJNeS1HVmFmVFZFR21RdEhfajgyQmQ5QjBaZm9WVUxhRG56Z0VMalAxVGJuYkpsdnFtSHRMNko4OG1sUEZkMnBKck9GQnRkN1F2d01ORmpHUWlnaWF4bEJ0WEJsYzYtOXdhZGJjLWFrNFIzYUVsWkZOeVRwWVBsZGJFc0dSOUQxS09XbTB0U01rWVRMQm8wY0VCZtIBtgFBVV95cUxPZlhUSzI2bmRCbk9lMlNjaWd5Z2ZNUHNzVEdFNnZvbzhtTWwxSENGSV94NnNhdnVvOVlvaGpEbm9vMXVYd2ttelJlWGdSZVN3ek16MklrUWc0aVFaOFJRWHZpdll0bnplS3JCV2ZYOHJ6SUdGaFpGUzVlOGtyV3YxaDVzX3N6SFhzb2ZZTDVybmlpOHFPaWxnanRZOUJsTFNkd240bmt2ZF9CZ0hRZmg0amZ4LVRJZw?oc=5",
+      "source": "Diario de Valladolid",
+      "pubDate": "Fri, 21 Aug 2026 16:51:18 GMT",
+      "imageUrl": ""
+    },
+    {
+      "category": "Deporte",
+      "title": "Valladolid a máxima velocidad: el triatlón de media distancia regresa por todo lo alto - Diario de Valladolid",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQdWtkNldYMmlPR1F0aDIwMVZMWnVUVXp5NEllREpFZ2h1ZVl6XzctdU1POFJNUERCMWl2RV9VZTdhb2RmQTRId0o2a3M4dHpOdWo3dkpKTWpGaTUxM3dRZnZpOVYxbHZBbjRsRnNrNjhIX0RQcTl5Uml6N2xWcERrTk9sOEYxMXhUR2RaZWZtbThEQ2xvTzI0dm9rQlhlUXZDb3RTLWFKVkJSVE1yNlNhN2M5TzhJdjg3cy1XTVlBb25xZnFpYlHSAcsBQVVfeXFMTU9QeHF2cTM2SjM1TDRoR2FiUWtkYVlfTXRyYVhBTExmSGdWbERQcFpVSVlFWWliQk96VEFaMUs2SVJ2OEVQRVVFYnAwR2NPTWJkMkhNdjRMdWtLb2VnUnRla0dQSFZ4QWdMZmh0am5kVndRa01ual9OaGs4TENfRzE4bnl5dWRLSHNGcU1IaUI1d2ZiWHpHOGRQTjB5bC1SZm1LWGJMcUkzbkdUajV1NmRzc3JHSUpjOUxHenY0VHotN2p3SUZoaXpzSU0?oc=5",
+      "source": "Diario de Valladolid",
+      "pubDate": "Fri, 21 Aug 2026 16:50:18 GMT",
+      "imageUrl": ""
+    },
+    {
+      "category": "Deporte",
+      "title": "Ceferin defiende que los ingresos del fútbol de élite apoyen el desarrollo del deporte - Infobae",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPaTljU2xKekFtTnM0ZzMtOGFQWk5xRV9QM0FpUmhCV3VoYWRKRko3ZFViaE8yalFFTVdCc01aSzVzUEE1Smo0OHhlbWlXYXp2b01QTWdUS1lWd0cxMlM2YTJJa3NseFN3c0RoSVh3enA4ZmdtY243bWVqSzdldkh6UVlBMXZFRXh1TmN3RTFvay1qSlZjcFkwREF2OWRiaHNSZnJnOWlQbXVHaU1iZF9aX1Y2Z19XRVh6WVRsZzNVZzNRX1ZteS1yMjE4OFVUVnRpRU5aY9IB7wFBVV95cUxNR20yZko1eTJoUVgtRzdWNEJ5NFhLZ3E3a3hMbTF1RkdtWDlHOVhvLU5peDA0bEJ0aldXT0NIdDdQNm1CZUd2NG9sYnpSUVI2dWh5OEpVcHNOQ0RyNndkd2tHSks2bXR4WjdUZGlTdllvbl82eW1YdVUycVlveE9TWHZ6NXhQTm1tS3RVcEVIUzJuSzdScEVaa2RhZ2pmRldocmlLRVlJLVU1TWF0UlJRUzdiS1A0Ni1OeFlMN2NPQzFJdy02YjFxSFlkZmtSdGhSZTZOOUJQOFpnVHZYcUlla0ZLZkhWcG9Sbm5hS1ZkUQ?oc=5",
+      "source": "Infobae",
+      "pubDate": "Fri, 21 Aug 2026 16:17:15 GMT",
+      "imageUrl": ""
+    },
+    {
       "category": "Socorrismo",
-      "title": "China lleva la inteligencia artificial al rescate acuático con un salvavidas capaz de volar - inteligenciaargentina.ar",
-      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNekVuMUp5Y3doc1VtM29VSXNObWl4Rm9sV2doX05EMTFCRDlJQWFIcHRJUWZ6ZUctRmt6OUN1M1R1R3VBQnY0VThwSjhpVTBQTVBHVlpmRXUxeGlhckNtRVVfNlIteHBBa2RnaHJTX205UUQ5RjlqRE51MkdqRXl4Z28xUGNCMkpuTHJrMFVIRXkxR0wxaUxvcjFlTTFxZ2t3M2FLR3JUdlhKNDVIMHItQzFWNzRqNDBtRHkwZHRCb3hsbGVXRjdxZXJvRnN5ZlpHb1JsbWV4M1c5U3Fzd21mc1JB?oc=5",
-      "source": "inteligenciaargentina.ar",
-      "pubDate": "Fri, 21 Aug 2026 12:07:06 GMT",
-      "imageUrl": ""
-    },
-    {
-      "category": "Deporte",
-      "title": "El deporte canario aporta el 4,5% del PIB con 5.700 millones de impacto - La Voz Canaria",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOVlJTeGl6VWJwaGJjRklUdWo3QXFMRmcwWlNHYmZyN0pfdzAyYVNLZl9FVHJNRkxzMURRN0p3VW8wT1U5T29qd2lPYUcyZmdqTkFtZ3ZWSkdhWTVMQ1N0ZEpnOFE1Rk9UdEN4THNRWkFDVHJoY2xaaEtBbUdVdEJMeG9scmxKRTZMd2JFTXc3LURrMzFwOHdwYmppMnJQcThsb2Z6S1YzR09wWnJyQ09aNll2UXgwcnFLX1pWV3d3?oc=5",
-      "source": "La Voz Canaria",
-      "pubDate": "Fri, 21 Aug 2026 11:59:16 GMT",
-      "imageUrl": ""
-    },
-    {
-      "category": "Deporte",
-      "title": "Más De 250 Participantes En El Festival Saludable Gastro Y Deporte En Adra - D-Cerca",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQY1dLQjRhOGd2aFF5MUliMklFX2gzN3VUc2VFOUtwV1JFV2JkQ0JWODN0V1pKQWczYlk1TVQ2d28taThjXzJfTWlTeVNJS084aFZGa0hSdUxIam95enIxc2l6Tzd2bVpGYjBiakQ5NG5NMFNrdlM1Rm42SDZUVE1lMFh1Rjh4enB2ZTVtQVE1Vmo1aDFESFhHRnNCaw?oc=5",
-      "source": "D-Cerca",
-      "pubDate": "Fri, 21 Aug 2026 11:47:01 GMT",
-      "imageUrl": ""
-    },
-    {
-      "category": "Deporte",
-      "title": "Jornadas del Deporte de Jealsa dedicada a los deportes de contacto - La Voz de Galicia",
-      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOYVVaZlZwb1hoRm9uNl9yRDJZa0xpSEF1anhJN3dmM3JkN2ktRncyY1RkU09GMzlDZ2VkQmZ4SW02Ukg5ejFRdlBiZ05DQ1gzajBZRzZBdUVlYmtkUFFmWEw2SlFSZTQtS2I5MzFUcnN2UU1zVVFRcXFKVzQ0SmxadHJXdWtJWjNRYm96R1k3SXpMUzZ6dTFESWp6aXJWQk1CTWVUSFZQYmMtbEVta1ZSZVpvODRnYW9rc3FhRC13UHFyOUVhTlpiTTJYeW5BaGs?oc=5",
-      "source": "La Voz de Galicia",
-      "pubDate": "Fri, 21 Aug 2026 11:43:28 GMT",
-      "imageUrl": ""
-    },
-    {
-      "category": "Deporte",
-      "title": "Samsung Galaxy Watch Ultra2, análisis: quería un reloj Android para todo y he acabado encontrando uno casi perfecto para hacer deporte - Xataka",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPanlaQTdUNUl4a0daNWpRSWdvejl2dk9HN011VElMb2JEVnY5c3JHdTJfQmp6NnRBbzVnV00yVFo4b3FjVXFaT1hkblRNZElKRmV5T1Rldk0yRjlfVlI3bXExVmpkLUZHWW02RVowX0pXVEFmNktnUGtBWEU0cTJFVDVkQ1dVNHZEb3A3bGJzNlhxRTJQYTQyUU94YW9yYzkxZWQ3NndNdnBjZ0xl0gGyAUFVX3lxTE1YQUliMEdaNWQ0Z2pFRGctWFBqLXhJaHFiNVNfdGY5WjM1enVOR09DRlc4MnBjdVpaVUlFWTEzOHVodzFpaDRNbUtjbHYwZU90eFN5VDhCRmZnQ0RNVmdvU05SdENyT25ocDljYVZfY1ltQkJFZFA5ZS1WZEZVekRMai1kLVlLY2pDSlhoY21tdHRnR2taQ3MyU1dwN3Z4akgwa0p4d1M5RW9JWklPQWZwTVE?oc=5",
-      "source": "Xataka",
-      "pubDate": "Fri, 21 Aug 2026 11:31:33 GMT",
+      "title": "Bomberos sumó nuevo equipamiento náutico y de rescate acuático - Berisso Ciudad",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOMlZFb0NiSTdhM2pxb0k5ZFNJYzhyelpkaXBpbE5ST1BaYTdiNERsX184WTF3Y01ISzdQNmVtUW9kOGdKRnIweUoyVzRkeTNzbDV3NW1ZSU8yVTlBSllYbkpRS3R6LVpWSkRGaGM0NnA2ZWgyOG5DTklkT3BnWFlVaE5HVFhZOW5vWW51T1k5QjNmMFB4NXdFdlJMNklzWXE2Nk1STA?oc=5",
+      "source": "Berisso Ciudad",
+      "pubDate": "Fri, 21 Aug 2026 16:08:40 GMT",
       "imageUrl": ""
     },
     {
       "category": "Socorrismo",
-      "title": "Nuevo taller de Primeros Auxilios, Socorrismo y Buceo para jóvenes en Moralzarzal - Aquí en la Sierra",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOZ3p1Tl8tY3hPSHJwUmdkQ3Y5X19wWnlFOFVFMnltdERQbTVFc1JPNXh2MFk2QXpscnhqcFVXVXVOSGJOV0FFbjhMaW16TTZ2V1E0ZmNkblN2MkRsSWxURGNuY0NQM01BdjFvYnpOTkNnWGUxWnJCbUstMkhZN3h3N25ZNGpaenRuVk51VDJyTnRDMDNYV2szNEkyWHZUVnpmM1ZkV1hSc0RZaHQ5bkVSRFcybXlybHhxc2c?oc=5",
-      "source": "Aquí en la Sierra",
-      "pubDate": "Fri, 21 Aug 2026 11:30:06 GMT",
-      "imageUrl": ""
-    },
-    {
-      "category": "Deporte",
-      "title": "Valladolid presenta la primera edición del I EMEDÉ Triatlón con 405 atletas y una participación de lujo - Ayuntamiento de Valladolid",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPaElmWTRoU0x6bVdSakpyajFUVDhKSTlUNkFvSkpoajlOel81VXVNZzZGLUlmZjBIQ0wyc21LWnA3TWtlM0MyVlo1NG12R2VQLW1GcjlNSGlZa1RIdmlvMUJwM0pVdEplNnVrY3ljbS1Ea1VmeDIxVVFEUVZuMUs2TWl0ZDdtVFJKQUFnN1JpbC1xeFdJd0VaTjFremhSYWxpckRNNnBBMmtHWUpCVi1vcWFndW4?oc=5",
-      "source": "Ayuntamiento de Valladolid",
-      "pubDate": "Fri, 21 Aug 2026 11:26:15 GMT",
-      "imageUrl": ""
-    },
-    {
-      "category": "Deporte",
-      "title": "El triatlón vuelve a inundar el domingo 23 las calles de Valladolid - El Norte de Castilla",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPOHNMT2hSeWNZdkw5OV9hdXVLNU9aejc5bTVpa0V1OXBDeVdOcGtNMS16MFNnVmpYbFFxQmt6Q19sOVZPZWhDSlpwR3NKekZBYmRQOFVXaGQwVzVTbUx2c3lsWEhXMjJ6TThfTjJaeU1nWjBtYUVhQXRFbXY5MzlxWkQ2WWxyNVU0ZmhSckZ4UGc2NXNpdTRnUTIta1VKRU5fSTVxMHhpZHR0TzhIS1BMblBGbjZ4RHczcGFMcGJoSTY2R2JxMGfSAcsBQVVfeXFMTzBEYUJUWW1heUx6ZVpMSXVZUE1mTmhYQkZJVFMxVC11SlM4Vy1NLTM2Q3pUZVdNQ3JLREJpSEh3SEtFbm81OFVyTktsSHR0ZWlDcGhnTldGQ25fS21JZW1naG85c2psZ2p2SGhUVmlna2ZmNG5samxhTVgxeXpJRDFWUGRiZ3Y5U0htVmdEWlpyNElORVJudkVKQzloeDVVXzMtRXBabm9XVklRZWZtZ2pGQ25yRnNlZnFadHViOVB0VWhWb0xUSzlOcGM?oc=5",
-      "source": "El Norte de Castilla",
-      "pubDate": "Fri, 21 Aug 2026 11:11:34 GMT",
-      "imageUrl": ""
-    },
-    {
-      "category": "Deporte",
-      "title": "La natación española cierra la temporada en los Juegos Mediterráneos de Taranto - Mundo Deportivo",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOeENoMmxwWXJoM0J4RjJENmRXenA0RmVMLTQ4RldtbERmM3d1cmhrbGdLNG1na3IwaEVTZm9KMDRqZDR0dVhPZFV5OVdBRnhreDQ5OWgzc0dReVlSR3I5UG1OX0FJWHRmNnJOUkF5WERLTm5ybXUtZjlzT2FGOGc1WHdfeVZ1Zmd2bkNxQ09LXzNBRDhVUG9XVmtEelNBbzZyT2E3bDVyZ19oUlh0SERnVGdNUDI3a1JUU0w2OXlhdlFxZkNUa2dR0gHUAUFVX3lxTE9vNmpBTE9OU0ExRkJ3RlNZeUtaSUEwVXdXYXVoSkZfSTNCWlN1MjBsY0hkMm5mWG1GWVphQUxNLVFlRjAwcWxKWkk4czJJREVDSUtBTklULUdkU0pEX3VHYnd2Y3Fpb3ZvNjFZcU9OekxLd0ZNR0lCZG5OdmJOVG52Q05ZNWJWTDJ1aGYya25uSmg5dzJlRzhBNTE3XzZjeUpsM3V5ckhXdllKcEd1NFJuc056TXNyWC1LZmVRNHlXX0p0Y3A3SFo4dDJMNEFOc0l0MHZX?oc=5",
-      "source": "Mundo Deportivo",
-      "pubDate": "Fri, 21 Aug 2026 10:50:34 GMT",
-      "imageUrl": ""
-    },
-    {
-      "category": "Deporte",
-      "title": "David Bustamante con más músculo que nunca a los 44 años: \"Deporte, calidad de vida… perdónate cuando no encuentres las fuerzas, aprovecha cuando vengas\" - Men's Health",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQYWZCbnZBSDhFWW5ZTjNZaFhyNG9PSlJxN0x0b1pIRkVMSHhuODB3cWhxbFZ1WnQ3cHlGTlBCNHRIUmQ5YmlEbjlDeDdrQUNJaTdpaXc4dlVfdFdsVG9JTDI3TG85aVRNUkZZanE5REoySzh6Rmx5eVBzczNoRzdYTm8xZTB4NUZzR2g0TUQyT1RhNFpr?oc=5",
-      "source": "Men's Health",
-      "pubDate": "Fri, 21 Aug 2026 10:40:06 GMT",
-      "imageUrl": ""
-    },
-    {
-      "category": "Socorrismo",
-      "title": "Taller de Primeros Auxilios, Socorrismo y Buceo para jóvenes - Ayuntamiento de Moralzarzal",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPYUlLQXJVaWdicUNlLW1ELUVvREZTbmd0NHBINGM4WXRDeUpQeGpDOEh1cTdRc2YzTmdITUlCbWhKYVBXNU5wZlFIbEctSWhqOUdDWUR2MEYxU1p3eVNlN21xdVhsMkt2b3hucjd6b056S1BXclNtWl8zMmxzenBYdTFVWUF4QU1GMHNtWmRob2hLWTRqNWpvWjhB?oc=5",
-      "source": "Ayuntamiento de Moralzarzal",
-      "pubDate": "Fri, 21 Aug 2026 10:35:53 GMT",
-      "imageUrl": ""
-    },
-    {
-      "category": "Deporte",
-      "title": "Coria clausura los cursos de Aquazumba 2026 con una gran fiesta de deporte, música y diversión - Ayuntamiento de Coria",
-      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNdmtzSzVXWWRXcmxjN19OWTRyMFJwckVlS1drbmIxY3FZYVItVHBLZWhWbDExb1lfSzN5QlgxSlhoOWEtNGxrM05oU0UxRmhPNjl4RV9DWUlFT1NLSXdHSTZ5UWhJTGhpOWFnNVFnYWgxY2liLVdPQkZmandwbk9GcHYxYVVheDgtQmpQa0M1MDA1Unp4Yng2RFBNOVhRd1VwNUstX3d4bnhETVZTQUpfcTRtYVdndDJtSVRDdHpBRDcxalZOeDI4clBkczhNOUYtcWNuSUlNYnlzRHJZWFIw?oc=5",
-      "source": "Ayuntamiento de Coria",
-      "pubDate": "Fri, 21 Aug 2026 10:32:04 GMT",
+      "title": "#Delicias | Capacitan a personal de Seguridad Publica con prácticas de rescate acuático - AR Noticias",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBNOW1la01XSTFrdE9YSjJPcElMNWNqdkpyVFhTYldNOW5TVzZHaEJCbng0TGE0b1U5TjRZaF9iVFpqcVhfc1MwWTdUUQ?oc=5",
+      "source": "AR Noticias",
+      "pubDate": "Fri, 21 Aug 2026 15:59:30 GMT",
       "imageUrl": ""
     }
   ]
