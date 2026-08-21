@@ -1,101 +1,101 @@
 {
-  "updatedAt": "2026-08-20T18:38:28.880Z",
+  "updatedAt": "2026-08-21T01:17:45.012Z",
   "hoursWindow": 168,
   "items": [
     {
-      "category": "Deporte",
-      "title": "Cedeira (A Coruña) reúne este domingo a más de 140 nadadores en una prueba de natación en aguas abiertas - El Español",
-      "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOSEZCSTJNc3h3cVVYRHFhWm9yUnI4RDlnR0Z2WWJpZGtScV8zYlJ5c1cwZ2ZHamV4MjBGbGtXcHFUYnZ3YUxyY3JoUzZQOGhHQ0hYX2ZTLWJKRHdmQlNCXzVGRUJOMzQ3d3JKWDNtdVQ1Sk9aVGh1LWlrQjgxOUFGUEtrSl9sRVFZNi01ZW9pa0F5WUFCb3F0enlmczlyR3JQYjU5d0o0RGN6R1haaVRTeGFEWkNoQUw3SlE0ZlR5dnF0NGVfcnVtTXNSbFdjRnN6TFB1bngxdWZ6SVlxbGlkdHhlekF1aXpWN1RDLWF6MNIB9AFBVV95cUxPTVd0a1JBNUdqNVNqNDN6dWRFeFlQcG4xbDAyYXJFeTNVZmVJbTJxUTFqMWpGby1MTEptZjd4enBPSWtPNjJMX3piOWp3Y01kM1BlTndIYVptZXFuYjAxZ0ZOeVhBSU0tSHpsSEg2dC1SVzJUVWp3Qy1LQTI3V3UwTVYwNHZPMlZIMW01a3ZpMFQwOUdHVGhsbDFSNXM4RTJGYnNaRklBTXNuc2VtajNNMGtEWER2SWh4UXpNRTk0MS1tSGF0M0FTOG5XbzBwUkZ3UUZ2ZFlKS3lIY2d0UFFQMHRRZVp2VHJiRkU1WThYakc1UV9R?oc=5",
-      "source": "El Español",
-      "pubDate": "Thu, 20 Aug 2026 18:00:49 GMT",
-      "imageUrl": ""
-    },
-    {
-      "category": "Deporte",
-      "title": "Noticias del día 20 de Agosto de 2026 - Deportes de la Isla",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9JY3JYci1NNi16R2ZUMXV4N2JZYzVVdTRhU2kwY3Z1OURnRGhwdkkyYUtCWF9ZNHJXTDBsaUFKVThrdHBBVVM3YVZjbDZ0ZElycXFrcHhfeDhpMUY3WXZCckVzMA?oc=5",
-      "source": "Deportes de la Isla",
-      "pubDate": "Thu, 20 Aug 2026 17:35:00 GMT",
-      "imageUrl": ""
-    },
-    {
-      "category": "Deporte",
-      "title": "España rompe la sequía en el último suspiro de los Europeos de natación en París - GNDiario",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOeWIyVzlWcVdvdHFwUG5XZndqYUl4SjVVeWFTSVdDRGk1cG5kY2dpZ2JOR2hEeEJFcWNmNHJySUlGYk5OOFFkTk11OGRNcVBCVzFXc1dXTGNoU1lCcjRteXJMaGpZcjJfYm95SjY1N0dGcFVxRWFveHlld25kaXJqSWp5dU5hS3JobU9ycDR0WQ?oc=5",
-      "source": "GNDiario",
-      "pubDate": "Thu, 20 Aug 2026 17:30:00 GMT",
-      "imageUrl": ""
-    },
-    {
-      "category": "Deporte",
-      "title": "Natación, concursos, humor y un tributo a Queen para este viernes de Feria - Siete Días Jumilla",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOVjU0aTVNTzFLZWg3Y051czg5bUlJQWJkX2VlS3RFSjF2Z05Kc0llYk9iT0djV1ItS2h2Vkw3WEN6SkhMMjlTNVBUZFFHT05IRjY0OUwzaV9wWjVtNzU0V1d6ZGZvcE9lR0Z2VUgzQUh5ZWRMMUc0Mmh5R0lyYkVHNUItcjU4X09MdGg0WDQwOWZlSE9vd3AyMFdRdW5yZWJnbFow?oc=5",
-      "source": "Siete Días Jumilla",
-      "pubDate": "Thu, 20 Aug 2026 17:03:26 GMT",
-      "imageUrl": ""
-    },
-    {
-      "category": "Deporte",
-      "title": "La fiscalidad del esfuerzo: así se une el deporte extremo y la optimización tributaria corporativa - Expansión",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE55aHluQkZNc2lWLWJkSXZRSmZiT3JDV2tZUjlxWUR2SHpnbkdCYXByUEk5dE9Tc0VMTW4yTnVGLUgzMkFhZkp6cF9zejFBSFVERVNCa3BVdy1feGhhSGY1dTdKWWNiUjhNNE93Yktyd0RGd3RIMVFCV3RQRzVKQdIBfkFVX3lxTE5LVUxBTzBUUUZ6S1lENkRMTkVaelB6dGNIMG01VTYweE9YU1BDQmdHaF8zNHFhZ2MzU2l0Y3dpQ3ZxWmhLQkhuYWRBd0hvOTdtQWZkMHppQnhQa1lKdTE1UzV0LUUxNlA1elNkWUc3RGRZV3R2U3k2NFluSFZ6Zw?oc=5",
-      "source": "Expansión",
-      "pubDate": "Thu, 20 Aug 2026 16:47:27 GMT",
-      "imageUrl": ""
-    },
-    {
-      "category": "Deporte",
-      "title": "Foment lamenta la muerte de Josep Cusí y resalta su unión con la economía y el deporte - Crónica Global",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQbDN5V2NnM3E0U3F2MFpoNWNLeGp5dEkybzBHcWJaVUQ1eHhBNkZlbWI1XzlfTE1xbmNIeEJCQjNteUNmOU5VeC1NLWxEeHlMNFlpcFhqOHF0NnR4VUt3ZGh3OWhJVWh1UXJkVVpLaVRab1V6YzZEYlJ1bDlfcVlJLXJjOUV0TU5RamVXTUdWN1VxTzdPakNXbjVldktzcUtsV3dIdFg3TEh5QmR4cUtyNXR0VDFQWGlGd0JnNDc0QnZlQVHSAcgBQVVfeXFMT084dnZvWU1mTHBDWkpZSjJJQ01tY284VGZMUXJvMV9fdEZWVHBEQkhuQWYwR1ZEUEVlRDZqNUktVWcyS01TLTZTM1dYQThvSnpJbndKNHZlN3NHWDlWXzc4eWtQNURxTGE4MWFITnlDa0xTSEFMY0EtSGdUZ2hUVTJPWnExMWM0T3NQMXd1RUJTNjVsZnMzYllWbVYzOEdzUHplbWkzaVNQMFJUZDhqSG9sd3NKYkFUNDYycnh5U3ZVRm5MSWNpNVI?oc=5",
-      "source": "Crónica Global",
-      "pubDate": "Thu, 20 Aug 2026 16:32:01 GMT",
-      "imageUrl": ""
-    },
-    {
-      "category": "Deporte",
-      "title": "Cartagena ya trabaja para atraer eventos nacionales del deporte base de gimnasia y baloncesto - Murcia Plaza",
-      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPTk1saXdtYlZ3VzZpaGVEMC0wa2hnUjA1eXVfZ0JmdzZFZzI4eEp5ZDVFTTVxYnNFcHZZRm8xdkVKMlB6RXBuQTJTanVOdXJJT3JzZm5XSzA1d0pFcmpGclBUNXlzWWZFcHR3NFEwaUhzSno4d010S2JaMTQ1dVZCSEs4b2VVU0Q0YUtRSU9jMmVReU9BNzBONHpSczlOMWM5Yk93N2sxQ0NhY3JZQUdIaGNJWVRfRjhXX0h6RTdTeEROZVlsTjVCZlhFLW9LQnJFblY4NEZR?oc=5",
-      "source": "Murcia Plaza",
-      "pubDate": "Thu, 20 Aug 2026 16:19:34 GMT",
-      "imageUrl": ""
-    },
-    {
-      "category": "Deporte",
-      "title": "Palma recoge el testigo para acoger en 2028 el XIX del Congreso Europeo de Psicología del Deporte - Salud Ediciones",
-      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQanhLalJoY0hVSjZwYzRCVVUtekhhSzhydzJhT0RyRXZoc1R6VTFHXzVPbkNtcV96QjhMem1kc1lzUms3eHdpYkl0M3dYQUdBcURFRzQyRG9pZ24xYzJ2aG9DcEhsaWxkZWtPNXFEUm94eEp2UVBrVzNuYXlWZDYwZnpnM1JYa2JVY21vMUpUZVJvdE5HbjZoUVpXMkYzR19VMDUwRGljOUZDekNVb0JTcmc3NC1DY3FSTDMyZzQ5N2VzWXI3QjVXeDg1c0pwWEVaVVY1UXQ4MA?oc=5",
-      "source": "Salud Ediciones",
-      "pubDate": "Thu, 20 Aug 2026 16:11:15 GMT",
-      "imageUrl": ""
-    },
-    {
       "category": "Socorrismo",
-      "title": "Reckless youths at Playa Jardín: lifeguard intervenes - La Voz Canaria",
-      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPQzJ6R1VhTE9aaERJZVR5ZnZBZU1CV2c3YlZqUGhpc3Q5WHpLcG8xWjRybE54Q0lmaGhVMER5TUpGRGV5dkFlSFh1SGRBOVNJQWxLZnh1RzJXMUE5NVExcFVqdFFpaHhPblcydk9MN1dWc3VJOGhrWXROYWlxOHc0NU9nYkhlX2JoMnVGLW1sNVFQSjVneDU2dHM0eVJuVkJJUmYxRDl5MTA4V1laUGVrMllqMkFESVJqSnFKMGlkQU05NEZkVnNuRmliUlJYdw?oc=5",
-      "source": "La Voz Canaria",
-      "pubDate": "Thu, 20 Aug 2026 16:00:32 GMT",
+      "title": "Taller de Primeros Auxilios, Socorrismo y Buceo - Ayuntamiento de Moralzarzal",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1KTUV6d2F4LWV5VzNieEpBT3h5MU9nRnhiaFRLdEZ0TVlNczN2YVAzeVBIVGVlT1FCWjZzNWVIRU5nU0dBSnpRdUNHYmtwbU9KVzZCNWNoMzhOUjFpZlZRcUZiSWstd1ZXT19NSXlB?oc=5",
+      "source": "Ayuntamiento de Moralzarzal",
+      "pubDate": "Fri, 21 Aug 2026 01:06:49 GMT",
       "imageUrl": ""
     },
     {
       "category": "Deporte",
-      "title": "Estos son los caballos más exitosos en el deporte ecuestre - DW.com",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOb3o3NEdOQVJwMnNDeDRMbWg0YWQ1a2U4Vno0anhoUHN0N2tWM2ZmVWd5TFR5R1Q0SkNMdmNvX296OTRzR3pTUXlFRndRc1pjci1rWG5pNUNtcWNKRXRkQTA5U090Sk8zTVhKbHZtVVpSaDNDSUd1QVBnVjhIOXBVeGllQlRaaWxkTDJPRS1RZ01SMkVWaEVwbEFVbFU?oc=5",
-      "source": "DW.com",
-      "pubDate": "Thu, 20 Aug 2026 15:43:12 GMT",
+      "title": "Las universidades en EE. UU. crean “distritos de entretenimiento” y nuevos negocios para sostener el deporte universitario - Infobae",
+      "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQMWdNOG1CeFhuMmZwaklJU3JOZzk0S3NrVktjRVVmMkQwSE04WmlnNkxabGV3SFlPUkVmUWE0Z25ZMVh4T3k1UUsxWXdQRFZjZkwzNkhDY2xNdUFCNnJ2Sl95c2tleGZxUGoxdG1hSDVPbVNSYmsydTFGN0lRcGJRbUJPU2J2LUdLWjl2SXdKcUR2b1IteHdxaElKY3BabjdReVFrSFJiclljajk0MXZ1T2VzMGVueXFNMU92SHJhZUN2YUp4dnc1cmdWdFA3SXlJeVZmcDlKRHlocGl2S3dkOTd4SW1OcW1OV2k1clNuX0tGVTNOdjBoUWZlLWk3QdIBmAJBVV95cUxNTVd3cEl0NURKclRxNE9BdV9yejYxQWlCWGo3X09FaVBDMzM5dlRzQW42STVPNFQwcW1zOGZRSHlFWld2SHEyWm5BcmktUnR1RFg2cU5NeGg5aXFadk93RFA5QlB6MmhWaEVtSmpNMGlNSHJxV1NDYzVjdm5sb1UzaVprNkg2S2RMVjZCWGduS0N1S0toc0FJNUk3ZU85UmtiSjR1QzVnMC1mV0w2RDlLeFVvWDlvUHpNMUJRZlNoY3IwcXlUREYtVXNneG5WMDdZdi1FZUJJVW9raTBUMVBDT0hzaVhoQXFlYnB4WmxLeDBGZjBBUTZ6N1ZycVdQRGNhaTBoUmZxY09la0d4Smw0bE9ucE8zRDJO?oc=5",
+      "source": "Infobae",
+      "pubDate": "Fri, 21 Aug 2026 00:51:12 GMT",
       "imageUrl": ""
     },
     {
       "category": "Deporte",
-      "title": "Foment lamenta la muerte de Josep Cusí y resalta su unión con la economía y el deporte - Europa Press",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQcC1BNnJFcGJZeHJoN3JmMFk3eUhnR3RlMHRfSTU4YWNDczZ4YnJmUU9wNkJaSzNaZVotZjBjeXNOMjJ4R2I0NDh4OWFjei01QlJUeFdTLXctNjgySkVIcy1oWDRoVmt0Ym5uOHZpQldmWlJRa2tyRnE3ck90NGM5SnVoWXNBYUxvYXhfVFQtSzQ4bEJRS1pkX3I1ZjBWZFNZeWoxQzBRRDRGekJJUUVxVXR0UjJqR0dUWEpucE9yTjBrZ000Zmtr?oc=5",
-      "source": "Europa Press",
-      "pubDate": "Thu, 20 Aug 2026 15:33:47 GMT",
+      "title": "Unos 800 deportistas disputan este fin de semana en Mérida los Campeonatos de España, Ibérico e Inclusivo de Triatlón - Onda Cero",
+      "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxQQXQ2S19jSlB6UjAyZTh5cnpoNGxmdUJhY2JSdlJ4SHdkYW9kZnJUendlOE84aHBXQ1plbU52VUxtUHd5WnRHaF9iYkZRRV93SzRrZHljb09MSDk4VGVsbWl3Skw1Q05KRFRLcmlnVXFHRU1iWEVhdUJjQ3FlNDJROGVzYjFsZDREVGVyZ1NSb190RlozZGc0UEc5ZzNnQWRjWE9zX3dWdnhtQ0NwbXd6b1lLNXdSaDFZSEoxVllKSzM2NHdqeVdzdDFQQUdzWHd6MF91RDI1Ykp3djBMMzFIaVg0bzlzTzFEcjZOUnQ4QmlJaHdWMEd3SkZGTU9LZDBrU1FRYWFjWDVud2pvcTFQY1I0b9IBkwJBVV95cUxNbXNKajJCcjlGWFlNQmJUVzI3WWh2T0xxOGcxSjkxRjVlNXhQaUVlYUJMSmRpTDZxbGltQmRCNHo3MmZHTkVUVVl3VnAwbHJZMUlleTBTNkxSYW00S1BRclpTYkNKRHdnLXBsbnAwS2Nla2N5Vm0wR0JqTDFNeGpHLWllU0FmN05oa19BWjVtME8wUGlfclJWR1RRYkt2VDVXdk5yT2FFTkE4bWUwcFN1RHF3REdGZE9aRTJ6SnREV19Tcl83Q2dyNlByNkc2VU5Xemt6SFhzWmhrTVhzdGIyRmpxc1ViVHEwNzhvQUJPYnpEOC1QeVRYeHh5anZqcTRMRV80OUhfVXVpTTVrbmlfMmJzQQ?oc=5",
+      "source": "Onda Cero",
+      "pubDate": "Fri, 21 Aug 2026 00:48:41 GMT",
       "imageUrl": ""
     },
     {
       "category": "Deporte",
-      "title": "800 deportistas convertirán a Mérida en la capital nacional del triatlón - El Periódico Extremadura",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQYzZ5aVRXMEZvZnVPdFpkN2haSnVBUXUwUWVNYWh6b3hBU2NMNG9TWXRGOVBWTHg4Q01qWGJuRmdxQmVudzJkMVF4cUlZZTFlLUpyZEl4eWxOb1dONDFUT25lRk04V25zTkVadk5aam9GT2ZScUlCbU9sdkIwMEdkekR0YzRoQnRuNm81ZW9BTEtJNzZXc3lKdVZvaE5lLWNvVDRQZnlTQU9NU2E0aTYzRXI4TnVGaVHSAbwBQVVfeXFMUHo2N1pkR1NzOWxESjREdDZEWDg3YmN5WVlDQTJTSEpyOTMtQnJrbFRQbWdLQ2Q1ZTM1UktZdWdUemtwUnFJblBvYzFvLWx3SXJFS2R2Q3hxbEtKeUdUb1d6VzJHUVhDbzFaMEF0blhfUU9zdG9XNjZSNU15WUxNLWltSDFaUTNIdzlmRWJVZ1JZYkp3Y2dXYVNUeENqaVFlSFM2dWJ3ekVXV1kwRXVlMTdIRXp6NWhpNU04ZzU?oc=5",
-      "source": "El Periódico Extremadura",
-      "pubDate": "Thu, 20 Aug 2026 15:32:41 GMT",
+      "title": "Catherine Fautrier, embajadora de Mónaco en España: “Podemos transmitir valores con el deporte” - Diario AS",
+      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOSEhOU2dJMlN5dE9QVWJxOVJGMWlpaHAyLWhCWjB1QlZTNkdKY3owUWlqemgzQVRrUElTZDFXYkFXdGM4SUstZ2dnWVNKc1h4RFBXc0VqWTZJdGx3ajMtNDhSa2pGZGJKT3Z4WHE0aXpGYlIyS1UyUHFpaDhKazc3alBjRDlPR3dvd3VqbXV3ZEtpaEw5NTFSVk1PR1gzX180Rlp1RTBMMXlRSzQ3UFNKTE1BNzBGVkRLX0ZxUnl2NjlMSVRnVV9jVGZTTmZ4NmNjeDl6OWIzY9IB6wFBVV95cUxPOHNXUFZkcklqX1o0TnhKSGxuajZEZ1F0RTI0aXctVmJwbkFWOTI1YkhvTGtmTURDZ014ck40VElwbFpRNkN5eGhTQ1dhUHRIWkN2ZGJwMmU1N0RGVm9VQ0ltSWVtX294eHBWc25oTEFQdE9DTXRVYTRXUzB3eE1XOVBJT0d3T3NXT21QNlpPMWE1REdUaElZMEZBMzQwS2pMRi1sYVhrRHN6ZlNobkVmRTN1N0FGN2lOUFFaSWdieE4yaTltUExXTzVaWWZWcjNkd096Q2wzWml3Wmx3Rjlxc2lxTGNkVEVBbmRZ?oc=5",
+      "source": "Diario AS",
+      "pubDate": "Thu, 20 Aug 2026 23:46:23 GMT",
+      "imageUrl": ""
+    },
+    {
+      "category": "Deporte",
+      "title": "LaLiga, líder en valor de mercado - Expansión",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNcW50OEVNVkJHZGFuWjJ5djhTck9Gc3ozU1ZkekUwa2dWRC1zSVFUZzlkckRORzZkNWNkd1ppTW5QVlhLd1dFUEwyRC1jNy1kd3FHblExWW9Ub3JMWWhXT0F5cHg5b0lrZlNxZDdmVXU4Zk1yUDhHMHV6NVZlOW1iY0VwbndKQkRiWVEyQlhqeHdBR3R5bUdDeNIBmAFBVV95cUxOWVRhcm5XX1VIb1dwTDBYdE5oNkZJSjd0WjdIUlhyRUgwOHU3dFJnMWx1MncxdWlhZzZOLXJnanJqMkxuNzFKZVhqOXBIQWxmV3ozenVGX0VFN1BEV0VnQ0dvX1NaTVh2OW0yczk0ZnJLZVEwSGI3djVEVmcyLTNoWklvOFBUYXVodHJHeUdUenhLZnFMekpsag?oc=5",
+      "source": "Expansión",
+      "pubDate": "Thu, 20 Aug 2026 22:58:00 GMT",
+      "imageUrl": ""
+    },
+    {
+      "category": "Deporte",
+      "title": "Hyrox, Deka, Athx, Hyatlón... el boom de las pruebas híbridas que mezclan running y crossfit: \"Es muy instagrameable\" - El Mundo",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNZC1kR3N4MTVqRUxWeDBUc1VmcGs0TWJvMklvU2dyUy1sRkpZSVRicWxkOWhHUjV0RklmR3R6akZJeFRrTERHRTlpSkF4OUhTYTU5LVl3RnN3SUNHQVM2Sm4tYWtKNTlGM2NXdDB3WFFzc0h0ZVVaT0t0Y3VLUTIxaTZ2cFk1Njd6UjFwaNIBjAFBVV95cUxOTWNncW00RVhST2s3ekh3Qmw2SHdTWFVCUGJNSlNfcDBoWFVSZmppRExwSEtJYnh1dmV1LVVNQzdnYXBCVjNCRG9OR0NBOFJZM0t2YmJLMF92cktiMEpmODRFVzhHOExCRTRubC1zQV9HWlFJZlVDQ1NCT183ZzB4aENjT2dGa0hfWHZPZg?oc=5",
+      "source": "El Mundo",
+      "pubDate": "Thu, 20 Aug 2026 22:53:00 GMT",
+      "imageUrl": ""
+    },
+    {
+      "category": "Deporte",
+      "title": "Fabián Leguizamón: resiliencia y superación a través del deporte como bandera - 617 News",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOYnEteGVmdk5odzNGVmlEZlItM3BVemhQN3pEbmxva0lrZHJPdUtrem5lcnBFVUJQakdxZnUxZGJ1MEdhNGZlY0J2TWNIeHd5VVRqTm51XzZZZ0lnS2RpM0V2YUM5aGFLREc0bUZtQjJHSFcwZVJHVVkzYnlUdWFsNXBDQkg4RmxCeUx1aTJhVmpCWFJ3dmNvS3lB?oc=5",
+      "source": "617 News",
+      "pubDate": "Thu, 20 Aug 2026 22:34:56 GMT",
+      "imageUrl": ""
+    },
+    {
+      "category": "Deporte",
+      "title": "Pregón San Julián - El Deporte Conquense",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5SVHRtTE9OT1p5SHhrWVpKT2RLN0gyeFUwbVQ0N2lvMFhyTFkyRktiMzU3aWx1TlZKang2ek5WTTdNXzNNaGR3Nnp5aDBfa2RjaFZKX2ZfZzFFNnlzYkZxLTdRcXg3RHRxU1dTOA?oc=5",
+      "source": "El Deporte Conquense",
+      "pubDate": "Thu, 20 Aug 2026 20:53:20 GMT",
+      "imageUrl": ""
+    },
+    {
+      "category": "Deporte",
+      "title": "Irantzu García, la doctora que fue profesional del curling: “La disciplina del deporte me hizo sacar plaza MIR en un mes” - consalud.es",
+      "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNM2U0Z2FqaDlNRmhHaUNuV3hYTnJodVVCREdtemk3U3JzaklZcl9PM0NDSHdRRkM0bUpFbTkxc2Yxb1hjSy1nOEpnQndCRURYMVliNUdOdGpuYm5BN1k2bU9EajJZVW9NQmRPdl9GRnhzeGtoMjg0M01idTkzc3BBQkJNQW56d3NVSzJiYXRSRF9nb2ZkZFJ0c1ZIX3FGcUxvSEdUbkNlbV81OHJXcWhMa3ZKdGlYN0ZzcVVvOWRLN1d5M2V4X1NHdjhaSVdsZ0NfM1NLRlVYMWYxMzN2eEU1eUlhVWZqZTRwd1IzWFlITnhxT3R3NC16VTBNRG5Jdw?oc=5",
+      "source": "consalud.es",
+      "pubDate": "Thu, 20 Aug 2026 20:30:00 GMT",
+      "imageUrl": ""
+    },
+    {
+      "category": "Deporte",
+      "title": "Masculinidad frágil, la razón del rechazo a las mujeres en el deporte: activista pide sancionar dichos misóginos contra futbolistas - Infobae",
+      "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNSXhiQVl1UHZtbkJSRlhFLUsxVHNTVzBoWnVNWnpibWJNcXlaaGgxQ0REc2kzRmY4N0RCU3lSR0s2bVEyajBOUzdiWlhOcGJRWFQ3dGFxcWdUNmVXWnJzMFAxc09tc29iRWZuSU9sYktWdFctcTJQb1ZOTU95SXBNTDM2WnhOT1JUWnhQS0hvZEpmU0JHT2FMVXE5VWNHTjd4V3BZNVVYLUJWSmlDWDZtYWNSZXp0MDNyeDFpdXRHZGd4WHhfeVQ2M0VsZnpsV3FOQmJsaHlCcVZ0Z2hQLTNuTkFLa3ZndWU2ZG5HVUZRaGp1RGFHVFg2b01uT1AtVXp3N3fSAZwCQVVfeXFMTThoelVNclBTWVYxRnVWSzc3MUVJU2Z5aG1mMDFnLUlvV09PRzZ2OU41TzdvRTh2ZGJHNzItMTJaajBqcnNCN0hwbm9UTXpHX0RIclNkYk82X1Q5cFJOT242bzFaNHpUNFZ1dy1HNUhEQ0tTZzQ2RE1TWmlBZWtTY3A2dXpfQmVRSXdqLTQ2dHpwbFM1d19temdaZ2s3ZC1BR1ZCUWRVVTFjRG5tZWNzMmpBUW5FV0pfM3dOd3ktZGN3N083VzBsWi1EeUV5VlpaYW9lZDhrY1V1UHdDTTVUVUVWRTd3YmRLcHVMREtlTHU5V0VVX0hMenJHem5lMnFyblk0SkJDbGRJT1NaQVJtX2ZDRDBGTWV2OGdXV0g?oc=5",
+      "source": "Infobae",
+      "pubDate": "Thu, 20 Aug 2026 19:45:03 GMT",
+      "imageUrl": ""
+    },
+    {
+      "category": "Deporte",
+      "title": "Utrera celebrará el XXIII Trofeo Ciudad de Utrera de natación el 30 de agosto - www.utreraweb.com",
+      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQYlpoWGRXQTltLTBMUEkyaFF1dVNaWTZoUmlkMzFYVVF1a2JNQ1RkNjEyR0dHMzFkdkphZWJxN0RsNWNHQTBVNzM5WGNRaDlWUmpKUnBwNWZySnl1RGx0MENJQkkyUGp1ZENXYzdZeE5FMmFxZnVpa3NWdFVkSTc3U0Fha1dCbS1TN2I1a2RUN2FiR2pFMm9xM3ItdEw1VHhOUHJYX3pGZWdxbkNjVkFpVkV2aXZ0ZnhVUWxMdVZXTUdYeldoVGlvaDZQMUhxRWgyTzdfX0NXVDI1VzA?oc=5",
+      "source": "www.utreraweb.com",
+      "pubDate": "Thu, 20 Aug 2026 19:23:46 GMT",
+      "imageUrl": ""
+    },
+    {
+      "category": "Deporte",
+      "title": "La grabaron haciendo deporte estando de baja por ansiedad y la despidieron: el tribunal obliga a pagarle 13.403 euros - Tododisca",
+      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOMzVyOGROWTB0OWxPYmNVZlpGQlFnV3piV2ZyWWw4QmxBR3oyVnVpWnpycjM4N09INERKRXhBZWNKNjFDdWV6OFpWVWpzQVJyMUNpZUQ3a0w3Ry1qeU5UOERVRENaZGIzU2E4MzVGU2k5a2FTZGhES0tjSHRNcVVOcDdHMnhOTlVQTlU2U0s0QV9zUExaZ1NMSkR6VVlyLXBtaGxPVENfV2xBcWxZaUktb05yZUVpdkVGWGdIVDJ3eFh6aTZUdjZhN013amV6V0JxWFVlVWtBX2pkV3A3TXpTc1RYOVNIdw?oc=5",
+      "source": "Tododisca",
+      "pubDate": "Thu, 20 Aug 2026 19:00:00 GMT",
       "imageUrl": ""
     }
   ]
