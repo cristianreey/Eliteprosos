@@ -1,21 +1,69 @@
 {
-  "updatedAt": "2026-08-22T01:13:24.031Z",
+  "updatedAt": "2026-08-22T06:39:12.398Z",
   "hoursWindow": 168,
   "items": [
+    {
+      "category": "Deporte",
+      "title": "Los beneficios del deporte acuático inclusivo en las personas con discapacidad: \"En el agua se desenvuelven con más autonomía\" - 20Minutos",
+      "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQdmU0X2NZNFgzN0hva1ctZXF4dlptWV9nVmtfT3ZZZUxnbW40MF9GTVVHT2l4bDQxWTVxY09Kb3pmOGdSUDRJUkNUNW1Zc1NSRmJZV1dfT19FS2JaQml6Vjg1WkRCcVBoamU1Q0VmWlkwazhXQnVSbVBJQTlrU1lxUEN0NHBQOXpYWUIwNVluX2Jsa0JraXZyaGtCc0FHaUZSallOSUpxaFkyTnk3QWtseS16QVJRaUtMS0RrLXQ3dmkwOGZvU3ZKZmZEUjB3cTBsbWpMOEJjaHgzSlJvcFhMQVYycVJXOWVlSXpNY1N5cw?oc=5",
+      "source": "20Minutos",
+      "pubDate": "Sat, 22 Aug 2026 06:25:01 GMT",
+      "imageUrl": ""
+    },
+    {
+      "category": "Deporte",
+      "title": "Por qué el deporte vale cada vez más - El Colombiano",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNT0hQWUR2VHZHTmNhd3VpNDQ5eHpFbW9SbEZ6ZE9qUzBQeWdNYm1TUzRkdTlUU0xiVURKQWh5eUlKQkprUUVzeHFfR0pYVC0xb0ROZXp6SGJXU0dBQ1FoVVdRbVlIOW1SVk05S2l5WHdsT1Bod21mYlVSZDV6QlBQb1ZJUW9qbjYzZmkwYWNyZGR5YnVWSmctU3lZakk?oc=5",
+      "source": "El Colombiano",
+      "pubDate": "Sat, 22 Aug 2026 05:01:49 GMT",
+      "imageUrl": ""
+    },
+    {
+      "category": "Deporte",
+      "title": "Javier Guillén: “Pogacar es la referencia del deporte a nivel mundial” - El Periódico",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQdmNZWW9LdW5XUC1hNFB2a3IyeEgzZHRPMU5oMWNqVEJ3SnBwSTFuODMtdjA1M21BVFJIN3Y5YmlHdndGd2k5bDhKajEwejVDLWZvYUEtaWZ5VDJESjAzS3gzRGVSS1lLcUR4LUVZNTZzcTd1NVJLa3lGeGsyY2hndFk3LTNPalhUN2RCdVN5VmVCeHRDdVVYdXlkd1VzSWVoQlgxMlZJRjdEbHRwQkJCZ0Y1WTVybjZvNzhXVlpmY0dqa1F6LXfSAcYBQVVfeXFMUFFFaFBRTFZZb2RfZ0tqdW9zQ2UybmhvR1JJR1BlVVdDb2EzVzVCek1ZT09WTExGZUFrRmw2Vi1icUxRTjRHV0czMnVMV3Z4ekh4MjdFTVQxLXpMbXhXUEd3MHJBR2FfVFlIYUNSekJmR2MyRDVMTXFtcXlHYThCSnRKX29qRkk3Vlg2MmlBb3pONFRoQ2VyclF6NzIyUDRLeVFvNTFlc2h2R2xyME55RXdnMHFKd0tfdUtJbHZjenZWYk9teW13?oc=5",
+      "source": "El Periódico",
+      "pubDate": "Sat, 22 Aug 2026 05:01:08 GMT",
+      "imageUrl": ""
+    },
+    {
+      "category": "Deporte",
+      "title": "El deporte gana terreno en Cádiz: andar, correr e ir al gimnasio, las actividades preferidas de los gaditanos - Diario de Cádiz",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxORTNGbzVVSHROamRocTlObzRCSDFLVzE0S0theVZUMnJVX2luRUNLT2N3c1cyUUxhVWttNlVpNXNXSktsZTlRMGoxMVpCU0NRTTc0dzI5WEMxaTRqX1pPMERJaTAzZWVEUTFTSGVMN1VueGU3aF8xb2JZSWgtQ1puVGVsR3pVZDVSYWstYkVn0gGTAUFVX3lxTE1DVW5sNzNUcHZ3b3dnSmctUWF4M3pMWE5HTHpnSUZjMUNnaHJQTjg1Y1AxblRCaGdHaXVtakVHaUF6UFpnU1lhSjdxWDA2YVdENEdubkhsbDQxQ1htdlFDRklNNEh1ZU44c2xDQ29YME9COU5MbVRfMFRWVHg2Tm5pdktvUHFCNWRjd3lXU2JFcDBpcw?oc=5",
+      "source": "Diario de Cádiz",
+      "pubDate": "Sat, 22 Aug 2026 05:00:39 GMT",
+      "imageUrl": ""
+    },
+    {
+      "category": "Deporte",
+      "title": "O Parrote, un escenario para el ocio, deporte y esparcimiento - La Voz de Galicia",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNUUxmX19lRW1lTVczV1htXzV2SDNmVktUcGluMnM1aWVIWVBCV0lRSEhYWnBxRWtNUG8xNmUxY19JNlFvUjFtSFV0Q2xzZTVrX0Qtc3A0TlMxN1ZaQnNiMDFxUWFuSU14clVRQU9QZEtxTTVqWnlScVV0S2wzMERCUHVKWEl6blhyVmllMjJaM1dvUWFSZ29CZTZpS3dhLUhnZFdUWUxsdUpFQ0RndHF0cDZreTlaRE9tOHczNnRueEFZZmFTQjJTenBNMmRsYlpC0gHsAUFVX3lxTFAzVXJDRGFTRjctdkJublBhay0tSDc1azNfbmVSTHVPTk9tbEpWWExJYkxuZmthV2FSeHR0MkYxZ2NvZjRBLVBSTmd1ZWVVVkdLaFpzZngyZmdNNHIxMnktV0pSRzdjS2lxS1RhWGFCVm5iU2hmdEFERFF0RjRJODZDSnpTeGFFMnUwdXdydTltNHN2VjVXemJsSDY1R1NwLURuWkVUWjFHX3hiNmZxM3U4a2RXX1lhYXlodEZaMjJZZTdacHR2MklKbmpRYl9ZLVc1b2dIQWlBR3J4amQ5eU1BanVnVWhTWjE5Z182?oc=5",
+      "source": "La Voz de Galicia",
+      "pubDate": "Sat, 22 Aug 2026 03:00:58 GMT",
+      "imageUrl": ""
+    },
+    {
+      "category": "Deporte",
+      "title": "Entrimo une música y deporte de la mano del vibrante zumba - La Región",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQN3VYU21LVWwzNjI2QXo1X3hwY3ROWlJ2Zm9VbVFDR3BuTWhvQXRQRkZwVWIxOHQtbFZuMlVZNzFhNy1nLUtCRWhOMl8wQkdoUmVKQjlYbnd5LTh1bFVOdV9HSXhLRzZqZlpVN3FELWljUXVHNXZtVkZRRlZRc1Q2TWRNOEZYSzFMZE9qSnoyc1h0ZU4zVnc?oc=5",
+      "source": "La Región",
+      "pubDate": "Sat, 22 Aug 2026 02:31:00 GMT",
+      "imageUrl": ""
+    },
+    {
+      "category": "Deporte",
+      "title": "La película, el libro, el deporte favorito de... Xosé Carlos Caneiro - El Debate",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNdXF4V2JjeWF5Wk1HSEZkcklqTEtmdEFnRk1ib2lCWTNKZEVvMFpSLXB0eWZnNW9raURRQXdXS2dPcnNCejNFNGExZzhGN29MaXI0NFZVTWF3UktuS2NfNDd6cEE3QlRQdUowclRnNzQ1Rlo2VDEwanhJcFFLU2dRb3VSTHg0VmZrRzB3TnZVajE5NERYYXFxMS1YbXVoV3FVeWp2d1pVZ2XSAa4BQVVfeXFMT3FMVDlyMUo5ck9vQVVfcDVUcHFhR0N4a3hET3JtbkJzS1JCY3lCYmhpcFNNRHhVdmk5NklZX1ZwUXY2YTl1SG03UWc4eW9ZMi02OHRoOHNUUTFtb01YbHRhLTlwcEdTYllOVEZoME9XTUQ1TDVIVnZ2a0hGTVZaQUFKUHBLb0ZGbUNkbG9kbUNvQUtVUXEza1NyM0VmWHhPZmRFbTVOOGFEQmtrTUxn?oc=5",
+      "source": "El Debate",
+      "pubDate": "Sat, 22 Aug 2026 02:20:00 GMT",
+      "imageUrl": ""
+    },
     {
       "category": "Deporte",
       "title": "Doble medallista olímpico relata cómo ha cambiado su relación con el deporte tras el éxito mundial - larepublica.net",
       "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPLUpIY1pXMUVobmhkRjB0S1lTVlRjTVZyb3RjYm01TDNmWHYtOEFWaUZ1NUdYejUxcDB0SEhibEdSMVU4V0NxbnYtWjFlTURSTkZ6TFRCbGpZNzlmR1p6b3poQVJPYTBBY2RpMkdfNDh4UGtFbDdfUnhycjkxelQ0eW1zMDFzQUZDTXhhRE1vUjJCdW1RTXladWNPbHZaVWZtVDE2V0FqMi1kRFpQSzhGQklSXy1DdHlGMG5TSkdvcU1yRG52aHdscFF3?oc=5",
       "source": "larepublica.net",
-      "pubDate": "Sat, 22 Aug 2026 00:44:04 GMT",
-      "imageUrl": ""
-    },
-    {
-      "category": "Deporte",
-      "title": "Valladolid presenta la primera edición del I EMEDÉ Triatlón con 405 atletas y una participación de lujo - Ayuntamiento de Valladolid",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPUmJTcGNTWFlRYlV5UlhJYmVrOW1xSlRhZnZRQk1rTjlnWXJhS3NMUVpSNFljTlVDZExXTmVzbE1jWDVMZ1VwU2VqZFI5ZWkxLXlHcVc5S3hZdVVJbzdIQ2dobDhCaG9aY0M3Q0l3WTFLcnROS0pyaWVxS0dxa3M5ZkdFNldZa0h3VkNqRnlOR0FwYXlrNG5BdlFjMXJEUWdQVHdwT2xvclFxQ0ZU?oc=5",
-      "source": "Ayuntamiento de Valladolid",
-      "pubDate": "Fri, 21 Aug 2026 23:29:39 GMT",
+      "pubDate": "Sat, 22 Aug 2026 00:44:13 GMT",
       "imageUrl": ""
     },
     {
@@ -28,10 +76,10 @@
     },
     {
       "category": "Deporte",
-      "title": "Noticias del día 22 de Agosto de 2026 - Deportes de la Isla",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5zM1VvLVVYbDB4Z1NwUVBzS0tkOTRRTjZ6ek96Uy1DbU1aS19NRnljY0l1VWRfX0FESlpaZ2RnSjdSaThRcTIxWVVBS0t3LXpLbUFvaGFQWHBSb0ZKOFlrYVZjQQ?oc=5",
-      "source": "Deportes de la Isla",
-      "pubDate": "Fri, 21 Aug 2026 22:37:00 GMT",
+      "title": "Galería de fotos del viernes día 21 de agosto en el CSN3* CHAS - Ecuestre",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPbG5NSnFEaTQwOXFuNE56b0ZWZGgxdGVVV3N6VTh3a1pnVmFzM3FLWDFmM1JUQ09UZ3pVcDNzSmRkUWpDdGtjdVV3ODdhZlp2R3pDUFRBLXFVSUc4VklmTmNuSGhiZm91YXJ1SFZFbjRPT2Y4TkN4RHpWNHNlbEtIa1p4ZnFEX1RqWTVuUWNDMUQ1LThnNXJMMWJtNzlxVUY1YnA4RklUUQ?oc=5",
+      "source": "Ecuestre",
+      "pubDate": "Fri, 21 Aug 2026 22:40:57 GMT",
       "imageUrl": ""
     },
     {
@@ -48,54 +96,6 @@
       "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQaEhnbk5hSWhzcDZLXzlodmlPQ28wM2Q0SVFxLUhvWURVZ3p5dGlfZ1JfcEZ1VkloSExqTi10YXlmNVdkMEFqMVhBRl94SEFzNTFXbi1EVVFORGZIRUFzUnRhTDlqOVRReDM0WWxNcUphZXJjb0toWVltX3FwODk3SDFjYXBiSC13UlZaWXk2R3BaUmpqRm9PZG5yR19PQnh5S0tiNWFnMHhJQ3dTX2dVemhKakJVQ0llaE5z0gG7AUFVX3lxTE5tOW1ZaXZqOXpqZ2dnZDVjYUxySU5nNHZrN1dGTGtTTTJxLUZ4a3ZsNlNOaC1vbEVtTndrRlNOb2o5Mlp2cUg3bWMzVVM5S0I3Vzh6Mm9pRi1SUDlSOS1EbVJDR25DYVRMcFZnVGZGOVQ0aHJwcHA2cGd4bm1OSS1nSy1MbVFraTJxY2NpVEZ2VEg2aXBkWllrZGNPVFNZT0VDOVUxakpYWVZvSFZ5ektzaW9aYkxXZ1YxNHM?oc=5",
       "source": "MARCA",
       "pubDate": "Fri, 21 Aug 2026 20:51:22 GMT",
-      "imageUrl": ""
-    },
-    {
-      "category": "Deporte",
-      "title": "Estos son los cortes de tráfico en Valladolid este sábado por la celebración del Triatlón EMEDÉ - Tribuna de Valladolid.",
-      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPa3hseVRKbEVqallNS29OTzJEVGt0WXJldndfZkF5M3J0VXZTaUNRYXE5ZFpKbkRqYzN6Y0cxNlZGSDFnVmNjdU94TVpBT0ktTUtKNHMwdWpXczlaMllSUDhZaDh0S1RYd1hwLW44anhvUVVTT1Y2MXJwYTdhcVo1em92ZVB0bEcyMGEtbUNGRmxTWXNSanI2a2twSnlOSGJ4U3NUNmt5aWU5TE1YTkxYSXFtZVdZYmdPbU9IUmJxbmFsQWRXaU80R01wZkNUckJ4SHhWck9SajZaRkZsQmc?oc=5",
-      "source": "Tribuna de Valladolid.",
-      "pubDate": "Fri, 21 Aug 2026 20:30:00 GMT",
-      "imageUrl": ""
-    },
-    {
-      "category": "Deporte",
-      "title": "Ibrahimovic, Ceferin y estrellas del deporte respaldan los juegos juveniles en Split - Infobae",
-      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNUnBqd3VPcmhHRk5XVEc5cXBNbzBLWHhSeWt4S1NvY3pTeWRpV01hcXFReW9WMXltSTdQTkxCLVl0U1I0Sm4ydlVtYnZIUEZHN3FlVjlRelpzZzFKbHpPS2Zpd0lvY2g2TDJ5dEo0OTBUanA4SXk1WnJvbVhPSFJIM1czdGloY0JtMU1KR3pWNlgtWTZTaFAwNjJaUi0yXzJFNzNVVWdTSU1aUmI4Uk5QSlhsVktzdkNCX2JTSWV0OVVXVkZ0c1IyY3MtZGdGMmZ10gHrAUFVX3lxTE1SVlBGZnVkdHBaM0JSUEpna21TenFyLUpkYV8tRmpSOGl4OFNDUUxJVXB0SHBTal9HSEN2c2VlbXVqd1ZpN092LVZPaVgtTS03QnFwZGVLZDZsTmphZ1ZvaDl1bjRuV3FJMFhxMXZMYTNKcGl4eHQ4eEJIRUFURWpqME1rQ1Ixb2RacWI5UjYyRzNYZTFtOUJRV0ZmdXRRSW80VzlYTFlDZWZkQW9mNnNta1ZZajViZVg1bkNxaHJvSEQ1MXgzal9kX0Y3Um9HMm80QkVIVy02MXRCVFVPbHRPa3dQVHNOc2lIZUk?oc=5",
-      "source": "Infobae",
-      "pubDate": "Fri, 21 Aug 2026 20:21:18 GMT",
-      "imageUrl": ""
-    },
-    {
-      "category": "Deporte",
-      "title": "El adiós de Julia Luna, la icónica voz de la natación en TVE: \"Nosotras teníamos nuestros techos de cristal, pero los estamos rompiendo\" - El HuffPost",
-      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOMXZVY3ZPX1VpUTc4LTJoSmNoUjdoY2FmLVNfZjd2bllTY3lzOHVqVnhGRzZRVmpFd0tybE1ha0cxRVZUWVd2cC12ZFk2YlB5WFl6YS1hY1ZLUElzdXphaWxaNjYwXzNMRzdwRm84RlB1TFdwZzlrTHVQUUM5Y1owdmdNUkV2SVdtSlJiV2JkX1RmbW1QR0YzYUlSRjlTME43NHdpT3Q1QUppWnVYUXVHTEpMX0RlOXo1ekNHZHZDVTJHbVlVdWdYU3ZWMVVkY1V3aGhoTGFZb9IB6wFBVV95cUxNU1FSYzBnUGs4Nmh4V2hrNkZjbmtwaERGS1dfcXczTE9DekFIdkV0OGdXTXVIVzAxNElSeXRQSEE0WDh4c0VSNzE2TVp0d2lhYVFpMG5LLVo0dGlRdl9ENWJSTHMza2pOcGUxc2hTX3VQUzFlTVIzRU1OUjgyRURsNjQ1QW9rRmFvcldfNGQ0SExsREtIT1ZrM1prbHBDX3M0MXFvTFY5ZXl4STY4bFhRTXZRWkxIenFHVXVCRkU0R1FnelM1QlU3S28tSFBVeVg5ZUR6TGRtZVliOXhMUjVkUWE1YnljUlo4QWw0?oc=5",
-      "source": "El HuffPost",
-      "pubDate": "Fri, 21 Aug 2026 19:03:44 GMT",
-      "imageUrl": ""
-    },
-    {
-      "category": "Deporte",
-      "title": "El deporte andorrano exhibe su \"buen momento\" en los Juegos del Mediterráneo - Europa Press",
-      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPV3cySmdocW5vZVJwbGFBc1dneGtaNmRiZlh4V3J4WDc1REs3Sk5TUXZWTW5LdzRvN29VenZPcl9YeHBkSlpGTGxWLUF0WmNGVGd2TTlDQllJZUc4bkUtWHRuZC01Uzg1a3RtOGF1bGtTY1E0aE1paWVVQzZJYnQ2X2JUN2VVZVQ3Q0lXa1ZVaERsanhvbWZmTkRkdTcxQnNpdkQ2cmVwOXdXaUJucGJXOXFYbjE3S1RQRk9IWEFWQ2FBWTlKX0ZMNnBjdlloUFBhblE?oc=5",
-      "source": "Europa Press",
-      "pubDate": "Fri, 21 Aug 2026 18:30:36 GMT",
-      "imageUrl": ""
-    },
-    {
-      "category": "Deporte",
-      "title": "Skate, scooter, bmx y otras modalidades de deporte urbano en auge en Almería: estos son los lugares para practicarlas - Ideal",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOMUZocDc5RGV0SjAtYzg5ZHZmRm5MRVdyTjg5cTd6SklPOFVJeWlmbU9tdFYteHVTTFBxR2VzeUtBaEZYNnlUMnh1Rkp1MS1pNThwOXZXNkJHS215WVNVNWloc2h2TXYzbGtBaEJ5R1FvMmo0Vm5lMk9IOVhPdnlwMzg5eXc2ckFISnpBTUtUazVTMGhtSlZMR2oyS3RoeUNGSFYwWDFodjZwU05mT2fSAbMBQVVfeXFMUDBCVGsxRjRhYUxfT3pLTEQxNjZqb2d3OHJpUkdaSXh0aWFBMzNHdTl2amVWMTJNZkVIdzR0WFVDSkdtZV9Ld1lXaV9yM25fRjdOSUgxLTZGS2RiZ2JNT0h4RzNuRXhmaTdOR3FsRy1iTmJMMUNuSWMyTWtzdXB5MHEySHZKUWNNUldCczc4UXhUeE5lNzZSU3doR3pZWXkxTWJkOHhWU1pnbDZuTW9IVW9pVlU?oc=5",
-      "source": "Ideal",
-      "pubDate": "Fri, 21 Aug 2026 18:29:31 GMT",
-      "imageUrl": ""
-    },
-    {
-      "category": "Deporte",
-      "title": "El deporte, un gigante económico en Canarias que genera miles de millones y de empleos - La Voz de Lanzarote",
-      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNMmZ3OG1YeU5NaVBLQWdFUHZvVG1QRF9IZ1pDVUF1MmRENzdzRTJkejBFTWJKWmdWMUJWTmRkbFFTS0IzdFl2amVyaWZnQ19JQUh1Y2I3dW5IMWZ5ZEpGekJJTmJSUWdzNmtUeS16UndWM2FxbWJScnUzM3NYZ2x5U0JiTW1MYy1Gc2lXeDJETUZTX0FVWXIxQ1RMaHI5M24tbWs1RUtibm1OQ3pEZzYtaEpvODdQN0xTZGs3ZUEza19CWEFxcGVMaWRXU3hsSFnSAdQBQVVfeXFMUEVpWWZ0TzdaR0JxeDJNWEZEcFdaMlB3NlZxM0xGdmQwSW1OUXloS0dMNlZabms4bzhxeGU3SWdITnFva0pITkFuQ0Myc0VCajlKNnFSOFJpS3RoRGRGNTNUMFpqdmVTcFRXeWJxYzRNdUV0TWRuOHBfUHhJUkRFcm5vWlQ5Wm14MjdLRFVFTEI5N2RUMTZfczVpcm95WlBuUGVjSXZ6NzZicXJSYXh0QVYwZGZfNFVPdG1rbHRlcTJMSE5jWWFZdUNNZ0YzU0JLaDhOV1U?oc=5",
-      "source": "La Voz de Lanzarote",
-      "pubDate": "Fri, 21 Aug 2026 18:27:10 GMT",
       "imageUrl": ""
     }
   ]
