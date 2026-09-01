@@ -1,7 +1,47 @@
 {
-  "updatedAt": "2026-08-31T22:33:51.966Z",
+  "updatedAt": "2026-09-01T03:55:10.021Z",
   "hoursWindow": 168,
   "items": [
+    {
+      "category": "Deporte",
+      "title": "Libertad de expresión e identidad nacional en el deporte, la opinión de Xoán-Antón Pérez-Lema - El Nacional.cat",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNY3dpd3NsaFRiWlNXUk1qaWs4dHlEY180bDZyUzhPRHVkajNBR0hsU2xHcUx2TVJQTVpucG0zRzYxZzM4ZjRIYjl0U0c2WGV6OUFram1lUXRTVHpfVHBQZDRmdFhGakZaMW1WZHQxaXE3cjZqNzAtSGNJNThEZVBaZW5YRXpOQTZyMkxCcFQ4bldHUTdVTHFpV3ZDZ3BCN3NtRFhZNXRJTXBUSkhpMjg1TTJqRXE3UmpZZ2xtakV2d0Ewbzg?oc=5",
+      "source": "El Nacional.cat",
+      "pubDate": "Tue, 01 Sep 2026 03:30:00 GMT",
+      "imageUrl": ""
+    },
+    {
+      "category": "Deporte",
+      "title": "Paula Amor cierra su etapa en el Club de Natación Ciudad de Oviedo tras 41 años a pie de piscina - La Voz de Asturias",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNWDNxQ1pCZWpPSk9ROEcwSTBVMGoteEpEWTJQOWRxaGlTMHZDM04wUGFZZjNhb0JZaEtSWTRRdlR5cmlHd3llNjYxYU5zNDFlVktPLUI3d01ERHN3YnJjMDhmVkpudHNpS0E2TW1maVR4Z29iS19PTmc4blFUdWd4OHFXMU9SZGJwY2JJU1hWRnRlZ1I1RmdEUU5hT2ZqcWUtTm9id29wdXBqbUtMWEx1a2ppX2dmM3NNbDQ0X0F2QUlhOEJqSTlWMmtBYUhETjJMT2fSAe4BQVVfeXFMUDVtb0VpMi1qaWJFcVZlSEx1cHMyNnU0Y2JaeTZtZUxxWms2aDFsZDd2aHk3TVRLNENDSF91eDUtb25pV3ZYeTFtUFAyY1BjNTVGWUZkSWZpUTJhZldQeG1XaHhUSGNTeE0zRkF3bFRNLW5nc09HY2RGNEFvN2NKdUpYYmtwV1lYU0F6RkFMb3lPRENDVHh1WThYcEFsaTRsUVpQTkZWc0VWSk9ocEE0R2tzVlo5QnpVYlcwUW1vNDNHeWhDS2QwN2J2RHlMWThoNUYtdkFnOFdvaTF0NUdzTmlpTTlSUGNLU1BLUHpLQQ?oc=5",
+      "source": "La Voz de Asturias",
+      "pubDate": "Tue, 01 Sep 2026 03:10:23 GMT",
+      "imageUrl": ""
+    },
+    {
+      "category": "Deporte",
+      "title": "¡El clásico del deporte corporativo está de vuelta! - RRHH Digital",
+      "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxOdlFxSkxleVl3c09veFRVOHJlM0dXTXplRkZFYV9qWGswSEpCcXFpUWVYMDNUV0dVWUhwdDhlNEFlZlZFS1BJU01tRDlvTmlFNFNsNVNGM0J5V1U3dnlBY2ZPRXZvSTNJRkxfdXVBNmx4NXJnM0JHRmpkTXd6YkppMWpQU2I3OEE4ODVMSF9IbUpSYUtsMzlxOGl1cTh6dGhOTHBralZaanVOTlF1TUJHRmlpd2pmQU1nbUlKeHRXbVZ3UWstdWszaURyZ0haYVoybUhjR3o2RlZTV2F3anhaUnJNMWFXRjBoR1RjSnBvZGxfQURMeThZd3FmNmtiNVpGdG50LXNDWnlaSEhaZndVMmh4UQ?oc=5",
+      "source": "RRHH Digital",
+      "pubDate": "Tue, 01 Sep 2026 01:33:37 GMT",
+      "imageUrl": ""
+    },
+    {
+      "category": "Deporte",
+      "title": "El acoso digital contra Jenni Hermoso - IUSPORT",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9tbUdQVU9Sem5feUdRVmpwVjB0dWtxdFd0bTFOZmE3RGZDdTRMbXBKVG51UUZHelB3a1hmekhBOThGazAtc0EyMDdXTUlWWnVMNG50TGR1MGt0a0I5OVJhc3RQWnlreGN1dkhGcXhYZmVHcm03NG9j?oc=5",
+      "source": "IUSPORT",
+      "pubDate": "Tue, 01 Sep 2026 00:49:50 GMT",
+      "imageUrl": ""
+    },
+    {
+      "category": "Deporte",
+      "title": "Fútbol, natación, patinaje y waterpolo se reparten nuevos convenios deportivos para 2026 en Algeciras - Portal de Cádiz",
+      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPYXRiZEFxVzc1TWY0c2xvd2xIYTVoWGV4d09BX0pOMzFrRHpDSGF2SnpVcm1nbUI2bWFaLWdPbzdhZG02S0hDRUQyQ0VvRWlUWFJaX3pQUDByYlRuMlJKeUFjdEtJaDNENzRzaG4yLUVCazRNdGN0QWNkSm1YNlYxWno5Qll4ZWk4X0FiN3ZjVGp3Y1JHVmI5Y1ZaQ1FZckRtZTJFMXlCcllRNlg4UFRJX2F5TGRRb3BWRGMyRDZ2UmVXWG9RSHNvMy1HS3ZhMGRCaEJMeUU5Q09yamVvenFVcHVBTmt3QQ?oc=5",
+      "source": "Portal de Cádiz",
+      "pubDate": "Mon, 31 Aug 2026 23:25:15 GMT",
+      "imageUrl": ""
+    },
     {
       "category": "Deporte",
       "title": "El deporte como herramienta para combatir el 'bullying' - Diario Sur",
@@ -16,6 +56,22 @@
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQckVwTm1DUFoyRHo0QzhzcU5YbFJGN0xfYXhWbGZNRkJtZDhOelhSQ293QVZSZFBydmZ0TUNRRjlSY2ZZVTRkOWtlYWEyTF9CZHhwdUItcDBFNWtrWGR0cWZJVkJUeW9DT2pmd1h6Y0p6UWlTblg4QXVRRkpBTnF6ZlA5ODlLR1pjQm5xSDFn?oc=5",
       "source": "El Mundo",
       "pubDate": "Mon, 31 Aug 2026 22:14:00 GMT",
+      "imageUrl": ""
+    },
+    {
+      "category": "Deporte",
+      "title": "El Club Natación Portuense firma una sobresaliente actuación en la XVII Travesía a Nado de El Puerto, con una destacada participación y excelentes resultados - Ayuntamiento de El Puerto de Santa María",
+      "link": "https://news.google.com/rss/articles/CBMinAJBVV95cUxNenVBRmRJQWpNMGxBTWZzVmo3YkhFeHNvT2k3XzZZSDgyY01meEYzelRuSmY3M29jbWgyd0ZvRV9KdHFzV1hVeWFDcDdfUy1mSXpjcFo1cFFOU2xsdVJOY090MWJOSjBPU3U0c2s0SUdPb1A3VEVuLVhYajhuV2dITkh3WC1mSVh2TjA3dkN4M2RROUs0a2lUVHJlSVpQNzRSd1BwM096b3NmdTUzSEg3eHpSbElMU3pyT3RTRy1pcDIzRXYwMUxwZkY2cDJaOVhlYkJhdGFvcFU4eExDdU5NdHFfS1VPdEdJQktnZHkwejJjSldkSGVVTGc2VThNR0ZyY3FVaUhHdWljNFRyMTlPRTNiNUxkTHBKclM4cQ?oc=5",
+      "source": "Ayuntamiento de El Puerto de Santa María",
+      "pubDate": "Mon, 31 Aug 2026 22:13:47 GMT",
+      "imageUrl": ""
+    },
+    {
+      "category": "Deporte",
+      "title": "El equipo español de triatlón logró la plata en el relevo mixto de los Juegos Mediterráneos - Visibilitas",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPUlFXQXpJXzRBc0xZX2ZRQXJpTkF5SGJlcWRRZk9fbDduNVVoQzIyWHM4dy1TNVdmS2ZUTFU3SzN6djB6a3ZjMUFxWEZKQXNjaDJ3aXYzT1pqQUFneE1ncjZTSEFPaFhtai1MbHdyY2tIWkd3U3ZCVndpa05wLVQ1bktGTlFrY0JZWlR5V19wR1Y4anhyMTlYb19RQ3BVQQ?oc=5",
+      "source": "Visibilitas",
+      "pubDate": "Mon, 31 Aug 2026 21:32:00 GMT",
       "imageUrl": ""
     },
     {
@@ -40,62 +96,6 @@
       "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQaGx4WGhYSDJPNGZkalBOWHpZTlNHcjZCTGlMbDRLQzlPSU9UdkZ2bWRNWnUyUk9TQmFtc1JkOW5fWEhScFYxYU9GcG0yVkk0N3NBcDFpZHVSVjE5VlRqZElIUlJLYlJxclVrNWFaeEhESlQxNGRPQzNzM1NnN2hONV85SVJCR2RIbXY1M2VMUnduaHA3d1NJU2t0U2RGVGVYZXNnTFB1N2JEZ1pfenF0RkoyUGJsU19qYVB4V05yRFN0UQ?oc=5",
       "source": "VigoÉ",
       "pubDate": "Mon, 31 Aug 2026 19:30:07 GMT",
-      "imageUrl": ""
-    },
-    {
-      "category": "Deporte",
-      "title": "Natalia Castro, plata en los Juegos del Mediterráneo - Diario de Pontevedra",
-      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxORG51WFlRVFBKYmk1S1AtZE1PbFZZWGg5UjQtbnd2ZFJCMHhldGcyN2piM2RvMkM4SkZJVjlSRG5sakRKdFFiU1d0aDZ0dUpKMkY5U3pnMWhQcnlFZ1Y5dkVzZHdpQVpJeS1qVlJrdGkxeUdGenNmc2wzQW9QdDZINjZpWkw2OGJmb09BQkl2VTcwUXFfbmxwLWYwbFV3S1JoSHp2ODNYN0hUcG52YUpRMU1rS2pMaThMNDVxc0gyX29qTTFiS0xHS1RDNE9kanN40gHWAUFVX3lxTE5kaXJnM2dVNlVveTdNR0x0emlpTS1SSzVIYldqTzNTdXZubmN6WFFKMkduZ1Zyd082aG9QbUU2WEsySGpuVXBXOGMzY05za0tLVXB5WkZMeTJid0dVUzdyWmlpVEtKbDVaLWhKMWJyODlCWnM2SFdHSFFjY244X3cwLWRIeU92bjlRUGtjdTZ0Z2NiWHlrZm5heWc4TG43SzhxZVlrWWhCUGFsV1dmWk1saDhkalpaeGZlWEFqQWMxelZMU1RHdVNaRDhUMWNGdWtCU3N4S3c?oc=5",
-      "source": "Diario de Pontevedra",
-      "pubDate": "Mon, 31 Aug 2026 19:22:11 GMT",
-      "imageUrl": ""
-    },
-    {
-      "category": "Deporte",
-      "title": "Distrito Joven llena septiembre de deporte, tecnología y aventura en Santa Cruz - Canarias en Pleno",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE40RTBSSHE1MVdOSUhNLWVYNEtCN2d0cm5UY3l5cEs2YW84U3FIeVdMZFNKQkkxTjZKNVhPZUk0MEZwMVJDREZpOGtSbzNIQmNWMEhVa2p1Ukhyd19JZW9XdDF4QWFzRnJsb0E?oc=5",
-      "source": "Canarias en Pleno",
-      "pubDate": "Mon, 31 Aug 2026 18:09:48 GMT",
-      "imageUrl": ""
-    },
-    {
-      "category": "Socorrismo",
-      "title": "PEHUAJÓ FUE SEDE DE UNA CAPACITACIÓN EN RESCATE ACUÁTICO PARA BOMBEROS DE LA REGIÓN CENTRO OESTE - FM Del Sol Pehuajo",
-      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPbnlJVW00N21GQ29tR19oTm0xYm1iZmNCcVlwZ3ZkTW5hU1ZXeXg0UzktX3BBdDU5Y0dTVFRIUUdvQjNqWmVaX0FZaEhpXzFTXzJlX1h6S19XamptaGFnenozR1F4N1lfMGhHM01CSmpyZHctTWUtYWcwOGpiX2JzMFV3V1IzTmFIWHhGYmpTUHRpNmQ4UkVPSHlFaDFKRzdLVUIzdndBdmxEMmVVR0lMcGVJRUdIZzhUbVEzWTVfekVIb3puTnlRTzRNQXNjRVBVQW9CbUFDaVZucmNGY09hejR0aFF5Zw?oc=5",
-      "source": "FM Del Sol Pehuajo",
-      "pubDate": "Mon, 31 Aug 2026 18:00:32 GMT",
-      "imageUrl": ""
-    },
-    {
-      "category": "Deporte",
-      "title": "Triatlón de Pálmaces vence el pulso a los baches y este sábado celebrará su XXXI edición - Objetivo Triatlón",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPWE13Qm1jVXdsc0hVaVVzM081UkIyVU9VNXNYdmh4WGJBcDZodjBnQm0yQkwzZlNPbmUzSF9QLVFWb0lUV05IbEtmTGxYTnRrT2loRmJlQ1Mzekw0REFUaTU2RzkxdjNEdGFWMXdPNXBDcDMzVk96ZDhpMVI3RkdPSFRVM2diaEpiX1djU09tcGZZWUtCOUxJZXA1dW9xMnNQWjc5MTVuYllDeHNVekFCTmhIdkRud2V5Qmc?oc=5",
-      "source": "Objetivo Triatlón",
-      "pubDate": "Mon, 31 Aug 2026 17:31:59 GMT",
-      "imageUrl": ""
-    },
-    {
-      "category": "Deporte",
-      "title": "Infantino sobre Messi: 'Redefinió nuestro hermoso deporte' - ANSA Latina",
-      "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOMWUtWnM1TjBGa2xXNHNKMGVQaXl5TG9pbHNCbDYycENRMkRESFV0SU9rb09YN1ZaNmdrMUx6eWR0eWY5QmVpQWp0Ym5HRE95cmZLZ1I3MXN2MmNyYkJZTnh5VTBXdXFqNFkzU0dyTFRTSmVDLWRLdEluRUQxZXZJaEtCTy1ZeTJjbURLcHVHY0hVRC14ZnNJdU9USkx4MzZCSFljNUFGXzF4ZnhUc2x4T01GQXFjSjQwVkRBTWlnTi1yemRFVXlWMERsNWFfVnRMZlJhWUtOUXhjR0Voa3Q3RklaMWhEUkV4Q0Eydl9YVnlFdGlNZC1UVE9R0gH_AUFVX3lxTE8wMHdLRmRBeXFSZko2ajJQNUE4NVdUWWlxSWktMEdpaHdENGhmNnBOZkZEM01WdEtzWlFxTkN3TngtbFM5aGZxUkstYldGdUV3MlJmQ1psaC0xX2dwekJ4U1J6RURMX2ZDMEo1SlZSS0JtNEtXOUhQWVFtUU1UN3MtYTJ5bkVpaExLSXNtc1lsdjQ0NTJzeWg4TkVFeG5Fcl9Qd0ZQa1dmbTZTWVU4dzk3RVFXckZGUmh6TzBuUnFYdFF5ckhGYS13bHZ3SDZhNE9LcFNrSlo0S3dJeHQ0MkljZXZ3LW9SWWRLQ0xvaVE3VlNKT0ptcVA2R3M3STJiTQ?oc=5",
-      "source": "ANSA Latina",
-      "pubDate": "Mon, 31 Aug 2026 17:31:00 GMT",
-      "imageUrl": ""
-    },
-    {
-      "category": "Deporte",
-      "title": "Almuñécar mete 229.000 euros al deporte: pistas, skate, espeleódromo y piscina recibirán un lavado de cara - Motril Digital",
-      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxONnVVdDI5YUR0RUhZTHVtbzJQMFkxQzRvRTQzN1NlaUo2VHZxR0hucXFMbHFKYWdES2ZPdFJESC1TNXp0aTYwclBybWtWZS12VS1najRJR1JPbUhGZHVGcGRYRG5JRW1xc3BtaThnU2dwSFpGQ2NJQ3pCNThMeWl4TUU3eEpRSG9nNnFfbV9MN3RObTFOTU4xUVFrUnUyMjhFcUR3ckpRRnZlaWUtTXl5TzM5Qy1oWDJub091OF9SREFQcjRISl9QcXhEbDZfU2M?oc=5",
-      "source": "Motril Digital",
-      "pubDate": "Mon, 31 Aug 2026 17:03:39 GMT",
-      "imageUrl": ""
-    },
-    {
-      "category": "Socorrismo",
-      "title": "Razo se convierte esta semana en la capital española del salvamento y socorrismo con la presencia de más de 600 deportistas - Diario de Bergantiños",
-      "link": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxOakh0cW1XTVcxZUljb3Ffd0ZGUGJMZGw4N1F0d255aVhrWWs5RnJmVDVNWkhwZkw2NTBzZl9VV2Y3RHVGZXZiTUVuazFTN0V3OGhLRG9VSWsxNGZfSWp5U3huZ0RCZ1NQLXgyQ2hPbGFNTkM1WUp2TmkyaExmWnAzSFlPQ1laRmsxdHlEOTdWQ09iWXY5QmlPZVJiTkVtbm5QSFlna2VOTkI4MGx6d2N0ajdab0llblNTcndXSjFyU01SVGc4czN4bmNuMk9nT21VMS04aTZVMUpFZGhCS0RBaDN2TWY3MG9LWFVzRXlVTFNWQkRnQW1tVDNLOUI4TTNFX0lZSUtIQmdKWEttR2lMdUM1VmtGazZINW9TWmhqU3pOVFI4TXZrenFR?oc=5",
-      "source": "Diario de Bergantiños",
-      "pubDate": "Mon, 31 Aug 2026 17:01:52 GMT",
       "imageUrl": ""
     }
   ]
