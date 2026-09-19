@@ -1,13 +1,85 @@
 {
-  "updatedAt": "2026-09-18T20:30:35.270Z",
+  "updatedAt": "2026-09-19T03:29:21.819Z",
   "hoursWindow": 168,
   "items": [
     {
       "category": "Deporte",
-      "title": "Cuando la caca aparece en plena competición deportiva - MUNDIARIO",
+      "title": "El Sereno | Logroño Deporte dispara el precio de la esgrima: \"De 160 a 270; es injustificable\" - nuevecuatrouno.com",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQeVpXY1ljb3FKbE9nVzU2aThsMnVINHdCVnkyN0lQcXlzNlMwQTJsWk9BYnZnLTN4QXR6bVd3S2gxZjlFcEp3LXZrc3RsMHVmeVdxMk1aeVRoZlA0c0tjSXdGNVNlY1BwRmVsSnVpMW9rSV9lQ2lNa1dTMHZjWlpDVUZ2azdvV3ZveWxRejNpSQ?oc=5",
+      "source": "nuevecuatrouno.com",
+      "pubDate": "Sat, 19 Sep 2026 03:18:59 GMT",
+      "imageUrl": ""
+    },
+    {
+      "category": "Socorrismo",
+      "title": "Rescate acuático en Paseos del Marqués localiza a persona sin vida - Al Diálogo",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQZjZOc0JmZWozYTJQbEJiLUxtZHFZT00wRlFTZ0ZycjAtUE9iVzNOM09KdUlJQjRDM0ZMYkVONUo5VWpvNmVBVjJnd2hVTndZdWloRlVZV2M5bVBzWFp6bFl4UkpoRnFWU2hZby0zYUVSNkhqNGgwaDdlczY0bEVrUWhZc2VKRnhyUXR4Zk5vMmxSejJhWUo4eDZSaktjalVkZTVyaDY5cV9YY0FWY0pHZHg3ZzlRUnlWVDRzTUxUbw?oc=5",
+      "source": "Al Diálogo",
+      "pubDate": "Sat, 19 Sep 2026 03:04:47 GMT",
+      "imageUrl": ""
+    },
+    {
+      "category": "Socorrismo",
+      "title": "Puerto Madryn será sede de un importante torneo de Salvamento Acuático Deportivo - El Chubut",
+      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQdDNJbzRSV1hPTGVVVUlwUkUtVGtkZ0t2cElkbW9MVk1LaDBaUkd5cnlBRzVpU0VNOThKX2tFUGtuQjNoclYxcmd2bzdNS1psOGtKc0NxWXYxeEpPTHpQOWtDclpaYkFid2tXdTM2UFdPQWJFdkxNcHZnWkNQQnhfY2c5UHZQaDlyZlJETEY3U1lXVE95TWNLX05iTlMyVGY4MFpXTFRIdDJhbTgyRV83dHR4XzRxS3VYYWdMMjVHbkwtVDdVV3IzQUlwQmZGTkRWNnhWTGZ1OA?oc=5",
+      "source": "El Chubut",
+      "pubDate": "Sat, 19 Sep 2026 03:04:35 GMT",
+      "imageUrl": ""
+    },
+    {
+      "category": "Deporte",
+      "title": "Fútbol brasileño y apuestas: Lula rechaza que el deporte dependa de las bets - ABC",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOSG9rYmhnWUZaT3Azc1FpVWpsZlJZLTVCMHhuTF8zT3VZWTFCcTZyRHloOVJMNWU1RVBySFZzUDF2RUJCdWRMUUdaR3VQM2VENE9UMHJ0V2xSTF95bmdQVVpZdkpPX1d4R0xwUmZ1ajdZSWRqT1RlY2JkSUdEdWxiMXFrSjRXTzN4UGc2MFlGNEdEWFJJNnc3YWRqeTNZUWh4TDROb0FudjZ6ZEE?oc=5",
+      "source": "ABC",
+      "pubDate": "Sat, 19 Sep 2026 01:39:59 GMT",
+      "imageUrl": ""
+    },
+    {
+      "category": "Deporte",
+      "title": "Arranca la nueva temporada del Club Gimnasia Rítmica Costa Tropical con el reto de seguir haciendo crecer este deporte en la Costa Tropical - Info Costa Tropical",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA0a0FxenVnOW95MlhpWU1PNXhjODE2YlJSZTlKRk05Z0pnTmlBQ3FyQzA5clMyeUhOcFRPTC1kdUlxVlRRdkxEQlhKZ0NqRTZwM1R6V2xMNDMtdGtwWmVVQmlXVW9lTGlaaUp0aXBqV0k?oc=5",
+      "source": "Info Costa Tropical",
+      "pubDate": "Fri, 18 Sep 2026 23:15:00 GMT",
+      "imageUrl": ""
+    },
+    {
+      "category": "Deporte",
+      "title": "Rubén Domínguez, tras el empate del Pontevedra en Logroño: “Es parte del proceso, necesitamos seguir trabajando” - Diario de Pontevedra",
+      "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQSmljZUQ2T0NiazFESVZTMG9QcVJsc05EVENOU3NZRE41aFkxZE5VNGhrWGVhbDREVGdwbFA1UWRHeEZzWFhyUkJyZFhNeld1VjFKYVdnbm4yVmtzTGx4ZFBCVVBpak95S2hyXzhxZHdPNW9YN3pIMERVdmExM1ZuTXl6WWcxUWUycmNEZ0gtYmhfZk1FY1cyYWc4Y2x6S281QTRTZlN0Y2NtLXo3WkEyOG1XZFRVVjhHZFZzcjVGdl91NGNvRkk4SU1fVEN1bnZtN1J4dDZWRzJkYUQzRDBCa25IeFZPaUE5U2FxMlhiTDhKSnhseVBB0gH8AUFVX3lxTE93aHd0ZE9ZTkVHZGxOU1N4dFVNRFlGZXhxdE9QMVhqUm1KZENKU2dqNWpwSFo1dFNpZm5pQ1NGbUx4a1M2TmhhVEMwR3VXcDNtbVh5NkRHZEJVMzJrWHc2N194d2RWcEVnaTFaQWFxOXNiQ3Zjczd4a19BQXloZF9CeTNHRUtnR0FEN0dOMllvclZMY1lSdDZkTUNkUE9MZTZDSUVuZjBSUm5KakhOeGtEZHhzLVN6bHBjcEVHdi1VdjhXQ1k0eXNYTkpDSW5VSklpUmdYYmhYNHNPeXNJcEQ0d0lKX0c5OXpFMUxYbnhsVmpIZmVaWURwdnJuNQ?oc=5",
+      "source": "Diario de Pontevedra",
+      "pubDate": "Fri, 18 Sep 2026 22:08:41 GMT",
+      "imageUrl": ""
+    },
+    {
+      "category": "Deporte",
+      "title": "El tirachinas se convierte en deporte este domingo con siete categorías y premios en Prado del Rey - Portal de Cádiz",
+      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPSUZaVDVTcVhXdVJKUWVyOGp4MVVzZ0ZHc2gyVW5TVXBxTmVaZjFrbHM1bU41ZUx0QXZTZmdWaS0tYXByejdqX2Uwa1g0RnJZWWNpLUVWSUNUeVdTQ1RkQUVPRVZoeEdwWGtxLUNnQjlYTTVOWGNJMS1pZmY3ZDZQS216ZUNXR1pBZ3NXQjI2ODdQXzhPM0V6c3dzTXlYU0Y1WmphUk1rNnU4YTdfNU5JTVdPSXdfZ3ptRmowdmJaQnlDQjdBV04wVWdWdUdrYlNyR0NPb0pLdU5rRGxXZUZtRTMxa1NHVkFLM0d1WHRB?oc=5",
+      "source": "Portal de Cádiz",
+      "pubDate": "Fri, 18 Sep 2026 21:23:59 GMT",
+      "imageUrl": ""
+    },
+    {
+      "category": "Deporte",
+      "title": "José Manuel Rodríguez Uribes, presidente del CSD: \"Queremos la final y ser el mejor Mundial de la historia\" - laregion.es",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQQmNlVWZhMmhEcHFIeE95RF9hZGpGN3VJQ2g1QjBCWlE0REw2eFRTV0Z4eW9KNzQxVVNITkZtb2Jad0FROHV0QU5PS0FZdFNtVXhvaHNCLVV6dTltUk9fa1AtemhCc1duaDJxQnZKS0tpamNXRjZDMjRvSFhNaHRmd1pNVTBSV05RQ3FCUGlvVEdXUUtJWDFESWVFWlE?oc=5",
+      "source": "laregion.es",
+      "pubDate": "Fri, 18 Sep 2026 21:20:00 GMT",
+      "imageUrl": ""
+    },
+    {
+      "category": "Deporte",
+      "title": "Cuando la caca aparece en plena competición deportiva - mundiario.com",
       "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPODZjaXBSMTlyUmJUNjBVajBVY0w1WThDTE1vSDRFNzZVSnZ3TEQ3R3hKeEtjLXJoMkRod3diWE9NalZaX3d1SDJ5V3VQY3dVaXdRYkkwWjlxbk41bUFqT0hyUS1HQlZXWUVySElLSkFVM1BTdWlIaHNsME9IbHBCaC1tWm8yTEhUd3Atc0cxRkpWTlFUNTFOdlo2UU04bldSbzc4eUNSWTgtY2ZTMjNsN2Rtem5JMzN1b0JBSlJPZG00V1VT0gHKAUFVX3lxTFBSWnlZem1HTW1rOUs2ZzZHRll3MndjNjA4a244Wi1JT3ppMEFZVmJsN3ZWdmNjUXZKZFI1VWcwN3NoZEFYeWhISjZQbldTb09LOU1EOXRtbk1TWTNESEY0SmlEeUZtWEFmbHN2UERiUDhNamVBeGV4MzhpeHNDOUJRaHF5Wmg0MHVyamlhdXNKVjZWdEhpbldyODlJNExDeWNHZkZmVE5kZnh0Sm9Hb01RMFRTYlYtMFZYMnp4VDBEbm9ZQUpTS3Nwbnc?oc=5",
-      "source": "MUNDIARIO",
+      "source": "mundiario.com",
       "pubDate": "Fri, 18 Sep 2026 20:03:20 GMT",
+      "imageUrl": ""
+    },
+    {
+      "category": "Deporte",
+      "title": "Autonómico aguas abiertas 2026. Gandia. Previa - dbSportpress",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9pazZuanVmOVZibW5TaUtaZFdXM3BYZG5QM0NIRUltTU9JVDlodHhGcG4tV3dFWmxON0JBNWtBdnF6N3FaSlo1cG83UkRwLWtmeEpNWEMxTHlGRTdvMjNjTm9uTG1wdzVCNHNfTngzX2FJT2FScHc?oc=5",
+      "source": "dbSportpress",
+      "pubDate": "Fri, 18 Sep 2026 19:55:32 GMT",
       "imageUrl": ""
     },
     {
@@ -24,78 +96,6 @@
       "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNNVJFMHJ1M2FpT293aUpuekJwU29pTHNGRmJyR1NlVjdaQUxCNGJsRTJuTkhfYUxIUmI1eUN2ZktMNE9HbEFJbG9oNDc4aGdYSzc3eG1Vdk9pWklRTHBPWnlZUE85RFFLbDJRbDJsV191TmNHeUZpTncwQUw4U20tNld0Vi0wZ9IBhgFBVV95cUxNMTR5T09rRU1LOEtjYmxTODktcUEycURaRk1QaUJLS3pjVGNucHBMbU1UU0NKcnZ3THktX3J2Z1JDMmFkR1NJRHA3UnVqN3R4dzB1LXFDQVJhckp6S2xfVUx6X1FkY2ZUeUxnOTZ4R3hhNWhDSk8xRUFhekdfOVRIREVBYlN5QQ?oc=5",
       "source": "El Mundo",
       "pubDate": "Fri, 18 Sep 2026 19:41:23 GMT",
-      "imageUrl": ""
-    },
-    {
-      "category": "Deporte",
-      "title": "Hacer deporte a partir de los 50 está muy bien, pero los expertos coinciden en que entrenar con música no te hace más fuerte, sino que ayuda a tu cerebro a tolerar el esfuerzo más tiempo - eleconomista.es",
-      "link": "https://news.google.com/rss/articles/CBMi8wJBVV95cUxPSmN6UU1uWEQzTU50TzhwdnNvOVNmb003dVI1NjNiT0lUb2p1a0pkeTY4N05oejdveFJWdkJJUGJoemxQTlV6UUtYUWp6YXB3aHlfVGZSZDJ4clQySXlSTnVsdTVKdmExMk9JSmQwZEZrSzRJSGZPYVdCWkpPUHo1NkIzU1FpdFhDbHVfenRkQnFIY3BGT1ZsMXlUUmlqSjVHaWpHbkJYbU80d3VIY29QMUxXLXNLWm0xcmktWHVZdlNhUGFyakxwNXpYY3FkU0lkWVREQWIxajJzNzNGOXRtZy1TRWJDUjRYR19jQnpnOEJtRnpoNTF4ZTRCZnYyWUVVUTJ4R3d1ZjNMS2hCWFN1WWFVaTlFdE1oemlMSlZWT1RaS09OMFotNkFpYkN2RWdCZ1kxODVtdFhQMUZKY1hfa2RYUDhKb1psN19jWGtJT0pCVnZFOWdjd2ZFYmt2Z21zajZHbV91cjZkVFp5eXJ0X0UyVdIB3gJBVV95cUxNTjVxLWhxVTVsS1RWUHlSX1hjNmFNMFlQZG9yWkducDkwbDRuUUpJZ0paV1h3XzRRMmRkUDQ5b0wyVVpmWHoyUHdMUjAyRHc4akltVHFEVmlBLVpfVTB6ZXBSbmhuaUNJWFFtQl94S1lwT3RkWGpEM09jQlh4X2toWFY1bkJNT1BBVVJGLVV6VnlqcVNKMjc4NkhQQlhuek4zVkFWMHg4Zl9lbVl5M290alRWX1BJX215WHlaRnozcWhnZS1KV282ckVvbDU2dXRMdmhqTmFJaWo2b0VXSV9kVzFmc2FKYU40eE91U1BMd0VlbUJsY3h5NHBkX2lXSVgtUFh3aENqVmFNcndRc25lM1hFSkNMcHAyeFVJSW9BUnZBUUpJdTNGTGE0dVFEVG9FWk1icFFWcGZUVkw4TEFoS1dpQkZjSkdTanAta3hfQm1pR3BvVmFyNnNFbExyZw?oc=5",
-      "source": "eleconomista.es",
-      "pubDate": "Fri, 18 Sep 2026 19:01:57 GMT",
-      "imageUrl": ""
-    },
-    {
-      "category": "Deporte",
-      "title": "Autonómico aguas abiertas 2026. Gandia. Previa - dbSportpress",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9pazZuanVmOVZibW5TaUtaZFdXM3BYZG5QM0NIRUltTU9JVDlodHhGcG4tV3dFWmxON0JBNWtBdnF6N3FaSlo1cG83UkRwLWtmeEpNWEMxTHlGRTdvMjNjTm9uTG1wdzVCNHNfTngzX2FJT2FScHc?oc=5",
-      "source": "dbSportpress",
-      "pubDate": "Fri, 18 Sep 2026 18:51:31 GMT",
-      "imageUrl": ""
-    },
-    {
-      "category": "Deporte",
-      "title": "San Roque presenta su XII Triatlón, una prueba que une deporte, turismo y promoción - alsoldelacosta.com",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNRk9sNXVRR1Y0LXp4NDhvbURTTHlqVHNHd1daUXcxN09CRkxOVkRPTk5HaUFyTHBOM1hSTHJUWjdBenkwZjQwTnpEdnVuQVRRN2ZpOTBaVHJ0UjU1OU9NV0RBd001M0pyTDNCcTBnd2tfemxDQ0I5ZU9QbnNtWGZ1YWRzQ0JOTG1uUHhFMmdIVkZiUmZSWVc5RTgtdjE3dmttdjhvS1kyeGs1YWRyZmc?oc=5",
-      "source": "alsoldelacosta.com",
-      "pubDate": "Fri, 18 Sep 2026 18:32:01 GMT",
-      "imageUrl": ""
-    },
-    {
-      "category": "Socorrismo",
-      "title": "Últimos días para anotarse en los talleres remunerados de Socorrismo y Xardinería - Diario de Arousa",
-      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPY1NCd1M4ZnRBY3FXRzJNci0wVWROREhuYXhKRkdZTGhLWGdqc1pjalJLS2c5Ry1tbmhMa19LRUoxblEzSmNZeUtIUG41a09NN19lNmpXM0MyUDJ4THdVSXlYc2dSc3JfSTZxc2dudmRqTGEtOU42QlFkc3JKLUhxREN3Vm5yNU8wUExYbWYyUzd2V1cxczVrWV9PMm14TlZONGRjMEFyTnVRem9BN2o3bW0yNEFCYTgtSTE5YzZNaVZrMDBJQTJyUmUyYlFGSllldjhyUTVYUkg0Rnl2QWNkdzdQUjF6RTlFcDJ3bFVR?oc=5",
-      "source": "Diario de Arousa",
-      "pubDate": "Fri, 18 Sep 2026 18:18:27 GMT",
-      "imageUrl": ""
-    },
-    {
-      "category": "Deporte",
-      "title": "Hacer deporte por la noche no arruina el sueño si se respeta una única condición, según los expertos - telecinco.es",
-      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQM2xHOFZ1aXJXTnBCQldqQUNCbGRMbGNvaTd6cWpiektYQjBNLURpeEx1Ny1BTmlmU2FjRU9reE1WWE1LVHB0NXZGYTZTcWxlLWxrdHp3a25jTTNyeWw0bXhDQTJ3UUhyNUxzSGlva0dwcHJ5RjRRdEI0dld2UVhXRWlYRk4yNlhxc011ejhwU1d1ZFRTdXkzRk0yZHBzMTljQ0N3OFJWdXdXWnRaTm9vNDZnaGRXMXprSGx4VW96LVAxWWVqeHU1TFY2RlV2S0RiRENtSWpwVzU0eVZXZkFkWGxLMA?oc=5",
-      "source": "telecinco.es",
-      "pubDate": "Fri, 18 Sep 2026 18:00:38 GMT",
-      "imageUrl": ""
-    },
-    {
-      "category": "Deporte",
-      "title": "El CSIO Barcelona 2026 calienta motores con un nuevo obstáculo inspirado en la ciudad - Ajuntament de Barcelona",
-      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPbHkybzN1bkRPUGJ3UFBVbUUwXzlCell4dHJva0U5ak5yUERQVFFsT3pzUFRjc2hTNklVMUlteDBrMWUtQlpvemJCWFpGWkFuaHN3bEdXY0NwN2FhcHhJQUQ3MUdGUlZSeUJYeEp3NFBxUVhMd0tUWFJaRVBSS1BBb2hPNXhDT3V0RXpzVXhfWmdId05mVHQ5bmVyZFgyVjd0Q0h1VUt2ekRmM1NGYmtKU3g0Q2NBWVVlbnNOM2JLQmJJZFJLQ29kVGwybno4RlhpUTlfQV96ZHhpbFVP?oc=5",
-      "source": "Ajuntament de Barcelona",
-      "pubDate": "Fri, 18 Sep 2026 17:57:02 GMT",
-      "imageUrl": ""
-    },
-    {
-      "category": "Deporte",
-      "title": "Kate Middleton se anima con el deporte típico de la isla de Bute en Escocia... Y la jugada le sale rana - El Mundo",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOZFg5b2RwS1JSNnY5dTU5WHBlc1dIT1VZT2pOYXBsVFNyYnZJdDQ2TlZPVkFfQmN1SkVEWGhNZlRtelNMd3dGdmVocGpyS2k1Q1dFY3ZFT3ZfR2sxODUyVGZXdG1oLTEzeldkS00tdVVjbXlUX2FFanQ1dVk3U2dZSnFoTHZRclk2emxz0gGLAUFVX3lxTFBvZEh1WWxUdUxsYTM5ZmlSVTZucTNONmhwZU9oaVh4YXBBd19rTnVFanpUNGRQVFpaeUVVWjEtcEwwS25xUDJ0T3o5UERlcTZ2U2NmZHluR1hnSlQ3MWEyVHg3anJIbWdkQjRkYTZBUGlGcHZhLVBQQjBqTzRBUlRWYXhGM1BycmUtTVE?oc=5",
-      "source": "El Mundo",
-      "pubDate": "Fri, 18 Sep 2026 17:56:00 GMT",
-      "imageUrl": ""
-    },
-    {
-      "category": "Deporte",
-      "title": "Almudena Quereda regresa a la competición y participará en la Copa del Mundo Paralímpica de aguas abiertas - La Voz de Galicia",
-      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQTEEyUmY5QUFiSHBjQ0R2TkdGdG9QVTNpeGtSVGluemx0QnR1S1EzMWkwd2Npbk1tY2dvTVFGcGxpUlVNX01uS0E2eTI3azZQdC04WjZNOHZycnkwSklHWXFzT3ZYaFRiWl95WjBNX0tBVG1YLXBHYVJVM0lENXZjUG5HX1BXWFVYbFRlcGJEcnRsdmJfOXVMQmpGY0oyYU9SZEdpTUlRQ094aFI0NGRpSmhHRXVBYTRXUV9QQkZCaG9TdV84YU9zS2dBMndvRzVIcVRjdHBCMF9xNWo2ZXpONHBCRWpqVWdPZUM0etIBiAJBVV95cUxOY2pWYlB0THZfTEw0eWNvc1ZrblVUVWFTYUpwaUFjeUNMRk5oMXZoWUR5c3lFaDMzLTkzb2plSUxQR2kzU09IazBIaFVXdmxOUjlkTDFyMXZTUnY5T2w1Tl9Lc2Z4bllJRUx2ZjI3VENBWjhJcTBxbGZmVTdvVDZEb2ZSWEhqZzRuc19PX21yYXhZR3BYUlhlVkJnYWJlZVdITnkzWUd6VTlraVZoNkJkQTVxQmFzVTZQeENTV3NKYmtOaFBkS3VmWnBkWVdpRHQ1S2gzQXdDUjZ6cUtjdlBCa0I3dHd3anBlMmVIT2oteEo4dDgzOUVFQXZaWjdfQVpVZlBEMmVOQWc?oc=5",
-      "source": "La Voz de Galicia",
-      "pubDate": "Fri, 18 Sep 2026 17:33:03 GMT",
-      "imageUrl": ""
-    },
-    {
-      "category": "Deporte",
-      "title": "El deporte y la salud mental se dan la mano en el X Torneo de Golf Solidario - Teleonuba",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQeXBJX2FENmF4eGhmUnduMWx4amlUSVEtcEVkZm5IZ1ZJZGNoVXlSUWp0am9vSEs3Wlhvb1dtNTFGSldLaEpUUV84cWhCVG1WQ3NOazlWakZweFF1d05TdTJYQ21Sbnh0OFhjWllmM1NZRUwwSVA1dFcxbHotV19UT2JUNDI3a0FQTlAxRnNnNXk3UUNybVFBS2lBMjdkQ1E?oc=5",
-      "source": "Teleonuba",
-      "pubDate": "Fri, 18 Sep 2026 17:00:16 GMT",
       "imageUrl": ""
     }
   ]
