@@ -1,101 +1,101 @@
 {
-  "updatedAt": "2026-09-23T16:14:58.791Z",
+  "updatedAt": "2026-09-23T21:10:32.461Z",
   "hoursWindow": 168,
   "items": [
     {
       "category": "Deporte",
-      "title": "La Semana Europa del Deporte se presenta en el IES Al-Basit - La Tribuna de Albacete",
-      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQRDJOXzZTU1ZuUFkzQlhMdmswcWhmUk8wcVBESHlVVVhRa3pMVjJSUUdtZjlUQzA3UzFYREUtOHcxWlVjZXctNEFJR2hLWkMwT3FjampGTUNwUEVRRnZaM3lzeEZuZkVsdWpQTDUxeEdyWjZXb3luXzFjNE14djdxSXc4NnhMV1dhdnJ1UHAtZHZsakQxanhkclN6c3VkOVpNWXZRNXJZM3FGak4td1BDcVV5cEo2RVg1RjBpOHozbm9pZTJqMHIxVHRMNkxlM0k5YXEyWk55N19BdURBUXJ3?oc=5",
-      "source": "La Tribuna de Albacete",
-      "pubDate": "Wed, 23 Sep 2026 15:52:30 GMT",
+      "title": "El Mundial de Triatlón nutre al sector hotelero de Sanxenxo - Diario de Arousa",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNQ2ZlYThmZHNHc1d5bGZidEVyeEZiMTgyM0ZMc0Fzc0MzLU1NU20zazNGaHFPZmJxTV9HX0hUZ3FFX3NvRUd5RHN1RGpMRXBTbDhKZFlLZmlTSG1SVTd0c2tEYUlUZVlkNlk0TTU1SUpxeTI2ZHFyczlhQTRoUnA1Y0Zncl9HSklIR3RuSjJ3clVrWDRwTUg5c0dyWG91SHZoOHQ0ZEFiNjBPWVFOeVl6cUR4WkdDbFNiU2wwYkJCQTlVMklaV1U5eEVldjZ6Zw?oc=5",
+      "source": "Diario de Arousa",
+      "pubDate": "Wed, 23 Sep 2026 20:49:41 GMT",
       "imageUrl": ""
     },
     {
       "category": "Deporte",
-      "title": "Moda, comercio y deporte en la Plaza Nueva este fin de semana - Glamour Lucena",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOM3RjTzMwcDllUXFfeWExazZ3YzFKdDRpTkh5TnkwdTNUeUtiTWpqQjFQTHNzekdWTzd0SnpFVXJIQXMwVW9PNWtGazZuSXhPVEhPT2ZKUUhUMm8yM0FBMTVDTFRRc1J0NFFtWk9qaklSNlpjRTJaQkZvS0JJQkNLZUFqeHpHTHZJdmhkenplUQ?oc=5",
-      "source": "Glamour Lucena",
-      "pubDate": "Wed, 23 Sep 2026 15:51:41 GMT",
-      "imageUrl": ""
-    },
-    {
-      "category": "Deporte",
-      "title": "Llega a Madrid la IV edición de 'La Noche del Deporte' - Unidad Editorial",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1hbS1IU1Q2dDJoQjk0MC1WaGt0OFU4dm1RektxQ0JvZGdYUml2NWR6RDFlRXN2Z1A1YVdMeUoyTE9tMjdoLXpFdXplN2lvVlI4RUc2LVNUcTVuUzdZR21Z?oc=5",
-      "source": "Unidad Editorial",
-      "pubDate": "Wed, 23 Sep 2026 15:45:39 GMT",
-      "imageUrl": ""
-    },
-    {
-      "category": "Deporte",
-      "title": "Tijarafe abre hasta el 30 de septiembre el plazo de ayudas al deporte - El Time",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNNk9aaEhPenlhSExFbXVSSGF6NjAwOWlQVXFiWDFpZlBja3RtaGcxdDhBSjVaQVY3M2ZSNkk0c1lqSEpIMWdEV0ZzZmhPRUtMeFU5aVZZaFF3NGJaaFZGZk8xY3BJZXk3aGFiVWNKZ0YyOTFaMEdxbVJjeDl0Z2RYOEV6R2hVU0F6VmQ2bzlRR2FFSEYzVTlyRXZPNEdTWFJ3alZzdFdzNVBvZC1BOGN6cw?oc=5",
-      "source": "El Time",
-      "pubDate": "Wed, 23 Sep 2026 15:41:21 GMT",
-      "imageUrl": ""
-    },
-    {
-      "category": "Deporte",
-      "title": "La UCLM se suma a la Semana Europea del Deporte con actividades gratuitas en todos sus campus y Talavera - Objetivo CLM Noticias",
-      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQeWYzVlh5S21JT29JRWZXTHdKWHlOS1YtSk1xNDVZd3NSODhGcFp0eUtrTW8xN2dhcUI0N05IemVPWFZ4NkJ1NkxOQU1qcUk5VS1MLU5hay0tYmNnWkM1WUYyeDRocVNDUm1OUlpucXpieWtLX045dDYtcVZOTWphZXMxb2FPOW56dzVYWUFZNlpfNGNycW01SGViZ3MxSlpablc3OWhUQ3pSekhLUkg1b05UZ3h3dVVqNF8ySFFVWUdMc0VvTXUyN2FXQTNfZlBLWHc?oc=5",
-      "source": "Objetivo CLM Noticias",
-      "pubDate": "Wed, 23 Sep 2026 15:34:37 GMT",
-      "imageUrl": ""
-    },
-    {
-      "category": "Deporte",
-      "title": "IBERCAJA RENUEVA SU COMPROMISO CON EL DEPORTE BASE Y PATROCINARÁ A LA CANTERA DEL CLUB DEPORTIVO GUADALAJARA - Nobles y fieros",
-      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQbkhsTFYzdUhkQ29ZLVo3ZFhmWmcyU0lLdW9ienYzQ0Jpak5vZEx5dWw2NlBoNHhTSjhzMFIzZ05rdVRmSTVtOW0wX0RYY3hFREFqTmpXQ1ZUS0F5WE1zUzcwNlBNaEVnMldsNXNLN2E3bWRiLWszbkpfM0FHNzJvNXNOU3UwQTBsZmJZMV9vamcyRk1XTTBNZVZzVG11R0pQbDd2RWdDbC12MkdXdmNYWUdsYUsxVllrNTlKdXVvbkFhTHlpM044TVZQWFlzRlplWlE2Tg?oc=5",
-      "source": "Nobles y fieros",
-      "pubDate": "Wed, 23 Sep 2026 15:13:35 GMT",
-      "imageUrl": ""
-    },
-    {
-      "category": "Deporte",
-      "title": "Alcorcón se vuelca con el deporte con actividades gratuitas durante toda la semana - GNDiario",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE55c0JmZUlLcm9xTXlGM18xWDR2X1pEQnl3dENNZUo4UjNlQktjajdjbVVFLWZTSi1ZX3k2eFF5U0ZLd19qZmpkRVl2UnZPX2ZPVmtLbjJ2aHAxRFpEMWJrb2tZZ2lVS1k3MFZV?oc=5",
-      "source": "GNDiario",
-      "pubDate": "Wed, 23 Sep 2026 15:00:00 GMT",
-      "imageUrl": ""
-    },
-    {
-      "category": "Deporte",
-      "title": "Ambiente previo a la Gran Final de las Series Mundiales de Triatlón - pontevedraviva",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQd2p0SXNJZTBycTNwbzBubzJ6TUljRnZFZ0lJeFdfYVlza2xISm5oZEdXLTlLbS11S3NSa1pBbmxsWTN4eU44X2tZc0JoZ3hTRzVqcmhUbzM0REJoSWRpTjhtTkVZcXBXcXZHSEh6ZEVHYmhUV3EtWUdBcWJMV0JpTDYyNmw5Tm1iZUZ0T2dUSG15N2hqalMxdERKX0lpZEN0eFRr?oc=5",
+      "title": "Desfile de banderas y triatletas - pontevedraviva",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOdTROcmVQdk1uV1pYZmlDOGZ3MVlMbWpCMkhJZ3BCSzEtWk1sS0FfSFp0Y2xKXzYwLTZTUTFqZjduZGFEQnk4UER4V25zSDkzeWVTNE5RaElPcTRnckxVR1FDTjlCRzJMM0RNOXhrMUdWZmJldzVRLUFhSTFLbnhlRXY2a1hiWWYwS0Q1SFBHM25KeUpGeGlpeVVnaGNONWVmenRhZzRvbGwyWjBpNW5KOU9xVFJmalczOW12UVZ3?oc=5",
       "source": "pontevedraviva",
-      "pubDate": "Wed, 23 Sep 2026 14:36:09 GMT",
+      "pubDate": "Wed, 23 Sep 2026 20:24:09 GMT",
       "imageUrl": ""
     },
     {
       "category": "Deporte",
-      "title": "La Semana Europea del Deporte 2026 se refuerza con la adhesión de 14 universidades españolas - Europa Press",
-      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQRWpVTlpSdk05QkM5YmVOVjBBV1JkS3BVZjg0Q3Etb09PVkxOcXFndmNmc2dNU3hpVF9GNFA4S2c2bnZHTk1idWFfRmIzV0l1Qlo1QW82ZlFqbnJpVUJUT2lBNVBBaG5HX3hxVVprN2l3dkdWaS10UEFjbHJ4VHlTbUdQUC1ia3NrYkRuclVUeHRFY1FKNmZCdmJ3X2wyYml5VHA2WWNOdkU3Rno0eWhsSmxRSUxoSjJVS2I5a3c0T3lSdjZNLXRrZ1h0WUNETnkyZkE?oc=5",
+      "title": "La casa del triatlón abre sus puertas: ya está aquí la Final de las Series Mundiales - Diario de Pontevedra",
+      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQZWl1X2tpcGw5RE1ZMk5xSTlQY2FVcFM4LVAyTkl6LXh0MkxkUE9HYWVoNkxsM2Z6X0JGaWdIdDFsS2J5N2JXQlVwVGtSY1ZwTTV4ck1VVzRSSWs2dE5DSWtqZDRvdmVkSWV3cEdVRU4xSGZuNTc0QVdERGtEZDZObFh5dmVBc1hzamIxLUdFRld0empkOERiQUtfYnRhZG9Jd25MU05zN0xseTRjVy1hc2RKMTRDMmpKMi1HQXhpSnlYeVdZeEJOd0syQzFKS0VZTWZlb1hTNzkzSjdwWkhSU2NwSdIB6AFBVV95cUxQbV9MazBwYnpEOU9IMjJZUVZqdVhtWXZRb3VfODdPbmpxay1mbl9MV2drcF9Lck9VUWZaajgtUTlhWW1HZlJkTkp2QzV5dHlkM05jWmEyVmhlVl95UFo3WkhYMFZpNElQenYxLWZTUWNRSGs5eHNOU1U5bDNxUEphb3EyNDFTY0pxUnUtZ1h3N3ZyTExWUFY0c2VxREZNdHBsbkgxd3hDMFJmVTRzcFQxSkYtMndHQmotZktqM3BHcld6OVNBb3oyYUF1S0llMHZTQzBISHFsVnZTeExhVFhoZnR1aXJyMFQt?oc=5",
+      "source": "Diario de Pontevedra",
+      "pubDate": "Wed, 23 Sep 2026 20:06:38 GMT",
+      "imageUrl": ""
+    },
+    {
+      "category": "Deporte",
+      "title": "Pontevedra se convierte en capital mundial del triatlón con más de 5.000 atletas de 83 países - El Español",
+      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxObjlBSjBnckV3V0hvQmFPMF83WDJTQnZic2FzV1hPTHdpZ1F1OEI3S1E2N2p3YWF5RVVWd2hMV2o0T0RXY0RDX0VMVHo5azhIanB1ZUpHNEFVWmxVa25NRzJIY0ppSGdBNk4wcDJVYW1wNjdhR0ZKWTUtX1Y0ZkprQlRLcGN2VHFiVlFuSmU0NlRtRzl2aDVRNWVCMGFlRGptUThjNnlnYjBaQlV0TlVxdTFsZVo4M2ZtVVFISjRoMW1VWHltZXlnV0NzV0xIYkh3OThwRHBmQUxwZjhSdHB0UTNxTkxhLVnSAewBQVVfeXFMT2ZxMjZtVEppOS0xNXI5VnFfdlpaSnNyMm5WbmozWlNQQTEwTTVlam1GRHBTeTZ2dlI4UHhBS2laWS1VQXVtZC1LRDdUOUg1dWUwVmQ1X2VFb0VnamhsOGpIQmROM1VHZ2Q5WjlvQnJxZWdtLWVkaWJYeVlheXRUQzN3SmxHVkRvNFFZSWJ0Qk8wM09FTFpkd1otWEVCMm9SZDdvcHZRVXVfUGptcUJrVFVoTWx0Vy1UVS11RjNVampJNjFRWjg2Ujd4a0l4VEVMU091cDlNUWVNdnMwZklWVDFXcDNTajBQWUJnc3U?oc=5",
+      "source": "El Español",
+      "pubDate": "Wed, 23 Sep 2026 20:00:09 GMT",
+      "imageUrl": ""
+    },
+    {
+      "category": "Deporte",
+      "title": "Pontevedra se rinde al triatlón con un multitudinario y multicultural desfile inaugural - Diario de Pontevedra",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPZ0VYVjFDckxYYS1ORWhnUDl1MmhMTmFYd2pLWmNDVkZrY294QWVOMm5vaTFNaEtSLUZlbFY1RkhQcmZBOERnT2k2ZjNhaGhCc0QyM2Vha0t5V2xrdk5iWXk5WFZ4Y05YcG5QWkIwTFZyNndxTmhxdFVJano5Q212TjJ0OG9vM19CMHdZakViYTQ2OXNNaUxLdzBBb3hfX1hvSUotRlo2aU9lZw?oc=5",
+      "source": "Diario de Pontevedra",
+      "pubDate": "Wed, 23 Sep 2026 19:48:51 GMT",
+      "imageUrl": ""
+    },
+    {
+      "category": "Deporte",
+      "title": "La Junta distingue a la ADPV \"por su promoción del deporte\" y los hitos de la gala y el congreso nacional de la prensa - El Español",
+      "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQR0QzY0R1OXA3SDFDeEFCNm9lQ0tQWm8wSlFrWkF2NExIb19fa1NhMDVzLWM5M1hNakJuZm9sVFcyT2txd0g2eUN4UWFNazRvUGNZQ2dIYXFvVEJ1aC11VTcxZUpDU2dZWUJGMDZuS0hySXZCcEpyUDAtZ0I0b0RZUXJCNC1zQ3QyZ1g1bWNNZlNULXc0aXNNMVB6N2dGcms4NW5GUGVHX29ObllpXzY2ZWZ1b1VnQTFXUTU2UmRFbjhKWnBweTcxVXpzVmZLM2pQZFVxeHhWRXIxTlRORi1udDBmZ0s0WDFOYXBlc2ViS3RvQlpLd3dN0gH8AUFVX3lxTFBlWllhQWdPM1RiUzBJOGd3TVp1bm1JRkRxblI0RVFwRkp4UGtrTE53aXQxSzFLXzZFRW9QTGhNUnpFc2twTDh1bjVhZGwzc1BOUG9fOWk3X1JxVVNtb3dhdWlkQUhQU0ZySEl2aTk1aHhmYWlQeVdzN1lBYTJ2V2UxMEd3c0RETEx2ZlZzMlZRU2JpVU80ZGN0ZVhVM2hsSWk0bE45ZGZTUjhBbHhRaDNtY3Nzc3AxTDJjS0hrT0pLQ04yQlo3RnFsNnFQeU45aUhnRDZHVEpxbWpxNlNIazAtN0ExSXJJV1lpS3lGeF9CQUJWQ3FJbFpmd1pWWg?oc=5",
+      "source": "El Español",
+      "pubDate": "Wed, 23 Sep 2026 19:31:43 GMT",
+      "imageUrl": ""
+    },
+    {
+      "category": "Deporte",
+      "title": "Pontevedra se rinde al triatlón: un colorido desfile da inicio a la Gran Final de las Series Mundiales - Diario de Pontevedra",
+      "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPdVlRR3lDVmkyRDBqTWhrLV92dkx6VTBWRGpzMEVVTVhHQzVGUXVpQzkyQW9WN3BvSGMwbm81YzR5N1piM0lkektndks2SUs2RE11aWM2NDI5OVR0MUxlRGotM0hYeVRWSlVCeUlIaDU1TWRMaDZBQktZR2tJYTJQSUpKU3htd0F4T2RSbXFYbHpSbV9rUWEwZ1NwLU8wMlEyb1VudUtueTBfdXR2N3RzMEFnX2RmZFdONHZNRWxrRUZsb3JPWlFRM1hsWFN4b2JvdGtkUUx6Yl9sSDRqUjkwVkhxbXVGR2VYeHowcmp3SE1zOUQzQU5yV25R?oc=5",
+      "source": "Diario de Pontevedra",
+      "pubDate": "Wed, 23 Sep 2026 19:22:40 GMT",
+      "imageUrl": ""
+    },
+    {
+      "category": "Deporte",
+      "title": "Paloma del Río: \"Si comparas el deporte femenino con el masculino, las chicas saldrán perdiendo\" - ELLE",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNTFczMm9DSGpwWWJINVFteVJ0OU9HR0dScjFFNldDRTI2b01VR2FwWkFHbHFoSXhLc0hSbkNFMVQwQ21zd3lIVmpvejd6LWY2N3dqQWM3UV9nTlhoc1lQUGxScW8xRzUwdlhkam93S2tSM21BVUFZQ1g4Qzh1TzZPMV9KY25zT2stT2VHNlR3T2RpVzVVZmFxTGwwMzJ5Rjg?oc=5",
+      "source": "ELLE",
+      "pubDate": "Wed, 23 Sep 2026 19:02:36 GMT",
+      "imageUrl": ""
+    },
+    {
+      "category": "Deporte",
+      "title": "Jaraíz de la Vera pone en común el futuro del deporte en La Semana Europea del Deporte - alaveradegredos.com",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPTTRRWWVLOWNHRFo2UWdZd040MGxGUWkxZmNHTmxmVmN2RWVCTlhQYjllM3pkdkQ2YXZ6bDVkZ0RmTW80ZkZQTGozYWFfdl83Qzk1WUdxQU1KeFNXMDFKd1VJdGN3eTBFc2tFMF9Ma2tWOGcxLXB6Ym5xbm92d21WWVctcGk4RnVDLVdnOFRSQnFiQzJPaHQwMjNvZ2tXM3Y1WW9sc0NFZG5yTVNaUTg2dmVwanpDZVlicjIwVUxITTRFNWhB?oc=5",
+      "source": "alaveradegredos.com",
+      "pubDate": "Wed, 23 Sep 2026 19:02:13 GMT",
+      "imageUrl": ""
+    },
+    {
+      "category": "Deporte",
+      "title": "Yu Zidi, la prodigio china de 13 años, gana su tercer oro de natación en los Juegos Asiáticos - latimes.com",
+      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNZ0FzN3FvUlBESE9yWUQ0Y2hFU0t3MC02V2VlQnpyVXhtOG1IM2tmREtvRE1XOTBGSmJVRVBQUlloT2JZbTBtcHludmcyUlJjdTVmdFV1QW1ONDVycVViUjFHZDRyZFBTZW1Kcm00NERkd3otWVJrem4tTWdMMUxOWTVhSzZ1Z19LS253WkZFSk80Si1JWTZsWTBDUE55OGl4NVZZUWw3bE9Qd1lDMXNGZ0pDbW8xSWkxUk9yT2g5V19rQkstNjR5UnNYa1hzdHh4N1dKelhLLWVhOFJaZjZoUTZXbkxReVU?oc=5",
+      "source": "latimes.com",
+      "pubDate": "Wed, 23 Sep 2026 19:01:23 GMT",
+      "imageUrl": ""
+    },
+    {
+      "category": "Deporte",
+      "title": "La APDV recibe una mención en los XIV Premios Pódium del Deporte de CyL - Europa Press",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNenlQT2k4enloNVZUSkQwZVlPa2F3aVljNW8tMy1FeUdlRmJQQzRWNllySDRYcDFndzNmLWxESWJ0ZU9UOHhKa2liTDRZQmNlNGFmZHRYUDFUVFFCLVBqM2djS3hBdEN3bzBhUkNtUkRfdXB4NVpUMjdzaW9keWxNS29wT2xtSFdyRnI3SElyX2RaVXg1dWRvdU9FcXFNRnM1YUpGTWdpY0l1OEhMUEtKR0lSZ0lxeWxPTFN2VklB?oc=5",
       "source": "Europa Press",
-      "pubDate": "Wed, 23 Sep 2026 14:29:52 GMT",
+      "pubDate": "Wed, 23 Sep 2026 18:52:31 GMT",
       "imageUrl": ""
     },
     {
       "category": "Deporte",
-      "title": "Entrena con Raúl Córdoba y Tenth en la Noche del Deporte de MARCA - MARCA",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPQnpCWUdFbnFkaVhtM0lpZjYtNjFOT21JRzl6dTNocEp2aTJCZUV4Wm50UHJKLWNPZDd2b2huZU4welpvTGpjTngtZUF3X3BIUmRZMDAzdGYwajZ5VHphRHVmUzRHTlBVWTZWb0QwVDYzV3RMVmJibWFVS21sd3JmU3JaalNqS0VpZjdxcEZKSDUxUkJTTDQ5Q0pIUGPSAZwBQVVfeXFMTlItMUJBcWgxaGplUW1zV0RtYXVuOUU1OWpRTmU1bzl4RWRNX1pKbHhvYWc0OWJoV2J4ZHdKRUJiM2RDU2E1V3p0dVQ3VWxNZ0FvVGlsRjMtNW1JY3lJTEtjSE5UZE9MLXlKb2lNSmx0N0FyeS0yZkpCcmNPRUtFRWhUQmFSbEhzVmZFbm9vay1aa2FZblROTlg1U3FI?oc=5",
-      "source": "MARCA",
-      "pubDate": "Wed, 23 Sep 2026 14:05:54 GMT",
-      "imageUrl": ""
-    },
-    {
-      "category": "Deporte",
-      "title": "Los mayores llevan el deporte al centro de Miguelturra - La Tribuna de Ciudad Real",
-      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxON3hBdnVJSVdSTldCOE05ZU9ZZndoSEhvalFndmpjbUlhRTNnMmJDcEpud3pWQzEtOG9yR1FmbmpFbzR6VlVGMzFFaExfZ1lrZllBWFpNaWQtVXhwQjBTTUlTZTM2M3A5ZHljUTR1Y3UwbEU3QzZTWTA0bl8zV1JBM2x2RUVHYWhrV0RicDMwOWdYVjVJLTdSUGc0aEtnYzdTQThjUUE0OGNUZDZaa0VXb292Y01GcHp0d21DR0JvNV9qY0RNcHl0UXN6bkFIRWNjMndYdHE0c0QtMnc?oc=5",
-      "source": "La Tribuna de Ciudad Real",
-      "pubDate": "Wed, 23 Sep 2026 14:04:38 GMT",
-      "imageUrl": ""
-    },
-    {
-      "category": "Deporte",
-      "title": "Alberto Ginés recibirá el Premio Extremadura del Deporte 2025 - Periódico La Aldaba",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPdkJiMmpXMUxlVlpUaDVBWGRBQ0w5dWdFQTRZWndFOTJvZkZWNVVxZEFuNE54QnNrUWxtTnFxMldJcHlTSnZmelZ4Z2JxS1VFaHFpRzNZa3BxUmt3NjQ3bThXV2s1TTVIZ1dXc3A5M29YWVNvNU1CTjNHNHd3V01UbHZzS0Jsa05QMmkzbG10TzMyVHRSLXc?oc=5",
-      "source": "Periódico La Aldaba",
-      "pubDate": "Wed, 23 Sep 2026 13:56:10 GMT",
+      "title": "La Semana Europea del Deporte 2026 arranca en Ciudad Real con el balonmano y el cycling en la calle - Objetivo CLM Noticias",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNelNSNFhPdzlMc2EyS1ZUWElfTnNsYmRzOW1QT0liVkNJUnFvdTZBVXIwNXhzQ3R4WXZvS0JxTmY5a3hvdXV0MlZCZERxS0dhdk1xT3RoelVYc3cxSEo0TmlQakxwWHhUeU9mNVY5cVB1S2xfTnVmdDkwNFVjZDhXdEdrX2FCcEpfWXlyR3A2anVIRFlnQnB4YnFESU1ndE1fd3BFeGFKQlJPYm1QUEdlWWpGTi1vdVBaUy1BMURQeVJ5NS1tZ0hJ?oc=5",
+      "source": "Objetivo CLM Noticias",
+      "pubDate": "Wed, 23 Sep 2026 18:37:35 GMT",
       "imageUrl": ""
     }
   ]
