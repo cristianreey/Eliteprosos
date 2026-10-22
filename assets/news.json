@@ -1,7 +1,31 @@
 {
-  "updatedAt": "2026-10-21T21:19:17.951Z",
+  "updatedAt": "2026-10-22T03:35:04.870Z",
   "hoursWindow": 168,
   "items": [
+    {
+      "category": "Deporte",
+      "title": "El auditorio Fuxan os Ventos acoge esta tarde la gala del deporte lucense 2026 - El Progreso de Lugo",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPVi1Sd0pBMFZhSl9PZEpvOFJoVHdsOXJ5Vk1WcWdoTmE3M2dMV2YweU1LX0l5TVB3azJGelhHVVRMOHpWd21uOGpMYTVTT0dqOUJXbXluZG56Z3hEWXVCWVRsVy0xZ1BGZzRIYWI5ZVZIWTNISHhTT3F3Wmp5T2xLNEtKT19iY1QwZmowSGtSNWt2dmNJcDdFc21TaFEyQjNCcDNmMEhnMGN1OVZuSkFpd190amNyY1JwUFYzYXpyTS1Lb28w0gHKAUFVX3lxTE8wbHY1UFNacWg4R2VOdEU3akpWeERrYS1kdW5nSmNEMTVKZ2FkWjk4bVNKc19HNEZ4Y1lUWEhuenF2OUpQYlJEczJjU1hQTXlENDFiRExPY2FVWlBhMGIyLWJqekFIbG4xVHBTeS0wMnM5eEk3WDZiSGpsUXlqSXk2bWI1bVVySXJ0TmxuVnZ1cnBzOHFuZmtJVGVfLWktSHd2UV9WdUhjOTFmVlJISHRLUEZIbzJ5azdFSF9KVUNjd0xKWHo0TGJMSWc?oc=5",
+      "source": "El Progreso de Lugo",
+      "pubDate": "Thu, 22 Oct 2026 03:05:38 GMT",
+      "imageUrl": ""
+    },
+    {
+      "category": "Deporte",
+      "title": "El equipo de natación artística, en el desfile de Guillermina Baeza - Mundo Deportivo",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQdG00LWRJbmtYUV9uQWhyVy1wb2tBSEZWNHhJV0M1eWlmUlJ1d21pQ042ZlVVTU9uclFfZERYOWwzaUg3eFJKVFgwYkJDZU5UaWRqSHRXYmk3dzN6eGExdDFseFkwdXdlbmRNTFdRaHRKRmE1OWR5bmkzVU43eUxSVkhINmtZcUdjbVhYM2RFRGhQS3lvcEtfQVVBTTJFUEc1d0o0dGl6TERocmJTczJIQTVuaG5talJa0gHGAUFVX3lxTE4yYmxvX2ZDYlo4ZmJxTW85VzFKa3kwczNZeDVtUzdVSnZZVGphRGdHZ2JQOFRRUWd6NHQzY3dSWXRlRjlNUnJDRDUyOGZ4REJaNE83WWR3bkhVSzEya05yRU9mSERkeG9aY0lSYWdJZnBTNDRMeE5SSDlUc0FKOWE3ZHRfbGpiWjkxTkl2RjUxSHJUX1N2SmYtRnJqbm13TUFqRTh1T2tCRU1GQTBDcGYzeGpUbkg1MzdUWkVhY2ZqaXZiTDhRUQ?oc=5",
+      "source": "Mundo Deportivo",
+      "pubDate": "Wed, 21 Oct 2026 22:49:00 GMT",
+      "imageUrl": ""
+    },
+    {
+      "category": "Deporte",
+      "title": "El Melilla Ciudad del Deporte sella su pase a octavos de final de la Copa España ante el UPB Gandía (100-78) - Club Melilla Baloncesto",
+      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPdGZSWGo2NEp6Wi1Bc190X1h3VVVKWFg2RldZZ1d1c0ZYUmJEZG9ScVBkb21oMEk3R2xwVFVKWEpReTl4ZUloakc2QkwzbTFHZ0dnZWpuTW1hQUNyRG14RkFFQWVOaklJbWFjSUY1bTJOTmZhbjhraUJUODNVaHYxc0RsQ19yVDJYZUctaTM2QnZQOU90Rlk5dm8wbGYtZUNOV25YTnlaMWg3Y2N4dmVfZ2NTMGMxMk5lM0FHVTRaLS11MG14THFZaXZ6VWFmZ3Y3Tl9raHRQeVU?oc=5",
+      "source": "Club Melilla Baloncesto",
+      "pubDate": "Wed, 21 Oct 2026 20:40:34 GMT",
+      "imageUrl": ""
+    },
     {
       "category": "Deporte",
       "title": "Europa será epicentro de la Copa del Mundo y Campeonato Mundial de Natación - Mexiquense Digital",
@@ -28,6 +52,14 @@
     },
     {
       "category": "Deporte",
+      "title": "La Copa del Mundo de natación de 2027 se disputará en Europa - RFI",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNeFFMU3F5aF9oMGNYUVBGaFJWa1k1UmZBLWUtWDhfa1NCYVVtT204VDFRWnVzNExtX1NmVmpfU212LTlxZHRLV0VJVUtCSnUzNHdlLUVWUDVzeGZROHZLd2NacFVCWlNzWHFXX1hPRnNPcFdpRFRBaDhRa24tczZGRlB2SEFRMTY5RlUyTXFLRlAyWUc0WlNaeE1iQm9LVV8yREJYcnY2YzNnZzFubjgxT3dVN2c2WjE1cVBj?oc=5",
+      "source": "RFI",
+      "pubDate": "Wed, 21 Oct 2026 19:16:05 GMT",
+      "imageUrl": ""
+    },
+    {
+      "category": "Deporte",
       "title": "La Copa del Mundo de natación de 2027 se disputará en Europa - France 24",
       "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOOWNYdTJ2ZEZGTlF5Q0pRUktEbHRsODExOTZ3Ym52VWZVZS1OYmpablpFbklpTEE0SVRlZnpRTVctV1AxNTVqNnlHUUh6ZGhBT3VtVXZ5SHZhSjYwSDd0ZXVyNEpVbnBMVVd6TXh3Wmg0cmZVN2Myd0o2b3VqQ1ZNS05BYkFOUndLLTR5MUk2STktYS01WGxTVkxGSWVpX3NOamhpSVVWUk5fVXl4Q1daZ3R5alN0MTB2aXU4Z2RySzg?oc=5",
       "source": "France 24",
@@ -47,7 +79,7 @@
       "title": "David Bisbal se abre en canal: \"La música y el deporte me han salvado mucho\" - Diez Minutos ES",
       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNZVZ6ZGpDUTZYU2RtajdYbnJFa19GYnB2SEVBOEswTS1wUTMzOFBQclo5dVNOSHROUXNuOEpMM2JQd0ZTNHFlUUpnSWFSaTctbXl1b2xkRm0zOGJFa1pfeURpR3BxNDRwV01ud00wMFJmQkt1ZmdEajBseDQzdjZ3cEFEUFZwLVNJam5EMjctS0RWWEpmQ3VCdm1vaTU2SEV2S0tvR0tXYlU?oc=5",
       "source": "Diez Minutos ES",
-      "pubDate": "Wed, 21 Oct 2026 18:23:56 GMT",
+      "pubDate": "Wed, 21 Oct 2026 18:23:22 GMT",
       "imageUrl": ""
     },
     {
@@ -64,38 +96,6 @@
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOekRhdDFGTFlXVHJRZVdoNmYxS2tQazI0VDlMSFJSc1VNQWVsNFk3bnlXQlZoM1BsLUc1bEphdzBmSUlkNEZtNmhCODVHUVk3ZUFDaXlfeWl2WWdSZTdlUGw2d29aOXZVQ3hsS3h0Q0NHU0JsdHZ0clVRT2F6QWlDUURKcmNjQV8tVVFDc0ZhNHFTVHJETndyNHA2NDNvVlE0NXc?oc=5",
       "source": "heraldo.es",
       "pubDate": "Wed, 21 Oct 2026 18:08:52 GMT",
-      "imageUrl": ""
-    },
-    {
-      "category": "Deporte",
-      "title": "La Ciudad Deportiva acogió la I Jornada de los Juegos de Deporte Adaptado - Real Zaragoza | Web Oficial",
-      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPOFVOTG9vQnJsdnZhdFdHVlE3MjN3Um1JdGo0YlJIbzRtbGFWdUlIVmVTRlFJRGNKU3NFOHlOb1FsQmZzd1I1VDdsOE53OEh2a3N4aDRKOE82LWFfdkRzUWhyMkN6OTB1N1lfcEhMVFl2MEtYSngyV2NJR2dVWS1iMEtnYm9tVmYtLXpycVNLZjRrR3AyZm9JMzhNOVB3UENxblluTHNOLVBGX1lVUUdHbE05LUJHek1lV1dLYWtjQlBzVjR1UElMZ3l4QXNqMl8x?oc=5",
-      "source": "Real Zaragoza | Web Oficial",
-      "pubDate": "Wed, 21 Oct 2026 18:07:54 GMT",
-      "imageUrl": ""
-    },
-    {
-      "category": "Deporte",
-      "title": "Estos son los ganadores de los XXXIII Premios del Deporte Ejidense tras los votos del jurado - Diario de Almería",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPWS1odTBnR1EyRXNuXy1kN2dIYnNWc3VzU3FWME1mZHBLUUtFMFQ1MmZfaUdTU1FNY2o3Q1plWWg5Y3BsX0ZZaTUwZmZOa1E3V2hzanNWWjB4UFp3VjVpUjgwOEgtMWZkMzd3dElVUzEyYmNncFZmZXNqakJYcTEwdzNBbEM5Q1M4X0JMUk15dlJhRldYNzRyX1l5Y0p0bEE0a003OWQtSHhfaHZ6ZkwyZXpvZXdPTkdGQmV4TjRXd9IBxAFBVV95cUxOdElhcHVhYVhUOXh3cDhuMVhlNEhmTm1xSWJsZ2VoXzAzSDlvQkZ3NTg0azU1U2p1VWdBc01oWXZYOFFHd21QRXp4MENsM2NueUZNTXZOSkhrUXZkOEVFUVFxa0JoZDBqMWRjRHZ3RXJTek55QWJPMGVqYVJKVVl2MnZTUHhzVVRVcHVRdGRkZFhubGtMOGUtVkE2RzVRbzZtSHkzWmF2dHBvaTl5SnhPdm5MQTNINlVkUzVWM05zM3dkNlF0?oc=5",
-      "source": "Diario de Almería",
-      "pubDate": "Wed, 21 Oct 2026 18:03:47 GMT",
-      "imageUrl": ""
-    },
-    {
-      "category": "Deporte",
-      "title": "La Ciudad Deportiva acogió la I Jornada de los Juegos de Deporte Adaptado - Real Zaragoza | Web Oficial",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOemtHWUlQU2x0ano5NXpidzdGd1lXcjVhbU5VRUFqSHpCT0ViVUhjeGlienBVYThfNXRhWUluQ3dob3hNUVN3ZVFmWUdKM3ZhbFVkMnF3VXgzNy1EVkRQODcxYkZiN2JoTlpfWTdUSUFwRTNHXzItcklOQnJic0ZubTNLc0wxV1JyMVlhRXV5aV9TMDhVYnpEdVR1cmxzY0lzX0V3cGFLaHJtbEhSVlVJdg?oc=5",
-      "source": "Real Zaragoza | Web Oficial",
-      "pubDate": "Wed, 21 Oct 2026 17:43:15 GMT",
-      "imageUrl": ""
-    },
-    {
-      "category": "Deporte",
-      "title": "Gran inicio de temporada para el Club Natación Villena - Cadena SER",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPUlR1N0Rmc0xWWmhxZ1Myc3lCNl9LQlRPVUtUQVlTaU1hcW5HeFBaUnFYQ1Q4LUV2TktiY2IxSDIwUkJSeHlBTHpHSmx4dmhrWE9QR3o5bXJIMHRsQXhNQW1GX1RrUTE2cTJvalF2Y0VhOGhLaEhkNVkzU0JfYTFjbUpteUZzdTdtcFdGbGpBSXlndkRLX2swZk9sd2JLZVZCRHhpUWFjU1lDR1JSdUs4QVJOd1VjMTVWUUhXcTJCSTDSAdQBQVVfeXFMUExSTFBQZTZETnRWaVU4M3B5WnhwR3ZSS3ppNkVpejR2V1dONS02YjByNURnUkxxYkExaFZtZFVKZDhnT2M3ekVRUEt3cFptdktXdjBxTzdoTkItZE9TQ25Na3RPbGl1eV9sUHRQc01qNnZpN1plYXp3SGtVNWFxUUZWMzJpVlV0bjJIOFh5cFAtVEdsUGdpVmhodWEtb2JrSVRNR29NbG95THFsSEFCb1dkNk5RVFBzbTBjV0FMa3ZsQ2FWYXZ0N2ZXel9sWldFbXFrS2E?oc=5",
-      "source": "Cadena SER",
-      "pubDate": "Wed, 21 Oct 2026 16:38:02 GMT",
       "imageUrl": ""
     }
   ]
