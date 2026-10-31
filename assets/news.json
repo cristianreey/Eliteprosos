@@ -1,13 +1,45 @@
 {
-  "updatedAt": "2026-10-30T21:58:35.169Z",
+  "updatedAt": "2026-10-31T04:25:50.984Z",
   "hoursWindow": 168,
   "items": [
     {
+      "category": "Deporte",
+      "title": "El deporte y el ocio triunfarán en la jornada dominical de la Segona Fira d'Inca - Ultima Hora",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOWTBFUnZMYU1HM1hBckZqbVh0QW5uU2tVRUppUWxXZVJadjRORDJpclhrZUhBakJneDNJb2hfbEYwTXdIaDZMeEc5RUVYTGE0S3hkSTRzem93bVBON0pGQTdDbVZyQ3k4SkY5NnFwX05GYktEMzhlWklDU2JWMjB5WHNEVHNnZk94X044ZHdVWm90ZFRncTUxWGRDRkxxZkE4ZWRDM19yWEMtVy1lanotYzcyUmhlQTBqd1JtQUFab1MyRnpOb2ttdQ?oc=5",
+      "source": "Ultima Hora",
+      "pubDate": "Sat, 31 Oct 2026 03:46:40 GMT",
+      "imageUrl": ""
+    },
+    {
       "category": "Socorrismo",
-      "title": "Impulsaron una jornada interinstitucional de salvamento acuático en la costa patagónica - noticias.santacruz.gob.ar",
-      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQekJJNGluSW9YVEZKLXlJc2VJN3hvYkdRN2I3WXBQempXZXdTNE04WDN6cVJwdXY2X1BSTXppOTRoUUlhSE96UTZJUFVhc0lPQ005YUhoYWFxQ2JyNFkteHoyZ1lEdE1mRE9pNDdoZjUySy1IWUVCLTNEMGxpMXNNWEQ3cnNYTzM2WkEyV0JRempIdWs3RU11WW5wZjdwYTBzS0tNRnNlbFl2eWNRZ1EwNV9hMURPZUVhQzF0Y3JTamxZa0RjTk1IZzFqTlUwVnJ0ZGQtV2FaTGUzUQ?oc=5",
-      "source": "noticias.santacruz.gob.ar",
-      "pubDate": "Fri, 30 Oct 2026 21:01:38 GMT",
+      "title": "Guardavidas en Caleta Olivia: realizaron prácticas de rescate acuático junto a estudiantes de Comodoro Rivadavia - La Vanguardia Noticias - Caleta Olivia",
+      "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQVmpEa0tLemJ4UEF1UmxWUERVT0hRTHlUOGF0THpwQ3ZvMXhIaExsZEl1NGhMdV9tMmJxN3EtM0xiekVTc0Q5ZXhmMm44V0cwZ3Rhd3NQOHNLb0xnZzliZzJBa0NhMnplTExuTUI4YXI4RWJiZTZqeUh2V19ZZmNhU2xmVXVIWEhmbEZVUl9hRDZxR1hXd1hJR3JhNjNoa3JpbUNKTmRzZEREZ0pTaEhrcmJyaWdNeE5DUHNZNmdQZmwxcnAyeXpqOW90VzBTUWR4WG1vQ0pSRXNJem5GLXhJOUktQzdJbU5Cd2FiZHU5ellhck1KNmQ4?oc=5",
+      "source": "La Vanguardia Noticias - Caleta Olivia",
+      "pubDate": "Sat, 31 Oct 2026 02:10:00 GMT",
+      "imageUrl": ""
+    },
+    {
+      "category": "Deporte",
+      "title": "ExpoDeca toma Las Canteras con deporte para todos los públicos - La Provincia",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNdHItaVpCQ3pfTkh4MVdBM3pVX01iYlo3cDMzU1BmRnhDaFpHY25fT0JpNTJDQkl4MnNuQUhqMkduSW1wNnRDaE5VZm1GYTd2YlBmSTFPUjhmV280dmkyV2hXYXo5OU5fREhuaGZLZWRRaEtXLTBMZ2tLWlh3a0l5TWRvSlRhTkhJVXhka0d0TWEyenNtTGI1amI4SHA4U19hUTlzR3VXSdIBrAFBVV95cUxQYTlyaUJUaWt6Z0N4ZF84OF9TVnZCM2FrRTZCVERQNHd6Wjl2OC1ISC1oZEowRGpQdHVnMUNVWjF4ekwtZHhBQjhhMHByUk5VRWd0Q3A0TUQ3bnI0VE9OU1dEd3FOa3R1U215VmZSMkVmZTl4NWIyUThGeXJsSTBnbzItXy1XYmo2Q0dpT25IOWlQMGZzV0N1X2dTS3ZGMnBTaFB2MzlYTWh4SjJh?oc=5",
+      "source": "La Provincia",
+      "pubDate": "Sat, 31 Oct 2026 00:00:25 GMT",
+      "imageUrl": ""
+    },
+    {
+      "category": "Deporte",
+      "title": "Primer caballero de Costa Rica, Jeffry Umaña, impulsa acuerdos con Italia para fortalecer el deporte y la infraestructura deportiva - Infobae",
+      "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPRF9oa2prSTJwRFNyWFc4WWdaRnBFWjhteWZEN2RieVNRUUtfVHFuaXJVRTFYU0d4R0YwQW1Vczhza21YQXJ2QXFveFBoRF9EWjJ5cVdTalJvU3VZclVxR1lacXlXd3VtbldNTElKandhSEozUC1PTzJxbnI3QVdDcHpYakdMSDF5enpjYVdkNlNqM01RQ3NnMTRBZEp3UkVuYW40SFpmWHFkQ2RrY2RjaDRnTkctNG9vQzNOakhjUVY5aW1MWTdtTXE3R3pCQXFiczNiZF9NZlpWcUd3UjF6T3BheXNQVVhrVmNWaUFXN3ZJV3VtNzUtME94ZlhtQWw2alZTOUdvQdIBogJBVV95cUxQRzdnYnlhb285NUtJT05ZM2hCNDEyeVJMajA3cTlIYS1uZDJuZjNncFRwT3RwYmxRLUNFeWdZS1dqdUJ4V0FveUNFenEtSVJCUGVtQm5FaFUyUEJaTlgtVmtjXy1oeDBFTmhQRDJsSjEwLVJCLUNyRmozLUNPdG1WU0VfUzROYkUyNDJvdm52YTN1aVZJeVNlU3VjSHotNHpETTNfcUJSMzNvZzROQWY3cko2a3FNZ0Z1bk9zOVNlZmxtM3Jta2NPMms0N1ZabU9ubnJLNUduWjlJS3dsS2xzUFR1MDNCaTlhZ3dHNTFmMTR5NEd6V0hjcVZLQkI4RnRqdmV5WUdKRGF0OVV3NlJya1N0T2RLLVFUY255Zkd2YzFjdw?oc=5",
+      "source": "Infobae",
+      "pubDate": "Fri, 30 Oct 2026 22:23:46 GMT",
+      "imageUrl": ""
+    },
+    {
+      "category": "Deporte",
+      "title": "El QB de Colorado Julian Lewis es llevado al hospital mientras sus compañeros lo apoyan tras una emergencia médica - marca usa",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQSmJNeE1qX21hMGlFZFNwcFNUOGxWYXNha3BJanVLQnUzVFY4MlRhaVczczVsVnNSUjFYU3Q2T0FQWGFrNHRCMmQzMnBoUnNYNTMyT25VRGFXYTdNRE5WVFpqMTQ4T1lYNngtclhIWVJLcHdIYlh0V25BWnFMLXRwVEQ2bkxsRTBCZWpxdHZyaW1YVEItYVlmR3JUQ29qMl9tRXdrV2dsRnFHWUstOGR1dWlieGpnU2dMT0lJdi1oeEZTN21f0gHKAUFVX3lxTE5EcXA3M083RmNQazhCNHNlWXQtbG5ub09LNG9TbkM4UHVzZTdFNnRaTy12N0NZNXVHRVJFVmJMWFVVRHFKa0pvYzFLYnJWdUFaM1N6cldmT2g4Ry1mblVSal9uMUlTaTg0UWxoT2pOaExlczRtcUlSUUtHLWlycFZTeTMxT3JTc0oxZlhGaWRNN1lremtvSmp2aHdDUnpHTzBVZ3NHYzU4WnR6emhWODRuRUpDVXBxWkVaVnpDVTVMQnoydWR6MVF4NVE?oc=5",
+      "source": "marca usa",
+      "pubDate": "Fri, 30 Oct 2026 22:23:02 GMT",
       "imageUrl": ""
     },
     {
@@ -27,11 +59,11 @@
       "imageUrl": ""
     },
     {
-      "category": "Deporte",
-      "title": "Viajan diez seleccionados al Mundial de Natación para Personas con Síndrome de Down en Portugal - Gob MX",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNMk1FR3FvVGEzMU5TbThac0VSaVZSUnluVktlbm9QSXNaMHp3eGtGNXdqM1ctbVY4UEYya2FzbWZCdmllLUtEQldOZXB4aC03NW5RVFpodzBwbU9BTXQ2ajRMZnpKSlE4RXJhSFB5MHNZLVlMUVQxUGIwRHYzZkhJYnRSQXE5Y3NTUjBHVEFUaUJSVTQwT1RMek80STlGQXZ3a3VJUnR1WEZLMUgyMFBCM2RxNi1WV0dFZUlfdWk5YmNjNTlneDdv?oc=5",
-      "source": "Gob MX",
-      "pubDate": "Fri, 30 Oct 2026 18:41:33 GMT",
+      "category": "Socorrismo",
+      "title": "Muere persona arrastrada por arroyo en Guaymas - Diario del Yaqui",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNZW8wTkZ6S3VBM0huR0xyZmJ2TlRsTXBwSF84VXFveC1Gd3lMVkRzaXg0ZDFLdV9zcDFDZEt5LXhNSG1tM3ZxRDJWTjVrZUl2ZnhNUkYzZmxybjZrX0RUMkt1b2dsSDN6Nm9NOHBVb0JLR0ZMRncxWThVM3hmLU9JUE5TQUloeUZkSTRzRUViT1dlcUU?oc=5",
+      "source": "Diario del Yaqui",
+      "pubDate": "Fri, 30 Oct 2026 18:44:25 GMT",
       "imageUrl": ""
     },
     {
@@ -52,14 +84,6 @@
     },
     {
       "category": "Deporte",
-      "title": "Franco Colapinto reconoce que la Formula 1 ha unido a los latinos: \"Es algo que no ves en otro deporte\" - Diario Las Américas",
-      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNOU9QeHNWaHJGaUc1em93NHFWZktpUlNUb19TbVUzLUxtbzdhdEtMS1h3VWs0NFNfZFpIelhHeU9GRmxUNjRGam8zbkxhNFFhVnUzM3dMdXM5eXFkUGZ5UzJRSk91SEVrUWdkMVVtY21rMnlpYmd1THo2SE5FT0dhdV9KY1Brb2pta2NYaFVKelloVzk3Q3hCWEpFNEpkSF9rcU9sWTlGc0hvX3lYTGRfS1k2ZzFqZGZlYkM2TzhRMTI1T2hCcjg5Z1d1eWFqNTRGVHhGV09iaDI2bUQ5Nmw1LdIB5gFBVV95cUxOdTFjR0VSN2RMUGE1UkZlU0hvRS1QZWJNT0JWWjhwMHRwZ1RoclFySndRLUtSc0N2QkxZOERXN0M3WkduWjJjRWcyRlhtbHoxOFJCWnhRTl90OGRaYkxkMmliMFlPR2haQ1BQTWNKOHg0M3RTWE5MbHJfYnllZmJ4eHplVUdQX05FTzFZWTZ1ZnowdTRIamVzWks2OUxmeTB3dHVIZ1ppb0xVbU5mRG5fNmlGdVVReVpuTHFuZkRnNEo5R0NfZFFyMk5aMGZldm9KWGFiTGM2SEJRZDlqeWNWcDg1d0pTQQ?oc=5",
-      "source": "Diario Las Américas",
-      "pubDate": "Fri, 30 Oct 2026 17:41:00 GMT",
-      "imageUrl": ""
-    },
-    {
-      "category": "Deporte",
       "title": "Deporte para el cáncer de mama y el daño cerebral, en el 37 de Deporte para Todos - MARCA",
       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQeFdsd05tUFAzME9PRUw5RHd4OUdDMjY1aVJBTzNHa1YyclJRS2N3dng5aEg5d1M3WHFxQ3BHT1dhSWhTTFItTGhBNzBxbHBWTUszVV9tcjNSYVcxQjVnMXlabl9PeHNCUWRIaTFPTVIwM1ZTVHZNQ1A5Z0FsQ2E2RjEtdk53Z2UwMDNsR1BKMk5LcEhWcXp6aWxn0gGaAUFVX3lxTE1WOWhaT0FUZHN6UXhHMjBwUTV2Qms5aGR3ckVabWRhZjhrN0RNdm5jcW5IYmgxWXVKNG1NbFFfVHhRR190dE9ZaUxwUS1xaWkzZTVpZXF5WExxdEFlUjNSTEpxVUpQT3hoM3A1R1lldnlrS0dJc2Y0VTA1bEd5dUp3TTI0YmhSTWplQkRCTTB0cmV4eHNfdXpua0E?oc=5",
       "source": "MARCA",
@@ -68,34 +92,10 @@
     },
     {
       "category": "Deporte",
-      "title": "Los Premios SER+ reconocen la labor de empresa y de deporte - Ser La Janda",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQMm9NWm44MHdTNW5fdlR5U1lwMVRIRVVNV3lGUDBpQl91V0k4c2NUU1FFam5ZR1Y1Y3g3ZHV5azNBRHdqLXdHaXJZLUlMelNYSUNkSC1JTXNCT2RuM2YyWTNpdGVGX05CZjVCc01uVWZ3N3NjN0N2S3pmdm4tV2x6THFZX00wQ2VqTnc?oc=5",
-      "source": "Ser La Janda",
-      "pubDate": "Fri, 30 Oct 2026 16:08:05 GMT",
-      "imageUrl": ""
-    },
-    {
-      "category": "Deporte",
-      "title": "El mejor triatlón de Europa se cita este domingo en Ibiza - Noudiari.es",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPMUYwSVBqUElVMVBiQzBJek1neEdLMmRfVld4aGY2TGRrdHhzUE5pdjdTQXRrSU4wekg4d1F2b3NiTHBRaFBoRWVlNExSUE9sNnU1dUhoNjd0b1FtVmowMzk5ODFkV1dYNXhFT2JDY2NGa1BsMjNMemo0MldzRW9sbTV3OXhNUktHZkFNa2c4R016d2djNXFBbnVWN2Jrdw?oc=5",
-      "source": "Noudiari.es",
-      "pubDate": "Fri, 30 Oct 2026 15:20:57 GMT",
-      "imageUrl": ""
-    },
-    {
-      "category": "Deporte",
-      "title": "La Copa de Europa de Triatlón provocará cortes en la carretera de Ibiza a Santa Eulària este domingo - Noudiari.es",
-      "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQbk9lVmVKb2s0T1ZNQWh6cl9wSGZ6N2E0LU9GN3JCYkJvNzh3Tll5QUItVWdkbVJIaU5GV3E5TTlVV3E3QmdZMXp6LTJldFc4bDJCajRhREppVG1XZXZaMmNtREx3bm4zQkY3aUN0ZkVtckt0NHB1LTRGdnNqcGhnRGpuM2NkZnVsZTRzLWlGeFg4Z2V4UzdwVVNJZ2E2a3kyVkJCUXBzZmY3eUVfbDJRSncwYkliX1gxYzU1emVEQktPaFNKSHRaZTBSZUVLU0VtSmQ0ekxSU1pyNlpDb25mV0VWRl81QVpqMk5WcmxOMUQ?oc=5",
-      "source": "Noudiari.es",
-      "pubDate": "Fri, 30 Oct 2026 15:02:18 GMT",
-      "imageUrl": ""
-    },
-    {
-      "category": "Deporte",
-      "title": "Dejan Ojeda, el joven entrenador del Rocasa que ha conquistado el balonmano español - Atlántico Hoy",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQUFJua1EtM0lydll5NWJNVENaa0gyM2U0UFVlSUVicUpaSElMcjd0Uk5BMHA2eVhyeEZRaDlySmJpeFFMTWtYWUk3RGJpcGN5VWtWTlYzdkRlcEJERG1HMVREeEgtc3BvVVUwYXNQN2M2OG9ZUWg2VU9yRW1ZUERaNE1hNHY4ZGs4Tl93NTdJQ1o1OTUxRDNyLWFXU2FSRGU2cVRDY1RQX1NQakEyYXgwSWQzTVlkY0YxRlNOUTRrTldNV2gy?oc=5",
-      "source": "Atlántico Hoy",
-      "pubDate": "Fri, 30 Oct 2026 14:40:00 GMT",
+      "title": "El deporte que la Fira de Tots Sants de Cocentaina mueve, protagonista en SER Deportivos Alcoy - Cadena SER",
+      "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOVGo3b3YwUEVYRGdHdmNfWlVHUVJHMk9sTXNmaGJta2JMUklaOW9uVDhCZ3hWbHZiZVFDZkdMTmNvcmM3QTA0LWlFNlpidzJwNFFnR1o3amZPdlg3dW9oLUFmT0tGTE51a19SZGJhY1B0VUZPTUJLZ2REaEQyTHh4bjljWWt4WVNHaFlpMl85Q0tta1I0MWlrMVpleFdSTEdIRnpKS1huSHhmamk4SDY2d2tpMmxRbEwzS2dEOEh0eExTa2RKRlVudVV1anRxMmFYU1pYdEh6ZDIwaDJmQk03MFktMVY5ZDJzcXBFWjVheUdMQdIBhgJBVV95cUxPOFdtaEZjUTJxVWRQd3I4VGRqRU9QeUdBZVZmc3Vxek5xLTEyZWhzdE5iMzBTT2FBUzBMQkhXTXJSR0dmSldKWlVOc1NidmFwN0gyREVCVjIycTBOYTY1RFFoQzBfVm1nRl9ibW5vbGlaN3FMSUJHOVQxcjVuaExyMzM0clBKYjEyVnpvNXczMUZJOUZoNzZrTlF0aHdxcXJSVHROUzh0aTJRamVGRUhLZ0xhbGJ5MzBpd2c4R2JBQkVHMFUySVk4aVdNS0hPX3RBYXRFYTlPRFJzTEVHMVVXYkYyOGZfVkF0cUhXT3lVU3o5ejN2SFhHV0xsb0RKcUxnUHlrMGd3?oc=5",
+      "source": "Cadena SER",
+      "pubDate": "Fri, 30 Oct 2026 16:12:00 GMT",
       "imageUrl": ""
     }
   ]
