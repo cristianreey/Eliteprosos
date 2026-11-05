@@ -1,7 +1,87 @@
 {
-  "updatedAt": "2026-11-04T23:16:46.023Z",
+  "updatedAt": "2026-11-05T05:28:32.916Z",
   "hoursWindow": 168,
   "items": [
+    {
+      "category": "Deporte",
+      "title": "La iniciativa malagueña Play in Colors, premiada por unir arte, deporte y comunidad - Diario de Sevilla",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNeFVsbUd4SmRqUVpRMWgwS3Rid01KU1VoMUt2d3RSbWxsVzRVQ1kwS2g5SXBCbWhPWnZTV3U4aXU2djdmcm9JSWVGY0dTcTJNZkV6VTRPZGVoMW53NWVwdG1KeEo2d1N5UVQtMWI1TFlVUWFFYjRTcmxIaXNSMjBIalJIWFFOMDdpdG9YWjY3czV2SGRIOXc2UnFBMNIBoAFBVV95cUxOdGdJYXFTNzFhR3NPcUsycC1oamRUZDdXMVctMmhoanBUTG4xN1VoOV9NNmhUajNsRVBLZzhLYWdNRkdUelFQY3RDdU83Z20yVnVDMVVKMjl3RDVZV2NhbkRsaGJHTzJWMlhZdEM3UFFwS082a01hd0JFVFkzb1RFUlFaeVU0aVB5U1hMS3N2SEtOYzZjZVNPU3V1Tk5TSVBx?oc=5",
+      "source": "Diario de Sevilla",
+      "pubDate": "Thu, 05 Nov 2026 05:01:07 GMT",
+      "imageUrl": ""
+    },
+    {
+      "category": "Deporte",
+      "title": "¿Capital Europea del Deporte, para qué? - El Periódico de Aragón",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNNUZrSlVBMjBVT1lIMEh2bTdGX1JjRjFGLUZGQnYzei1YMklnb052V0w0cDZIaXRJQmpSOTJjRkhDc1h3RVlrNlNaeFl5aGtucnl1MEZtTmJzd3dsZ241QW9VNmthQkJybTdWaG9UanBUUWRLYk9ldzIycnliTDJWZHFyNmNuY05VOWYzUzhNNlhYUm1UZ1hYdNIBngFBVV95cUxOcHdQZ1hDQnIwNV91Nm1OZjhfRVVCUWdzNHFxQzdqSFdDQUxrRDZ0RFZFM3V6Mmg1X1A4bmZEaUZxWDA1ZjFyTkxnanR1eXVSc1JIV1gzUmQwTEZVdTFWY3JZN0RGLXdoVVJrejNZT1Q2dUdkZlJOVHhFdnpaeVBiVGpqU01ELVhfamZiV05zWmlwU01PTHFadHdIMS1yZw?oc=5",
+      "source": "El Periódico de Aragón",
+      "pubDate": "Thu, 05 Nov 2026 04:10:37 GMT",
+      "imageUrl": ""
+    },
+    {
+      "category": "Socorrismo",
+      "title": "A Coruña acoge la tercera edición de las Jornadas Técnicas de Salvamento y Socorrismo - DXT Campeón",
+      "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxOS2dxYTBWZFNoWEo4Wm0zc1FONjZPdnZodjFMUnVROGpaWjBJdVNjemIxWWw5QzBCd3E4eTAxM3hOcXFvUUhKY0dzYjE2TUhNSlBrQWRuRXJEVlMxLVBmWkF4YjNLaE5pbXo0bXgtYnppcllJOGpkQmxCRWdMNmNlSzdRbG50Z2EtWm5pb3BJZVVHYVJFQUhRRlotSTA5eUs5d0Z6dS1lV3RpdWltRzlfNnhLXzJrX1FydXBUZTlfY1ltMFNUV1BSbGR4UlE5cVk5SnczWG9jMzlxYWxPNzBJTVpIM016VTdkOGx4Z19Cd0JTVERTMkgzaEpYVV9jR1U?oc=5",
+      "source": "DXT Campeón",
+      "pubDate": "Thu, 05 Nov 2026 04:00:00 GMT",
+      "imageUrl": ""
+    },
+    {
+      "category": "Deporte",
+      "title": "IV Congreso Internacional en Ciencias de la Salud y del Deporte en Huesca - Diario del Alto Aragón",
+      "link": "https://news.google.com/rss/articles/CBMilwJBVV95cUxNTWR1eVZ1R1dXRlZUMkljbFFYb2tpT21wVnF2UWVsVkptaERGV0Zqek1OYTBXNkNNbmVhdl9ZWUpVN19yQndzVXM4dVY2c1F2TzJjOWtzQWZ4TG9SMFFzOXJCZk90ekNaem9FUGNGU0RERkRKNnlWcEZOT003NHE3Tk5FNEFlZzI4TjlvckRPa25TcUVZY0g4cEx2cEtsclA0VW1JVWJJUXl0ZWhGOVdZMzFSMk85Qzh6NzBxeGRTOVpmRTduUmo5Sk5hc3JBd1Z0NWpwbkxaTTFhb3diUTViY3J1aDR6aS1YTEpkZGJHV2hib2daRjlyeHhSZkZjR1NLTElIWlhrV2VFbHVQdEpYZTFVcUV0MEk?oc=5",
+      "source": "Diario del Alto Aragón",
+      "pubDate": "Thu, 05 Nov 2026 04:00:00 GMT",
+      "imageUrl": ""
+    },
+    {
+      "category": "Deporte",
+      "title": "Histórico puesto en triatlón - El Tribuno de Jujuy",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQZFIxX3BzdEtUTjJ4cXY0LUYwNnpMdHZZc2RzdWMwNzVfejMyT3VCd3ZrZEtxY1RrVDlHY0pqWVlBYmI3TmozSW9sMVJ5LXVTUWxMbzNPVUc0MTBTOS1aTktIUmwzZEQ1LW5UU3RlVTVxVy04MlFndkpfUjcyWWU5WmJSNHRTb2locUHSAY8BQVVfeXFMUFpsWWk3NnNmbXhxb0RsbjEtSHJnYzZ0VXAwaG5sUmNHREJkM1BzcEJyVXl5SlkweXFoek5Bc08xVWlXS2VHRkNRTTZiZi1aR2oyMUh0ell6ZldIRk9WV2J6dGtfazFKYU1iT2VUU2xXMVJCU2o1QmhPVkpvamgyT0lSTkU1RXUycDRtVTNlQnM?oc=5",
+      "source": "El Tribuno de Jujuy",
+      "pubDate": "Thu, 05 Nov 2026 03:02:26 GMT",
+      "imageUrl": ""
+    },
+    {
+      "category": "Deporte",
+      "title": "Bernabé Cano se sienta a la mesa de los grandes del deporte español - Plaza Deportiva",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQVWthc240R1g5Y0JwcFY3N1VQR1U4cTkycV8xLVBNeTJqNmFoT2ZzUU5DTWFpNHpfRHpiNkZ6enRsRUtUei1LZUNOem95eUVtY1NadFZMd1FNcUNJUjYybmtIV3VIUzh4NzN1aXVpTlpnck9VdTRablZoUXJOZGJtTV9BdW1scEZQc3EzZW8zNjRmck96c3A5MTc3X0RYS3I2MktTTWhHV29lZURNeHFGbGdtdERxZVhnc0VEbVQxVEsxcWNmRHd6UUFzeVJ5a0RkLWV3?oc=5",
+      "source": "Plaza Deportiva",
+      "pubDate": "Thu, 05 Nov 2026 01:42:46 GMT",
+      "imageUrl": ""
+    },
+    {
+      "category": "Deporte",
+      "title": "5 entrenamientos de natación basados en tu velocidad crítica para preparar un triatlón - Triatlón Noticias",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1hNy00VVdZbHFydlFZMTRJZXd0RDU5OGJRRDNnYlhvaWlPcGl0YjRlMFppYWdWZVdFd3ZlSFZYb1BpYWVSZ0FMd0pGcUxUZXpoMzhqVw?oc=5",
+      "source": "Triatlón Noticias",
+      "pubDate": "Wed, 04 Nov 2026 23:51:44 GMT",
+      "imageUrl": ""
+    },
+    {
+      "category": "Deporte",
+      "title": "Béisbol 5: Qué es el deporte en el que México ganó bronce en Dakar 2026 y cuál es la diferencia con el tradicional - Olympics",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE82bGx6bm1qLVhXdTA1NUJVWVdidzVmemtwVlR0d3VKSHU0Uml3NGVDbktiNGpoWEFoQ2RrY29JN2RjYWpIMWMwSHVXMDFzT2lPcTd0T3p2TURwZ3hNMnV0UmgteEMxTFpzMEQ2Ylc4TmdDeUtMZ2xXOFVnWUtfZw?oc=5",
+      "source": "Olympics",
+      "pubDate": "Wed, 04 Nov 2026 23:48:00 GMT",
+      "imageUrl": ""
+    },
+    {
+      "category": "Deporte",
+      "title": "Duelo y entrenamiento: cómo cambia el deporte tras perder a alguien - Planeta Triatlón",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxORkZZVjVTcE5jN25FalU0UnNlcy1BcGtmVjBmUzM3ek4wbzF2bWxJaVQ0VWNIU3BDSkxBS1A4UkN0cGVQWDFvSWhTWENubU5hY21GMUgwbFpEXzBhdUdnQVpBeXRRel9rRkpOV2xVNUZQY3BvLXlUV2N2ZElGdl9hdnZJSlBHTjEydm9Jc2hCZVI4MGN0c29WV0Njcw?oc=5",
+      "source": "Planeta Triatlón",
+      "pubDate": "Wed, 04 Nov 2026 23:18:24 GMT",
+      "imageUrl": ""
+    },
+    {
+      "category": "Deporte",
+      "title": "EL CAMPAMENTO DE ENTRENAMIENTO DE NATACIÓN ARTÍSTICA LIMA 2026 COMIENZA MAÑANA Y REUNIRÁ A 20 PAÍSES EN LA FUTURA SEDE DE LOS JUEGOS PANAMERICANOS - Panam Sports",
+      "link": "https://news.google.com/rss/articles/CBMioAJBVV95cUxQQ0FCakRFeGl2UDM3T3NnYlJyNTRkeUVMWGJhWWZWY2hlRUZhQnRiNldSZUFKRTZtRURyOVp4Q1NHTjhmc0gtcGtfenhHUVJvdGNLMXVQRXNFd0FYcURFVXRuMnF6bWM5dG1ZX2FLQzZKLVBjQXI0OFhNcmNDRm5kZVdKY3VuVGxINFhzd1VkTS1QLXFhT2hsaTkwUm1XUGZXSVpSQVh6ckI3V3ktNW11Rmk3cWl6WVdXT2Y5dTNrYXp2Yms3ZnFKRERucGc1VVhZWHdCR29nYnpFdDM2eEU5bmVDSDhOMTBsQUM5WDk2UktSZHhhcDBuZUZRVWxpTEJBUnBGdjZVVFBFLWhUcVdncVdxeXJwbV96S2IzYURGU20?oc=5",
+      "source": "Panam Sports",
+      "pubDate": "Wed, 04 Nov 2026 23:13:40 GMT",
+      "imageUrl": ""
+    },
     {
       "category": "Deporte",
       "title": "Joel Álvarez, Kim Ángel y Blanca Hervás muestran la cara oculta del deporte de élite en ‘Lo Invisible’ - MARCA",
@@ -16,86 +96,6 @@
       "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQYVY2Y1E1ekZuVVBjSHdySjJsQ1MxSkFsam80OFdxcHFHY3FBamdHYmUxRUpkN05JeXpfVjdodGZIM20tNDMwb2lMaENTNlV5UWMtdGQzZWlXT2F1MW9mMjlkWGRUMGU4dnBmaFhnSU1xUXN2SVlER0F6dHlUVWRQWXg4bDNnVTBlNWFwdm9DdjFfT3p1bkU4SGJmeUMycWJtVzd6NTRwbkhGX2xxckwyeWVQV0dET1BBcjRXWQ?oc=5",
       "source": "Onda Regional de Murcia | ORM",
       "pubDate": "Wed, 04 Nov 2026 22:55:24 GMT",
-      "imageUrl": ""
-    },
-    {
-      "category": "Deporte",
-      "title": "El acuerdo de Caitlin Clark con DICK’S y Foot Locker conecta sus recuerdos de infancia con una nueva generación de niñas en el deporte - marca usa",
-      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPeXVaOWhKVUZuVDZGTlBhM0RmX1ZLRVEwbWVtVHpDc25qYnl2azRRSWFyZ2JLdFpjNDJ4U3FPMlJ3SURHTEZndkRpeFFieW0tMTE4bjdsendFN24yVjh2bHdyUmhwSVJ1WkZGZXZqZ2RadHZWSmpBbktwazVycGZ4dzVEaW5PWm95OXptNG9IRnloSkZneGNTVlRna1Q3YzZyaG9vSzJtVUVwLU1JcHNTUWJjVFNmQ01TSHBTZ25PX3JrRjRpLVUwWmU5aTJPb2F2VC15aU9XT0ZlZzhjUHJJ0gHkAUFVX3lxTE1VNnEzZHd1Tm1CX2tiMnl6dTlkbnBneTE2OURtNlBNQXFibTBTTEpjc2ZERnFYQjVTVWxyTjFHZVRMVTBjdXlVU2RJZTR0dURnLU9tLUplSFNRRkgxVFJUR2lYYWFBbXYtVV9sSkZ2V3NvNUdoMTZkZlZEWWQ0RFZLMkFUVVJldzNTQzFlaGZleE5TR0xXMHZObEJqUEptTVk3R2ZiNEp3ZkZaU0htbnRiVk54UEhNZVRfclUwNXpRcTA5cmpIY3ZHYlJ1a0QySW9HWl9iWmRySUdPdjY2VGFiejMycg?oc=5",
-      "source": "marca usa",
-      "pubDate": "Wed, 04 Nov 2026 21:10:40 GMT",
-      "imageUrl": ""
-    },
-    {
-      "category": "Deporte",
-      "title": "El Natación Ferrol se sobrepone al exilio de Caranza siendo tercero - Diario de Ferrol",
-      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNc1FNLUhzZWJhbWZtVmRoOHplcTZ2UWtqYS02ZW5aVHZZLU1xVTdseFVWejhIMTdLOW9DNmJtai1fRGU2MFVlMHhhM0dnLWJ0Y1pIc0ZvTFotVWt0QUNNdFpDRm1ETF9VdnVWTnFlQ3FUa083OF9hYlFwaXE1UGFCVmxKVVFHTG4yN3VzSzFaaVZzYnhGOXhMc3ZXWWZabndNcTJXM1R6WkNuVjJTR3NpMkVjMFBqbHJRMy1Bb2dBZVZDcmFkdTFRVlU5V1RnUVNvemRGTnJCdVJZWmVUbGJsdHhIRDBndWtv?oc=5",
-      "source": "Diario de Ferrol",
-      "pubDate": "Wed, 04 Nov 2026 20:37:16 GMT",
-      "imageUrl": ""
-    },
-    {
-      "category": "Deporte",
-      "title": "Joel Álvarez y Kim Ángel, más allá del deporte: ‘Lo Invisible’ - Diario AS",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOV01SUTY2cWI0akI2RkFxYUw5Y2RfMTJla0lVT3pJZ0JJd19vTnVRUjRrWDExT0NxZDB5UHBNREwxSklNT3lJSndKTHhYNnBaM25SeEpweVY1TlM5aG5NY3gzWkRNQ0Z4TFQ3SmdJaGlDcFB0a0Iwd0QwZDVnR2tvdUJrYVItWjZrclc0WHhQZFVXaDdxaTRta1UydGo2elZualVBcWlhV1h6S0lETEHSAcIBQVVfeXFMUGVaVWFVOVd2UTlDTmhJQVc0dkpTZDhTRE9Yb2lyYUNJcjdrUUFZbzNHMDhKMXZ2NTR2NzBxT1V5S0JjSWpsNm1XakxueEZOZVRDQmpPaEctM0txcXAtWkhVaHVqeFFoOHNEd041bWZCV25yTzB2WDloVllDTzBCNldOMDNoRWItbjJSUnlmb3d2TXdtTHEtX2gxVnlaMHI0MnQwbXlQM2lTU3VWNF9YeTNzbERtOVBTeDFrZ3p6MU1SN1E?oc=5",
-      "source": "Diario AS",
-      "pubDate": "Wed, 04 Nov 2026 20:31:21 GMT",
-      "imageUrl": ""
-    },
-    {
-      "category": "Deporte",
-      "title": "La Fundación Caja Rural de Segovia apoya al equipo femenino de Triatlón Lacerta en su objetivo de ascenso - Segoviadirecto.com",
-      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNb1NFejYycnJUUUFVcE5CQmN2LXhkdERJUlYySkhzRjA3Y0JHUENiTXdEWmdDbGptX3FZV19jSVdEQ1pYWG5zVUpmaGJDRWFXMXRidkc3UlVrWExCN1AyN1Z5UkZjUzVDVG1SdzFBYm82SUxHaXNWQTNBcnFUMmhqN3BDUTcwYkxELXhxTDQwVjJOT2RhTVp6RWQ2MFdsSWIxMGUyUUVFUXhWVkNuVlROaWpqZ0pkcjhUTTExTzgwN0thU2tkVnVKejRJeGxUc0tHTkM5ZFRjMmo2QQ?oc=5",
-      "source": "Segoviadirecto.com",
-      "pubDate": "Wed, 04 Nov 2026 20:21:53 GMT",
-      "imageUrl": ""
-    },
-    {
-      "category": "Deporte",
-      "title": "El 19º Premi Dona i Esport reconoce a cinco referentes del deporte femenino en Barcelona - Ajuntament de Barcelona",
-      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPZXMtZFd6bk5YeFJFenlwdDV1WVJUUW9Nb0EtNVlpZ2xrLTlQaTNMYlJ4TzJpRW1ETzJOcWk4c0R1VFJyQ2JUOUdvazBwbldXcUNBVFdScmdTX2tHYmFHaXFFbU5Gcm11TU5EYzRUTXlxeko1V19LcFlEeVR6LU01aERHS2o1UmpIWmhXUDY5VVJrbEMtNm5PUFQxbldhX0FXSG13bEZ1RkwwNUVZcThIUnhoNkVEcThONWtRUzlJVnNqOFdGc25TZGlZeEREV1pTN2VpbEdfQkNYN0FGaGo4?oc=5",
-      "source": "Ajuntament de Barcelona",
-      "pubDate": "Wed, 04 Nov 2026 20:20:46 GMT",
-      "imageUrl": ""
-    },
-    {
-      "category": "Deporte",
-      "title": "Barcelona reconoce a cinco referentes del deporte femenino en la 19ª edición de los Premis Dona i Esport - Mundo Deportivo",
-      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOYnF1eUtycnBJQWNyTmZYNTVfeEtxMTlGZWc2RlZRZlA4a0F6LW9nOTQ5eHh5QThFX2x5TVo0LXpCUzR0U05FM2hQbmJMcGZTZWtwMnEtVm9IUnExa2dIUXF4eE1PWlJtUS1NZzJfdzh3Z1lyS19xcF8zdXFDcDdMVDlkXzB5MkxxUFMzX1EwMjRHS3JZSGJkalJSUkVsbVp2YkFMSGE5R2NKY2QxLWJlbVh5cjAybjNsVVg1UHZ1M3NPZldQU1R0S21Kc24xcVJ0NmNNN283d0RFTzlTb2tVLW8yX251NjlTQ1JZONIB-gFBVV95cUxPOWptNi1CQV9YOXhjalN3Znp2ZTNYNjJpdEhuQWRsOWs3MGxxaWxjeFZJa2ZxMU14aXBYNFhJOURzcDd5bjg0aFhzSEUwUzFGaVlpUjlZWWZlS193ZzJYM1lrbUNHa0NSbThVN3JjX1Y4TGt4enFSWnVESmlaQ0pndUNmYVB3QnFZQzhXNFFXWWhEV3NBUjR2ZkNUcm9VLWUzT3RzcXVFQ3kyR3BtUFlhZ18taklsWk8xazE2bEJxVEVEdkdZT0pBZXo2TkYtVEYzWmlXU3ZUZzR1dDlMSUl3elpLbDRsb3d1emVrTTZIZktOVUJRNFdLM3dB?oc=5",
-      "source": "Mundo Deportivo",
-      "pubDate": "Wed, 04 Nov 2026 20:06:35 GMT",
-      "imageUrl": ""
-    },
-    {
-      "category": "Deporte",
-      "title": "La federación navarra de natación y varios clubes de waterpolo acuerdan un nuevo convenio - Noticias de Navarra",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOeG1JWmdQLUdIYWVDVE9GbmxCUVo0TVlnTmxYMk5UTUxtc2ZsTnhjTXJBMjRJc1dWNjZTZXlCVkRnSWh4RVlwcHJPQ29XeXkzN0h4cklaS1Vzb2g2ek5Fd2ZlaklOd1h4b1pRVDFGbmNMS1VGaFR3MHFIaGJINTJVSE5aaGhqRHFvdTl5TmhZOVYzcXJPdUEteWpEa1ZTOUdlZnJRUGJKbkV3dldjV3Y2R0d5WmZCN2_SAbwBQVVfeXFMTlVFcjhaNzZFVkJvU2MzNTBFZkdEcU1PX0dneElDREowanlXVkJZbm9TU1RpdGg1RXoydEpnQlpESnBYNXlTQUtPRFRYMFh5NFlUYVhKY0dnS0pMTUJEQkxCZ1dEeUQ0VTVMX2JXRG56SkZBZ1I1WEZYVk1PZHpDdVFFQ1ZXZzlldDE0RzlHdmZSVmxpUGxES3g4bURWSE91Y0VGQld5RUFFc09wdng2a0tGTnR3ei15SG9pMFI?oc=5",
-      "source": "Noticias de Navarra",
-      "pubDate": "Wed, 04 Nov 2026 19:57:50 GMT",
-      "imageUrl": ""
-    },
-    {
-      "category": "Deporte",
-      "title": "DISAFÍO acerca el deporte inclusivo a los jóvenes de Gran Canaria - Canarias en Pleno",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1XS1NWOWFnaUJwX1J0VFN2RG9mb3FsUDJxREpJTW5PbERVcUJSWmJLREcycUJPdEJ0TEJYcjQzTm1PNWtnSURaLTVMRUNQbE9YZTZ3VlQwTEpzRHMxUEYyWHM4U01LQ0dIRm5FTWtVb0dzWVRNbzBDQXB6MA?oc=5",
-      "source": "Canarias en Pleno",
-      "pubDate": "Wed, 04 Nov 2026 19:53:07 GMT",
-      "imageUrl": ""
-    },
-    {
-      "category": "Deporte",
-      "title": "Juegos Olímpicos de la Juventud 2026: programa de competiciones del 5 de noviembre - Olympics",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNbzEyLVhzR05pdlZ2Tmg2NTlYSjA4c0p3bXlnOVI0NldzMkxIQmV3ZmxUNGhLY1hOdDlMcTdYdk1ZaDM1MzFPVFd3MEkwa1JTcU9jQmR5czJNSm9qcklLRllPOWJKd0lCamp6Q1ZSYWtRcnpSX2RyWUxVblhqVlJEMk1weVFnaFBWX19zMVZxdWU4YnZIS2k5dDc2TjRWSnNuZWFMY3Zn?oc=5",
-      "source": "Olympics",
-      "pubDate": "Wed, 04 Nov 2026 19:50:00 GMT",
-      "imageUrl": ""
-    },
-    {
-      "category": "Deporte",
-      "title": "Bernabé Cano se une a Pau Gasol, Del Bosque y Garbajosa en el Consejo Asesor del Deporte Español - MARCA",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQZTdaVnU5V0dFUzJQLUgtb0RvQUtOQ2dpWVhwTmQtZU9zRlQ3ajVDNmV2emFWWEZKdk5yTDgtWDF4RlY4eWdUYk9rXzBDUVFhQnplekF0S043SE1wYVhYSW5GdU15VFVuc3JkbDBDdE91RFVqUWNMSVFha3ZyeDF2X3BEMW1BT1JQRFFHR2JCdXRFUHpETi00VGhSSk5xRk55OXBfVlhIYkRpNGUzNng3RWtVdGQ0blJFREVLc3NycVFYY2lPU3fSAcYBQVVfeXFMTzlsaHpDVXpQSExJTGdoclBlOWp2b0lPNmlrQWdIejBfRlFJYVQxTEtLbUZVRWlhdWRkRlJfYmViUFNEM20yVXRHN3kzNmw1aGh2a1RqS1dfZU1yeEdoNE0teUFkSWdkRF9RMnpLaVdSS2J1WURmMVZnemxDSmlmSlBiaGtIWG0xWlBtZXhCVUJIeXBja2lTZzRKVkp5MVNFUXJ6M2NBV1V6RlZxM2pkSWNRSVRGbzlKUUdQOFREaHJ6QmREX2dn?oc=5",
-      "source": "MARCA",
-      "pubDate": "Wed, 04 Nov 2026 19:45:28 GMT",
       "imageUrl": ""
     }
   ]
