@@ -1,7 +1,87 @@
 {
-  "updatedAt": "2026-11-05T23:20:01.081Z",
+  "updatedAt": "2026-11-06T05:27:03.650Z",
   "hoursWindow": 168,
   "items": [
+    {
+      "category": "Deporte",
+      "title": "Lo invisible del deporte: \"A veces falta el aire y no sabes lo que pasa\" - MARCA",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPVWNRWGFCZVJnb092Nllpb2JsUnN4aFRHTFk4cjhVenNENk01VUpHeDNfdjNwcGFzZjg0VWdrd3k5ZmdCamgzc2ZlTWNvYUxMWmZiY0c3d0tDTkR1MVM5dkZZbW5rX21LTHczaG5ONFZWRlVLVjBjSkdXM1d0cnlxaDhRdkUyVlNzNzBkbTBMaVI1Z2JlWk5n?oc=5",
+      "source": "MARCA",
+      "pubDate": "Fri, 06 Nov 2026 05:13:35 GMT",
+      "imageUrl": ""
+    },
+    {
+      "category": "Deporte",
+      "title": "AMIX™ Nutrition estrena «Lo Invisible», un documental producido por Gersh con el apoyo de Amazon Ads que pone en valor el esfuerzo detrás del deporte de élite - GYM FACTORY Revista",
+      "link": "https://news.google.com/rss/articles/CBMimAJBVV95cUxOZ1ljRE9fSUVCVTRodUMwLVJfMlBEZEJRNWNaOVVvUF9LYXMtNGlMV0NLTTRFSDFlejdpWEszZEZUWWMxR1hwZGpOZ3VlRW81Q1Y0SHBrdnIyLXVIZ1NWYWNfLXdHVW16NDNFZmVIQVBUV1VlZldtM015YmZPc1hnc3BQMlBjbnViWFI4VC0zczNEeTRSUEs1LUhaa0dTYm4yTEZzT09uY0pyVWxTdjFwY1JwMFBjSl9aTzBqVUZYbDZ3dVkzcFhuSHJldWZFTlg2b1hZX05LWFJoWENkWmd3bk1ldk9nNnF4WTdKZkRIZmdsQ0lHUHRvZ1hIOTBJczJJUk1fRGxvM3VKcXo4T3VpempqZHE4QUFs?oc=5",
+      "source": "GYM FACTORY Revista",
+      "pubDate": "Fri, 06 Nov 2026 05:04:58 GMT",
+      "imageUrl": ""
+    },
+    {
+      "category": "Deporte",
+      "title": "Feria Valencia programa 20 certámenes para cerrar 2026: eventos de diseño, deporte, gastronomía y tecnología - El Español",
+      "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQdU5WNTVmN2RsWmVsLTlPV0s1VTNIbW1EVmlwdFdSR0o0elpsZ0Z5V3pmNmxpUk0ybUNJeW1uSVU1RGg4Zjk1cENMdEpxY3AyMWlqdmEtYU5hdXc5cUVmUTZmTXpkNFc4amtodlFrSVVJOE9qWm4zVXBkcTBYZmVEU1RibFM2OVBYc1BTVjlUS3VOcld4dWotNTF3eXk3YVVLcUxyT0xuaW95NHFXSHYyQUVDOWp1bkRWb1dFWTZ4THZqSTFNOU9jZU1iRjV3eW9OQXB2N2JaVENGUXI5TVV5cHpJUzNLbWl4bjN2RzlaVV9BTEnSAfgBQVVfeXFMTkttdjMyUnpjeG14SWpoSXRHejZydzRqV09wZFF5bFFCczNQQVhxb1hvTU9iempLeUhwTXF0NXpJUW9NRXhzeW1yajMwOWdTMW0zZWRPZlU3OWJNVG8yY2diNGpjbXluc0h6MlhtVEFBR0l6Z1FabWZuWUUwVFZuLWlwbjJQZ1FpUUdNR01pMXNxcm1YMEZnd0luV0ExZWtHMF82R2JJNW1XQUowOVJzbUQ5Y0tPZXg0aFB0SnVLQUZSRFF0LUJsOW9lcEVIODVCN0E4WVlsdXd1UEhvdDJscTlPMEljNUM0M29BQkR3Smc5cHVuc0syaUI?oc=5",
+      "source": "El Español",
+      "pubDate": "Fri, 06 Nov 2026 05:00:00 GMT",
+      "imageUrl": ""
+    },
+    {
+      "category": "Socorrismo",
+      "title": "Bomberos de Guaymas fortalecen rescate acuático con nuevo curso especializado - La Tribuna (México)",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNRHo5OHNRNEN3MjBpYXhPVWFxeWZlRzFLc0NXZUhVMXE5WDEwMzRtQ3JHTnNRbFVKSldvVlZBVXBYWGRIM0J6MF9iV0tXaUsyT3NPMW53bWJnbEJuYnJna0RhTTRFY1pxdmlSNG9RM3Iya1dfRnlUTkFUUnU0WjBRMzZ6VlJabE1aZy1HSFR2TTctZTE2X18xb1E0cVVmNm1rY0R2NFY0OHRqUGR0RWd0Rk1IU0t5Q3JfellnOEJoQ21fdUtC?oc=5",
+      "source": "La Tribuna (México)",
+      "pubDate": "Fri, 06 Nov 2026 04:30:22 GMT",
+      "imageUrl": ""
+    },
+    {
+      "category": "Deporte",
+      "title": "La triatleta Eva Daniëls protagoniza un regreso imposible - Artículo 14",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQbm1uM3Y2aXNMMmhKVVZ1VmZyNDdFQjdfemhhb0ZqMWZmR0o0VGhBUUhmQU9ucUgtckpmVjNDZ1RBRnk1VDhsdkxJT3VNUjNXQ1I3bGtmbkdEZmpfN25iX2ZjeHZiNVd0cFhFcldxdHJGY05mM01UcjVTd2dxVWF1eW13bHpKaEd3NGRiN0tqbFdrbFp2Wm1WY2ZiZ2k2SGNLODNmc01yMVJwUQ?oc=5",
+      "source": "Artículo 14",
+      "pubDate": "Fri, 06 Nov 2026 04:10:00 GMT",
+      "imageUrl": ""
+    },
+    {
+      "category": "Deporte",
+      "title": "UNESCO Perú impulsa una visión integral del deporte para el desarrollo humano y transformación social - UNESCO",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPLThaNzlCcE1SQzExV0ZJVS0xbnJQVXFiU3lFLWRhM3F3WmtMRHpqU1JPUl9HM1hnWHdXandSc0tydUZnRTJwdlhnOFNPQzVlN1liLXN2VklSaDhNXzZfMzYteVJ5NllpdlB1MHdkRGYwT0JzMXZyTXJEX0J2YTF2VENXbFlHZDlyLTBZMmg3S1M2dFg1S3VmUDFmRHF0YmptbDJCXzBNaFY1dXBNNHBxdlhmRDByQ05GNnR4TXIxSVdPWFdBWk9xQw?oc=5",
+      "source": "UNESCO",
+      "pubDate": "Fri, 06 Nov 2026 01:47:37 GMT",
+      "imageUrl": ""
+    },
+    {
+      "category": "Deporte",
+      "title": "Fernanda García: Del quirófano al podio fue el camino de la medallista mexicana en la natación de Dakar 2026: “Nada sin miedo” - Olympics",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOeE9EMTg0NE5OOE1ZY3E3QWhraVowMXpCTVM2NGI0N3lGZW1qQlZQcFFxNEhhWFhyLThHWmNTVTdnRzN6OE1Ocm1CTWtaZUh4WndPSzdqQWZfREQtNmdfUHpHX203dVN1QmJsT0xOZzlMRGN5aXU0bG5tTS1aMTc0SHdub3pra194cENHQ0dWb0xBVG9jWmkyRjFqX2hlU3drQ3Nr?oc=5",
+      "source": "Olympics",
+      "pubDate": "Fri, 06 Nov 2026 00:36:00 GMT",
+      "imageUrl": ""
+    },
+    {
+      "category": "Deporte",
+      "title": "Fin a los insultos en el deporte base: multa de hasta 3.000 euros y fuera del recinto quien falte al respeto - Tribuna de Salamanca.",
+      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQYXNCbFJRQjQ0TTY1aEpsQmJ5Ynhia1l0QU01X3VqSVFqcHE1bnZEdldhMUZzNUhkZ1NGOXlKYnFRN1NBOFdyS1hlNFMtQlhQZEdBQm1tMHc0VzlPd2tEdzFNMGhEM1Y1bUp1Y3FjaGxjUnl1X0hxS2ZiakdjX2lhV0d4TE5HeVdELUdyaEJ1eGFWLUhNR2dtSGxWaVhLZURpNjFkakMwUEc2RmM5M3Y3QnZvRXZ2Wi1IN0hlSHhHTjdPdTB6TXp6czZ6RlZldmdmS0ptWnhaOXNaQmo0aVFxUlg0ekwwTHhnSHRIRw?oc=5",
+      "source": "Tribuna de Salamanca.",
+      "pubDate": "Fri, 06 Nov 2026 00:09:58 GMT",
+      "imageUrl": ""
+    },
+    {
+      "category": "Deporte",
+      "title": "Saúl Craviotto protagoniza este viernes las III Jornadas Formativas del Deporte de Guadalajara - Nueva Alcarria.com",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPUno5dlJkczRmMHBHVGZrZWtUWFlwUE4tRXAzWUtneGtGRGtac1QyUGl5dm9XUDRfcGlpYmpqMWdFNjNzYy1aNGQtcTN6TlNTdm1VRHEyVEZZYnNLc1JfSWlzeUhRTFVmUW5DdnBhaWp4ekFiTldBM1JoT2FjQlpwQVhPVFlDOHZZc2JaX2hac2FXTXhneEVUQW1ja015LXBJVWd5LWhYUVF1Q1MzV045ajZaVnRTa3k4Z2liTU9HeUljSjZjNG9XMVlB?oc=5",
+      "source": "Nueva Alcarria.com",
+      "pubDate": "Fri, 06 Nov 2026 00:08:00 GMT",
+      "imageUrl": ""
+    },
+    {
+      "category": "Deporte",
+      "title": "Agenda del Deporte Burgalés del 6 al 8 de noviembre - Revista Forofos",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNV1BKbXFWaVFOaDhPa3VpQlo2QlROcXgxR0FIb0tLWl8zUW4yYWkyWHlhbDdnX0Y3WlNuRDVocUQzakk1djJzYzRrWmU3M1pxOEI1NWNEc3pzZWdMRWc5VHF3aEVpb3EySFByTWVYQ0F4SHhfcXh2NGNqbVZDWl8tRmhJbkpsQXlLYVNJSWE2czRVd21sWDNHeUxR?oc=5",
+      "source": "Revista Forofos",
+      "pubDate": "Thu, 05 Nov 2026 23:02:46 GMT",
+      "imageUrl": ""
+    },
     {
       "category": "Deporte",
       "title": "La Gala del Deporte de la Universidad de Córdoba - Diario Córdoba",
@@ -12,90 +92,10 @@
     },
     {
       "category": "Deporte",
-      "title": "La UCO reconoce a sus mejores deportistas en la Gala del Deporte - Diario Córdoba",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOMG5IRTFlQkYtQkhUQTBxa2FlbURjRnJqTEVqeFN4OVRINFE0cGdfTE5yVTJrdzI1VU9BOW45dVNnZ1o3bWVIR3d0UlpCU0ZicnJ5Y3hNaE55eE11bVRsZ25sOTByUWJMaEphc3JuT3hvNDR3cnlIYWdXREg1bVlhR0x1RXJxUFF3Z0lWRkJPTTNJRUhyRzRHNFF0WHhxaTVaZU43btIBqgFBVV95cUxPTUhtc3p3NndpbkNZUmwtM3Ezd290NGFqSW01QWFxcnNLaW13VVN3UWVvQXNyQ2I3TlJObURycm9FMk9PNmN6Zk5YZU1nYzRQTHlwOG5aZEdiRXc3X3M0eW96Q09CS3lIQW05aVZuQkptZFYteUc4cXNIeVA3cGU4RDZ6NldQREpOQ01wLXduNVU3TVMwTlRQQTdzMTNkMi1fOE1BNHZwUElaUQ?oc=5",
-      "source": "Diario Córdoba",
-      "pubDate": "Thu, 05 Nov 2026 21:26:23 GMT",
-      "imageUrl": ""
-    },
-    {
-      "category": "Deporte",
-      "title": "La Gala del Deporte de la Universidad de Córdoba, en imágenes - Diario Córdoba",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNRXZYVmZWLVhMd1F2dHFOU0tIcTM5QlFGMFdpLXBxckFKQXNmcGkzSDZzOTAtZjBna1ppWUhpSjdjclVYWVZ2TDV4ZjFLUUY3aml0ZVNqSWFvR0Y2b0pxYU9uUGpxY3RkdXIzUzlOZlk5Zk9IelZMUmRZOXBuRzNEQTFyNzhnSlJDcUF0QnJxSWs3cndTYU1yeEtlczFzZDBQR2J4N0ZrTGhteHhHNENKcGxB?oc=5",
-      "source": "Diario Córdoba",
-      "pubDate": "Thu, 05 Nov 2026 21:26:23 GMT",
-      "imageUrl": ""
-    },
-    {
-      "category": "Deporte",
-      "title": "Agenda del Deporte Burgalés del 6 al 8 de noviembre - Revista Forofos",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNV1BKbXFWaVFOaDhPa3VpQlo2QlROcXgxR0FIb0tLWl8zUW4yYWkyWHlhbDdnX0Y3WlNuRDVocUQzakk1djJzYzRrWmU3M1pxOEI1NWNEc3pzZWdMRWc5VHF3aEVpb3EySFByTWVYQ0F4SHhfcXh2NGNqbVZDWl8tRmhJbkpsQXlLYVNJSWE2czRVd21sWDNHeUxR?oc=5",
-      "source": "Revista Forofos",
-      "pubDate": "Thu, 05 Nov 2026 21:16:33 GMT",
-      "imageUrl": ""
-    },
-    {
-      "category": "Deporte",
-      "title": "El Gobierno de Castilla-La Mancha traslada su pésame a la familia de Jesús de Miguel y destaca los valores del deporte - La Comarca de Puertollano",
-      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQQmxyQWk2VHBtRFU4NW1tSXVyQ1ZuMzgwYmtkaWs4QU50X2g4dFUza1pmbkFjd1psQmN2U0pmci02VWJsWmNXaWpHUW9nUmVxWmpkRFVINENKblZwWG8yVlI3OW5NTVdHREhDVldlTk5hWndjVlpLT0Z0QXZpS2FqM1BmNkxyellYYnZhM3pMa1JSdXZSYzNsbVhDLTR1YmdwUHFMQmhORlpGTDBnRzdLNl9DQ2U3cmZ0N05MOE00d1ZacHJseDFRTkl5REt5Rm4xSnMzVk5DWWtMUVBhQU5XbkZFT1hUcFVmSG9DVlR30gHzAUFVX3lxTFBEU042XzRKaEFjQWJtV3BCQ000LUQ1Rl8xcklhY3R2Nldhdnhsc0lwM2Z1cDM2TDZRSEd6SzJvdVZPWUlyWEc4WEVoTklRVVlpQVJRZlZtMUtnTjJ6b1pqLWF6SVRnMGJNZ013OHhmWk56eWpIT2JQeG1xenpyNlQtcVlJWUk4VkhYZk5wN21CaThrZmRuNEZqWmNTaTFUWExCZlZPY0YzX1Fwa1NJcnItSC1qWE5kR0NuTlJZaTFDN0x6bVB6RC1pdzF1aFpZX0VNNWlwcnIxcDV1ZE1QTVBIS0pnSXV0T2FweUV2SDRxZDlEMA?oc=5",
-      "source": "La Comarca de Puertollano",
-      "pubDate": "Thu, 05 Nov 2026 20:48:31 GMT",
-      "imageUrl": ""
-    },
-    {
-      "category": "Deporte",
-      "title": "Una reconocida empresa del deporte, interesada en la chimenea de As Pontes - El Progreso de Lugo",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNV18xaVEzcWdTcWc2REc2QTI2ekxVTjVsenN2aGY3eE1lVUN3cFQ4SXNVOVFkZk5NMUZ1aXR5ODZJQjVFWU9FS2RqNGdrUVZTcThTQ3Z2VXhvLWJBQ0RkOG1JaUlzSXNwYWMwYURtc3B5NElTRzdfLWYzTndrUkNRNzdKN2RiQi1ubzYzem5rd09RN0ZEYks3LTR1WDZITzdZZlBua0VKVERPRE9nYk9GUi1aYUZ0UExuZkFUYUp3Sm54eknSAcgBQVVfeXFMTnZtRDZZS2RlQ090bkVoNmItQ1o1RjJCTE9lZ2ZnQjhoOVp1WlQzc3pzWjJ4SGZSdGpRY0VGbjhjMzI2MV9lWlRLNmZ1UFhQY2ZKeklrMWE3SUdQNjVVUmQxWWVlUXRLQ2F4ajVuWlJuLVpOWDdINk1ZZ2ZVbk5XN0xYaGlNNG5DUW05bTV3X1NmZ0dpelVraGMzX3hlZmJhTlZqSl9zZzZRSnF3dVF5bFpCVndmcDJVUVdoUWRhM001THQ1NHkwdEI?oc=5",
-      "source": "El Progreso de Lugo",
-      "pubDate": "Thu, 05 Nov 2026 20:41:23 GMT",
-      "imageUrl": ""
-    },
-    {
-      "category": "Deporte",
       "title": "Los II Premios de la Cultura celebran en Granada la diversidad y la originalidad de la creación andaluza - Junta de Andalucía",
       "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOdENvSHlrM2hKX2d2YVNXYmVaVFFacXA2bXJmS3E4TmlsT05GVDY3SjVXd1RsaEFZX0VVSDNFM0dfUDJpMG9hMUR5MWhEanR2dXp1OGZURmh3Vk40TjRVYk5LLVJLTWZ5MDRFaGJMNVZzWlcxU3NjMDBuWnNDUEk0TTNsSmJzWTdQckdsMkpaZEtpWTd0VmNaQzNpVUdFcXFPc0JOOVZadl8yeWt2M2VzeWJScmE3ODc1ZTc1WlVUTE9heVpoQmc?oc=5",
       "source": "Junta de Andalucía",
-      "pubDate": "Thu, 05 Nov 2026 20:36:54 GMT",
-      "imageUrl": ""
-    },
-    {
-      "category": "Deporte",
-      "title": "Las Arenas acerca las grandes leyendas del deporte a ExpoDeca 2026 con una exposición de cerca de 200 piezas históricas - Canarias7",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOZWpWWk5Vemg0dDg5Q1BDcXAwZkc2MUxpVHpCaG5mUGd0TWxoZGp4M0k4VXNhbzZUMlBpZ3BoVkdDakZENFVCbGIxcUtIc0REWU5IaTdJeVJ1TDFxbjV2UU50Vmx2bURWbkdUM3pEWkJ3WXJLa1JMUnA1bmV3OG9kaDBOeGV4M3JaT3ViT2NNMTY0cDZ6TEc0OHNtRzBKWktEanZxVko5UVppV3Z1S3dTRE9ZdHdHN0HSAbwBQVVfeXFMTnJMRlVtVF81Nm1oUk9SeUdIR0FBTzJmN3hkWTJDblVyMDNiSGtSeGlDOGRrTGhrOTdmVGt4MXpwOG5rQ0RWRVFwUlJEYmNZOGtXc3k5Wnl6eWN0bVYySlFTMHFZSFZTZmFsbjc1ek4zNFhmNUh5Z3BWam8wdGdQUnFyMEdQS21TOEdwM0NNWE85MUFkd2tKSmpqbXFWaDZrSFRrdWI3dGthal8zZmVnZXBzRXp0OFFkd2NYbFk?oc=5",
-      "source": "Canarias7",
-      "pubDate": "Thu, 05 Nov 2026 20:24:24 GMT",
-      "imageUrl": ""
-    },
-    {
-      "category": "Deporte",
-      "title": "Así fue la gala del Santa Olaya: El \"Oly\" presume de familia - La Nueva España",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQaG9ZMk5pQ2JfbTViakVjaUhWeWZKSnQtZlF2a2FGZW92MW5PZk1QaUhXV3B0eFZ2OGxOTm9JN19JZmh2b1NJcm9xQk9nd05jdG1Rd09fREoxVFpXZ2I5Y1FqMkI1aHo2TURNWkdrTi04cmRNckNOcGs2c21ERTIxUEdPWkFHc2FId2ZLdFB4QWJCcWJmMEtZYjVYOC3SAaIBQVVfeXFMTmxVQWZ2REtRa0xvRDJIRjlvRjZQMjg0Vm9SbDBOMDBDTGlPUUpNMC1WYkQ1YnFsZEVrWmhJbnQtNGNXMjBQM2lMX0FlQ3J0S3l5cjE3cUh2RVE5ZENENVk0dTVqXzNfVVBteVg2YTFqdnRIN2VsRVRtREZsSWFweW5KdjVJMkRUTWl6Qlk2d3FVb2V2bUUtbHpjbFAxV3pNOTdB?oc=5",
-      "source": "La Nueva España",
-      "pubDate": "Thu, 05 Nov 2026 19:58:07 GMT",
-      "imageUrl": ""
-    },
-    {
-      "category": "Deporte",
-      "title": "EN IMÁGENES: Gala de la Natación del club Santa Olaya - La Nueva España",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNNzliWlQxb2VsbGtUR0laZDZOdW85RWRHVERJQUJpV1VYWkZkeHhzc2pyckRpNWU2bVdkNFEzWE9YbTVxMnMtZG9kLWV1Y0dhQXFEZzFKbXByR2V1dFd0QnZZV3NFZjlGOVlZRmxyRXE2V1pKcnRnQlRNV3pqY3hZUWJpLUxpNXBoOGZONDdGYzVmZDlPZFBwbg?oc=5",
-      "source": "La Nueva España",
-      "pubDate": "Thu, 05 Nov 2026 19:53:07 GMT",
-      "imageUrl": ""
-    },
-    {
-      "category": "Deporte",
-      "title": "La gala anual del Club de Natación Santa Olaya, en imágenes - El Comercio",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQOUJvZlgxcDZBRFZNd182Y2VGb1dpMVZSc2czZkhJYmFRRE1pWUFqRl9CUFNVbGh3S1VlOHpGLTVCU1VnWHdrSjRfaWs4ZDg4VlctUktiMk11aWc5Q0FfLWJxZEQwTmJrTUZlT3M0dDNWa25oNkVlTG5MRXZmWEVKN3JualByY2FFdGprakhTQmlrQzRKbTlUZjE0R0I0WDlzS1RKNHdiYVluTlVDMnVHMjR4SDVSWmfSAbwBQVVfeXFMTi16RllGYm1CSXgxUnpYY2U2WjlKRV9vT3JkbWo4WnN2amp1VE1MTzZGRHcxcEpoV0UxNjVIM3RFY18weTZ4WTBabnMxLVd0ZWdRTW1NWUp3UHlIcGw2SGc1TnpIWXNkYWlpY3BvcVM5aHhScGxxbkZMTE5hQ2pGRmNSd051TkFJdzZ6NFFJcnhCVnJlYXU2Z2YwUkRqMVRZVjh6WmpqTUpfNEZadGFCd2pidXFmRHpsdDkwUzk?oc=5",
-      "source": "El Comercio",
-      "pubDate": "Thu, 05 Nov 2026 19:51:38 GMT",
-      "imageUrl": ""
-    },
-    {
-      "category": "Deporte",
-      "title": "De las conductas incívicas a las sanciones: nuevas reglas para el deporte municipal - Tribuna de Salamanca.",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxObnF5a0czaGQ2R3hrV2VWOUpqZzVLQmtXSEs3SlFzbGI0emc5VjYtM3M4Qm9LX2JQZm04RTF4el9jQ3VKeFI5VkFNYW8wYVk5Slo2YXJkVVp5RDR5cHh0djh4aEp3LXQ1UU9xM3RycUR3LWFURlRaR1pRdHRSWGNHbkxNMk8xNlJmTjRJUWlNZkoyX01EVlc3U2xpMXExWkQ5MUpzLWpUNXd0ZWhDTV9LUThVNmNDMXpaREFFTkp5N25hWEt3bkRZalVQWQ?oc=5",
-      "source": "Tribuna de Salamanca.",
-      "pubDate": "Thu, 05 Nov 2026 19:46:00 GMT",
+      "pubDate": "Thu, 05 Nov 2026 21:26:43 GMT",
       "imageUrl": ""
     }
   ]
